@@ -1,0 +1,4865 @@
+ 
+  
+ Buddhavamsa 
+  
+ Input by the Sri Lanka Tripitaka Project 
+  
+  CPD Classification       
+    Vol Bu      z Bv    f I    
+                  
+    Vol Bu      z Bv    w I    
+                  
+ Suttantapiṭake khuddakanikāye  
+ Buddhavaṃsapāḷi 
+  
+  
+  
+ THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY  
+ COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE 
+  
+ Te t converted to Unicode  UTF    
+  This file is to be used with a UTF   font and your browsers VIEW configuration 
+ set to UTF     
+  
+ description 
+ multibyte se uence 
+ long a 
+ ā  
+ long A 
+ Ā  
+ long i 
+ ī  
+ long I 
+ Ī  
+ long u 
+ ū  
+ long U 
+ Ū  
+ vocalic r 
+ ṛ  
+ vocalic R 
+ Ṛ  
+ long vocalic r 
+ ṝ  
+ vocalic l 
+ ḷ  
+ vocalic L 
+ Ḷ  
+ long vocalic l 
+ ḹ  
+ velar n 
+ ṅ  
+ velar N 
+ Ṅ  
+ palatal n 
+ ñ  
+ palatal N 
+ Ñ  
+ retrofle  t 
+ ṭ  
+ retrofle  T 
+ Ṭ  
+ retrofle  d 
+ ḍ  
+ retrofle  D 
+ Ḍ  
+ retrofle  n 
+ ṇ  
+ retrofle  N 
+ Ṇ  
+ palatal s 
+ ś  
+ palatal S 
+ Ś  
+ retrofle  s 
+ ṣ  
+ retrofle  S 
+ Ṣ  
+ anusvara 
+ ṃ  
+ visarga 
+ ḥ  
+ long e 
+ ē  
+ long o 
+ ō  
+ l underbar 
+ ḻ  
+ r underbar 
+ ṟ  
+ n underbar 
+ ṉ  
+ k underbar 
+ ḵ  
+ t underbar 
+ ṯ  
+  
+ Unless indicated otherwise accents have been dropped in order  
+ to facilitate word search 
+  
+ For a comprehensive list of GRETIL encodings and formats see 
+ httpgretilsubuni goettingendegretilgretdiacpdf 
+ and 
+ httpgretilsubuni goettingendegretilgretdiaspdf 
+  
+ For further information see 
+ httpgretilsubuni goettingendegretilhtm 
+  
+  
+  
+  
+  
+ Namo tassa bhagavato arahato sammāsambuddhassa  
+  
+ Ratanacaṅkamanakaṇḍo 
+  
+   Brahmā ca lokādhipatī sahampati  
+ Katañjalī anadhivaraṃ ayāvatha 
+ Santīdha sattā apparajakkhajātikā  
+ Desehi dhammaṃ anukampimaṃ pajaṃ  
+  
+   Sampannavijjācaraṇassa tādino 
+ Jutindharassantimadehadhārino 
+ Tathāgatassappaṭipuggalassa  
+ Uppajji kāruññatā sabbasatte  
+  
+   Na hete jānanti sadevamānusā 
+ Buddho ayaṃ kīdisako naruttamo 
+ Iddhibalaṃ paññābalañca kīdisaṃ buddhibalaṃ lokahitassa kīdisaṃ  
+  
+   Na hete jānanti sadevamānusā 
+ Buddho ayaṃ īdisako naruttamo  
+ Iddhibalaṃ paññābalañca īdisaṃ  
+ Buddhabalaṃ lokahitassa īdisaṃ  
+  
+   Handāhaṃ dassayissāmi   buddhabalaṃ anuttaraṃ  
+ Caṅkamaṃ māpayissāmi   nahe ratanamaṇḍitaṃ  
+  
+   Sahampatī machasaṃ sīmu mavi   Buddhabalamanuttara   machasaṃ mavi  
+   Sattāpparajakkhajātikā   machasaṃ mavi   Sabbaratanamaṇḍitaṃ   mavi 
+   Edisaṃ   machasaṃ mavi  
+                
+  
+   Bhummā mahārājikā tāvatiṃsā 
+ Yāmā ca devā tusitā ca nimmitā  
+ Paranimmitā yepi ca brahmakāyikā 
+ Ānanditā vipulamakaṃsu ghosaṃ  
+                  
+   Obhāsitā ca paṭhavī sadevakā 
+ Puthū ca lokantarikā asaṃvutā 
+ Tamo ca tibbo vihato tadā ahū  
+ Disvāna accherakaṃ pāṭihīraṃ  
+  
+   Sadevagandhabbamanussarakkhase 
+ Ābhā uḷārā vipulā ajāyata  
+ Imasmiṃ loke parasmiñcohayasmiṃ  
+ Adhopi uddhaṃ tiriyañca vitthataṃ  
+   Sattuttamo anadhivaro vināyako 
+ Satthā ahū devamanussapūjito 
+ Mahānubhāvo satapuññalakkhaṇo 
+ Dassesi accherakaṃ pāṭihīraṃ 
+  
+    So yācito devavarena cakkhumā 
+ Atthaṃ samekkhitva tadā naruttamo 
+ Caṅkamaṃ tattha   māpayi lokanāyako 
+ Suniṭṭhitaṃ sabbaratanānimmitaṃ  
+  
+    Iddhi ca ādesana nusāsanī 
+ Tipāṭihīre bhagavā vasī ahū 
+ Caṅkamaṃ māpayi lokanāyako 
+ Suniṭṭhitaṃ sabbaratananimmitaṃ  
+  
+    Dasasahassī lokadhātuyā sinerupabbatuttame 
+ Thambheva dassesi paṭipāṭiyā caṅkame ratanāmaye 
+  
+    Dasasahassī atikkamma caṅkamaṃ māpayī jino  
+ Sabbasovaṇṇamayā  passe caṅkame ratanāmaye 
+  
+   Parasmiñcobhaye   mavi cūhaye   syā 
+   Tattha iti   machasaṃ natthi 
+   Sabbasoṇṇamayā   machasaṃ 
+  
+  
+                
+  
+    Tulāsaṅghāṭānuvaggā sovaṇṇaphalakatthatā 
+ Vedikā sabbasovaṇṇā  dubhato passesu nimmitā 
+  
+    Maṇimuttā vālukākiṇṇā nimmitā ratanāmayā 
+ Obhāseti disā sabbā sataraṃsīva uggato  
+  
+    Tasmiṃ caṅkamane dhīro dvattiṃsavaralakkhaṇo 
+ Virocamāno sambuddho caṅkame caṅkamī jino  
+  
+    Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ  
+ Caṅkamane okiranti sabbe devā samāgatā  
+  
+    Passanti taṃ devasaṅghā dasasahassī pamoditā 
+ Namassamānā nipatanti tuṭṭhahaṭṭhā pamoditā  
+  
+    Tāvatiṃsā ca yāmā ca tusitā cāpi devatā 
+ Nimmānaratino devā ye devā vasavattino 
+ Udaggavittā sumanā passanti lokanāyakaṃ  
+  
+    Sadevagandhabbamanussarakkhasā  
+ Nāgā supaṇṇā athavāpi rakkhasā 
+                  
+ Passanti taṃ lokahitānukampakaṃ  
+ Nabheva accuggatacandamaṇḍalaṃ  
+  
+    Ābhassarā subhakiṇṇā 
+ Vehapphalā akaniṭṭhā ca devatā 
+ Susuddha sukkavatthavasanā  
+ Tiṭṭhanti pañjalīkatā  
+  
+    Muñcanti pupphaṃ pana   pañcavaṇṇikaṃ 
+ Mandāravaṃ candanavuṇṇamissitaṃ  
+ Bhamenti celāni ca ambare tadā 
+ Aho jino lokahitānukampako  
+  
+    Tuvaṃ satthā ca ketu ca dhajo yūpo ca pāṇinaṃ 
+ Parāyano patiṭṭhā  ca dīpo ca dipaduttamo  
+  
+   Sabbā sovaṇṇa sīmu   Supaphāni vā pu 
+   Vālikākiṇṇā machasaṃ maci   Patiṭṭho sīmu   Pārichatatakaṃ machasaṃ   
+ Dvīpaduttamo machasaṃ sīmu 
+   Susuddhasukkavasanā pu 
+  
+  
+                
+  
+    Dasasahassīlokadhātuyā devatāyo mahiddhikā 
+ Parivāretvā namassanti tuṭṭhahaṭṭhā pamoditā  
+  
+    Devatā devakaññā ca pasantā tuṭṭhamānasā 
+ Pañcavaṇṇikapupphehi pūjayanti narāsabhaṃ  
+  
+    Passanti taṃ devasaṅghā pasannā tuṭṭhamānasā 
+ Pañcavaṇṇikapupphehi pūjayanti narāsabhaṃ  
+  
+    Aho acchariyaṃ loke abbhutaṃ lomahaṃsanaṃ 
+ Na medisaṃ bhūtapubbaṃ accheraṃ lomahaṃsanaṃ  
+  
+    Sakaṃ sakaṃ hi  bhavane nisīditvāna devatā 
+ Hasanti tā  mahāhasitaṃ disvānaccherakaṃ nabhe  
+  
+    Ākāsaṭṭhā ca bhūmaṭṭhā tiṇapanthanivāsino  
+ Katañjalī namassanti tuṭṭhahaṭṭhāpamoditā  
+  
+    Yepi dīghāyukā nāgā puññavanto mahiddhikā 
+ Pamoditā namassanti pūjayanti naruttamaṃ  
+  
+    Saṅgītiyo pavattenti ambare anilañjase 
+ Cammanaddhāni vādenti disvānaccherakaṃ nabhe  
+  
+    Saṅkhā ca paṇavā ceva atho deṇḍimā  bahū 
+ Antalikkhasmiṃ vajjenti   disvānaccherakaṃ nabhe  
+  
+    Abbhuto vata no ajja uppajji lomahaṃsano 
+ Dhuvaṃ atthasiddhiṃ   labhāma khaṇo no paṭipādito  
+  
+    Buddhoti tesaṃ sutvāna pīti uppajji tāvade 
+ Buddho buddhoti kathayantā tiṭṭhanti pañjalī katā  
+    Hiṃkāraṃ sādhukārañca   ukkuṭṭhiṃ sampasādanaṃ    
+ Pajā ca vividhā gagane vattenti   pañjalīkatā  
+  
+   Sakasakamhi machasaṃ sakaṃ sakamhi sīmu Mavi   Dhuvamatthasiddhiṃ machasaṃ 
+   Hasanti sīmu   Hiṅkārā sādhūkārā ca machasaṃ 
+   Tiṇapiṭṭhanivāsano sīmu   Ukkuṭṭhisampahaṃsanaṃ machasaṃ 
+   Ḍiṇaḍimā machasaṃ   Ukkuṭṭhisampahaṃsanaṃ machasaṃ 
+   Vajjanti machasaṃ  
+  
+  
+                  
+  
+    Gāyanti selenti ca vādayanti ca 
+ Bhujāni poṭhenti  ca naccayanti ca  
+ Muñcanti pupphaṃ pana pañcavaṇṇikaṃ 
+ Mandāravaṃ candanacuṇṇamissitaṃ  
+                  
+    Yathā tuyhaṃ mahāvīra pādesu cakkalakkhaṇaṃ  
+ Dhajavajirapatākā  vaḍḍhamānaṅkusācitaṃ 
+  
+    Rūpe sīlasamādhimhi paññāya ca asādiso 
+ Vimuttiyā asamasamo dhammacakkappavattane 
+  
+    Dasanāgabalaṃ kāye tuyhaṃ pākatikaṃ balaṃ 
+ Iddhibalena asamo dhammacakkappavattane  
+  
+    Evaṃ sabbaguṇopetaṃ sabbaṅgasamupāgataṃ 
+ Mahāmuniṃ kāruṇikaṃ lokanāthaṃ namassatha  
+  
+    Abhivādanaṃ thomanañca vandanañca pasaṃsanaṃ 
+ Namassanañca pūjañca sabbaṃ arahasī tuvaṃ  
+  
+    Ye keci loke vandaneyyā 
+ Vandanaṃ arahanti ye 
+ Sabbaseṭṭho mahāvīra 
+ Sadiso te na vijjati  
+  
+    Sāriputto mahāpañño samādhijjhānakovido 
+ Gijjhakūṭe ṭhitoyeva passati lokanāyakaṃ  
+  
+    Suphullaṃ sālarājaṃ va   candaṃva gagane yathā 
+ Majjhantikeva   suriyaṃ oloketi narāsabhaṃ 
+  
+    Jalantaṃ dīparukkhaṃva taruṇasuriyaṃva   uggataṃ  
+ Byāmappabhānurañjitaṃ dhīraṃ passati nāyakaṃ  
+  
+    Pañcannaṃ bhikkhusatānaṃ katakiccānatādinaṃ 
+ Khīṇāsavānaṃ vimalānaṃ khaṇena sannipātayi  
+  
+   Pothenti machasaṃ   Majjhanahikeva machasaṃ 
+   Paṭākā machasaṃ   Sūriyaṃva machasaṃ 
+   Suphullasālarājaṃva mavi  
+  
+                  
+  
+    Lokappasādanaṃ  nāma pāṭibhīraṃ nidassayi 
+ Amhepi tattha gamissāma   vandissāma mayaṃ jinaṃ  
+  
+    Etha sabbe samāgantvā pucchissāma mayaṃ jinaṃ  
+ Kaṅkhaṃ vinodayissāma passitvā lokanāyakaṃ  
+  
+    Sādhūti te paṭissutvā nipakā saṃvutindiyā  
+ Pattacīvaramādāya taramānā upāgamuṃ  
+  
+    Khīṇāsavehi vimalehi dantehi uttame dame 
+ Sāriputto mahāpañño iddhiyā upasaṅkami  
+  
+    Tehi bhikkhūhi parivuto sāriputto mahāgaṇī  
+ Jalanto devo gaganeva   iddhiyā upasaṅkamī  
+  
+    Ukkāsitañca khipitaṃ  ajjhupekkhitva   subbatā 
+ Sagāravā sappatissā sambuddhaṃ upasaṅkamuṃ  
+  
+    Upasaṅkamitvā passanti sayambhuṃ lokanāyakaṃ 
+ Nabhe accuggataṃ dhīraṃ candaṃca gagane yathā  
+  
+    Jalantaṃ dīparukkhaṃva vijjuṃva  gagane yathā 
+ Majjhantikeva suriyaṃ passanti lokanāyakaṃ  
+  
+    Pañcabhikkhusatā sabbe passanti lokanāyakaṃ 
+ Rahadamiva vippasannaṃ salilaṃ suphulla padumaṃ yathā  
+                  
+    Añjaliṃ paggahetvāna tuṭṭhahaṭṭhā  pamoditā 
+ Namassamānā nipatanti satthuno cakkalakkhaṇe  
+  
+    Sāriputto mahāpañño koraṇḍasamasādino 
+ Samādhijjhānakusalo vandati   lokanāyakaṃ  
+  
+   Lokappasādakaṃ pū   Gantvāna machasaṃ   Mūpāgamuṃ mavi   Laḷanetā devova 
+ gagane machasaṃ   Khipitañca syā   ajjhūpekkhiya machasaṃ   Vijjūva sīmu   Suphullaṃ 
+ padumaṃ yathā machasaṃ sīmu pu   Bhaṭṭhatuṭṭhā mavi    Vandate machasaṃ  
+  
+  
+                  
+  
+    Gajjitā  kālameghova nīluppalasamasādiso 
+ Iddhibalena   asamo moggallāno mahiddhiko  
+  
+    Mahākassapopi ca thero uttattakanakasantibho 
+ Dhutaguṇe agganikkhitto thomito satthu vaṇṇito  
+  
+    Dibbakkhūnaṃ yo aggo anuruddho mahāgaṇī 
+ Ñātiseṭṭho bhagavato avidūreva tiṭṭhati  
+  
+    Āpattianāpattiyā satekicchāya   kovido 
+ Vinaye agganikkhitto upāli satthu vaṇṇito  
+    Sukhumanipuṇatthapaṭividdho kathikānaṃ pavaro gaṇī 
+ Isi mantāniyā putto puṇṇo nāmāti vissuto  
+  
+    Etesaṃ cittamaññāya opammakusalo muni 
+ Kaṅkhacchedo mahāvīro kathesi attano guṇaṃ  
+  
+    Cattāro te asaṅkheyyā koṭi yesaṃ na ñāyati 
+ Sattakāyo ca ākāso cakkavāḷā ca nantakā 
+ Buddhañāṇaṃ appameyyaṃ na sakkā ete vijānituṃ  
+  
+    Kiṃ etaṃ acchariyaṃ loke yaṃ me iddhivikubbanaṃ 
+ Aññe bahū acchariyā abbhutā lomahaṃsanā  
+  
+    Yadāhaṃ tusite kāye santusito nāmahaṃ tadā 
+ Dasasahassī samāgamma yāvanti pañjalī mamaṃ  
+  
+    Kāloyaṃ te   mahāvīra uppajjamātukucchiyaṃ 
+ Sadevakaṃ tārayanto bujjhassu amataṃ padaṃ  
+  
+   Gajjito sīmu   Iddhivisaye mavi   Satikicchāya pu   Kālo kho te machasaṃ kālo 
+ deva sīmu kālo te pu  
+  
+  
+                  
+  
+    Tusitā kāyā cavitvāna yadā okkamī  kucchiyaṃ  
+ Dasasahassīlokadhātu kampittha dharaṇī tadā  
+  
+    Yadāhaṃ mātukucchito sampajānova nikkhamiṃ 
+ Sādhukāraṃ pavattentī   dasasahassī pakampatha    
+  
+    Okkanti   me samo natthi jātito abhinikkhame 
+ Sambodhiyaṃ ahaṃ seṭṭho dhammacakkappavattane  
+  
+    Aho acchariyaṃ loke buddhānaṃ guṇamahantatā 
+ Dasasahassīlokadhātu chappakāraṃ pakampatha 
+ Obhāso ca mahā āsi accheraṃ lomahaṃsanaṃ  
+  
+    Bhagavā ca tamhi samaye lonajeṭṭho narāsabho 
+ Sadevakaṃ dassayanto iddhiyā caṅkamī jino  
+  
+    Caṅkame caṅkakamantova kathesi lokanāyako 
+ Antarā na nivatteti catuhatthe caṅkame yathā   
+                  
+    Sāriputto mahāpañño samādhijjhānakovido 
+ Paññāya pāramīppanno   pucchati lokanāyakaṃ  
+  
+    Kīdiso te mahāvīra abhinīhāro narāsabha 
+ Kamhī kāle tayā dhira patthitā bodhimuttamā  
+  
+    Dānaṃ sīlaṃ ca nekkhammaṃ paññāviriyaṃ ca kīdisaṃ 
+ Khantisaccamadhiṭṭhānaṃ mettupekkhā ca kīdisā  
+  
+   Okkami sīmu   Pavattenti machasaṃ   Pakamapittha mavi   Okkantiṃ machasaṃ   
+ Tadā sīmu   Pārappattopi sīmu  
+  
+  
+                  
+    Dasapāramī tayā dhīra kīdisā  lokanāyaka 
+ Kathaṃ upapāramī puṇṇā paramatthapāramī kathaṃ  
+  
+    Tassa puṭṭho viyākāsi   karavīkamadhuraṃ giro  
+ Nibbāpayanto hadayaṃ hāsayanto sadevakaṃ  
+  
+    Atītabuddhānaṃ jinānaṃ desitaṃ 
+ Nikīḷitaṃ  buddhaparamparāgataṃ 
+ Pubbenivāsānugatāya buddhiyā 
+ Pakāsayī lokahitaṃ sadevake  
+  
+    Pītipāmojjajananaṃ sokasallavinodanaṃ 
+ Sabbasampattipaṭilābhaṃ cittikatvā suṇotha   me 
+  
+    Madanimmadanaṃ sokanudaṃ saṃsāraparimocanaṃ  
+ Sabbadukkhakkhayaṃ maggaṃ sakkaccaṃ paṭipajjathāti  
+ Ratanacaṅkamanakaṇḍo niṭṭhito  
+  
+   Kīdisi machasaṃ   Vyākāyi sīmu   Karavikamadhuragiro machasaṃ   
+ Nikīlitaṃ machasaṃ    Punātha machasaṃ   Saṃsāramochanaṃ sīmu 
+ saṃsārasamatikkamaṃ pu  
+  
+  
+                  
+  
+ Sumedha kathā  
+  
+   Kappe ca satasahasse ca caturo ca asaṅkhiye 
+ Amaraṃ nāma nagaraṃ dassaneyyaṃ manoramaṃ  
+  
+   Dasahi saddehi avivittaṃ annapānasamāyutaṃ hatthisaddaṃ assasaddaṃ 
+ bherisaṅkharathāni ca   
+ Khādatha pivatha ceva annapānena ghositaṃ  
+   Nagaraṃ sabbaṅgasampannaṃ sabbakammamupāgataṃ 
+ Sattaratanasampannaṃ nānājanasamākulaṃ 
+ Samiddhaṃ devanagaraṃva āvāsaṃ puññakamminaṃ  
+  
+   Nagare amaravatiyā sumedho nāma brāhmaṇo 
+ Anekakoṭinicayo pahūtadhanadhaññavā  
+                  
+   Ajjhāyako mantadharo tiṇṇaṃ vedānapāragu 
+ Lakkhaṇe itihāse ca sadhamme pāramiṃ gato  
+  
+   Rahogato nisīditvā evaṃ cintesahaṃ tadā 
+ Dukkho punabbhavo nāma sarīrassa ca bhedanaṃ 
+  Sammohamaraṇaṃ dukkhaṃ jarāya abhimaddanaṃ    
+  
+   Jātidhammo jarādhammo vyādhidhammo cahaṃ sadā 
+ Ajaraṃ amaraṃ khemaṃ pariyesissāmi nibbutiṃ  
+  
+   Yannūnimaṃ pūtikāyaṃ nānā kuṇapapūritaṃ 
+ Chaḍḍhayitvāna gaccheyyaṃ anapekho  anatthiko  
+  
+   Atthi hehiti so maggo na so sakkā na hetuye  
+ Pariyesissāmi taṃ maggaṃ bhavato parimuttiyā  
+  
+    Yathāpi dukkhe vijjante sukhaṃ nāmapi vijjatī  
+ Evaṃ bhave vijjamāne vibhavopi icchitabbako  
+  
+   Bherisaṅkarathāna ca asā   gāthaddhamidaṃ sammohavinodaniyā aṭṭhakathāya dissate 
+   Anepekkho machasaṃ  
+  
+  
+                  
+  
+    Yathāpi uṇhe vijjante aparaṃ vijjati sītalaṃ 
+ Evaṃ tividhaggi vijjante nibbānaṃ icchitabbakaṃ  
+  
+    Yathāpi pāpe vijjante kalyāṇampi vijjati 
+ Evameva jāti vijjante ajātipicchitabbakā  
+  
+    Yathā gūthagato puriso taḷākaṃ disvāna pūritaṃ 
+ Na gavesati taṃ taḷākaṃ na doso taḷākassa so  
+  
+    Evaṃ kilesamaladhovaṃ   vijjante amatantaḷe 
+ Na gavesati taṃ taḷākaṃ na doso amatantaḷe  
+  
+    Yathā arīhi pariruddho vijjante gamanaṃpathe   
+ Na palāyati so puriso na doso añjasassa so  
+  
+    Evaṃ kilesapariruddho vijjamāne sive pathe 
+ Na gavesati taṃ maggaṃ na doso sivamañjase  
+  
+    Yathapi byādhito puriso vijjamāne tikicchake 
+ Na tikicchāpeti taṃ vyādhiṃ na so doso tikicchake  
+  
+    Evaṃ kilesavyādhīhi dukkhito paripīḷito   
+ Na gavesati taṃ ācariyaṃ na so doso  vināyake  
+  
+    Yathāpi kuṇapaṃ puriso kaṇṭhe baddhaṃ jigucchiya 
+ Movayitvāna gaccheyya sukhī serī sayaṃ vasī  
+  
+    Tathevimaṃ pūtikāyaṃ nānā kuṇapasañcayaṃ  
+ Chaḍḍayitvāna   gaccheyyaṃ anapekho  anatthiko  
+  
+    Yathā uccāraṭhānamhi   karīsaṃ naranāriyo 
+ Chaḍḍayitvāna   gacchanti anapekhā anatthikā  
+  
+   Ajātipicchitabbakaṃ sīmu   Kilesamaladhove dha A Sīmu kilesamaladhova machasaṃ 
+   Gamane pathe sīmu asā   Patipiḷito mavi   Na doso so sīmu machasaṃ   Nānā 
+ kuṇapapūritaṃ pu   Chaḍḍhayitvā sīmu   Anapekkho sīmu Machasaṃ asā   
+ Ussāsaṭhānamhi   pu  
+  
+  
+                  
+  
+    Evamevāhaṃ imaṃ kāyaṃ nānā kuṇapapūritaṃ 
+ Chaḍḍayitvāna gacchissaṃ vaccaṃ katvā yathā kuṭiṃ  
+  
+    Yathāpi jajjaraṃ nāvaṃ paluggaṃ udakagāhiniṃ  
+ Sāmī chaḍḍetva   gacchanti anapekhā anatthikā  
+                  
+    Evamevāhaṃ imaṃ kāyaṃ navacchiddaṃ dhuvassavaṃ 
+ Chaḍḍayitvāna gacchissaṃ chinnanāvaṃva sāmikā  
+  
+    Yathāpi puriso corehi gacchanto bhaṇḍamādiya 
+ Bhaṇḍacchedahayaṃ disvā chaḍḍayitvāna gacchati  
+  
+    Evamevamayaṃ kāyo mahācorasamo viya 
+ Pahāyimaṃ gamissāmi kusalacchedanā bhayā  
+  
+    Evāhaṃ cintayitvāna nekakoṭisataṃ dhanaṃ 
+ Nāthānāthānaṃ datvāna himavantamupāgamiṃ  
+  
+    Himavantassa avidūre   dhammako nāma pabbato 
+ Assamo sukato mayhaṃ paṇṇasālā sumāpitā  
+  
+    Caṅkamaṃ tattha māpesi pañcadosavivajjitaṃ 
+ Aṭṭhaguṇasamupetaṃ abhiññābalamāhariṃ  
+  
+    Sāṭakaṃ pajahiṃ tattha navadesamupāgataṃ 
+ Vākacīraṃ nivāsesiṃ dvādasaguṇamupāgataṃ  
+  
+    Aṭṭhadosasamākiṇṇaṃ pajahiṃ paṇṇasālakaṃ 
+ Upāgamiṃ rukkhakamūlaṃ guṇedasahupāgataṃ   
+  
+    Vāpitaṃ ropitaṃ dhaññaṃ pajahiṃ niravasesato 
+ Anekaguṇasampannaṃ pavattaphalamādiyiṃ  
+  
+    Tattha padhānaṃ  padahiṃ nisajjaṭṭhānacaṅkame 
+ Abbhantaramhi sattāhe abhiññābalamapāpuṇiṃ  
+  
+   Paluggaṃ udagāhiniṃ machasaṃ paluggaṃ udakavāhiniṃ sī   Chaḍḍetvā machasaṃ 
+ mavi  
+   Himavanatasasāvidūre machasaṃ   Dvādasaguṇupāgataṃ sīmu   Guṇe 
+ dasamupagataṃ sīmu guṇehi dasahupāgataṃ asā   Tatthapapadhānaṃ machasaṃ   
+ Abhiññā balapāpuṇiṃ machasaṃ 
+  
+  
+                  
+  
+    Evaṃ me siddhippattassa vasībhūtassa sāsane 
+ Dīpaṅkaro nāma jino uppajji lokanāyako  
+  
+    Uppajjante ca jāyante bujjhante dhammadesane 
+ Caturo nimitte nāddasaṃ jhānaratisamappito  
+  
+    Paccantadesavisaye nimantetvā tathāgataṃ 
+ Tassa āgamanaṃ maggaṃ sodhenti tuṭṭhamānasā  
+  
+    Ahaṃ tena samayena nikkhamitvā sakassamā 
+ Dhunanto vākacīrāni gacchāmi ambare tadā  
+  
+    Vedajātaṃ janaṃ disvā tuṭṭhahaṭṭhaṃ pamoditaṃ 
+ Orohitvāna gaganā mānuse pucchiṃ tāvade  
+  
+    Tuṭṭhahaṭṭho pamudito  vedajāto mahājano 
+ Kassa sodhīyati maggo añjasaṃ vaṭumāyanaṃ  
+    Te me puṭṭhā byākariṃsu  buddho loke anuttaro 
+ Dīpaṅkaro nāma jino uppajji lokanāyako  
+ Tassa sodīyato maggo  añjasaṃ vaṭumāyanaṃ  
+  
+    Buddhoti mama sutvāna pīti uppajji tāvade 
+ Buddho buddhoti kathayanto somanassaṃ pavedayiṃ  
+  
+    Tattha ṭhatvā vicintesiṃ tuṭṭho saṃviggamānaso 
+ Idha bījāni ropissaṃ khaṇo ce mā upaccagā  
+                  
+    Yadi buddhassa sodhetha ekokāsaṃ dadātha me  
+ Ahampi sodhayissāmi añjasaṃ vaṭumāyanaṃ  
+  
+    Adaṃsu te mamokāsaṃ sodhetuṃ añjasaṃ tadā  
+ Buddho buddhoti cintento maggaṃ sodhemahaṃ tadā 
+  
+   Viyākāsuṃ sīmu viyākaṃsuṃ machasaṃ  
+   Sodhīyati patho pu sodhīyati maggo sīmu machasaṃ  
+  
+  
+                  
+  
+    Aniṭṭhite mamokāse dīpaṅkaro mahāmuni 
+ Catūhi satasahassehi jaḷabhiññehi tādihi 
+ Khīṇāsavehi vimalehi paṭipajji añjasaṃ jino  
+  
+    Paccuggamanā vattanti vajjanti bheriyo bahū 
+ Amoditā narumarū sādhukāraṃ pavattayuṃ  
+  
+    Devā manusse passanti manussāpi ca devatā 
+ Ubhopi te pañjalikā anuyanti tathāgataṃ  
+  
+    Devā dibbehi turiyehi manussā mānusehi  ca 
+ Ubhopi te vajjayantā anuyanti tathāgataṃ  
+  
+    Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ 
+ Diso disaṃ okiranti ākāsanabhagatā marū  
+  
+    Campakaṃ salalaṃ nīpaṃ nāgapunnāgaketakaṃ 
+ Diso dasaṃ ukkhipanti bhūmitalagatā narā  
+  
+    Kese muñcitvahaṃ tattha vākavīrañca cammakaṃ 
+ Kalale pattharitvāna avakujjo nipajjahaṃ  
+  
+    Akkamitvāna maṃ buddho saha sissehi gacchatu 
+ Mā naṃ kalale akkamittho hitāya me bhavissati  
+  
+    Paṭhaviyaṃ  nipannassa evaṃ me āsi cetaso 
+ Icchamāno ahaṃ ajja kilese jhāpaye mamaṃ 
+  
+    Kiṃ me aññātavesena dhammaṃ sacchikatenidha  
+ Sabbaññūtaṃ pāpuṇitvā buddho hessaṃ sadevake  
+  
+    Kiṃ me ekena tiṇṇena purisena thāmadassinā 
+ Sabbaññūtaṃ pāpuṇitvā santāressaṃ sadevake  
+  
+    Iminā me adhikārena katena purisuttame 
+ Sabbaññutaṃ pāpuṇitvā  tāremi janataṃ bahu  
+  
+   Mānusakehi sīmu   Pathaviyaṃ machasaṃ puthuviyā pu   Pāpuṇāmi mavi  
+  
+  
+                  
+  
+    Sāsārasotaṃ chinditvā viddhaṃsetvā tayo bhave 
+ Dhammanāvaṃ samāruyha santāressaṃ sadevake  
+  
+    Manussattaṃ liṅgasampatti hetu satthāradassanaṃ 
+ Pabbajjāguṇasampatti adhikāro ca chandatā 
+ Aṭṭhadhammasamodhānā abhinīhāro samijjhati  
+  
+    Dīpaṅkaro lokavidū āhutīnaṃ paṭiggaho 
+ Ussīsake maṃ ṭhatvāna idaṃ vacanamabrūvi  
+                   
+    Passatha imaṃ tāpasaṃ jaṭilaṃ uggatāpanaṃ  
+ Aparimeyye ito kappe buddho lokena bhavissati  
+  
+    Ahu  kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato  
+ Tattha pāyāsamaggayha   nerañjaramupehiti 
+  
+    Nerañjarāya tiramhi pāyāsaṃ ādāya   so jino 
+ Paṭiyattavaramaggena bodhimūlaṃ hi ehitī  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro  
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Anāsavā vītarāgā  santacittā samāhitā 
+ Kolito upatisso ca aggā hessanti sāvakā  
+  
+    Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ 
+ Khemā uppalavaṇṇā ca aggā hessanti sāvikā  
+  
+    Anāsavā vītarāgā  santacittā samāhitā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+   Atha sīmu  
+   Pādadvayamidaṃ sīhaḷakkhara muddita potthake na dissate  
+   Pāyasamaggayaha sīmu pasāsaṃ paggayaha syā  
+   Pāyasaṃ adā sīmu pāyāsa adi machasaṃ syā  
+   Naruttaro sīmu anuttaraṃ syā  
+   Vītamalā sīmu  
+  
+  
+                  
+  
+    Citto ca hatthāḷavako aggā hessantūpaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā  
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti  apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lonāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+    Evameva mayaṃ sabbe yadimuñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Dīpaṅkaro lokavidū āhutīnaṃ paṭiggaho 
+ Mama kammaṃ pakittetvā dakkhiṇaṃ padamuddhari  
+  
+    Ye tatthāsuṃ jinaputtā padakkhīṇamakaṃsu maṃ 
+ Devā manussā asurā ca abhivādetvāna pakkamuṃ  
+  
+    Dassanaṃ me atikkante sasaṅghe lokanāyake  
+ Sayanā vuṭṭhahitvāna pallaṅkamābhujiṃ tadā  
+  
+    Sukhena sukhito homi pāmojjena pamodito 
+ Pītiyā ca abhissanto pallaṅkaṃ ābhujiṃ tadā  
+                   
+    Pallaṅkena nisīditvā evaṃ cintesahaṃ tadā 
+ Vasībhūto ahaṃ jhāne abhiññāpāramiṃ gato  
+  
+    Sahassiyamhi lokamhi isayo natthi me samā 
+ Asamo iddhidhammesu alabhiṃ īdisaṃ sukhaṃ  
+  
+    Pallaṅkābhūjena mayhaṃ dasasahassādhivāsino 
+ Mahānādaṃ pavattesuṃ dhuvaṃ buddho bhavissasi  
+  
+   Ukakuṭaṭhī sadadā   sīmu  
+  
+  
+                  
+  
+    Yā pubbe bodhisattānaṃ pallaṅkavaramābhuṃ 
+ Nimittoni padissanti tāni ajja padīssare  
+  
+    Sītaṃ vyapagataṃ hoti uṇhañca upasammati  
+ Tāni ajja padissanti dhūvaṃ buddho bhavissasi  
+  
+    Dasasahassī lokadhātu nissaddā hoti nirukulā 
+ Tāni ajja padissanti dhuvaṃ buddho bhavissasi  
+  
+    Mahāvātā na vāyanti na sandanti savantiyo 
+ Tāni ajja padissanti dhuvaṃ buddho bhavissasi  
+  
+    Thalajā dakajā pupphā sabbe pupphanti tāvade 
+ Tepajja pupphitā sabbe dhuvaṃ buddho bhavissasi  
+  
+    Latā vā yadi vā rukkhā phalabhārā honti tāvade tepajja phalitā sabbe dhuvaṃ buddho 
+ bhavissasi  
+  
+    Ākāsaṭṭhā ca bhummaṭṭhā ratanā jotanni tāvade 
+ Tepajja ratanā jotanti dhuvaṃ buddho bhavissasi  
+  
+    Mānusakā ca dibbā ca turiyā vajjanti tāvade 
+ Tepajjuho abhiravanti dhuvaṃ buddho bhavissasi  
+  
+    Vicittapupphā gaganā abhivassanti tāvade  
+ Tepi ajja padissanti dhuvaṃ buddho bhavissasi  
+  
+    Mahāsamuddo ābhujati dasasahassī pakampati 
+ Tepajjubho abhiravanti dhuvaṃ buddho bhavissasi  
+  
+  
+                  
+  
+    Nirayesu dasasahassī  aggī nibbanti tāvade 
+ Tepajja nibbutā aggī dhuvaṃ buddho bhavissasi  
+  
+    Vimalo hoti suriyo sabbā  dissanti tārakā tepi ajja padissanti dhuvaṃ buddho bhavissasi  
+  
+    Anovaṭṭhena udakaṃ mahiyā ubbhijji tāvade 
+ Tampajjubbhijjate mahiyā dhuvaṃ buddho bhavissasi  
+  
+    Tāragaṇā virocanti nakkhattā gaganamaṇḍale 
+ Visākhā candimayuttā dhuvaṃ buddho bhavissasi  
+    Khīlāsayā darīsayā nikkhamanti sakāsayā 
+ Tepajja āsayā chuddhā dhuvaṃ buddho bhavissasi  
+    Na hoti arati sattānaṃ santuṭṭhā honti tāvade  
+ Tepajja sabbe santuṭṭhā dhuvaṃ buddho bhavissasi  
+                   
+    Rogā tadupasammanti jigacchā ca vinassati 
+ Tāni ajja padissanti dhuvaṃ buddho bhavissasi  
+  
+    Rāgo tadā tanu hoti doso moho vinassati 
+ Te pajja vīgatā sabbe dhuvaṃ buddho bhavissasi  
+  
+     Bhayaṃ tadā na bhavati ajjapetaṃ padissati 
+ Tena liṅgena jānāma dhuvaṃ buddho bhavissasi  
+  
+     Rajonuddhaṃsati uddhaṃ ajjapetaṃ padissati 
+ Tena liṅgena jānāma dhuvaṃ buddho bhavissasi  
+  
+     Aniṭṭhagandho pakkamati dibbagandhe pavāyati 
+ Sopajja vāyati gandho dhuvaṃ buddho bhavissasī  
+  
+   Nirayepi dasasahasesa machasaṃ asā  
+ Nirayesu dasasahassīsu maci  
+   Sabbe sīmu  
+  
+  
+                  
+  
+     Sabbe devā padissanti ṭhapayitvā arūpino 
+ Tepajja sabbe dissanti dhuvaṃ buddho bhavissasi  
+  
+     Yāvatā nirayā nāma sabbe dissanti tāvade  
+ Tepajja sabbe dissanti dhuvaṃ buddho bhavissasi  
+  
+     Kuḍḍā kacāṭā selā ca na hontāvaraṇā  tadā  
+ Ākāsabhūtā te pajja dhuvaṃ buddho bhavissasi  
+  
+     Cutī ca upapatti ca khaṇe tasmiṃ na vijjati 
+ Tāni ajja padissanti dhuvaṃ buddho bhavissasi  
+  
+     Daḷhaṃ paggaṇha viriyaṃ mā nivatti  abhikkama 
+ Mahampetaṃ pajānāma dhuvaṃ buddho bhavissasīti  
+  
+     Buddhassa vacanaṃ sutvā dasasahassīna cūbhayaṃ 
+ Tuṭṭhahaṭṭho  pamudito evaṃ cintesahaṃ tadā  
+  
+     Advejjhāvacanā buddhā amoghavacanā jinā vitathaṃ natthi buddhānaṃ dhuvaṃ buddho 
+ bhavāmahaṃ 
+  
+     Yathā khittaṃ nabhe leḍḍu dhuvaṃ patati bhūmiyaṃ 
+ Tatheva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ 
+ Vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavāmahaṃ 
+  
+     Yathāpi sabbasattānaṃ maraṇaṃ dhuvayassataṃ 
+ Tatheva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ 
+ Vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavāmahaṃ  
+  
+     Yathā rattikkhaye patte suriyassuggamanaṃ dhuvaṃ  
+ Tatheva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ 
+ Vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavāmahaṃ  
+  
+   Bhonatāvaraṇaṃ sīmu   Mā nivatta machasaṃ   Bhaṭaṭhatuṭeṭhā sīmu  
+                  
+  
+     Yathā nikkhantasayanassa sīhassa nadanaṃ dhuvaṃ 
+ Tatheva budadhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ 
+ Vitataṃ natthi buddhānaṃ dhuvaṃ buddho bhavāmahaṃ  
+                   
+     Yathā āpannasattānaṃ bhāramoronaṃ dhuvaṃ 
+ Tatheva buddhaseṭṭhānaṃ vacanaṃ dhuvasassataṃ 
+ Vitathaṃ natthi buddhānaṃ dhuvaṃ buddho bhavāmahaṃ 
+     Handa buddhakare dhamme vivināmi ito cito 
+ Uddhaṃ adho dasadisā yāvatā dhammadhātuyā  
+  
+     Vicinanto tadā dakkhiṃ  paṭhamaṃ dānapāramiṃ 
+ Pubbakehi mahesīhi anuciṇṇaṃ mahāpathaṃ  
+     Imaṃ tvaṃ paṭhamaṃ tāva daḷhaṃ katvā samādiya 
+ Dānapāramitaṃ gaccha yadi bodhiṃ pattumicchasi  
+  
+     Yathāpi kumbho sampuṇṇo yassa kassaci adhokato 
+ Vamate udakaṃ nissesaṃ na tattha parirakkhati 
+  
+     Tatheva yācake disvā hīnamukkaṭṭhamajjhime 
+ Dadāhi dānaṃ nissesaṃ kumbho viya adhokato 
+  
+     Na he te ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā 
+  
+     Vicinanto tadādakkhiṃ  dutiyaṃ sīlapāramiṃ 
+ Pubbakehi mahesīhi asevitanisevitaṃ  
+  
+     Imaṃ tvaṃ dutiyaṃ tāva daḷhaṃ katvā samādiya  
+ Sīlapāramitaṃ gaccha yadi bodhiṃ pattumicchasi  
+  
+     Yathāpi camarī vālaṃ  kismīci   patilaggitaṃ upeti maraṇaṃ tattha na vikopeti 
+ vāladhiṃ  
+  
+     Tatheva tvaṃ catusu bhūmīsu sīlāni paripūraya 
+ Parirakkha sabbadā sīlaṃ camarī viya vāladhiṃ  
+  
+   Tadādakkhi sīmu machasaṃ   Vāḷaṃ sīmu   Kisamiñci machasaṃ  
+  
+  
+                  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+     Vicinanto tadā dakkhiṃ tatiyaṃ nekkhammapāramiṃ Pubbakehi mahesīhi 
+ āsevitanisevitaṃ  
+  
+     Imaṃ tvaṃ tatiyaṃ tāva daḷhaṃ katvā samādiya 
+ Nekkhammapārami  gaccha yadi bodhiṃ pattumicchasi  
+  
+     Yathā andughare puriso ciravuttho dukhaddito 
+ Ta tattha rāgaṃ abhijaneti muttiṃ yeva gavesati  
+  
+     Tatheva tvaṃ sabbabhave passa andughare viya  
+ Nekkhammābhimukho hohi bhavato parimuttiyā  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+  
+     Vicinanto tadā dakkhiṃ catutthaṃ paññāpāramiṃ 
+ Pubbakehi mahesīhi āsevitanisevitaṃ  
+     Imaṃ tvaṃ catutthaṃ tāva daḷhaṃ katvā samādiya 
+ Paññāpāramitaṃ  gaccha yadi bodhiṃ pattumicchasi  
+  
+     Yathāpi   bhikkhu bhikkhanto hīnamukkaṭṭhamajjhime 
+ Kulāni na vivajjento evaṃ labhati yāpanaṃ  
+                   
+     Tatheva tvaṃ sabbakālaṃ paripucchanto budhaṃ janaṃ  
+ Paññāpāramitaṃ  gantvā sambodhiṃ pāpuṇissasi  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+  
+     Vicinanto tadā dakkhiṃ pañcamiṃ viriya pāramiṃ  
+ Pubbakehi mahesīhi āsavitanisevitaṃ  
+  
+   Nekkhammapāramitaṃ syā Machasaṃ   Paññāya pāramiṃ maci  
+   Yathāhi maci   Viriya pāramiṃ machasaṃ  
+  
+  
+                  
+  
+     Imaṃ tvaṃ pañcamaṃ tāva daḷhaṃ katvā samādiya 
+ Viriya pāramitaṃ gaccha yadi bodhiṃ pattumicchasi  
+  
+     Yathāpi sīho migarājā nisajjaṭṭhānacaṅkame 
+ Alīnaviriyo hoti paggahitamano tadā 
+  
+     Tatheva tvaṃ  sabbabhave paggaṇha viriyaṃ daḷhaṃ 
+ Viriyapāramitaṃ gantvā sambodhiṃ pāpuṇissasi  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+  
+     Vicinanto tadā dakkhiṃ chaṭṭhamaṃ khantipāramiṃ 
+ Pubbakehi mahesīhi āsevitanisevitaṃ  
+  
+     Imaṃ tvaṃ chaṭṭhamaṃ tāva daḷhaṃ katvā samādiya 
+ Tattha advejjhamanaso  sambodhiṃ pāpuṇissasi  
+  
+     Yathāpi paṭhavī   nāma sucimpi asucimpi ca  
+ Sabbaṃ sahati nikkhepaṃ na karoti paṭighaṃ dayaṃ   
+     Tatheva tvampi sabbesaṃ sammānāvamānakkhamo  
+ Khantipāramitaṃ gantvā sambodhiṃ pāpuṇissasi  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+  
+     Vicinanto tadā dakkhiṃ sattamaṃ saccapāramiṃ 
+ Pubbakehi mahesīhi āsevitanisevitaṃ  
+     Imaṃ tvaṃ sattamaṃ tāva daḷhaṃ katvā samādiya 
+ Tattha advejjhavacano sambodhiṃ pāpuṇissasi  
+  
+   Tvamapi sīmu   Adevajjhamānaso machasaṃ   Pathavī machasaṃ   Tayā pu  
+   Sammānanāvamānanakkhamo maci sabbabhave sammānanacimāna kakhamo pu  
+  
+  
+                  
+  
+     Yathāpi osadhī nāma tulābhūtā sadevake 
+ Samaye utuvasse  vā nevokkamati   vīthito  
+  
+     Tatheva tvampi saccesu mā okkami hi   vīthito 
+ Saccapāramitaṃ gantvā sambodhiṃ pāpuṇissasi  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+                   
+     Vicinanto tadā dakkhiṃ aṭṭhamaṃ adhiṭṭhānapāramiṃ 
+ Pubbakehi mahesīhi āsevitanisevitaṃ  
+  
+     Imaṃ tvaṃ aṭṭhamaṃ tāva daḷhaṃ katvā samādiya 
+ Tattha tvaṃ acalo hutvā sambodhiṃ pāpuṇissasi  
+  
+     Yathāpi pabbato selo acalo suppatiṭṭhito 
+ Na kampati bhusavātehi sakaṭṭhāneva tiṭṭhati  
+  
+     Tatheca tvampi adhiṭṭhāne sabbadā acalo bhava 
+ Adhiṭṭhānapāramiṃ  gantvā sambodhiṃ pāpuṇissasi  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+  
+     Vicinanto tadā dakkhiṃ navamaṃ mettāpāramiṃ pubbakehi mahesīhi āsevitanisevitaṃ  
+  
+     Imaṃ tvaṃ navamaṃ daḷhaṃ katvā samādiya 
+ Mettāya asamo hohi yadi bodhiṃ pattumicchasi  
+  
+     Yathāpi udakaṃ nāma kalyāṇe pāpake jane 
+ Samaṃ pharati sītena pavāheti rajomalaṃ   
+   Utuvaṭṭe pu   Na vokkamati sīmu machasaṃ syā na okkamati asā  
+   Nātikkama hi sīmu mā vokkama hi machasaṃ mā vokkami hi maci Mā vokkamasi syā 
+   Adhiṭṭhāna pāramitaṃ sīmu machasaṃ   Rajaṃ malaṃ pu  
+  
+  
+                  
+  
+     Tatheva tvampi hitāhite  samaṃ mettāya bhāvaya 
+ Mettāpāramitaṃ gantvā sambodhiṃ pāpuṇissasi  
+  
+     Na hete ettakāyeva buddhadhammā bhavissare 
+ Aññepi vicinissāmi ye dhammā bodhipācanā  
+  
+     Vicinanto tadā dakkhiṃ dasamaṃ upekkhāpāramiṃ  
+ Pubbakehi mahesīhi āsevitanisevitaṃ  
+  
+     Imaṃ tvā asamaṃ tāva daḷhaṃ katvā samādiya 
+ Tulābhūto daḷho hutvā sambodhiṃ pāpuṇissasi  
+  
+     Yathāpi paṭhavī   nāma nikkhittaṃ asuciṃ suciṃ 
+ Upekkhati ubhopete kopānunayavajjitā  
+  
+     Tatheva tvampi sukhadukkhe tulābhūto sadā bhava  
+ Upekkhāpāramiṃ gantvā sambodhiṃ pāpuṇissasi  
+  
+     Ettakāyeva te loke ye dhammā bodhipācanā 
+ Tatuddhaṃ natthi aññatra daḷhaṃ tattha patiṭṭhaha  
+  
+     Ime dhamme sammasato sabhāvasarasalakkhaṇā   
+ Dhammatejena vasudhā dasasahassī pakampatha  
+  
+     Calati ravati paṭhavī   ucchuyantaṃ va pīḷitaṃ  
+ Telayante yathā cakkaṃ evaṃ kampati medinī  
+  
+     Yāvatā parisā  āsī buddhassa parivesane 
+ Pavedhamānā sā tattha mucchitā seti bhūmiyaṃ  
+  
+     Ghaṭānekasahassāni kumbhīnañca satā bahū 
+ Sañcuṇṇā mathitā tattha aññamaññaṃ paghaṭṭitā    
+                   
+     Ubbiggā tasitā bhītā bhantā byādhitamānasā 
+ Mahājanā samāgamma dīpaṅkaramupāgamuṃ  
+  
+   Tvaṃ hitāhite syā machasaṃ tvaṃ ahitahite sīmu maci   Pathavimachasaṃ  
+   Sabhāva sarasalakkhaṇe syā machasaṃ maci   Calatī ravatī pathavī machasaṃ calatī 
+ ravatī puthūvī   maci   Guḷayantaṃva pīḷitaṃ pu   Sā tadā parisā pu   
+ Aññamaññapaghaṭṭitā asā  
+  
+  
+                  
+  
+     Kiṃ bhavissati lokassa kalyāṇamatha pāpakaṃ 
+ Sabbo upadduto loko taṃ vinodehi cakkhūma  
+     Tesaṃ tadā saññapesi dīpaṅkaro mahāmuni 
+ Vissatthā hotha mā bhātha  imasmiṃ paṭhavikampane  
+  
+     Yamahaṃ ajja byākāsiṃ buddho loke bhavissati 
+ Eso sammasati dhammaṃ pubbakaṃ jinasevitaṃ 
+  
+     Tassa sammasato dhammaṃ buddhabhūmiṃ asesato 
+ Tenāyaṃ kampitā paṭhavī   dasasahassī sadevake  
+  
+     Buddhassa vacanaṃ sutvā mano nibbāyi tāvade 
+ Sabbe maṃ upasaṅkamma punāpi abhivādayuṃ  
+  
+     Samādiyitvā buddhaguṇaṃ daḷhaṃ katvāna mānasaṃ 
+ Dīpaṅkaraṃ namassitvā āsanā uṭṭhahiṃ tadā  
+  
+     Dibbaṃ māsusataṃ pupphaṃ devā mānusakā ubho 
+ Samokiranti pupphehi vuṭṭhāhantassa āsanā  
+  
+     Vedayanti ca te sotthiṃ devā mānusakā Ubho 
+ Mahantaṃ patthitaṃ tuyhaṃ taṃ labhassu yathicchitaṃ  
+  
+     Sabbītiyo vivajjantu soko rogo  vinassatu 
+ Mā te bhavatthavantarāyo  phusa khippaṃ bodhimuttamaṃ  
+  
+     Yathāpi samaye patte pupphanti pupphino dumā 
+ Tatheva tvaṃ buddhavīra buddhañāṇena pupphasi  
+  
+     Yathā ye keci sambuddhā pūrayuṃ dasapāramī 
+ Tatheva tvaṃ mahāvīra pūraya dasapāramī  
+  
+   Haṅgatha machasaṃ   Pathavī machasaṃ puthuvī sīmu   Punapi maṃ 
+ abhivandisuṃ sīmu maci punāpi abhivandisuṃ machasaṃ syā   Sabbarogo sīmu   
+ Bhavanatvantarāyā machasaṃ  
+  
+  
+                  
+  
+     Yathā ye keci sambuddhā bodhimaṇḍamhi bujjhare 
+ Tatheva tvaṃ mahāvīra bujjhassu jinabodhiyaṃ  
+  
+     Yathā ye keci sambuddhā dhammacakkaṃ pavattayuṃ 
+ Tatheva tvaṃ mahāvīra dhammacakkaṃ pavattaya  
+  
+     Puṇṇamāse yathā cando parisuddho virocati 
+ Tatheva tvaṃ puṇṇamano viroca dasasahassiyaṃ  
+  
+     Rāhumutto yathā suriyo tāpena abhirocati  
+ Tatheva lokā muñcitvā viroca siriyā tuvaṃ  
+  
+     Yathā yā kāci nadiyo osaranti mahodadhiṃ 
+ Evaṃ sadevakā lokā osarantu   tavantike  
+  
+     Tehi thutappasattho  so dasadhamme samādiya 
+ Te dhamme paripūrento pavanaṃ pāvisī   tadāti  
+  
+ Sumedhakathā niṭṭhitā  
+   Atirocati machasaṃ   Osaranti sīmu   Thutippasattho sīmu   Pāvisī machasaṃ  
+  
+  
+                  
+  
+   Dīpaṅkara buddhavaṃso 
+                   
+   Tadā te bhojayitvāna sasaṅghaṃ lokanāyakaṃ 
+ Upagañchuṃ saraṇaṃ tassa   dīpaṅkarassa satthuno  
+  
+   Saraṇāgamane kañci niveseti   tathāgato 
+ Kañcī pañcasu sīlesu sīle dasavidhe paraṃ 
+  
+   Kassaci deti sāmaññaṃ caturo phalamuttame  
+ Kassaci asame dhamme deti so paṭisambhidā  
+  
+   Kassaci varasamāpattiyo aṭṭha deti narāsabho 
+ Tisso kassaci vijjāyo chaḷabhiññā pavecchati  
+  
+   Tena yogena janakāyaṃ ovadi so mahāmuni 
+ Tena vitthārikaṃ āsi lokanāthassa sāsanaṃ 
+  
+   Mahāhanūsahakkhandho  dīpaṅkarasanāmako   
+ Bahū jane tārayati parimoceti duggatiṃ  
+  
+   Bodhaneyyaṃ janaṃ disvā satasahassepi yojane 
+ Khaṇena upagantvāna bodheti taṃ mahāmuni  
+  
+   Paṭhamābhisamaye buddho koṭisatamabodhayi 
+ Dutiyābhisamaye nātho navutikoṭimabodhayī  
+  
+   Yadā ca devabhavanamhi buddho dhammamadesayi 
+ Navutikoṭisahassānaṃ tatiyābhisamayo ahu  
+  
+    Sannipātā tayo āsuṃ dīpaṅkarassa satthuno 
+ Koṭisatasahassānaṃ paṭhamo āsi samāgamo  
+  
+   Tattha pu   Nivesesi machasaṃ nivāsesi sīmu   Mahāhanu usabhakkhandho mavi   
+ Dīpaṅkarassa nāmako machasaṃ  
+  
+  
+                  
+  
+    Puna nāradakūṭamhi pavivekagate jine 
+ Khīṇāsavā vītamanā samiṃsu satakoṭiyo  
+  
+    Yamhī kāle mahāvīro sudassanasiluccaye 
+ Navutikoṭisahassehi pavāresi  mahāmuni  
+  
+     Ahaṃ tena samayena jaṭilo uggatāpano 
+ Antalikkhamhi caraṇe pañcābhiññāsu pāragū    
+  
+    Dasavīsasahassānaṃ dhammābhisamayo ahu 
+ Ekadvinnaṃ abhīsamayā gaṇanāto asaṅkhiyā  
+  
+    Vitthārikaṃ bāhujaññaṃ iddhaṃ phītaṃ ahū tadā  
+ Dīpaṅkarassa bhagavato sāsanaṃ suvisodhitaṃ  
+  
+    Cattārisatasahassāni chaḷabhiññā mahiddhikā 
+ Dīpaṅkaraṃ lokaviduṃ parivārenti sabbadā  
+  
+    Ye keci tena samayena jananti mānusaṃ bhavaṃ 
+ Appattamānasā sekhā garahitā va   bhavanti te  
+  
+    Supupphitaṃ pāvacanaṃ arahantehi tādihi 
+ Khīṇāsavehi vimalehi upasobhati sabbadā  
+  
+    Nagaraṃ rammavatī nāma sudevo nāma khattiyo 
+ Sumedhā nāma jānikā dīpaṅkarassa satthuno  
+                   
+    Dasavassasahassāni agāramajjhaso  vasī 
+ Haṃsā koñcā mayūrā ca tayo pāsādamuttamā  
+  
+    Tīṇi satasahāni nāriyo samalaṅkatā 
+ Padumā nāma sā nārī usabhakkhandho nāma atrajo  
+  
+    Nimitte caturo disvā hatthiyānena nikkhami 
+ Anūnadasamāsāni padhānaṃ padahi jino  
+  
+   Parivāresi sīmu   Garahitā machasaṃ   Upasobhati sadevake pu  
+   Agāraṃ ajjhaso sīmu  Machasaṃ agāraṃ ajjhāvasi jino syā 
+   Ayaṃ gāthā atthasāliniyā dhammasaṅgaṇi aṭṭha kathā nidānavaṇṇanāya dīpaṅkara 
+ buddhavaṃse likhitā imasmiṃ pana buddhavaṃse natthibhāvo yeva panassā yuttataro 
+ Kasmāti ce  Heṭṭha sumedhakathāsu kathitā hi  Aṭṭha kathā  
+  
+  
+                  
+  
+    Padhānacāraṃ caritvāna abujjhi mānasaṃ  muni 
+ Brahmunā yācito sanno dīpaṅkaro mahāmuni  
+  
+    Vatti cakkaṃ mahāvīro nandāme sirīghare   
+ Nisinno sirīsamūlamhi akā titthiyamaddanaṃ  
+  
+    Sumaṅgalo ca tisso ca ahesuṃ aggasāvakā 
+ Sāgato nāmupaṭṭhāko dīpaṅkarassa satthuno 
+  
+    Nandā ceva sunandā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato pipphalīti pavuccati  
+  
+    Tapussa bhallikā  nāma ahesuṃ aggupaṭṭhakā 
+ Sirimā soṇā upaṭṭhikā dīpaṅkarassa satthuno  
+  
+    Asīti hatthamubbedho dīpaṅkaro mahāmuni 
+  Sobhati dīparukkhova sālarājāva phullito 
+  
+    Satavassasahassāni   āyu   tassa mahesino 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Jotayitvāna saddhammaṃ santāretvā mahāsanaṃ  
+ Jalitvā aggikkhandhova nibbuto so sasāvako 
+  
+    Sā ca iddhi so ca yaso tāni capādesu cakkarattāni 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārāti  
+    Dīpaṅkaro jino satthā nandārāmamhi nibbuto 
+ Tattheva tassa jinathūpo chattiṃsubbedhayojanoti  
+  
+ Dīpaṅkarabuddhavaṃso paṭhamo  
+  
+   Mānasā syā   Vattacakko syā   Siridhare sīmu vasī jino syā   Tapassubhallikā sīmu  
+   Pahāniddhāvati tassa samantā dasayojane  syāmā 
+ Potthake idampi gāthaddhaṃ dissati  
+   Satasahassa vassani sīmu machasaṃ mavi   Āyuṃ sīmu   Santāretvā sadevakaṃ pū 
+  
+  
+  
+                  
+  
+   Koṇḍañña buddhavaṃso 
+                   
+   Dīpaṅkarassa aparena koṇḍañño nāma nāyako 
+ Anantatejo amitayaso appameyyo durāsado 
+  
+   Dharaṇupamo  khamanena sīlena sāgarūpamo 
+ Samādhinā merūsamo  ñāṇena gaganūpamo  
+  
+   Indriyabalabojjhaṅga   maggasaccappakāsanaṃ 
+ Pakāsesi sadā buddho hitāya sabbapāṇinaṃ 
+  
+   Dhammacakkaṃ pavattente   koṇḍaññe lokanāyake 
+ Koṭisatasahassānaṃ paṭhamābhisamayo ahu  
+  
+   Tato parampi desente naramarūnaṃ samāgame 
+ Navutikoṭisahassānaṃ dutiyābhisamayo ahu  
+  
+   Titthiye abhimaddanto yadā dhammamadesayi 
+ Asītikoṭisahassānaṃ dhammābhisamayo  ahū  
+  
+   Sannipātā tayo āsuṃ koṇḍaññassa mahesino 
+ Khiṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  
+  
+   Koṭisatasahassānaṃ paṭhamo āsi samāgamo 
+ Dutiyo koṭisahassānaṃ tatiyo navutikoṭinaṃ  
+  
+   Ahaṃ tena samayena vijitāvī nāma khattiyo 
+ Samuddaṃ antamantena   issariyaṃ  vattayāmahaṃ  
+    Koṭisatasahassānaṃ vimalānaṃ mahesinaṃ 
+ Saha lokaggānāthena paramannena tappayiṃ  
+  
+   Dharaṇūpamo so sīmu syā   Merūpamo machasaṃ syā   
+ Dhammacakkappavattane mavi   Tatiyābhisamayo machasaṃ syā   Samudda 
+ antamantena syā   Issaraṃ sīmu  
+  
+  
+                  
+  
+    Sopi maṃ buddho vyākāsi koṇḍañño lokanāyako 
+ Aparimeyye ito  kappe buddho loke bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+                   
+    Citto ca hatthāḷavako aggāhessantupaṭṭhakā 
+ Uttarā nandamātā ca   aggā hessantupaṭṭhikā  
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhīsaddā vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+   Aparimeyyato  machasaṃ   Nandamātā ca uttarā machasaṃ  
+  
+  
+                  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Tameva atthaṃ sādhento mahārajjaṃ jine adaṃ 
+ Mahārajjaṃ vajitvāna pabbajiṃ tassa santike  
+  
+    Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ 
+ Sabbaṃ pariyāpuṇitvāna sohayiṃ jinasāsanaṃ  
+  
+    Tatthappamatto viharanto nisajjaṭṭhānacaṅkame 
+ Abhiññāpāramiṃ  gantvā bramhalokamagacchahaṃ  
+  
+    Nagaraṃ rammavatī nāma sunando nāma khattiyo 
+ Sujātā nāma janikā koṇḍaññassa mahesino  
+  
+    Dasavassasahassāni agāramajjhaso vasī 
+ Suci suruci subho ca tayo pāsādamuttamā  
+  
+    Tīṇi satasahassāni nāriyo samalaṅkatā 
+ Rucidevī nāma nārī vijitaseno nāma atrajo  
+  
+    Nimitte caturo disvā rathayānena nikkhami 
+ Anūnadasamāsāni padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo koṇḍaññe dipaduttamo   
+ Vattī cakkaṃ mahāvīro devānaṃ nagaruttame  
+  
+    Bhaddo ceva subhaddo ca ahesuṃ aggasāvakā 
+ Anuruddho nāmupaṭṭhāko koṇḍaññassa mahesino  
+  
+   Abhiññāsu pāramī mavi   Pāsādavaramuttamā sīmu   Dvīpaduttamo machasaṃ  
+  
+  
+                  
+  
+    Tissā ca upatissā ca ahesuṃ aggasāvikā 
+ Sālakalyāṇiko bodhi koṇḍaññassa mahesino  
+  
+    Soṇo ca upasoṇo ca ahesuṃ aggupaṭṭhakā 
+ Nandā ceva sirimā ca ahesuṃ aggupaṭṭhikā  
+    So aṭṭhāsīti hatthāni accuggato mahāmunī 
+ Sobhati   uḷurājāva suriyo majjhantike   yathā  
+  
+    Vassasatasahassāni āyu vijjati tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+                   
+    Khīṇāsavehi vimalehi vicittā āsi medinī 
+ Yathāhi gaganaṃ uḷuhi evaṃ so upasobhatha  
+  
+    Tepi nāgā appameyyā asaṃkhobhā durāsadā 
+ Vijjupātaṃca dassetvā nibbutā te mahāyasā  
+  
+    Sā ca atuliyā jinassa iddhiñāṇaparibhāvito ca samādhi 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārāti  
+  
+    Koṇḍañño pavaro buddho candārāmamhi nibbuto 
+ Tattheva cetiyo citto sattayojanamussitoti  
+  
+ Koṇḍañña buddhavaṃso dutiyo  
+  
+   Sobhate  machasaṃ   Majjhantike machasa  
+  
+                  
+   Maṅgala buddhavaṃso 
+  
+   Koṇḍaññassa aparena maṅgalo nāma nāyako  
+ Tamaṃ loke nihantvāna dhammukkamabhidhārayi   
+  
+   Atulāsi   pahā tassa jinehaññehi uttariṃ  
+ Canda suriyappabhaṃ  hantvā dasa sahassī virocati    
+  
+   Sopi buddho pakāsesi caturo saccavaruttame   
+ Te te sacca rasaṃ pītvā vinodenti mahātamaṃ  
+  
+   Patvāna bodhimatulaṃ paṭhame dhammadesane  
+ Koṭisatasahassānaṃ paṭhamābhisamayo  ahu  
+  
+   Surindadevabhavane buddho dhammamadesayi    
+ Navakoṭisahassānaṃ   dutiyābhisamayo ahu  
+  
+   Yadā sunando cakkavatti sambuddhaṃ upasaṅkami  
+ Tadā ahani sambuddho dhammabheriṃ varuttamaṃ   
+  
+   Sunandassānucarā janatā tadāsuṃ navutikoṭiyo  
+ Sabbepi te niravasesā ahesuṃ ehibhikkhukā  
+  
+   Sannipātā tayo āsuṃ maṅgalassa mahesino  
+ Koṭisata sahassānaṃ paṭhamo āsi samāgamo  
+  
+   Dutiyo koṭisahassānaṃ tatiyo navuti koṭinaṃ  
+ Khīṇāsavānaṃ vimalānaṃ tadā āsi samāgamo  
+  
+   Dhammokkamabhidhārayī bahūsu   Atulāpi sīmu   Candasūriyapahaṃ machasaṃ  
+ Dhammokkaṃ abhidhārayi sīmu   Virocayīti sīmu   Catusacca varuttame sīmu  
+ Cattāro saccavaruttame pu   Dhammābhisamayo machasaṃ   Dhamme adesayi manupa 
+ yadā buddhopakāsayi 
+   Tadākoṭi sahassānaṃ machasaṃ manupa   Varuttamo manupa  
+  
+  
+                  
+  
+    Ahaṃ tena samayena surucī nāma brāhmaṇo  
+ Ajjhāyako mantadharo tiṇṇaṃ vedānaṃ pāragu  
+                   
+    Tamahaṃ upasaṅkamma saraṇaṃ gantvāna satthuno  
+ Sambuddhapamukhaṃ saṅghaṃ gandhamālena pūjayiṃ 
+ Pūjetvā gandhamālena gavapānena tappayiṃ  
+  
+    Sopi maṃ buddho vyākāsi maṅgalo dipaduttamo 
+ Aparimeyye ito  kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ   
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmu paṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nanda mātā ca aggā hessantupaṭṭhikā 
+ Āyu vassa sataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddha bījaṅkuro ayaṃ  
+   Aparimeyyato machasaṃ   Dukkarakāriyaṃ      
+  
+                  
+  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭenti   hasanti ca  
+ Katañjalī namassanti dassasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatampi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti   mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Uttariṃ  vatamadhiṭṭhāsiṃ dasa pārami pūriyā  
+  
+    Tadā pīti   manubrūhanto sambodhivara pattiyā  
+ Buddhe datvāna maṃ gehaṃ pabbajiṃ  tassa santike  
+  
+    Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ 
+ Sabbaṃ pariyāpuṇitvāna   sohayiṃ  jinasāsanaṃ  
+  
+    Tatthappamatto viharanto brahmaṃ bhāvetva  bhāvanaṃ 
+ Abhiññā pāramiṃ gantvā brahmalokamagacchahaṃ    
+  
+    Nagaraṃ uttaraṃ nāma   uttaro nāma khattiyo  
+ Uttarā nāma janikā maṅgalassa mahesino  
+  
+    Nava vassasahassāni agāra majjha so vasi 
+ Yasavā sucimā sirimā tayo pāsādamuttamā  
+    Samatiṃsa sahassāni nāriyo samalaṅkatā 
+ Yasavatī nāma nārī sīvalo nāma atrajo  
+  
+   Appotenti machasaṃ   Uttari manupa   Tadāpi manupa   Pabbaji manupa  
+   Pariyāpuṇitvā machasaṃ   Sobhati manupa   Bhāvetvā manupa machasaṃ  
+   Brahmaloka agacchihaṃ manupa   Uttaraṃ nāma nagaraṃ machasaṃ manupa  
+    Vatatamadhiṭhāsiṃ syā  
+  
+  
+                  
+  
+    Nimitte caturo disvā assa yānena nikkhami  
+ Anūnakaṃ aṭṭhamāsaṃ  padhānaṃ padahī jino  
+  
+    Brahmunā yācito satto maṅgalo lokanāyako  
+ Vatti cakkaṃ mahāvīro vane siri varuttame  
+  
+    Sudevo dhammaseno ca ahesuṃ aggasāvakā  
+ Pālito nāmupaṭṭhāko maṅgalassa mahesino  
+  
+    Sīvalā  ca asokā ca ahesuṃ aggasāvikā  
+ Bodhi tassa bhagavato nāgarukkhoti vuccati  
+  
+    Nando ceva visākho  ca ahesuṃ aggupaṭṭakā  
+ Anulā ceva sutanā ca ahesuṃ aggupaṭṭhikā  
+  
+    Aṭṭhāsīti ratanāni accuggato mahāmunī  
+ Tato niddhāvanti   raṃsī anekasatasahassiyo  
+  
+    Navutivassasahassāni   āyu vijjati tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Yathāpi sāgare ūmi na sakkā tā gaṇetuye  
+ Tatheva sāvakā tassa na sakkā te gaṇetuye  
+                   
+   Yāva aṭṭhāsi   sambuddho maṅgalo lokanāyako  
+ Ta tassa sāsane atthi saṃkilesa   maraṇaṃ tadā  
+  
+    Dhammukkaṃ  dhārayitvāna santāretvā mahājanaṃ  
+ Jalitvā   dhumaketūva nibbuto so mahāyaso    
+    Saṅkhārānaṃ sabhāvantaṃ dassayitvā sadevake jalitvā aggikkhandhova suriyo 
+ atthaṃgato yathā  
+  
+    Uyyāne vessare   nāma buddho nibbāyi maṅgalo  
+ Tattheva tassa jinathūpo tiṃsa yojanamuggatoti  
+ Maṅgala buddhavaṃso tatiyo  
+  
+   Anunakaṭṭhamāsāni manupa 
+   Maṅgalo nāma nāyako ma machasaṃ  
+ Anunaaṭṭhamāsāni machasaṃ syā   Sīlā manupa   Visākhā manupa  
+   Nidhāvati mavi   Navutivasasatasahassāni manupa   Yāvadaṭṭhāsi sīmu  
+   Sakilesa machasaṃ   Dhamme kkaṃ machasaṃ syā sīmu    Jāletvā sīmu  
+    Sasāvako sīmu    Vasasatarā ma yevatanā manupa  
+ Yevatano manupa  
+  
+  
+                  
+  
+   Sumana buddhavaṃso  
+   Maṅgalassa aparena sumano nāma nāyako 
+ Sabbadhammehi asamo sabbasattāna muttamo  
+  
+   Sopi tadā amatabheriṃ  ahanī   mekhale pure  
+ Dhammasaṅkhasamāyuttaṃ navaṅgaṃ jinasāsanaṃ  
+  
+   Nijjinitvā  kilese so  patvā sambodhimuttamaṃ 
+ Māpesi nagaraṃ satthā  saddhammapuravaruttamaṃ    
+  
+   Nirantaraṃ akuṭilaṃ ujuṃ  vipula vitthataṃ māpesi so mahāvīthiṃ 
+ satipaṭṭhānavaruttamaṃ  
+  
+   Phale cattāri sāmaññe catasso paṭisambhidā 
+ Chaḷabhiññāṭṭha samāpatti pasāresi tattha vīthiyaṃ  
+  
+   Ye appamattā akhilā hiri viriyehupāgatā 
+ Te te ime guṇavare ādiyanti yathā sukhaṃ  
+  
+   Evametena yogena uddharanto mahājanaṃ 
+ Bodhesi paṭhamaṃ satthā koṭisatasahassiyo  
+  
+   Yamhi kāle mahāvīro ovadi   titthiye gaṇe 
+ Koṭi sahassābhisamiṃsu   dutiye dhammadesane  
+  
+   Yadā devā manussā ca samaggā ekamānasā 
+ Nirodha pañhaṃ pucchiṃsu saṃsayañcāpi mānasaṃ    
+  
+    Tadāpi dhammadesane   nirodha paridīpane   
+ Navuti koṭi sahassānaṃ tatiyābhisamayo   ahu  
+  
+   Tadāamatabheriṃ so machasaṃ   Āhani machasaṃ āhari manupa   Nijinitvā manupa  
+ Vicinitvā sīmu jinitvāna       Kilesehi pu   Tattha sīmu  
+   Dhammapuravaruttame sīmu   Uca manupa ma       Ovadati sīmu  
+   Koṭisatasahassānaṃ abhisamiṃsu manupa    Mānaso mavi    Dhammaṃ desento mavi 
+    Paridīpanaṃ mavi    Dhammābhisamayo mavi 
+  
+                  
+  
+    Sannipātā tayo āsuṃ sumanassa mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santa cittāna tādinaṃ  
+                   
+    Vassaṃ vutthassa bhagavato abhighuṭṭhe  pavāraṇe 
+ Koṭisatasahassehi pavāresi tathāgato  
+  
+    Tato paraṃ sannipāte vimale kañcana pabbate 
+ Navutikoṭisahassānaṃ dutiyo āsi samāgamo  
+  
+    Yadā sakko devarājā buddhadassanupāgami 
+ Asītikoṭisahassānaṃ tatiyo āsi samāgamo  
+  
+    Ahaṃ tena samayena nāgarājā mahiddhiko 
+ Atulo nāma nāmena ussannakusalasañcayo   
+  
+    Tadāhaṃ nāgabhavanā nikkhamitvā sa ñātihi 
+ Nāgānaṃ dibbaturiyehi sasaṅghaṃ jinamupaṭṭhahiṃ  
+  
+    Koṭi sata sahassānaṃ annapānena tappayiṃ  
+ Paccekaṃ  dussayugaṃ datvā saraṇaṃ taṃ upāgamiṃ  
+  
+    Sopi maṃ buddho vyākāsi sumano loka nāyako 
+ Aparimeyye ito kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjara mupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattha rukkhamūlamhi bujjhissati mahāyaso  
+  
+   Abhisaṃghuṭṭhe sya   Ussannakusalapaccayo sīmu   Tappayi dhasu vèmu  
+   Sacceka mua     Uppannakusala sañcayo syā  
+  
+  
+                  
+  
+    Imassa janitā mātā māyā nāma bhavissati 
+ Sītā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggāhessanti sāvakā  
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā  
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassa sataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddha bījaṅkuro ayaṃ  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasa sahassī sadevakā  
+  
+    Yadimassa loka nāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ anāgatamhi addhāne hessāma 
+ sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapārami pūriyā  
+  
+    Mekhalaṃ nāma  nagaraṃ sudatto nāma khattiyo 
+ Sirimā nāma janikā sumanassa mahesino  
+  
+    Nava vassa sahassāni agāramajjhaso vasī    
+ Cando sucando caṭaṃso ca tayo pāsādamuttamā  
+  
+   Nagaraṃ mekhalaṃ nāma machasaṃ   Agāraṃ ajjha so vasī machasaṃ  
+  
+  
+                  
+  
+    Te saṭṭhisahassāni   nāriyo samalaṅkatā  
+ Vaṭaṃsikā   nāma nārī anupamo nāma atrajo  
+  
+    Nimitte caturo disvā hatthiyānena nikkhami 
+ Anūnadasamāsāni padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo sumano loka nāyako 
+ Vatti cakkaṃ mahāvīro mekhale puramuttame   
+  
+    Saraṇo bhāvitatto ca ahesuṃ aggasāvakā  
+ Udeno nāmupaṭṭhāko sumanassa mahesino  
+  
+    Soṇā ca upasoṇā ca ahesuṃ aggasāvikā  
+ Sopi buddho amitayaso nāgamūle abujjhatha  
+  
+    Varuṇo ca saraṇo ca ahesuṃ aggupaṭṭhakā 
+ Cālā ca upacālā ca ahesuṃ aggupaṭṭhikā  
+  
+    Uccavattanena   so buddho navuti hatthasamuggato 
+ Kañcanagghiya saṃkāso dasa sahassī virocati    
+  
+    Navuti vassa sahassāni āyuvijjati tāvade  
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+                   
+    Tāraṇīye tārayitvā bodhanīye ca bodhayī 
+ Parinibbāyi sambuddho uḷurājāca atthamī    
+  
+    Tepi khīṇāsavā bhikkhu so ca buddho asādiso 
+ Atulaṃ pahaṃ dassayitvā nibbutā te mahāyasā  
+  
+    Tañca ñāṇaṃ atuliyaṃ tāni cātuliyāni ratanāni 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Sumano yasadharo buddho aṅgāramamhi nibbuto 
+ Tatveva tassa jinathūpo catuyojana muggatoti  
+  
+ Sumana buddhavaṃso catuttho  
+  
+   Tesaṭṭhisata sahassāni machasaṃ   Vaṭaṃsakī sīmu syā vaṭaṃsakā mavi valaṃ 
+ sīki       Puravaruttame sīmu mavi syā   Uccatarena sīmu   Virocatha sīmu  
+   Aṭṭhavī sīmu  
+  
+  
+                  
+  
+   Revata buddhavaṃso 
+  
+   Sumanassa aparena revato nāma nāyako 
+ Anupamo asadiso atulo uttamo jino  
+   Sopi dhammaṃ pakāsesi brahmunā abhiyācito 
+ Khandhadhātuvavatthānaṃ appavattaṃ bhavābhave  
+   Tassābhisamayā tīṇi ahesuṃ dhammadesane 
+ Gaṇanāya na vattabbo paṭhamābhisamayo ahū  
+  
+   Yadā arindamaṃ rājaṃ vinesi revato muni 
+ Tadā koṭisahassānaṃ  dutiyābhisamayo ahū  
+  
+   Sattāhaṃ paṭisallānā vuṭṭhahitvā narāsabho 
+ Koṭisataṃ naramarūnaṃ  vinesi uttame phale  
+  
+   Sannīpātā tayo āsuṃ revatassa mahesino 
+ Khīṇāsavānaṃ vimalānaṃ suvimuttāna tādinaṃ   
+  
+   Atikkattā gaṇanapathaṃ  paṭhamaṃ ye samāgatā  
+ Koṭisatasahassānāṃ dutiyo āsi samāgamo  
+  
+   Yopi   paññāya asamo tassa cakkānuvattako 
+ So tadā vyādhito āsi patto jīvitasaṃsayaṃ  
+  
+   Tassa gilānapucchāya   ye tadā upagatā muni 
+ Koṭisatasahassā  arahanto tatiyo āsi samāgamo  
+  
+    Ahaṃ tena samayena atidevo nāma brāhmaṇo 
+ Upagantvā revataṃ buddhaṃ saraṇaṃ tassa gacchahaṃ  
+    Tassa sīlaṃ samādhiñca paññāguṇamanuttamaṃ  
+ Thomayitvā yathāthāmaṃ uttarīyamadāsahaṃ  
+                   
+    Sopi maṃ buddho vyākāsi revato lokanāyako 
+ Aparimeyye ito kappe ayaṃ buddho  bhavissati  
+   Koṭisatasahassānaṃ sīmu   Naravarā machasaṃ   Suvimuttānaṃ tādīnaṃ khasu sīmu  
+       Atikkantagaṇapathā khaya vèmu       Yoso machasaṃ vèmu      
+   Gilāni mavi   Koṭisahasahassa machasa koṭisatasahassānaṃ syā   
+ Guṇavaruttamaṃ sīmu   Sambuddhe sīmu  
+  
+  
+                  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhīṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā  
+ Ānando nāmu paṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthālavako aggā hessantu paṭṭhakā 
+ Uttarā nandamātā ca aggā hessantu paṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjali namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmi maṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+                  
+  
+    Tassāpi vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramīpūriyā  
+    Tadāpi maṃ  buddhadhammaṃ saritvā anubrūhayiṃ āharissā mi taṃ dhammaṃ yaṃ 
+ mayhaṃ  abhipatthitaṃ  
+  
+    Nagaraṃ sudhaññavati   nāma vipulo nāma khattiyo 
+ Vipulā nāma janikā revatassa mahesino  
+  
+    Chabbassasahassāni   agāramajjhaso vasī  
+ Sudassano ca ratanagaghi   āceḷo  ca vibhūsito 
+ Puññakammābhinibbattā tayo pāsāda muttamā  
+  
+    Tettiṃsa sahassāni   nāriyo samalaṅkatā 
+ Sudassanā nāma devī varuṇo nāma atrajo  
+  
+    Nimitte caturo disvā rathayānena nikkhami 
+ Anūnasattamāsāni padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo revato loka nāyako 
+ Vattī cakkaṃ mahāvīro varuṇā rāme sirīghare   
+  
+    Varuṇo brahmadevo ca ahesuṃ aggasāvakā 
+ Sambhavo nāmupaṭṭhāko revatassa mahesino  
+  
+    Bhaddā ceva subhaddā ca ahesuṃ aggasāvikā 
+ Sopi buddho asamasamo nāgamūle abujjhatha  
+  
+    Padumo kuñjaro ceva ahesuṃ aggupaṭṭhakā sirimā veva yasavatī ahesuṃ 
+ aggupaṭṭhikā  
+  
+    Uccattanena   so buddho asīti hattha muggato 
+ Ohāseti disā sabbā indaketūva uggato  
+  
+   Taṃ machasaṃ   Mayaṃ manupa   Sudhammakaṃ sīmu sudhaññakaṃ     syā  
+   Cha ca vassasahassāni machasaṃ   Sudassane ratanagghi machasaṃ   Acelo sīmu  
+   Tettiṃsa ca sahassa ni machasaṃ   Sirīghane sīmu  Vatatavatetā mahāvīro varuṇārāme 
+ vasi jino  syā   Uccatarena sīmu  
+  
+  
+                  
+  
+    Tassa sarīre nibbattā pahā mālā anuttarā 
+ Divā vā yadivā rattiṃ samantā pharati  yojanaṃ   
+  
+    Saṭṭhivassasahassāni āyu vijjati tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Dassayitvā buddhabalaṃ amataṃ loke pakāsayaṃ 
+ Nibbāyi anupādāno yathaggupādānasaṅkhayā  
+  
+    So ca kāyo ratananibho so ca dhammo asādiso 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+    Revato yasadharo buddho nibbuto so mahāmuni   
+ Dhātuvitthārikaṃ āsī tesu tesu padesatoti  
+  
+ Revata buddhavaṃso pañcamo  
+  
+   Eri sīmu  
+   Tassa dehābhinibbattaṃ pahājālamanuttaraṃ 
+ Divā ceva tadā rattiṃ niccaṃ pharati yojanaṃ  
+ Dhātuyo mama sabbāpi vikirantuti so jino  
+ Adhiṭṭhāsi mahā vīro sabba sattānu kampako  
+ Mahāsāre panuyyāne mahato nagarassa yojane pūjito nara sārehi parinibbāyi revato  bua  
+   Mahāpūre machasaṃ  
+  
+  
+                  
+  
+   Sobhita buddhavaṃso 
+                   
+   Revatassa aparena sobhito nāma nāyako 
+ Samāhito santacitto asamo appaṭipuggalo  
+  
+   So jino sakagehamhi mānasaṃ vinīvaṭṭayī  
+ Patvāna kevalaṃ bodhiṃ dhammacakkaṃ pavattavī    
+  
+   Yāva heṭṭhā avīcito bhavaggācāpi uddhato  
+ Etthantare ekaparisā ahosi dhammadesane  
+  
+   Tāya parisāya sambuddho dhammacakkaṃ pavattayī 
+ Gaṇanāya na vattabbo paṭhamābhisamayo ahū  
+  
+   Tato parampi desente   marūnaṃ ca   samāgame 
+ Navutikoṭisahassānaṃ dutiyābhisamayo ahū  
+  
+   Punāparaṃ rājaputto jayaseno nāma khattiyo 
+ Ārāmaṃ ropayitvāna buddhe niyādayi tadā  
+  
+   Tassa yāgaṃ pakittento dhammaṃ desesi cakkhumā 
+ Tadā koṭisahassānaṃ tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ sobhitassa mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Uggato nāma so rājā dānaṃ deti naruttame 
+ Tamhi dāne samāgañchuṃ arahantā satakoṭiyo  
+  
+    Punāparaṃ puragaṇo  deti dānaṃ naruttame 
+ Tadā navutikoṭinaṃ dutiyo āsi samāgamo  
+  
+   Vinivattayi     machasaṃ syā   Cakkappavattayi sīmu  
+   Yāva uddhaṃ avīvito bhavaggācāpiheṭṭhato       Desento mavi  
+   Naramarūnaṃ  sīmu syā   Pūgagaṇe syā  
+  
+  
+                  
+    Devaloke vasitvāna yadā orohatī jino 
+ Kadā asītikoṭinaṃ tatiyo āsi samāgamo  
+  
+    Ahaṃ tena samayena sujāto nāma brāhmano 
+ Tadā sasāvakaṃ buddhaṃ annapānena tappayiṃ  
+  
+    Sopi maṃ buddho vyākāsi   sobhito lokanāyako 
+ Aparīmeyye ito kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapārukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro  
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati  
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā  
+ Ānando nāmu paṭṭhāko upaṭṭhissati taṃ jinaṃ  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā  
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantu paṭṭhakā  
+ Uttarā nandamātā ca aggā hessantu paṭṭhikā  
+ Āyu vassa sataṃ tassa gotamassa yasassino  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+   Viyākāsi mavi  
+  
+  
+                  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca 
+ Katañjalī namassanti dasa sahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadimuñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā haṭṭho saṃviggamānaso 
+ Tamevatthamanuppattiyā uggaṃ dhitimakāsahaṃ  
+  
+    Sudhammaṃ nāma nagaraṃ sudhammo nāma khattiyo 
+ Sudhammā nāma janikā sobhitassa mahesino  
+                   
+    Navavassasahassāni agāramajjhaso vasī 
+ Kumudokalīro  padumo tayo pāsādamuttamā  
+  
+    Sattati sahassāni   nāriyo samalaṅkatā 
+ Makhīlā  nāma sā nārī sīho nāmāsi atrajo  
+  
+    Nimitte caturo disvā pāsādenābhi nikkhami 
+ Sattāhaṃ padhānācāraṃ caritvā purisuttamo 
+ Bujjhamāno ca so buddho nāgamūle abujjhatha  
+  
+    Brahmunā yācito santo sobhito lokanāyako 
+ Vatti cakkaṃ mahāvīro sudhamamuyyānamuttame  
+  
+    Asamo ca sunento ca ahesuṃ aggasāvakā  
+ Anomo  nāmu paṭṭhāko sobhitassa mahesino 
+ Nakulā ca sujātā ca ahesuṃ aggasāvikā  
+  
+   Nāḷino machasaṃ   Sattatiṃsa sahassāni machasaṃ  
+ Ticattāri sahassāni syā  
+ Chasattati sahassāni sīmu  
+   Maṇīlā machasaṃ makilā syā  
+   Gāthaddhoyaṃ machasaṃ syāma potthakesu na vijjati  
+   Vattacakko syā   Anumo sīmu  
+  
+  
+                  
+  
+    Rammo ceva sudatto ca ahesuṃ aggupaṭṭhakā 
+ Nakulā ceva cittā ca ahesuṃ aggupaṭṭhikā  
+  
+    Aṭṭhapaññāya ratanaṃ accuggato mahāmuni 
+ Obhāseti disā sabbā sataraṃsīva uggato  
+  
+    Yathā suphullaṃ pavanaṃ nānā gandhehi dhūpitaṃ 
+ Tatheva tassa pāvacanaṃ sīlagandhehi dhūpitaṃ  
+  
+    Yathāpi sāgaro nāma dassanena atappiyo 
+ Tatheva tassa pāvacanaṃ savaṇena atappiyaṃ  
+  
+    Navutivassasahassāni āyu vijjati tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Ovādaṃ anusiṭṭhiñca datvāna sesake jane 
+ Hūtāsanova tāpetvā nibbuto so sa sāvako  
+  
+    So ca buddho asamasamo teca  sāvakā balappattā 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Sobhito varasambuddho sīhārāmamhi nibbuto 
+ Dhātu vitthārikaṃ āsi tesu tesu padesatoti  
+  
+ Sobhita buddhavaṃso chaṭṭho  
+   Tepi ca sīmu tepi machasaṃ  
+  
+                    
+  
+   Anomadassi buddhavaṃso 
+                   
+   Sobhitassa aparena sambuddho dipaduttamo 
+ Anomadassī amitayaso tejassī  duratikkamo  
+  
+   So chetvā bandhanaṃ sabbaṃ viddhaṃsetvā tayo bhave 
+ Anivatti gamanaṃ maggaṃ desesi devamānuse  
+  
+   Sāgarova asaṅkhobho  pabbatova durāsado 
+ Ākāsova ananto so sālarājāva phullito  
+  
+   Dassanenapi taṃ buddhaṃ tositā honti pāṇino 
+ Vyāharantaṃ gira sutvā amataṃ pāpuṇanti te  
+   Dhammābhisamayo tassa iddho phito tadā ahu 
+ Koṭisatāni abhisamiṃsu paṭhame dhammadesane  
+  
+   Tato paramhi samaye   vassante dhammavuṭṭhiyo 
+ Asītikoṭiyo abhisamiṃsu dutiye dhammadesane  
+  
+   Tato parampi vassante tappayante ca pāṇinaṃ  
+ Aṭṭhasattatikoṭīnaṃ tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ tassāpi ca mahesino 
+ Abhiññā balappattānaṃ pupphitānaṃ vimuttiyā  
+  
+   Aṭṭhasatasahassānaṃ sannipāto tadā ahū 
+  
+ Pahīnamadamohānaṃ santacittāna   tādinaṃ  
+  
+    Sattasatasahassānaṃ dutiyo āsi samāgamo 
+ Anaṅgaṇānaṃ virajānaṃ upasantāna tādinaṃ  
+   Techasi sīmu syā   Asaṅkhobho mavi   Tato paraṃ abhisamaye machasaṃ syā 
+ Tato parampi abhisamaye sīmu  
+   Santacittānaṃ ma  
+  
+  
+                    
+  
+    Channaṃ satasahassānaṃ tatiyo āsi samāgamo 
+ Abhiññābalappattānaṃ  nibbutānaṃ tapassīnaṃ  
+  
+    Ahaṃ tena samayena yakkho āsiṃ mahiddhiko 
+ Nekānaṃ yakkhakoṭīnaṃ vasavattīmahissaro   
+  
+    Tadāpi taṃ buddhavaraṃ upagantvā mahesinaṃ 
+ Annapānena tappesiṃ sasaṅghaṃ lokanāyakaṃ  
+    Sopi maṃ tadā vyākāsi   visuddhanayano muni 
+ Aparimeyye ito kappe ayaṃ buddho  bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+   Balapattānaṃ mavi   Vasavattimhi sīmu machasaṃ syā   Vyākāsi sīmu  
+   Sambuddho sīmu  
+  
+  
+                    
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā  
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī samassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ anāgatamhi addhāne hessāma sammukhā 
+ imaṃ  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā haṭṭho saṃviggamānaso 
+ Uttariṃ vata madhiṭṭhāsiṃ dasa pāramipūriyā  
+                   
+    Nagaraṃ candavatī  nāma yasavā nāma khattiyo 
+ Mātā yasodharā nāma anomadassissa satthuno  
+  
+    Dasa vassasahassāni agāramajjhaso vasī 
+ Siri upasirisirivaḍḍho tayo pāsāda muttamā  
+  
+    Tevīsatisahassāni nāriyo samalaṅkatā 
+ Sirimā nāma nārī ca upavāno  nāma atrajo  
+  
+    Nimitte caturo disvā sivikāyābhinikkhami 
+ Anūnadasamāsāni padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo anomadassī mahāmuni 
+ Vattivakkaṃ mahāvīro uyyāne so sudassane  
+  
+   Bandhumatī dhammapadaaggasāvaka      Upavāraṇo mavi  
+  
+  
+                    
+  
+    Nisabho ca   anomo  ca ahesuṃ aggasāvakā 
+ Varuṇo nāmupaṭṭhāko anomadassissa satthuno  
+  
+    Sundarī   ca sumanā ca ahesuṃ aggasāvikā  
+ Bodhi tassa bhagavato ajjunoti pavuccati  
+  
+    Nandivaḍḍho sirivaḍḍho ahesuṃ aggupaṭṭhakā 
+ Uppalā ceva padumā ca ahesuṃ aggupaṭṭhikā  
+    Aṭṭhapaññāsa ratanaṃ accuggato mahāmuni 
+ Pabhā niddhāvati tassa sataraṃsīva uggato  
+    Vassasatasahassāni āyu vijjati tāvade tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Supupphitaṃ pāvacanaṃ arahantehi tādihi 
+ Vītarāgehi vimalehi sobhittha jinasāsanaṃ  
+  
+    So ca satthā amitayaso yugāni tāni   atuliyāni 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Anomadassī jino satthā dhammārāmamhi nibbuto 
+ Tattheva tassa jinathūpo ubbedho pañcavīsatīti  
+  
+ Anomadassī buddhavaṃso sattamo  
+  
+   Nipako manupa   Asoko sīmu   Sundarā dhammapadaṭṭakathā     
+   Tīṇi sīmu  
+  
+  
+                    
+  
+   Paduma buddhavaṃso 
+                   
+   Anoma dassissa aparena sambuddho dipaduttamo 
+ Padumo nāma nāmena asamo appaṭipuggalo  
+   Tassāpi asamaṃ sīlaṃ samādhipi anantako 
+ Asaṅkheyyaṃ ñāṇavaraṃ vimutti ca anūpamā  
+   Tassāpi atulatejassa dhammacakkappavattane 
+ Abhisamayā tayo āsuṃ mahātamapavāhanā  
+  
+   Paṭhamābhisamaye buddho koṭisatamabodhayī 
+ Dutiyābhisamaye dhīro navutikoṭimabodhayī  
+  
+   Yadā ca padumo buddho ovadī sakamatrajaṃ 
+ Tadā asītikoṭīnaṃ tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ padumassa mahesino  
+ Koṭisatasahassānaṃ paṭhaho āsi samāgamo  
+  
+   Kaṭhina tthārasamaye uppanne kaṭhina cīvare 
+ Dhammasenāpatatthāya   bhikkhu sibbiṃsu cīvaraṃ    
+  
+   Tadā te vimalā bhikkhu chaḷabhiññā mahiddhikā 
+ Tīṇi satasahassāni samiṃsu aparājitā  
+   Punāparaṃ so narāsabho  pavane vāsaṃ upāgato  
+ Tadā samāgamo āsā dvinnaṃ satasahassānaṃ   
+  
+    Ahaṃ tena samayena sīho āsiṃ migādhibhū  pavivekamanubrūhantaṃ pavane addasaṃ 
+ jinaṃ   
+  
+    Vanditvā sirasā pāde katvāna taṃ padakkhiṇaṃ 
+ Tikkhattuṃ abhināditvā sattāhaṃ jinamupaṭṭhahiṃ   
+  
+    Sattāhaṃ varasamāpattiyā uṭṭhahitvā tathāgato 
+ Manasā cintayitvāna koṭibhikkhu samānayī  
+  
+   Kathina machasaṃ   Dhammasenāpatitthāya machasaṃ   Cīvare mavi  
+   Narausabho syā   Upāgami machasaṃ syā       Satasahassīnaṃ machasaṃ  
+   Migāhibhū syā   Vivekamanubrūhanataṃ pavane vāsaṃ upāgataṃ sīmu  
+   Jinamupaṭṭhahaṃ machasaṃ mavi  
+  
+  
+                    
+  
+    Tadāpi so mahāvīro tesaṃ majjhe viyākarī 
+ Aparimeyye ito kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilamhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhīṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā  
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthālavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassa sataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭhenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+                    
+  
+    Tassāpi vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramī pūriyā  
+    Campakaṃ nāma nagaraṃ asamo nāma khattiyo 
+ Asamā nāma janikā padumassa mahesino  
+                   
+    Dasavassasahassāni agāramajjhaso vasi 
+ Uttaravasuyasuttarā  tayo pāsādamuttamā  
+  
+    Tettiṃsa satasahassāni nāriyo samalaṅkatā 
+ Uttarā nāma sā nāri rammo nāmāsi atrajo  
+  
+    Nimitte caturo disvā rathayānena nikkhamī 
+ Anūnaaṭṭhamāsāni   padhānaṃ padahī jino  
+  
+    Brahmunā yācitosanto padumo lokanāyako 
+ Vatti cakkaṃ mahāvīro dhanañjayuyyānamuttame  
+  
+    Sālo ca upasālo ca ahesuṃ aggasāvakā  
+ Varuṇo nāmupaṭṭhāko padumassa mahesino  
+    Rādhā ceva surādhāca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato mahāsoṇoti vuccati  
+  
+    Bhīyyo ceva asamo ca ahesuṃ aggupaṭṭhakā 
+ Rucī ca nandarāmā ca ahesuṃ aggupaṭṭhikā  
+    Aṭṭhapaññasaratanaṃ accuggato mahāmunī 
+ Pabhā niddhāvati tassa asamā sabbato disā  
+  
+    Candappabhā suriyappabhā ratanaggi maṇippabhā  
+ Sabbāpi tā hatā honti patvā jinapabhuttamaṃ  
+  
+    Vassasatasahassāni āyu vijjati tāvade  
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Paripakkamānase satte bodhayitvā asesato 
+ Sesaññe  anusāsitvā nibbuto so sasāvako  
+  
+    Uragova tacaṃ jiṇṇaṃ vaddhaṃ  pattaṃva pādapo 
+ Jahitvā sabbasaṅkhāre nibbuto so yathā sikhī  
+  
+    Padumo jinavaro satthā dhammārāmamhi nibbuto 
+ Dhātuvitthārikaṃ āsi tesu tesu padesato  
+  
+   Nandā vasu yasuttarā machasaṃ nandā ca suyasā uttarā sīmu  
+ Nando vasu yasuttaro syā  
+   Anūnakaṭṭhamāsāni machasaṃ anūnakaṃaḍḍhamāsaṃ sīmu       Ratanagghi sīmu  
+   Sesake sīmu machasaṃ   Vuḍḍhaṃ sīmu     
+                    
+  
+   Nārada buddhavaṃso  
+                   
+   Padumassa aparena sambuddho dipaduttamo 
+ Nārado nāma nāmena asamo appaṭipuggalo  
+  
+   So buddho cakkavattissa jeṭṭho dayitaoraso 
+ Āmuttamālābharaṇo  uyyānaṃ upasaṅkami  
+  
+   Tatthāsi   rukkho yasavipulo abhirūpo brahā suvī 
+ Tamajjhappatvā upanisīdi mahāsoṇassa heṭṭhato  
+  
+   Tattha ñāṇavaruppajji anantaṃ vajirūpamaṃ 
+ Tena vicini saṅkhāre ukkujjamavakujjakaṃ  
+  
+   Tattha sabba kilesāni asesamabhivāhayī 
+ Pāpuṇi kevalaṃ bodhiṃ buddhañāṇo ca cuddasa  
+   Pāpuṇitvāna sambodhiṃ dhammacakkaṃ pavattayī 
+ Koṭisatasahassānaṃ paṭhamābhisamayo ahū  
+   Mahādoṇaṃ nāgarājaṃ vinayanto mahāmuni 
+ Pāṭiheraṃ tadākāsi dassayanto sadevake  
+  
+   Tadā devamanussānaṃ tamhi dhammappakāsane  
+ Navutikoṭisahassāni tariṃsu sabbasaṃsayaṃ  
+  
+   Yamhi kāle mahāvīro ovadi sakamatrajaṃ 
+ Asītikoṭi sahassānaṃ tatiyābhisamayo ahu  
+    Sannipātā tayo āsuṃ nāradassa mahesino 
+ Koṭisatasassānaṃ paṭhamo āsi samāgamo  
+  
+    Yadā buddho buddhaguṇaṃ sanidānaṃ pakāsayi 
+ Navutikoṭisahassāni samiṃsu vimalā tadā  
+  
+   Āmuttamālyābharaṇo sīmu       Tatrāsi sīmu  
+ Āmuttamalyābharaṇo syā Tatthāpi manupa  
+  
+                    
+  
+    Yadā cerocano nāgo dānaṃ dadāti satthuno 
+ Tadā samiṃsu jinaputtā asitisatasahassiyo   
+  
+    Ahaṃ tena samayena jaṭilo uggatāpano  
+ Antalikkhacaro āsiṃ pañcābhiññāsu pāragū  
+  
+    Tadāpahaṃ  asamasamaṃ sasaṅghaṃ saparijjanaṃ 
+ Annapānena tappetvā candanenābhipūjayiṃ  
+  
+    Sopi maṃ buddho  vyākāsi nārado loka nāyako 
+ Aparimeyye ito kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tiramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+    Kolito upatisso ca aggā hessanti sāvakā  
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā  
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarānandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+   Asītisatasahassino syā   Tadāpāhaṃ machasaṃ syā sīmu  manupa  
+   Sambuddho sīmu  
+  
+  
+                    
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ  
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+                   
+    Tassāpi vacanaṃ sutvā bhīyyo bhāvetva  mānasaṃ 
+ Adhiṭṭhahiṃ vataṃ uggaṃ dasapāramīpūriyā  
+    Nagaraṃ dhaññavatī nāma sudevo nāma khattiyo 
+ Anomā nāma janikā nāradassa mahesino  
+  
+    Navavassasahassāni agāramajjhaso vasī  
+ Jito vijito vijitābhirāmo  tayo pāsāda muttamā  
+  
+    Ticattārīsasahassāni nāriyo samalaṅkatā 
+ Vijitasenā  nāma nārī nanduttaro nāma atrajo  
+  
+    Nimitte caturo disvā pa sā  gamanena nikkhamī 
+ Sattāhaṃ padhanacariyaṃ  Acarī lokanāyako  
+  
+   Bhāsetva sīmu machasaṃ syā bhāsetvā      
+   Jino vijitābhirāmo machasaṃ syā  
+ Jitā vijitā bhūrimā sīmu   Jitasenā sīmu   Pāsāda sīmu   Padhānacāraṃ machasaṃ syā  
+  
+  
+                    
+  
+    Brahmunā yācito santo nārado lokanāyako 
+ Vatti cakkaṃ mahāvīro dhanañjayuyyāna muttame  
+  
+    Bhaddasālo jitamitto ahesuṃ aggasāvakā 
+ Vāseṭṭho nāmupaṭṭhāko nāradassa mahesino  
+  
+    Uttarā phaggunī ceva ahesuṃ aggasāvikā  
+ Bodhi tassa bhagavato mahāsonoti vuccati  
+  
+    Uggarindo ca vasabho ca ahesuṃ aggupaṭṭhakā 
+ Indīvarī ca undī ca  ahesuṃ aggupaṭṭhikā  
+  
+    Aṭṭhāsītiratanāni accuggato mahāmuni 
+ Kañcanagghiyasaṃkāso dasasahassī virocati    
+  
+    Tassa vyāmappabhā kāyā niddhāvati disodisaṃ 
+ Nirantaraṃ divārattiṃ yojanaṃ pharate tadā   
+  
+    Na keci tena samayena samantā yojane janā 
+ Ukkā padīpe ujjālenti   buddharaṃsena otthaṭā  
+    Navutivassasahassāni ayu vijjati tāvade  
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Yathā uḷuhi gaganaṃ vicittaṃ upasobhati 
+ Tatheva sāsanaṃ tassa arahantehi sobhati  
+  
+    Saṃsārasotaṃ taraṇāya sesake paṭipantake 
+ Dhammasetuṃ daḷhaṃ katvā nibbuto so narāsabho  
+  
+    Sopi buddho asamasamo tepi khīṇāsavā atulatejā  
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Nārado jinavasabho nibbuto sudassane pure 
+ Tattheva jinatūpavaro catuyojanamuggatoti  
+  
+ Nārada buddhavaṃso navamo  
+  
+   Indāvarī ca caṇḍī ca   machasaṃ Indavarī ca gaṇḍī ca  syā  
+   Virocatha sīmu   Disā sīmu Sadā syā machasaṃ   Ujjalenti      
+  
+  
+                    
+  
+    Padumuttara buddhavaṃso 
+                   
+   Nāradassa aparena sambuddho dipaduttamo  padumuttaro nāma jino akkhobho  
+ sāgarūpamo  
+   Maṇḍakappova so āsi yamhi buddho  ajāyatha 
+ Ussannakusalā janatā tamhi kappe   ajāyatha  
+  
+   Padumuttarassa bhagavato paṭhame dhammadesane 
+ Koṭisatasahassānaṃ dhammābhisamayo ahū  
+  
+   Tato parampi vassante tappayante ca pāṇino 
+ Sattatiṃsatasahassānaṃ dutiyābhisamayo ahū  
+  
+   Yamhi kāle mahāvīro ānandaṃ upasaṅkami 
+ Pitusantikamupāgantvā ahani   amatadundubhiṃ  
+  
+   Āhate   amatabherimhi   vassante dhammavuṭṭhiyā  
+ Paññāsasatasahassānaṃ tatiyābhisamayo ahū  
+  
+   Ovādako viññāpako tārako sabbapāṇinaṃ 
+ Desanākusalo buddho tāresi janataṃ bahuṃ  
+  
+   Sannipātā tayo āsuṃ padumuttarassa satthuno 
+ Koṭisatasahassānaṃ paṭhamo āsi samāgamo  
+  
+   Yadā buddho asamasamo vasī vehārapabbate 
+ Navutikoṭisahassānaṃ dutiyo āsi samāgamo  
+  
+    Puna cārikaṃ pakkante gāmanigamaraṭṭhato asītikoṭisahassānaṃ tatiyo āsi samāgamo  
+  
+    Ahaṃ tena samayena jaṭilo nāma raṭṭhiko 
+ Sambuddhapamukhaṃ saṅghaṃ sahattaṃ dussamadāsahaṃ  
+  
+   Dvīpaduttamo sīmu   Akkhobho mavi       Buddhā sīmu  
+   Kāle   sīmu   Āhani machasaṃ   Ahate sīmu  
+   Dhammabherīmhi sīmu amatadundubhiṃ       Vuṭṭhiyo sīmu  
+  
+  
+                    
+  
+    Sopi maṃ buddho  vyākāsi saṅghamajjhe nisīdiya 
+ Satasahasse ito kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato  
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā  
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggāhessanti sāvikā  
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthālavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+   Tadā   sīmu  
+  
+  
+                    
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā uttariṃ vatamadhiṭṭhahiṃ 
+ Akāsimuggaṃ daḷhadhitiṃ dasapāramipūriyā  
+  
+    Vyāhatā  titthiyā sabbe vimanā dummanā tadā 
+ Na tesaṃ keci paricaranti raṭṭhato nicchubhanti te  
+                   
+    Sabbe tattha samāgantvā upagañjuṃ  buddhasantike 
+ Tuvaṃ nātho mahāvīra saraṇaṃ hohi cakkhuma    
+  
+    Anukampako kāruṇiko hitesī sabbapāṇinaṃ 
+ Sampatte titthiye sabbe pañcasīle patiṭṭhahi  
+  
+    Evaṃ nirākulaṃ āsi suññakaṃ titthiyehi taṃ  
+ Vicittaṃ arahantehi vasībhūtehi tādihi  
+  
+    Nagaraṃ haṃsavatīnāma  ānando nāma khattiyo  
+ Sujātā nāma janikā padumuttarassa mahesino  
+    Dasa   vassasahassāni agāramajjhaso vasī  
+ Naravāhano yaso vasavatti tayo pāsādamuttamā  
+    Ticattārisasahassāni nāriyo samalaṅkatā 
+ Vasudattā nāma nārī uttaro nāma atrajo  
+  
+    Nimitte caturo disvā pāsādenābhinikkhami 
+ Sattāhaṃ padhānacāraṃ acarī purisuttamo  
+  
+   Byāhatā machasaṃ   Upagacchuṃ sīmu       Cakkhumā sīmu  
+   Hemavatī sīmu   Navaṃ manupa  
+  
+  
+                    
+  
+    Brahmunā yācito santo padumuttaro vināyako   
+ Vatti cakkaṃ mahāvīro mīthiluyyānamuttame  
+  
+    Devalo ca sujāto ca ahesuṃ aggasāvakā 
+ Sumano nāmupaṭṭhāko padumuttarassa satthuno   
+  
+    Amitā asamā veva ahesuṃ aggasāvikā  
+ Bodhi tassa bhagavato salaloti pavuccati  
+  
+    Vitiṇṇo ceva tisso ca ahesuṃ aggupaṭṭhakā 
+ Hatthā ceva vicittā ca ahesuṃ aggupaṭṭhikā  
+  
+    Aṭṭhapaññāsaratanaṃ  accuggato mahāmuni 
+ Kañcanagghiya   saṃkāso dvattiṃsavaralakkhaṇo  
+  
+    Kuḍḍā kavāṭā bhittī ca rukkhā nagasiluccayā 
+ Na tassāvaraṇaṃ atthi samantā dvādasayojane  
+    Vassasatasahassāni āyu vijjati tāvade  
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Santāretvā bahujanaṃ chinditvā sabbasaṃsayaṃ 
+ Jalitvā aggikkhandhova nibbuto so sasāvako  
+  
+    Padumuttaro jino buddho nandārāmamhi nibbuto 
+ Tattheva tassa   thūpavaro dvādasubbedha yojanoti  
+  
+ Padumuttarabuddhavaṃso dasamo  
+   Padumuttaranāyako manupa   Mahesino mavi       Aṭṭhapaṇṇasaṃ machasaṃ  
+   Kañcanagghika sīmu   Tatthevassa machasaṃ  
+  
+  
+                    
+  
+    Sumedha buddhavaṃso 
+                   
+   Padumuttarassa aparena sumedho nāma nāyako 
+ Durāsado uggatejo sabbalokuttamo  muni  
+  
+   Pasannanetto sumukho brahā uju patāpavā hitesī sabbasattānaṃ bahū mocesi bandhanā  
+  
+   Yadā buddho pāpuṇitvā kevalaṃ bodhimuttamaṃ 
+ Sudassanamhi nagare dhammacakkaṃ pavattayi  
+  
+   Tassābhisamayā tīṇi ahesuṃ dhammadesane 
+ Koṭisatasahassānaṃ paṭhamābhisamayo ahū  
+  
+   Punāparaṃ kumbhakaṇṇaṃ yakkhaṃ so damayī jino navuti koṭisahassānaṃ dutiyābhi 
+ samayo ahū  
+   Punāparaṃ amitayaso catusaccaṃ pakāsayi 
+ Asīti koṭisahassānaṃ tatiyābhisamayo ahu  
+  
+   Sannipātā tayo āsuṃ sumedhassa mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ   
+  
+   Sudassanaṃ nagaravaraṃ upagañchi jino yadā  
+ Tadā khīṇāsavā bhikkhū samiṃsu satakoṭiyo  
+  
+   Punāparaṃ devakūṭe bhikkhūnaṃ kaṭhinatthate 
+ Tadā navuti koṭīnaṃ dutiyo āsi samāgamo  
+  
+    Punāparaṃ dasabalo yadā carati cārikaṃ 
+ Tadā asītikoṭīnaṃ tatiyo āsi samāgamo  
+  
+    Ahaṃ tena samayena uttaro nāma māṇavo 
+ Asītikoṭiyo mayhaṃ ghare sannivitaṃ dhanaṃ  
+  
+   Lokuttaro sīmu   Cittānatādinaṃ manupa  
+  
+  
+                    
+  
+    Kevalaṃ sabbaṃ datvāna sasaṅghe lokanāyake  
+ Saraṇaṃ tassupāgañjiṃ pabbajjañcābhirocayi    
+  
+    Sopi maṃ buddho  vyākāsi karonto anumodanaṃ 
+ Tiṃsakappasahassamhi ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tatthapāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā  
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvakā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthālavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasantī ca 
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+   Sasaṅghaṃ lokanāyakaṃ         Abhirocayi         Tadā   mavi  
+  
+  
+                    
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramī pūriyā  
+  
+    Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ  
+ Sabbaṃ pariyāpuṇitvāna sobhahiṃ jinasāsanaṃ  
+                   
+    Tatthappamatto viharanto nisajjaṭṭhānacaṅkame 
+ Abhiññāsu pāramiṃ gantvā brahmalokamagañchahaṃ   
+  
+    Sudassanaṃ nāma nagaraṃ sudatto nāma khattiyo 
+ Sudattā nāma janikā sumedhassa mahesino  
+  
+    Navavassasahassāni agāramajjhaso vasī 
+ Sucandanaka koñca sirivaḍḍhā  tayo pāsāda muttamā  
+  
+    Ti soḷasasahassāni nāriyo samalaṅkatā 
+ Sumanā nāma sā nārīpunabba sumitte   nāma atrajo  
+  
+    Nimitte caturo disvā hatthiyānena nikkhami 
+ Anūnakaṃ aṭṭhamāsaṃ  padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo sumedho lokanāyako 
+ Vatti cakkaṃ mahāvīro sudassanuyyānamuttame  
+  
+    Saraṇo sabbakāmo ca ahesuṃ aggasāvakā 
+ Sāgaro nāmupaṭṭhāko sumedhassa mahesino  
+  
+   Brahmalokamagacchahaṃ sīmu  
+   Sucanda kañcana sirivaḍḍhā machasaṃ  
+ Sugandho kañcano sirivaḍḍho syā  
+   Punabbasu machasaṃ  
+ Punabbo syā  
+   Aḍḍhamāsaṃ machasaṃ manupa  
+  
+  
+                    
+  
+    Rāmā ceva surāmā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato mahānīpoti  vuccatī  
+  
+    Uruvelo ca yasavo ca ahesuṃ aggupaṭṭhakā 
+ Yasodharā sirimā ca ahesuṃ aggupaṭṭhikā  
+  
+    Aṭṭhāsīti ratanāni accuggato mahāmuni 
+ Obhāsesi   disā sabbā cando tārāgaṇe   yathā  
+  
+    Cakkavattimaṇi nāma yathā tapati yojanaṃ 
+ Tatheva tassa ratanaṃ samantā pharati yojanaṃ  
+  
+    Navutivassasahassāni āyu vijjati tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Tevijjachaḷabhiññehi balappattehi tādihi 
+ Samākulamidaṃ āsi arahantehi sādhuhi    
+  
+    Tepi sabbe amitayasā vippamuttā nirūpadhī 
+ Ñāṇālokaṃ dassayitvā nibbutā te mahāyasā  
+  
+    Sumedho jinavaro buddho medhārāmamhi nibbuto 
+ Dhātuvitthārikaṃ āsi tesu tesu padesatoti  
+  
+ Sumedha buddhavaṃso  
+  
+   Nimboti sīmu nimbarukkhoti syā   Pahāseti mavi obhāseti syā  
+   Tāragaṇe mavi   Tādihi     Sāsanaṃ syā  
+  
+  
+                    
+  
+    Sujāta buddhavaṃso 
+                   
+   Tattheva maṇḍakappamhi sujāto nāma nāyako 
+ Sīhahanusabhakkhandho appameyyā durāsado  
+  
+   Candoca vimalo suddho sataraṃsīca patāpavā  
+ Evaṃ sobhati sambuddho jalanto siriyā sadā   
+  
+   Pāpuṇitvāna sambuddho kevalaṃ bodhimuttamaṃ 
+ Sumaṅgalamhi nagare dhammakkaṃ pavattayī  
+  
+   Desente pavaraṃ dhammaṃ sujāte lokanāyake 
+ Asītikoṭi abhisamiṃsu paṭhame dhammadesane  
+   Yadā sujāto amitayaso deve vassaṃ upāgamī 
+ Sattatiṃsasahassānaṃ dutiyābhisamayo ahū  
+  
+   Yadā sujāto asamasamo upagañchi   pitusantikaṃ 
+ Saṭṭhisatasahassānaṃ tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ sujātassa mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Abhiññābalattānaṃ appattānaṃ  bhavābhave 
+ Saṭṭhisatasahassāni   paṭhamaṃ sannipatiṃsu te  
+  
+   Punāparaṃ sannipāte tidīvorohane jine 
+ Paññāsasatasahassānaṃ dutiyo āsi samāgamo  
+  
+    Upasaṅkamanto naravasabhaṃ  tassa yo aggasāvako 
+ Catūhi sata sahassehi sambuddhaṃ upasaṅkami  
+  
+   Tāpavā  sīmu   Pahā sīmu   Upagacchi sīmu manupa  
+   Appamattānaṃ sīmu  
+ Appavattā  pu  
+   Saṭṭhisata sahassānaṃ sīmu   Narāsabhaṃ machasaṃ naramusabhaṃ syā  
+  
+  
+                    
+  
+    Ahaṃ tena samayena catudīpamhi issaro 
+ Antalikkhacaro āsiṃ cakkavatti mahabbalo  
+  
+    Loke acchariyaṃ disvā abbhutaṃ lomahaṃsanaṃ 
+ Upagantvāna candiṃ so sujātaṃ lokanāyakaṃ  
+  
+    Catudīpe mahārajjaṃ ratane satta uttame 
+ Buddhe niyyādayitvāna pabbajiṃ tassa santike  
+  
+    Arāmikā jānapadā  uṭṭhānaṃ paṭipiṇḍiya   upanenti bhikkhusaṅghassa paccayaṃ 
+ sayanāsanaṃ  
+  
+    Sopi maṃ buddho  vyākāsi dasasahassimhi issaro ti sakappasahassamhi ayaṃ buddho 
+ bhavissati  
+  
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato  
+ Tattha pāyāsamaggayha nerañjamupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino  
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā  
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthālavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantu paṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+   Janapade sīmu syā   Paṭipiṇḍiyaṃ       Tadā  mavi  
+  
+  
+                    
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+                   
+    Tassāpi vacanaṃ sutvā bhīyyo bhāsaṃ janesahaṃ 
+ Adhiṭṭhāhiṃ vataṃ uggaṃ dasapāramīpūriyā  
+  
+    Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ 
+ Sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  
+  
+    Tatthappamatto viharanto brahmaṃ bhāvetva bhāvanaṃ 
+ Abhiññāpāramiṃ gantvā brahmalokamagacchahaṃ  
+  
+    Sumaṅgalaṃ nāma nagaraṃ uggato nāma khattiyo 
+ Mātā pabhāvatī nāma sujātassa mahesino  
+  
+    Navavassasahassāni agāramajjhaso vasī 
+ Sirī upasirī nandā tayo pāsādamuttamā  
+    Tevisatisahassāni nāriyo samalaṅkatā 
+ Sirinandā nāma nārī upaseno nāma atrajo  
+  
+    Nimitte caturo disvā assayānena nikkhami 
+ Anūnanavamāsāni padhānaṃ padahī jino  
+  
+   Bhīyyobhāvetva mānasaṃ 
+   Buddhavaṃso    gā  
+  
+  
+                    
+  
+    Brahmunā yācito nanto sujāto loka nāyako 
+ Vatti cakkaṃ mahāvīro sumaṅgalūyyānamuttame  
+  
+    Sudassano ca devo  ca ahesuṃ aggasāvakā 
+ Nārado nāmupaṭṭhāko sujātassa mahesino  
+    Nāgā ca nāgasamālā ca ahesuṃ aggasāvikā  
+ Bodhi tassa bhagavato mahāvelūti vuccati  
+  
+    So ca rukkho jātaruciro  acchiddo hoti pattako  
+ Ujuvaṃso brahā hoti dassanīyo manoramo  
+  
+    Ekakkhandho pavaṭṭhitvā  tato sākhā pabhijjatha    
+ Yathā subaddho morahattho evaṃ sobhati so dumo  
+  
+    Na tassa kaṇṭakā  honti nāpi chiddaṃ mahā ahu 
+ Vitthiṇṇasākho aviralo sandacchāyo manoramo  
+  
+    Sudatto ceva citto ca ahesuṃ aggupaṭṭhakā 
+ Subhaddā ceva padumā ca ahesuṃ aggupaṭṭhikā  
+  
+    Paññāsa ratano āsi uccattanena   so jino sabbākāravarūpeto sabbaguṇamupāgato  
+  
+    Tassappabhā asamasamā niddhāvati samantato  
+ Appamāṇo atuliyo ca opantehi anūpamo  
+  
+    Navutivassasahassāni āyu vijjati tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Yathāpi sāgare ūmī gagane tārakā yathā 
+ Evaṃ tadā pāvacanaṃ arahantehi cittitaṃ   
+                   
+    So ca buddho asamasamo guṇāni ca tāni atuliyāni 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Sujāto jinavaro buddho sīlārāmamhi nibbuto 
+ Tattheva tassa cetiyo tīṇi gāvuta muggatoti  
+  
+ Sujāta buddhavaṃso dvādasamo  
+  
+   Sudevo sīmu   Ghanaruciro sīmu  
+  
+ Ghanakkhandho syā machasaṃ   Chaddaṃ hoti parittakaṃ pu  
+ Acchaddo hoti pattiko machasaṃ  
+   Pavaḍḍhetvā sīmu        Pahijjati mavi Abhijjati sīmu   Kaṇḍakā sīmu   
+ Uccatarena sīmu   Vicittikaṃ      
+  
+  
+                    
+  
+    Piyadassī buddhavaṃso 
+  
+   Sujātassa aparena sayambhū  loka nāyako 
+ Durāsado asamasa piyadassī mahāyaso  
+  
+   Sopi buddho amitayaso ādiccova virocati 
+ Nihantvāna tamaṃ sabbaṃ  dhammacakkaṃ pavattayī  
+  
+   Tassāpi atulatejassa ahesuṃ abhisamayā tayo 
+ Koṭisatasahassānaṃ paṭhamābhisamayo ahū  
+  
+   Sudassano devarājā micchādiṭṭhima rocayī 
+ Tassa diṭṭhiṃ vinodento satthā dhamma ma desayī  
+  
+   Janasannipāto atulo mahāsannipatī tadā 
+ Navutikoṭisahassānaṃ dutiyābhisamayo ahū  
+  
+   Yadā doṇamukhaṃ hatthiṃ vinesi narasārathi 
+ Asītikoṭisahassānaṃ tatiyābhisamayo ahū  
+   Sannipātā tayo āsuṃ tassāpi piyadassino 
+ Koṭisatasahassānaṃ paṭhamo āsi samāgamo  
+  
+   Tato paraṃ navutikoṭī samiṃsu ekato munī 
+ Tatiye sannipātamhi asītikoṭiyo ahū  
+  
+   Ahaṃ tena samayena kassapo nāma brāhmaṇo 
+ Ajjhāyako mantadharo tiṇṇaṃ vedānapāragū  
+  
+    Tassa dhammaṃ suṇitvāna pasādaṃ janayiṃ ahaṃ 
+ Koṭisatasahassehi saṅghārāmaṃ amāpayiṃ  
+  
+    Tassa datvāna ārāmaṃ haṭṭho saṃviggamānaso 
+ Sareṇa pañcasīle ca   daḷhaṃ katvā samādiyiṃ  
+  
+    Sopi maṃ buddho vyākāsi saṅghamajjhe nisīdiya  
+ Aṭṭhārase kappasate ayaṃ buddho bhavissati  
+  
+   Sambuddho sīmu   Sabbaṃ tamaṃ nihantvāna machasaṃ   Saraṇaṃ pañcasīlañca sīmu  
+   Samādayi manupa  
+  
+  
+                    
+  
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlaṃ hi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemaṃ uppalavaṇṇā ca aggā hessanti sāvikā  
+ Bodhi tassa bhagavato assatthoti pavuccati  
+    Citto ca hatthālavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassīno  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  
+ Heṭṭhātitthe hahetvāna uttaranti mahānadiṃ  
+                   
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+                    
+  
+    Tassāpi vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsi dasapāramīpūriyā  
+  
+    Sudhaññaṃ nāma nagaraṃ sudatto nāma khattiyo 
+ Sucandā nāma  janikā piyadassissa satthuno  
+  
+    Nava vassa sahassāni agāramajjhaso vasī  
+ Sunimmalavimalagiribrahā  tayo pāsādamuttamā  
+  
+    Tettiṃsatisahassāni nāriyo samalaṅkatā 
+ Vimalā nāma nārī ca kañcanāvelo  nāma atrajo  
+  
+    Nimitte caturo disvā rathayānena nikkhami 
+ Chamāsaṃ padhānacāraṃ acarī purisuttamo  
+  
+    Brahmunā yācito santo piyadassī mahāmuni 
+ Vatti cakkaṃ mahāvīro usabhuyyāne manorame 
+  
+    Pālito sabbadassī   ca ahesuṃ aggasāvakā 
+ Sobhito nāmupaṭṭhāko piyadassissa satthuno  
+  
+    Sujātā dhammadinnā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato kakudhoti pavuccati  
+  
+    Sandhako  dhammako  ceva ahesuṃ aggupaṭṭhakā 
+ Visākhā  dhammadinnā ca ahesuṃ aggupaṭṭhikā  
+  
+    Sopi buddho amitayaso dvattiṃsavaralakkhaṇo 
+ Asītihatthamubbedho sālarājāva dissati  
+    Aggīcanda suriyānaṃ natthi tādisikā pabhā 
+ Yathā ahu   pabhā tassa asamassa mahesino  
+  
+    Tassāpi devadevassa āyu tāvatakaṃ ahū 
+ Navutivassasahassāni loke aṭṭhāsi cakkhumā  
+  
+    Sopi buddho asamasamo yugānipi tāni atuliyāni 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    So piyadassī munivaro assatthārāmamhi nibbuto 
+ Tattheva tassa jinathūpo tīṇi yojana muggatoti  
+  
+ Piyadassī buddhavaṃso terasamo  
+  
+   Candānamāsi machasaṃ   Giriguhā machasaṃ   Kañcanacelo sīmu  
+   Piyadassī sīmu manupa   Santako sīmu   Dhammiko sīmu  
+ Sandako syā   Visikho sīmu   Āsuṃ mavi  
+  
+  
+                    
+  
+    Atthadassī buddhavaṃso 
+                   
+   Tattheva maṇḍakappamhi atthadassī narāsabho  
+ Mahā tamaṃ nihantvāna patto sambodhimuttamaṃ  
+  
+   Brahmunā yācito santo dhammacakkaṃ pavattayī 
+ Amatena tappayī lokaṃ dasasahassī sadevakaṃ  
+  
+   Tassāpi lokanāthassa ahesuṃ abhisamayā tayo 
+ Koṭisatasahassānaṃ paṭhamābhisamayo ahū  
+  
+   Yadā buddho atthadassī carati devacārikaṃ 
+ Koṭisatasahassānaṃ dutiyābhisamayo ahū  
+   Punāparaṃ yadā buddho desesi pitusantike 
+ Toṭisatasahassānaṃ tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ tassāpi ca mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Aṭṭhanavutisahassānaṃ paṭhamo āsi samāgamo 
+ Aṭṭhāsītisahassānaṃ dutiyo āsi samāgamo  
+  
+   Aṭṭhasattatisahassānaṃ tatiyo āsi samāgamo 
+ Anupādāvimuttānaṃ vimalānaṃ mahesinaṃ  
+  
+   Ahaṃ tena samayena jaṭilo uggatāpano 
+ Susīmo  nāma nāmena mahiyā seṭṭhasammato 
+  
+    Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ 
+ Devalokā haritvāna   sambuddhaṃ abhipūjayiṃ  
+  
+    Sopi maṃ buddho  vyākāsi atthadassī mahāmuni 
+ Aṭṭhāraso kappasate ayaṃ buddho bhavissati  
+  
+   Mahāyaso mavi   Supino manupa susimo       Devalokato ā haritvā   Tadā bu A  
+  
+  
+                    
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamulasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi brajjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthālavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassa sataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya  
+ Heṭṭhātitthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcamimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+  
+                    
+  
+    Tassāpi vacanaṃ sutvā haṭṭho saṃviggamānaso 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramīpūriyā  
+  
+    Sobhanaṃ nāma nagaraṃ sāgaro nāma khattiyo 
+ Sudassanā nāma janitā atthadassissa satthuno  
+  
+    Dasavassasahassāni agāramajjhaso vasī 
+ Amaragirisuragirigirivāhanā  tayo pāsādamuttamā  
+  
+    Tettiṃsatisahassāni   nāriyo samalaṅkatā 
+ Visākhā nāma sā nārī selo  nāmāsi atrajo  
+                   
+    Nimitte caturo disvā assayānena nikkhamī 
+ Anunaaṭṭhamāsāni padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo atthadassī mahāyaso 
+ Vatti cakkaṃ mahāvīro anomuyyāne narāsabho  
+  
+    Santo ca upasanto ca ahesuṃ aggasāvakā 
+ Abhayo nāmupaṭṭhāko atthadassissa satthuno  
+    Dhammā ceva sudhammā ca ahesuṃ aggasāvikā  
+ Bodhi tassa bhagavato campakoti pavuccati  
+  
+    Nakulo ca nisabho ca ahesuṃ aggupaṭṭhakā 
+ Makilā ca sunandā ca ahesuṃ aggupaṭṭhikā  
+  
+    Sopi buddho asamasamo asīti ratanuggato  
+ Sobhati sālarājāva uḷurājāva pūrito  
+  
+    Tassa pākatikā raṃsī   anekasatakoṭiyo 
+ Uddhaṃ adho dasadisā pharanti yojanaṃ tadā   
+  
+    Sopi buddho narāsabho sabbasattuttamo muni 
+ Vassasatasahassāni loke aṭṭhāsi cakkhumā  
+  
+    Atulaṃ dassetvā obhāsaṃ virocetvā sadevake 
+ Sopi aniccataṃ patto yathaggupādānasaṅkhayā  
+  
+    Atthadassī jinavaro anomārāmamhi nibbuto 
+ Dhātuvitthārikaṃ āsi tesu tesu padesatoti  
+  
+ Atthadassī buddhavaṃso cuddasamo  
+  
+   Aparagirisugirivāhano machasaṃ   Tettisaṃca sīmu   Sono sīmu Seno       
+ Buddhavaṃse    gā   Sadā machasaṃ  
+  
+  
+                    
+  
+    Dhammadassī buddhavaṃso 
+                   
+   Tattheva maṇḍakappamhi dhammadassī mahāyaso 
+ Tamandhakāraṃ vidhametvā atirocati sadevake  
+  
+   Tassāpi atulatejassa dhammacakkappavattane 
+ Koṭisatasahassānaṃ paṭhamābhi samayo ahū  
+  
+   Yadā buddho dhammadassī vinesi sañjayaṃ isiṃ 
+ Tadā navutikoṭīnaṃ dutiyābhisamayo ahu  
+  
+   Yadā sakko upagañji sahapariso  vināyakaṃ 
+ Tadā asīti koṭīnaṃ tatiyābhisamayo ahū  
+  
+   Tassāpi devadevassa sannipātā tayo ahū   
+ Khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  
+  
+   Yadā buddho dhammadassī saraṇe vassaṃ upāgamī 
+ Tadā koṭisahassānaṃ  paṭhamo āsi samāgamo  
+  
+   Punāparaṃ yadā buddho devato eti mānusaṃ  
+ Tadāpi satakoṭīnaṃ dutiyo āsi samāgamo  
+  
+   Punāparaṃ yadā buddho pakāsesi dhute guṇe 
+ Tadā asīti koṭīnaṃ tatiyo āsi samāgamo  
+  
+   Ahaṃ tena samayena sakko āsiṃ purindade 
+ Dibbena gandhamālena   turiyena abhipūjayiṃ  
+  
+    Sopi maṃ buddho vyākāsi devamajjhe nisīdiya  
+ Aṭṭhārase kappasate ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkakārikaṃ  
+  
+    Ajapālarukkhamūlasmiṃ nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+   Sapariso sīmu machasaṃ   Āsuṃ mavi ahuṃ machasaṃ  
+   Koṭisatasahassānaṃ sīmu machasaṃ   Mānuse sīmu  
+   Dibbagandhenamālena manupa  
+  
+                    
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramīpūriyā  
+    Saraṇaṃ nāma nagaraṃ saraṇo nāma khattiyo 
+ Sunandā nāma janikā dhammadassissa satthuno  
+  
+  
+                    
+  
+    Aṭṭha vassasahassāni agāramajjhaso vasī arajo virajo sudassano tayo pāsādamuttamā  
+  
+    Ticattārīsasahassāni nāriyo samalaṅkatā 
+ Vicatolī nāma nārī atrajo puññavaḍḍhano  
+                   
+    Nimitte caturo disvā pāsādenābhinikkhami 
+ Sattāhaṃ padhānacāraṃ acarī purisuttamo  
+  
+    Brahmunā yācito santo dhammadassī narāsabho 
+ Vatti cakkaṃ mahāvīro migadāye naruttame  
+  
+    Padumo phussadevo ca ahesuṃ aggasāvakā 
+ Sunento nāmupaṭṭhāko dhammadassissa satthuno  
+  
+    Khemā ca saccanāmā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato bimbijālo  ti vuccati  
+  
+    Subhaddo kaṭisabho ceva ahesuṃ aggupaṭṭhakā 
+ Sāliyā ca valiyā ca ahesuṃ aggupaṭṭhikā  
+  
+    Sopi buddho asamasamo asītihatthamuggato 
+ Atirocati tejena dasasahassimhi dhātuyā  
+  
+    Suphullo sālarājāva vijjūva gagane yathā 
+ Majjhantike va suriyo evaṃ so upasobhatha    
+  
+    Tassāpi atulatejassa samakaṃ āsi jīvitaṃ 
+ Vassasatasahassāni loke aṭṭhāsi cakkhumā  
+  
+    Obhāsaṃ dassayitvāna vimalaṃ katvāna sāsanaṃ 
+ Ravicando va gagane nibbuto so sasāvakoti  
+  
+    Dhammadassī mahāvīro kesārāmamhi   nibbuto 
+ Tatthevassa   thūpavaro tiyojana samuggatoti  
+  
+ Dhammadassī buddhavaṃso paṇṇarasamo  
+  
+   Bimbajālo sīmu   Upasobhittha       Sālārāmamhi machasaṃ  
+   So sīmu      
+  
+                    
+  
+    Siddhattha buddhavaṃso 
+                   
+   Dhammadassissa aparena siddhattho lokanāyako  
+ Nihanitvā tamaṃ sabbaṃ suriyo abbhuggato yathā  
+  
+   Sopi patvāna sambodhiṃ  santārento  sadevakaṃ 
+ Abhivassi dhammameghenana nibbāpento sadevakaṃ  
+  
+   Tassāpi atulatejassa ahesuṃ abhisamayā tayo 
+ Koṭisatasahassānaṃ paṭhamābhisamayo ahu  
+  
+   Punāparaṃ bhīmarathe   yadā ahani dundubhiṃ  
+ Tadā navutikoṭīnaṃ dutiyābhi samayo ahu  
+  
+   Yadā buddho dhammaṃ desesi vehāre so puruttame 
+ Tadā navuti koṭīnaṃ tatiyābhisamayo ahu  
+  
+   Sannipātā tayo āsuṃ tasmimpi dīpaduttame 
+ Khīṇāsavānaṃ vamalānaṃ santacittānatādinaṃ  
+  
+   Koṭisatānaṃ navutīnaṃ asītiyā ca koṭīnaṃ 
+ Ete āsuṃ tayo ṭhānā vimalānaṃ samāgame  
+  
+   Ahaṃ tena samayena maṅgalo nāma tāpaso 
+ Uggatejo duppasaho abhiññābalasamāhito  
+  
+   Jambuto phalamānetvā  siddhatthassa adāsahaṃ 
+ Paṭiggahetvā sambuddho idaṃ vacanamabruvi  
+  
+    Passatha imaṃ tāpasaṃ jaṭilaṃ uggatāpanaṃ 
+ Catunavute ito kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehitī  
+  
+   Nāmanāyako sīmu   Suriyovabbhuggato tadā mavi   Sambuddhaṃ sīmu  
+   Santāretvā mavi   Bhīmaraṭṭho sīmu     syā  
+   Yadiāhanidundubhiṃ       Phalamāhatvā sīmu      
+  
+  
+                    
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramīpūriyā  
+    Vehāraṃ nāma nagaraṃ udeno nāma khattiyo 
+ Suphassā nāma janikā siddhatthassa mahesino  
+  
+  
+                    
+  
+    Dasavassasahassāni agāramajjhaso vasī  
+ Kokāsuppalakokanadā tayo pāsādamuttamā  
+  
+    Tisoḷasasahassāni nāriyo samalaṅkatā 
+ Sumanā nāma sā nārī anupamo nāma atrajo  
+  
+    Nimitte caturo disvā sivikāyānena nikkhami 
+ Anūnadasamāsāni padhānaṃ padahī jino  
+                   
+    Brahmunā yācito santo siddhattho lokanāyako 
+ Vatti cakkaṃ mahāvīro migadāye naruttamo   
+  
+    Sambalo ca sumitto ca ahesuṃ aggasāvakā 
+ Revato nāmupaṭṭhāko siddhatthassa mahesino  
+  
+    Sīvalā ca surāmā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato kaṇikāroti vuccati  
+  
+    Suppiyo ca samuddo ca ahesuṃ aggupaṭṭhakā 
+ Rammā ceva surammā ca ahesuṃ aggupaṭṭhikā  
+  
+    So buddho saṭṭhī ratanaṃ ahosi nabhamuggato  
+ Kañcanagghiya   saṃkāso dasasahassī virocati  
+  
+    Sopi buddho asama samo atulo appaṭipuggalo 
+ Vassasatasahassāni loke aṭṭhāsi cakkhumā  
+  
+    Vipulaṃ  pabhaṃ dassayitvā pupphāpetvāna sāvake 
+ Vilāsetvā ca samāpatyā  nibbuto so sāsavako  
+  
+    Siddhattho munivaro buddho anomārāmamhi nibbuto 
+ Tatthevassa thūpavaro catuyojanamuggatoti  
+  
+ Siddhattha buddhavaṃso soḷasamo  
+  
+   Puruttame sīmu   Kañcanagsika sīmu   Vimalaṃ sīmu   Samāpattiyā sīmu     
+  
+  
+                    
+  
+    Tissa buddhavaṃso 
+  
+   Siddhattha aparena assamo appaṭipuggalo 
+ Anantatejo  amitayaso tisso lokagganāyako  
+  
+   Tamandhakāraṃ vidhametvā obhāsetvā sadevakaṃ  
+ Anukampako mahā vīro loke uppajji cakkhumā  
+  
+   Tassāpi atulā iddhi atulaṃ sīlaṃ samādhi ca  
+ Sabbattha pāramiṃ gantvā dhammacakkaṃ pavattayī  
+  
+   So buddho dasasahassimhi viññāpesi giraṃ suciṃ 
+ Koṭisatāni abhisamiṃsu paṭhame dhammadesane  
+  
+   Dutiyo navutikoṭīnaṃ  tatiyo saṭṭhikoṭiyo  
+ Bandhanāto  pamocesi   sampatte naramarū tadā  
+  
+   Sannipātā tayo āsuṃ tisse lokagganāyake 
+ Khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  
+   Khīṇāsavasatasahassānaṃ  paṭhamo āsi samāgamo 
+ Navuti sata sahassānaṃ dutiyo āsi samāgamo  
+                   
+   Asīti satasahassānaṃ tatiyo āsi samāgamo 
+ Khīṇāsavānaṃ vimalānaṃ pupphitānaṃ vimuttiyā  
+  
+   Ahaṃ tena samayena sujāto nāma khattiyo 
+ Mahābhogaṃ chaḍḍhayitvā pabbajiṃ isipabbajaṃ  
+  
+    Mayi pabbajite sante uppajji lokanāyako 
+ Buddhoti saddaṃ sutvāna pīti me upapajjatha  
+  
+    Dibbaṃ mandāravaṃ pupphaṃ padumaṃ pāricchattakaṃ 
+ Ubho hatthehi paggayha dhunamāno upāgamiṃ  
+  
+   Anantasīlo mavi       Sadevake mavi   Dutiye navutikoṭiyo sīmu  
+   Tatiyo satta koṭiyo sīmu   Bandhanāso sīmu   Vimocesi      
+   Khīṇāsava sahassānaṃ sīmu  
+  
+                    
+  
+    Cātuvaṇṇaparivutaṃ tissaṃ lokagganāyakaṃ 
+ Tamahaṃ pupphaṃ gahetvāna matthake dhārayiṃ jinaṃ  
+  
+    Sopi buddho  vyākāsi janamajjhe nisīdiya  
+ Dvenavute ito kappe ayaṃ buddho bhavissati  
+  
+    Ahū kapilavhayā rammaṃ nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tatthapāyāsamaggayha nerañjaramupehitī  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+   Tadā sīmu  
+                    
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramīpūriyā  
+    Khemakaṃ nāma nagaraṃ janasandho nāma khattiyo 
+ Padumā nāma janikā tissassa ca mahesino  
+  
+    Sattavassasahassāni agāramajjhaso vasī 
+ Guhā selanāri nisabhā tayo pāsāda muttamā  
+  
+    Samatiṃsa sahassāni nāriyo samalaṅkatā 
+ Subhaddā nāma sā nāri ānando nāma atrajo  
+  
+    Nimitte caturo disvā assayānena nikkhami 
+ Anūnakaṃ aṭṭhamānaṃ padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo tisso lokagganāyako 
+ Vatti cakkaṃ mahāvīro yasavatīdāyamuttame  
+  
+    Brahmadevo ca udayo ca ahesuṃ aggasāvakā 
+ Samaṅgo  nāmupaṭṭhāko tissassa ca mahesino  
+  
+    Phussā cevā ca sudattā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato asanoti pavuccati  
+  
+    Sambalo ca sirī   ceva ahesuṃ aggupaṭṭhakā 
+ Kisāgotamī upasenā ahesuṃ aggupaṭṭhikā  
+  
+   Samāho mavi samago syā sumaṅgalo   Sirimā machasaṃ  Sīmu  
+  
+  
+                    
+  
+    Sopi buddho saṭṭhiratano ahu uccattane  jino 
+ Anupamo asadiso himavā viya dissati  
+  
+    Tassāpi atulatejassa āyu āsi anuttaro 
+ Vassasatasahassāni loke aṭṭhāsi cakkhumā  
+  
+    Uttamaṃ pavaraṃ seṭṭhaṃ anubhātvā maihāyasaṃ 
+ Jalitvā aggikkhandhova nibbuto so sasāvako  
+                   
+    Valāhakova anilena suriyena viya ussāvo 
+ Andhakārova dīpena nibbuto so sasāvako  
+  
+    Tisso jinavaro buddho nandārāmamhi nibbuto 
+ Tattheva tassa jinathūpo tīṇi yojanamussitoti  
+  
+ Tissa buddhavaṃso sattarasamo  
+  
+   Uccatarena   sīmu  
+  
+  
+                    
+  
+    Phussa buddhavaṃso 
+  
+   Tattheva maṇḍakappamhi ahu satthā anuttaro 
+ Anupamo asadiso  phusso lokagganāyako  
+  
+   Sopi sabbaṃ tamaṃ hantvā vijaṭetvā mahājaṭaṃ 
+ Sadevakaṃ tappayanto abhivassī amatambunā  
+  
+   Dhammacakkaṃ pavattente phusse nakkhattamaṅgale 
+ Koṭisatasahassānaṃ paṭhamābhisamayo ahū  
+  
+   Navutisatasahassānaṃ dutiyābhisamayo ahū 
+ Asītisatasahassānaṃ tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ phussassapi mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Saṭṭhisatasahassānaṃ paṭhamo āsi samāgamo 
+ Paññāsasatasahassānaṃ dutiyo āsi samāgamo  
+  
+   Cattārīsasatasahassānaṃ tatiyo āsi samāgamo 
+ Anupādā vimuttānāṃ vocchinnapaṭisandhinaṃ  
+   Ahaṃ tena samayena vijitāvi nāma khattiyo 
+ Chaḍḍayitvā  mahārajjaṃ pabbajiṃ tassa santike  
+   Sopi maṃ buddho vyākāsi phusso lokagganāyako 
+ Ito dve navuti   kappe ayaṃ buddho bhavissati  
+  
+    Ahu kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+   Asamasamo sīmu   Jāḍḍayitvāna sīmu   Dvānavrate mavi dvenavute sīmu  
+  
+  
+                    
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamhi ehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+    Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajhiya 
+ Heṭṭhā titthe  gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāpi vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramīpūriyā  
+  
+    Suttantaṃ vinayañcāpi navaṅgaṃ satthusāsanaṃ 
+ Sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  
+  
+   Titthaṃ  mua  
+  
+                    
+                   
+    Tatthappamatto viharanto brahmaṃ bhāvetva  bhāvanaṃ 
+ Abhiññāsu pāramiṃ gantvā brahmaloka magacchahaṃ  
+  
+    Kāsikaṃ nāma nagaraṃ jayaseno nāma khattiyo 
+ Sirimā nāma janikā phussassāpi mahesino  
+  
+    Navavassasahassāni agāramajjhaso vasī 
+ Garuḷapakkhahaṃsasuvaṇṇahārā  tayo pāsādamuttamā  
+  
+    Tīṇidasasahassāni   nāriyo samalaṅkatā 
+ Kisāgotamī nāma nāri anupamo  nāma atrajo  
+  
+    Nimitte caturo disvā hatthiyānena nikkhami 
+ Chamāsaṃ padhānacāraṃ acarī purisuttamo  
+  
+    Brahmunā yācito santo phusso lokagganāyako 
+ Vatti cakkaṃ mahāvīro migadāye naruttamo  
+  
+    Surakkhito  dhammaseno ca ahesuṃ aggasāvakā 
+ Sabhiyo nāmupaṭṭhāko phussassa ca mahesino  
+  
+    Cālā ca upacālā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato āmaṇḍoti pavuccati  
+  
+    Dhanañjayo visākho ca ahesuṃ aggupaṭṭhakā 
+ Padumā ceva nāgā ca ahesuṃ aggupaṭṭhikā  
+  
+    Aṭṭhapaññāsaratanaṃ sopi accuggato muni 
+ Sobhati sataraṃsīva ulurājāva pūrito   
+  
+    Navutivassasahassāni āyu vijjati tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Ovaditvā bahū satte santāretvā mahājane 
+ Sopi satthā atulayaso nibbutoso sasāvako   
+  
+    Phusso jinavaro satthā setārāmamhi   nibbuto 
+ Dhātuvitthārikaṃ āsī tesu tesu padesatoti  
+  
+ Phussa buddhavaṃso aṭṭhārasamo  
+  
+   Bhāvetvā       Garuḷapakkhahaṃsasuvaṇṇabhārā  machasaṃ Garuḷa haṃsa 
+ suvaṇṇatārā  syā  
+   Tevīsatisahassāni sīmu   Ānando sīmu   Sukhito sīmu  
+   Uḷurajāva pūjito mavi   Nibbutovasasāko mavi  
+   Sotārāmamhi sīmu senāramamhi syā machasaṃ  
+  
+  
+                    
+  
+    Vipassī buddhavaṃso  
+                   
+   Phussassa ca aparena sambuddho dipaduttamo 
+ Vipassī nāma nāmena loke uppajji cakkhumā   
+   Avijjaṃ sabbaṃ padāletvā patto sambodhimuttamaṃ 
+ Dhammacakkaṃ pavattetuṃ pakkāmi bandhumatiṃ puraṃ  
+  
+   Dhammacakkaṃ pavattetvā ubho bodhesi nāyako 
+ Gaṇanāya na vattabbo paṭhamābhisamayo ahu  
+  
+   Punāparaṃ amitayaso tattha saccaṃ pakāsayi  
+ Caturāsīti sahassānaṃ dutiyābhīsamayo ahū  
+  
+   Caturāsīti sahassāni sambuddhaṃ anupabbajuṃ 
+ Tesamārāmapattānaṃ dhammaṃ desesi cakkhumā  
+  
+   Sabbākārena bhāsato sutvā upanisādino  
+ Tepi dhammaṃ varaṃ gantvā tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ vipassissa mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Aṭṭhasaṭṭhisatasahassānaṃ  paṭhamo āsi samāgamo 
+ Bhikkhusatasahassānaṃ dutiyo āsi samāgamo  
+  
+   Asītibhikkhusahassānaṃ tatiyo āsi samāgamo 
+ Tattha bhikkhugaṇamajjhe sambuddho atirocati  
+  
+    Ahaṃ tena samayena nāgarājā mahiddhiko 
+ Atulo nāma nāmena puññavanto jutindharo  
+  
+    Nekānaṃ nāgakoṭīnaṃ parivāretvānahaṃ tadā 
+ Vajjento dibbaturiyehi lokajeṭṭhaṃ upāgamiṃ  
+  
+   Nāyako sīmu   Bhāsate sutvā upanissa jine sīmu   Aṭṭhasaṭṭhisahassānaṃ sīmu  
+  
+  
+                    
+  
+    Upasaṅkamitvā sambuddhaṃ vipassiṃ lokanāyakaṃ 
+ Maṇimuttaratanakhacitaṃ sabbābharaṇabhūsitaṃ 
+ Nimantetvā dhammarājassa suvaṇṇapīṭha madāsahaṃ  
+  
+    Sopi maṃ buddho vyākāsi saṅghamajjhe nisīdiya 
+ Ekanavute ito kappe ayaṃ buddho bhavissati  
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+                   
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarānadītīre pāyāsaṃ asati jino  
+ Paṭiyattavaramaggena bodhimūlamupehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍamanuttaraṃ 
+ Assatthamūle sambodhiṃ bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Anāsavā vītarāgā  santacittā samāhitā 
+ Kolito upatisso ca aggā hessanti sāvakā 
+ Ānandonāmupaṭṭhāko  upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+   Vītamalā sīmu   Ānando nāma nāmena   mavi  
+  
+  
+                    
+  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭhenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasa pāramī puriyā  
+    Nagaraṃ bandhumatī nāma bandhumā nāma khattiyo 
+ Mātā bandhumatī nāma vipassissa mahesino  
+  
+    Aṭṭhavassasahassāni agāramajjhaso vasī 
+ Nando sunando sirimā tayo pāsādamuttavā  
+  
+    Tivattārīsa sahassāni nāriyo samalaṅkatā 
+ Sutanā nāma sā nāri samavattakkhandho nāma atrajo  
+  
+    Nimatte caturo disvā rathayānena nikkhamī 
+ Anūnaaṭṭhamāsāni padhānaṃ padahī jino  
+  
+    Brahmunā yāvito santo vipassī lokanāyako 
+ Vatti cakkaṃ mahāvīro migadāyo naruttamo  
+  
+    Khaṇḍo  ca tissanāmo ca ahesuṃ aggasāvakā 
+ Asoko nāmupaṭṭhāko vipassissa mahesino  
+  
+    Candā ca candamittā ca ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato pāṭalīti pavuccati  
+  
+   Khandho   sīmu  
+  
+  
+                    
+  
+    Punabbasumitto nāgo ca ahesuṃ aggupaṭṭhakā 
+ Sirimā uttarā ceva ahesuṃ aggupaṭṭhikā  
+  
+    Asīti hatthamubbedho  vipassī lokanāyako 
+ Pabhā niddhāvati tassa samantā satta yojane  
+  
+    Asīti vassasahassāni āyu buddhassa tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Bahū deve manusse ca bandhanā parimocayī 
+ Maggā maggañca ācikkhi avasesaputhujjane  
+                   
+    Ālokaṃ dassayitvāna desetvā  amataṃ padaṃ 
+ Jalitvā aggikkhandhova nibbuto so sasāvako  
+  
+    Iddhivaraṃ puññavaraṃ lakkhaṇaṃ ca kusumitaṃ 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Vipassījinavaro buddho  sumittārāmamhi nibbuto 
+ Tattheva tassa thūpavaro sattayojana mussitoti  
+  
+ Vipassī buddhavaṃso ekūnavīsatimo  
+  
+   Asītihatthubbedho mavi   Desitvā sīmu   Dhīro sīmu  
+  
+  
+                    
+  
+    Sikhī buddhavaṃso 
+  
+   Vipassissa aparena sambuddho dipaduttamo 
+ Sikhīvhayo  āsi jino asamo appaṭipuggalo  
+  
+   Mārasenaṃ pamadditvā  patto sambodhimuttamaṃ 
+ Dhammacakkaṃ pavattesi anukampāya pāṇinaṃ  
+  
+   Dhammacakkaṃ pavattente sikhimhi muni puṅgave   koṭisatasahassānaṃ 
+ paṭhamābhisamayo ahū  
+  
+   Aparampi dhammaṃ desento gaṇaseṭṭhe naruttame 
+ Navutikoṭisahassānaṃ dutiyābhisamayo ahū  
+  
+   Yamakaṃ pāṭihīrañca dassayante sadevake 
+ Asītikoṭisahassānaṃ tatiyābhisamayo ahū  
+  
+   Sannipātā tayo āsuṃ sikhissapi mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Bhikkhusatasahassānaṃ paṭhamo āsi samāgamo 
+ Asīti bhikkhusahassānaṃ dutiyo āsi samāgamo  
+  
+   Sattati bhikkhusahassānaṃ tatiyo āsi samāgamo 
+ Anupalitto padūmaṃva toyamhi sampavaḍḍhitaṃ  
+  
+   Ahaṃ tena samayena arindamo nāma khattiyo 
+ Sambuddhapamukhaṃ saṅghaṃ annapānena tappayiṃ  
+  
+    Bahu dussavaraṃ datvā dussakoṭiṃ anappakaṃ 
+ Alaṅkataṃ hatthiyānaṃ sambuddhassa adāsahaṃ  
+  
+    Hatthiyānaṃ nimminitvā kappiyaṃ upanāmayiṃ 
+ Pūrayiṃ mānasaṃ mayhaṃ niccaṃ daḷhamupaṭṭhitaṃ  
+  
+   Sikhīsavhayo nāma sīmu   Pahinditvā mavi   Jinapuṅgave mavi Machasaṃ Syā  
+  
+  
+                    
+                   
+    Sopi maṃ buddho vyākāsi sikhīlokagganāyako 
+ Ekatiṃse ito kappe ayaṃ buddho bhavissati  
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarānadītīre pāyāsaṃ asati jino  
+ Paṭiyattavaramaggena bodhimūlamupehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍamanuttaraṃ 
+ Assatthamūle sambodhiṃ bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Anāsavā vītarāgā  santacittā samāhitā 
+ Kolito upatisso ca aggā hessanti sāvakā 
+ Ānandonāmu paṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭhenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+                    
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Uttariṃ vata madhiṭṭhāsiṃ dasa pāramī puriyā  
+    Nagaraṃ aruṇavatī nāma aruṇavā nāma   khattiyo 
+ Pabhāvati nāma janikā sikhissa ca mahesino  
+  
+    Sattavassasahassāni agāramajjhaso vasī  
+ Sucando girivasabho tayo pāsādamuttamaṃ  
+  
+    Catuvīsati sahassāni nāriyo samalaṅkatā 
+ Sabbakāmā nāma nāri atulo nāma atrajo  
+  
+    Nimitte caturo disvā hatthiyānena nikkhami 
+ Aṭṭhamāsaṃ padhānavāraṃ acarī purisuttamo  
+    Brahmunā yācito santo sikhī lokagganāyako 
+ Vatti cakkaṃ mahāvīro migācire naruttamo   
+  
+    Abhibhū sambhavo nāma ahesuṃ aggasāvakā 
+ Khemaṅkaro nāmupaṭṭhāko sikhissapi mahesino  
+  
+    Makhilā  ca padumā ceti ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato puṇḍarīkoti vuccati  
+  
+    Sirivaḍḍho ca nando  ca ahesuṃ aggupaṭṭhakā 
+ Cittā ceva suguttā ca ahesuṃ aggupaṭṭhikā  
+  
+   Aruṇo nāma sīmu machasaṃ syā   Migadāye   sīmu  
+   Akhilā sīmu   Cando   sīmu  
+  
+  
+                    
+  
+    Uccattanena so buddho sattati hatthamuggato 
+ Kañcanagghiya   saṃkāso dvattiṃsavaralakkhaṇo  
+  
+    Tassa   byāmappabhā kāyā divārattiṃ nirantaraṃ 
+ Diso disaṃ niccharanti tīṇiyojanaso pabhā  
+  
+    Sattativassasahassāni āyu tassa mahesino 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Dhammameghaṃ pavassetvā temayitvā sadevake 
+ Khemantaṃ  pāpayitvāna nibbuto so sasāvako  
+  
+    Anuvyañjanasampannaṃ dvattiṃsavaralakkhaṇaṃ 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Sikhī munivaro buddho dussārāmamhi nibbuto 
+ Tattheva tassa thūpavaro tīṇiyojanamuggato  
+  
+ Sikhī buddhavāso vīsatimo  
+  
+   Kañcanagghika sīmu   Tassāpi machasaṃ sīmu syā   Khemattaṃ sīmu  
+  
+  
+                    
+  
+    Vessabhū buddhavaṃso 
+                   
+   Tattheva maṇḍakappamhi asamo appaṭipuggalo 
+ Vessabhū nāma nāmena loke uppajji nāyako  
+   Ādittanti ca   rāgaggi taṇhānaṃ vijitaṃ tadā 
+ Nāgova bandhanaṃ chetvā patto sambodhimuttamaṃ  
+  
+   Dhammacakkaṃ pavattente   vessabhūlokanāyake 
+ Asītikoṭisahassānaṃ paṭhamābhisamayo ahū  
+  
+   Pakkante cārikaṃ raṭṭhe lokajeṭṭhe   narāsabhe 
+ Sattati koṭisahassānaṃ dutiyābhisamayo ahū  
+   Mahādiṭṭhiṃ vinodento pāṭihīraṃ karoti so 
+ Samāgatā naramarū dasasahassī sadevake  
+   Mahā acchariyaṃ disvā abbhutaṃ lomahaṃsanaṃ 
+ Devā ceva manussā ca bujjhare saṭṭhikoṭiyo  
+  
+   Sannipātā tayo āsuṃ vessabhussa mahesino 
+ Khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  
+  
+   Asītibhikkhusahassānaṃ paṭhamo āsi samāgamo 
+ Sattatibhikkhusahassānaṃ dutiyo āsi samāgamo  
+  
+   Saṭṭhi bhikkhusahassānaṃ tatiyo āsi samāgamo 
+ Jarādi bhayātītānaṃ  orasānaṃ mahesino  
+  
+    Ahaṃ tena samayena sudassano nāma khattiyo 
+ Nimantetvā mahāvīraṃ dānaṃ datvā mahārahaṃ 
+ Annapānena vatthena sasaṅghaṃ jinamapūjayiṃ  
+   Ādittaṃ vata machasaṃ asittamva sīmu   Dhammacakkappavattane   sīmu  
+ Ādittaṃ ida   syā   Lokaseṭṭhe   mavi   Jarādibhayabhītānaṃ   sīmu Machasaṃ  
+  
+  
+                    
+  
+    Tassa budadhassa asamassa cakkaṃ vattitamuttamaṃ 
+ Sutvāna paṇītaṃ dhammaṃ pabbajjamahirocayiṃ  
+  
+    Mahādānaṃ pavattetvā rattiṃ divamatandito 
+ Pabbajjaṃ guṇasampannaṃ pabbajiṃ jinasantike  
+    Ācāraguṇasampanno vattasīlasamāhito 
+ Sabbaññutaṃ gavesanto ramāmī jinasāsane 
+  
+    Saddhāpītimupāgantvā pāde vandāmi satthari  
+ Pīti uppajjatī mayhaṃ bodhiyāyeva kāraṇā  
+  
+    Anivattimānasaṃ  ñatvā sambuddho etadabravi 
+ Ekatiṃse ito kappe ayaṃ buddho bhavissati  
+  
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsaṃ paggayha neraṃjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ ādāya so jino 
+ Paṭiyattavaramaggena bodhimūlamupehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro  
+ Assattharukkhamūlamhi bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+    Anāsavā vītarāgā santacittā samāhitā 
+ Kolito upatisso ca aggā hessanti sāvakā 
+ Ānando nāmupaṭṭhāko upaṭṭhissati taṃ jinaṃ 
+  
+   Saddhāpītiṃ upagantvā buddhaṃ vandāmi sattharaṃ   machasaṃ  
+ Sddhāpītiṃ upāgantvā buddhaṃ vandāmi satthāraṃ   sīmu  
+ Saddhāpītiṃ uppādetvā buddhaṃ vandāmi sattharaṃ   syā  
+   Anivattamānasaṃ   sīmu machasaṃ  
+  
+  
+                    
+                    
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantu paṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhisaddaṃ vattenti apphoṭenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmi maṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+                   
+    Tassāhaṃ vacanaṃ sutvā bhīyyo cittaṃ pasādayiṃ 
+ Uttariṃ vatamadhiṭṭhāsiṃ dasapāramīpūriyā  
+  
+    Anūpamaṃ  nāma nagaraṃ suppatito nāma khattiyo 
+ Mātā yasavatī nāma vessabhussa mahesino  
+  
+    Chabbassasahassāni agāramajjhaso vasī 
+ Rucisurucirativaḍḍhano  tayo pāsādamuttamā  
+  
+    Anūnatiṃsasahassāni nāriyo samalaṅkatā 
+ Sucittā nāma sā nārī suppabuddho nāma atrajo  
+  
+   Anomaṃ sīmu machasaṃ   Rucisurucivaḍḍhamānā sīmu rucisurucivaḍḍhakā syā  
+  
+  
+                    
+  
+    Nimitte caturo disvā sivikāyābhinikkhamī 
+ Cha māsaṃ padhānacāraṃ acarī purisuttamo  
+  
+    Brahmunā yācito santo vessabhulokanāyako 
+ Vatti cakkaṃ mahāvīro aruṇārāme naruttamo  
+  
+    Soṇo ca uttaro ceva ahesuṃ aggasāvakā 
+ Upasanto nāmupaṭṭhāko vessabhussa mahesino  
+  
+    Dāmā  deva samālā ca ahesuṃ aggasāvikā  
+ Bodhi tassa bhagavato sālo iti pavuccati    
+  
+    Sotthiko ceva rammo ca ahesuṃ aggupaṭṭhakā 
+ Gotamī ca sirimā ca   ahesuṃ aggupaṭṭhikā  
+  
+    Saṭṭhiratanamubbedho hemayūpasamūpamo 
+ Kāyā niccharatī raṃsi   rattiṃ sikhī va pabbate  
+  
+    Saṭṭhivassasahassāni āyu vijjati tāvade  
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Dhammaṃ vitthārikaṃ katvā vibhajitvā mahājanaṃ 
+ Dhammanāvaṃ ṭhapetvāna nibbuto so sasāvako  
+  
+    Dassanīyaṃ sabbajanaṃ vihārañciriyāpathaṃ 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā 
+  
+    Vessabhū jinavaro satthā khemārāmamhi   nibbuto  
+ Dhātu vitthārikaṃ āsī tesu tesu padesatoti  
+  
+ Vessabhū buddhavaṃso ekavīsatimo  
+  
+   Rāmā machasaṃ   Mahā sāloti vuccati sīmu machasaṃ  
+   Kāligotamī mavi gotami sirimāceva machasaṃ   Rasmimachasaṃ  
+   Āyu tassa mahesino mavi   Kheme migadāye mavi  
+  
+  
+                    
+  
+    Kakusandha buddhavaṃso 
+                   
+   Vessabhussa aparena sambuddho dipaduttamo 
+ Kakusandho  nāma nāmena appameyyā durāsado  
+   Ugghāṭetvā sabbabhavaṃ cariyāpāramiṃ gato 
+ Sīhoca pañjaraṃ bhetvā patto sambodhimuttamaṃ  
+  
+   Dhammacakkaṃ pavattante kakusandhe lokanāyake 
+ Cattāḷīsa   koṭisahassānaṃ paṭhamābhisamayo ahū  
+  
+   Antalikkhamhi ākāse yamakaṃ katvā vikubbanaṃ 
+ Tiṃsakoṭisahassānaṃ bodhesi devamānuse  
+  
+   Naradevassa yakkhassa catusaccappakāsane 
+ Dhammābhisamayo tassa gaṇanāto asaṅkhīyo  
+   Kakusandhassa   bhagavato eko āsisamāgamo 
+ Khīṇāsavānaṃ vimalānaṃ santacittāna tādinaṃ  
+  
+   Cattāḷīsasahassānaṃ tadā  āsi samāgamo 
+ Danta bhūmimanuppattānaṃ āsavārigaṇakkhayā  
+  
+   Ahaṃ tena samayena khemo nāmāsiṃ khattiyo  
+ Tathāgate jinaputte ca dānaṃ datvā anappakaṃ  
+  
+   Pattañca cīvaraṃ datvā añjanaṃ madhulaṭṭhikaṃ 
+ Imetaṃ patthitaṃ sabbaṃ paṭiyādemi   varaṃ varaṃ  
+  
+    Sopi maṃ muni vyākāsi kakusandho lokanāyako  
+ Imamhi bhaddake kappe   ayaṃ buddho bhavissati  
+   Kukkusandho syā   Cattārisaṃ sīmu   Kukkusandhassa syā  
+   Dutiyo sīmu   Āsavādigaṇakkhayā sīmu       Khemo nāma khattiyā mavi  
+   Paṭiyādetvā sīmu   Vināyako sīmu   Imamhi bhaddakappamhi mavi  
+  
+  
+                      Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarānadītīre pāyāsaṃ asati jino  
+ Paṭiyattavaramaggena bodhimūlamupehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍamanuttaraṃ 
+ Assatthamūle sambodhiṃ bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Anāsavā vītarāgā  santacittā samāhitā 
+ Kolito upatisso ca aggā hessanti sāvakā 
+ Ānandonāmu paṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭhenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+  
+                    
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Uttariṃ vata madhiṭṭhāsiṃ dasa pāramī puriyā  
+    Nagaraṃ khemavatī nāma khemo nāmāsahaṃ tadā 
+ Sabbaññutaṃ gavesanto pabbajiṃ tassa santike  
+  
+    Brāhmaṇo aggidatto ca āsi buddhassa so pitā 
+ Visākhā nāma janikā kukusandhassa mahesino  
+  
+    Vasati  tattha khemapure sambuddhassa mahākulaṃ 
+ Narānaṃ pavaraṃ seṭṭhaṃ jātimantaṃ mahāyasaṃ  
+  
+    Catuvassasahassāni agāramajjhaso vasī 
+ Ruci suruci rativaddhano tayo pāsāda muttamā  
+                   
+    Samatiṃsasahassāni nāriyo samalaṅkatā 
+ Virocamānā nāma nārī uttaro nāma atrajo 
+  
+    Nimitte caturo disvā rathayānena nikkhamī 
+ Anūnakaṃ aṭṭhamāsaṃ padhānaṃ padahī jino  
+  
+    Brahmunā yācito santo kakusandho lokanāyako 
+ Vatti cakkaṃ mahāvīro migadāye naruttamo  
+  
+    Vidhuro sañjīvanāmo ca ahesuṃ aggasāvakā 
+ Buddhijo  nāmupaṭṭhāko kakusandhassa satthuno  
+  
+    Sāmā ca campā nāmā ca   ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato sirīsoti pavuccati  
+    Accuto ca sumano ca ahesuṃ aggupaṭṭhakā 
+ Nandā ceva sunandā ca ahesuṃ aggupaṭṭhakā 
+  
+   Vasī sīmu   Bhaddijo sīmu   Sāmā ca campanāmāca   sīmu  
+  
+  
+                    
+  
+    Cattāḷīsa ratanāni accuggato mahāmuni 
+ Kanakappabhāniccharati  samantā dasa yojanaṃ   
+  
+    Cattālīsavassasahassāni āyu tassa mahesino 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Dhammāpaṇaṃ pasāretvā  naranārīnaṃ sadevake 
+ Naditvā sīhanādaṃva   nibbuto so sasāvako  
+  
+    Aṭṭhaṅgavacanasampanno acchiddāni nirantaraṃ 
+ Sabbaṃ samattarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Kakusandho jinavaro khemārāmamhi nibbuto 
+ Tattheva tassa thūpavaro gāvutanabhamuggato  
+  
+ Kakusanandha buddhavaṃso dvāvīsatimo  
+  
+   Niccharanti sī   Dvādasayojanaṃ sīmu   Pasāritvā mavi   Sīhanādaṃca sīmu 
+  
+  
+                    
+  
+    Koṇāgamana buddhavaṃso 
+                   
+   Kakusandhassa aparena sambuddho dipaduttamo 
+ Koṇāgamano nāma jino lokajeṭṭho narāsabho  
+   Dasadhamme pūrayitvāna  kantāraṃ samatikkami 
+ Pavāhiya malaṃ sabbaṃ patto sambodhimuttamaṃ  
+  
+   Dhammacakkaṃ pavattente koṇāgamananāyake    
+ Tiṃsakoṭisahassānaṃ paṭhamābhisamayo ahū  
+  
+   Pāṭihīraṃ karonte ca paravādappamaddane 
+ Vīsatikoṭisahassānaṃ dutiyābhisamayo ahū  
+  
+   Tato vikubbanaṃ katvā jino devapuraṃ gato 
+ Vasati tattha sambuddho sīlāyaṃ paṇḍukambale 
+  
+   Pakaraṇe satta desento vassaṃ vasati so muni 
+ Dasakoṭisahassānaṃ tatiyābhisamayo ahū  
+  
+   Tassāpi devadevassa eko āsi samāgamo 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Tiṃsabhikkhusahassānaṃ tadā āsi samāgamo  
+ Oghānamatikkantānaṃ  bhijjitānañca   maccunaṃ  
+  
+   Ahaṃ tena samayena pabbato nāma khattiyo 
+ Mittāmaccehi sampanno balavāhanamanappakaṃ   
+  
+    Sambuddhadassanaṃ gantvā sutvā dhammamanuttaraṃ 
+ Nimantetvā sajinaṃ saṅghaṃ dānaṃ datvā yadicchakaṃ   
+  
+    Pattuṇṇaṃ cīnapaṭṭañca koseyyaṃ kambalampi ca  
+ Sovaṇṇapādukañceva adāsiṃ satthusāvake  
+  
+   Pūrayitvā mavi   Koṇāgamanenāma nāyake sīmu   Atikkantacaturoghanaṃ       
+ Bhañjitānaṃ machasaṃ   Anantabalavāhano sīmu  
+   Yaticchakaṃ sīmu  
+  
+  
+                    
+    Sopi maṃ muni vyākāsi saṅghamajjhe nisīdiya  
+ Imamhi bhaddake kappe ayaṃ buddho bhavissati  
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ  ādāya so jino  
+ Paṭiyattavaramaggena bodhimūlamupehiti  
+  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ anuttaro 
+ Assatthamūle sambodhiṃ bujjhissati mahāyaso  
+  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Anāsavā vītarāgā santacittā samāhitā 
+ Kolito upatisso ca aggā hessanti sāvakā 
+ Ānandonāmu paṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Anāsavā vītarāgā  santacittā samāhitā bodhi tassa bhagavato assatthoti pavuccati  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭhenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+   Kāriyaṃ sīmu   Pāyāsaṃ sīmu   Anuttaraṃ sīmu   Vītamalā sīmu  
+  
+                    
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāhaṃ vacanaṃ sutvā bhiyyo cittaṃ pasādayiṃ 
+ Uttariṃ vata madhiṭṭhāsiṃ dasa pāramī puriyā  
+    Sabbaññutaṃ gavesanto dānaṃ datvā naruttame 
+ Ohāyāhaṃ  mahārajjaṃ pabbajiṃ tassa santike 
+  
+    Nagaraṃ sobhavatī nāma sobho nāmāsi khattiyo 
+ Vasati tattha nagare sambuddhassa mahākulaṃ 
+                   
+    Brāhmaṇo yaññadatto ca āsi buddhassa so pitā 
+ Uttarā nāma janikā koṇāgamanassa satthuno 
+  
+    Tīṇi vassasahassāni agāramajjhaso vasī  
+ Tusitasantusita santuṭṭhā tayo pāsādamuttamā  
+    Anūnasoḷasasahassāni nāriyo samalaṅkatā 
+ Rucigattā nāma nāri satthavāho  nāma atrajo 
+  
+    Nimitte caturo disvā hatthiyānena nikkhami 
+ Chamāsaṃ padhānavāraṃ acarī purisuttamo  
+  
+    Brahmunā yācito santo koṇāgamano nāma nāyako 
+ Vatti cakkaṃ mahāvīro migadāye naruttamo 
+  
+    Bhiyyaso  uttaro nāma ahesuṃ aggasāvakā 
+ Sotthijo  nāmupaṭṭhāko koṇāgamanassa satthuno 
+  
+    Samuddā ca uttarāceti   ahesuṃ aggasāvikā 
+ Bodhi tassa bhagavato udumbaroti pavuccati  
+  
+   Ohāyimaṃ sīmu   Santadhāvo manupa   Bhiyyoso manupa  
+   Soṭṭhajo sīmu       Uttarāceva   sīmu  
+  
+  
+                    
+  
+    Uggo ca somadevo ca ahesuṃ aggupaṭṭhakā 
+ Sīvalā ceva sāmā ca ahesuṃ aggupaṭṭhikā  
+  
+    Uccattanena so buddho tiṃsahatthasamuggato 
+ Ukkāmukhe yathā kambu evaṃ raṃsīhi maṇḍito  
+  
+    Tiṃsavassasahassāni āyu vijjati  tāvade 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Dhammacetiṃ samussitvā  dhammadussavibhūsitaṃ 
+ Dhammapupphagulaṃ katvā nibbuto so sasāvako  
+  
+    Mahāvilāso tassa jano siridhammappakāsano 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    Koṇāgamano sambuddho pabbatārāmhi nibbuto 
+ Dhātuvitthārikaṃ āsi tesu tesu padesatoti  
+  
+ Koṇāgamana buddhavaṃso tevīsati mo  
+  
+   Buddhassa sīmu   Samussetvā mavi  
+  
+  
+                    
+  
+    Kassapa buddhavaṃso 
+                   
+   Koṇāgamanassa aparena sambuddho dipaduttamo 
+ Kassapo nāma nāmena dhammarājā pabhaṅkaro  
+   Sañjiḍḍhitaṃ kulamūlaṃ bahuṃ ca pānabhojanaṃ  
+ Datvāna yācake dānaṃ pūrayitvāna mānasaṃ 
+ Usabhova ālakaṃ hetvā patto sambodhimuttamaṃ  
+  
+   Dhammacakkaṃ pavattente kassape lokanāyake 
+ Vīsatikoṭisahassānaṃ paṭhamābhisamayo ahū  
+  
+   Catumāsaṃ yadā buddho loke carati cārikaṃ 
+ Dasakoṭisahassānaṃ dutiyābhisamayo ahū  
+  
+   Yamakaṃ vikubbanaṃ katvā ñāṇadhātuṃ pakittayi    
+ Pañcakoṭisahassānaṃ tatiyābhi samayo ahū  
+  
+   Sudhammadevapure ramme tattha dhammaṃ pakāsayi 
+ Tīṇi koṭisahassāni   devānaṃ bodhayī jino  
+  
+   Naradevassa yakkhassa apare dhammadesane 
+ Etesānaṃ abhisamayo  gaṇanāto asaṅkhiyo   
+  
+   Tassāpi devadevassa eko āsi samāgamo 
+ Khīṇāsavānaṃ vimalānaṃ santacittānatādinaṃ  
+  
+   Vīsati bhikkhusahassānaṃ tadā āsi samāgamo 
+ Atikkantarāgavantānaṃ  hirisīlena tādinaṃ  
+  
+    Ahaṃ tadā māṇavako  jotipāle ti vissuto 
+ Ajjhāyako mantadharo tiṇṇaṃ vedānapāragū  
+  
+   Saṃjinditaṃ manupa   Bahunnapāna bhojanaṃ machasaṃ bavhanna  
+ Pāna bhojanaṃ mavi Bahunaṃpānaṃ bhojanaṃ      
+   Pakāsayī mavi   Sahassānaṃ sīmu machasaṃ   Abhisamayā sīmu mavi  
+   Asaṅkhiyā sīmu mavi   Itikkanta bhavantānaṃ syā machasaṃ  
+ Atikkanta bhavakaṃtānaṃ sīmu atikkanta bhagavantānaṃ       Ahaṃ tena samayena   
+ mavi  
+  
+  
+                    
+  
+    Lakkhaṇe itihāse ca sadhamme pāramiṃ gato 
+ Bhūmantaḷikkhe  kusalo katavijjo anāvayo   
+  
+    Kassapassa bhagavato ghaṭikāro nāmupaṭṭhāko 
+ Sagāravo sappatisso nibbuto tatiyo phale  
+  
+    Ādāya maṃ ghaṭīkāro upagañji kassapaṃ jinaṃ 
+ Tassa dhammaṃ suṇitvāna pabbajiṃ tassa santike  
+  
+    Āraddhaviriyo hutvā vattāvattesu kovido 
+ Na kvāpi   parihāyāmi pūremi jinasāsanaṃ  
+  
+    Yāvatā buddhabhaṇitaṃ navaṅgaṃ jinasāsanaṃ 
+ Sabbaṃ pariyāpuṇitvāna sobhayiṃ jinasāsanaṃ  
+  
+    Mama acchariyaṃ disvā sopi buddho viyākari 
+ Imamhi bhaddake kappe ayaṃ buddho bhavissati  
+                   
+    Ahū kapilavhayā rammā nikkhamitvā tathāgato 
+ Padhānaṃ padahitvāna katvā dukkarakārikaṃ  
+  
+    Ajapālarukkhamūlamhi nisīditvā tathāgato 
+ Tattha pāyāsamaggayha nerañjaramupehiti  
+  
+    Nerañjarāya tīramhi pāyāsaṃ paribhuñjiya paṭiyattavaramaggena bodhimaṇḍamupehiti  
+    Tato padakkhiṇaṃ katvā bodhimaṇḍaṃ naruttaro  aparājitaṭhānamhi 
+ bodhipallaṅkamuttame 
+ Pallaṅkena nisīditvā bujjhissati mahāyaso  
+    Imassa janikā mātā māyā nāma bhavissati 
+ Pitā suddhodano nāma ayaṃ hessati gotamo  
+  
+    Anāsavā vītarāgā  santacittā samāhitā 
+ Kolito upatisso ca aggā hessanti sāvakā 
+ Ānandonāmu paṭṭhāko upaṭṭhissati taṃ jinaṃ  
+  
+   Bhummantalikkhe syā mavi   Anāmayo mavi   Kvaci syā mavi machasaṃ   
+ Naruttamo sīmu   Vītamalā sīmu  
+                    
+    Khemā uppalavaṇṇā ca aggā hessanti sāvikā 
+ Anāsavā vītarāgā santacittā samāhitā bodhi tassa bhagavato assatthoti pavuccati  
+  
+    Citto ca hatthāḷavako aggā hessantupaṭṭhakā 
+ Uttarā nandamātā ca aggā hessantupaṭṭhikā 
+ Āyu vassasataṃ tassa gotamassa yasassino  
+  
+    Idaṃ sutvāna vacanaṃ asamassa mahesino 
+ Āmoditā naramarū buddhabījaṅkuro ayaṃ  
+  
+    Ukkuṭṭhi saddaṃ vattenti apphoṭhenti hasanti ca  
+ Katañjalī namassanti dasasahassī sadevakā  
+  
+    Yadimassa lokanāthassa virajjhissāma sāsanaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Yathā manussā nadiṃ tarantā paṭititthaṃ virajjhiya 
+ Heṭṭhā titthe gahetvāna uttaranti mahānadiṃ  
+  
+    Evameva mayaṃ sabbe yadi muñcāmimaṃ jinaṃ 
+ Anāgatamhi addhāne hessāma sammukhā imaṃ  
+  
+    Tassāhaṃ vacanaṃ sutvā bhiyyo  cittaṃ pasādayiṃ 
+ Uttariṃ  vata madhiṭṭhāsiṃ dasa pāramī puriyā    Evaṃ ahaṃ saṃsaritvā parivajjento 
+ anācāraṃ  dukkarañca kataṃ mayhaṃ bodhiyāyeva kāraṇā  
+  
+    Nagaraṃ bārāṇasī nāma kikīnāmāsi khattiyo 
+ Vasati tattha nagare sambuddhassa mahākulaṃ  
+    Brāhmaṇo brahmadatto ca āsi buddhassa so pitā 
+ Dhanavatī nāma janikā  kassapassa mahesino  
+                   
+    Duve vassasahassāni agāramajjhaso vasī 
+ Haṃso yaso sirinando tayo pāsādamuttamā  
+  
+   Bhīyo mavi manupa   Uttari machasaṃ   Anāvaraṃ machasaṃ  
+   Mātā dhanavatī nāma mavi manupa  
+  
+  
+                    
+  
+    Tisoḷasasahassāni nāriyo samalaṅkatā 
+ Sunandā nāma sā nāri vijitaseno nāma atrajo  
+  
+    Nimitte caturo disvā pāsādenābhinikkhami 
+ Sattāhaṃ padhānacāraṃ acarī purisuttamo  
+    Brahmunā yācito santo kassapo loka nāyako 
+ Vatti cakkaṃ mahāvīro migadāye naruttamo  
+    Tisso ca bhāradvājo ca ahesuṃ aggasāvakā  
+ Sabbamitto upaṭṭhāko kassapassa mahesino  
+  
+    Anulā ca uruvelā ca ahesuṃ aggasāvikā bodhi tassa bhagavato nigrodhoti pavuccati  
+  
+    Sumaṅgalo ghaṭīkāro ca ahesuṃ aggupaṭṭhakā 
+ Vijitasenā ca bhaddā ca ahesuṃ aggupaṭṭhikā  
+  
+    Uccattanena so buddho vīsatiratanamuggato 
+ Vijjulaṭṭhiva ākāse candova gahapūrito  
+  
+    Vīsativassasahassāni āyu tassa mahesino 
+ Tāvatā tiṭṭhamāno so tāresi janataṃ bahuṃ  
+  
+    Dhammataḷākaṃ māpetvā sīlaṃ datvā vilepanaṃ 
+ Dhammadussaṃ nivāsetvā dhammamālaṃ vibhajjiya    
+  
+    Dhammavimalamādāsaṃ ṭhapayitvā mahājane 
+ Keci nibbānaṃ patthentā passantu me alaṅkaraṃ  
+  
+    Sīlakañcukaṃ datvāna jhānakavacavammitaṃ  
+ Dhammacammaṃ pārupitvā datvā santāhamuttamaṃ  
+  
+    Satiphalakaṃ datvāna tikhiṇaṃ ñāṇakuntimaṃ 
+ Dhammakhaggavaraṃ datvā sīlaṃ  saṃsaggamaddanaṃ 
+  
+   Virājiya sīmu   Jhāna kavaca dhammikaṃ sīmu   Sīla   sīmu  
+  
+  
+                    
+  
+    Tevijja   bhūsanaṃ datvā āvelaṃ caturo phale 
+ Chaḷabhiññābharaṇaṃ datvā dhammapupphipilandhanaṃ  
+  
+    Saddhammapaṇḍaracchattaṃ  datvā pāpanivāraṇaṃ 
+ Māpayitvābhayaṃ  pupphaṃ nibbuto so sāvako  
+  
+    Eso hi sammā sambuddho appameyyo durāsado 
+ Esohi dhammaratano svākkhāto ehipassiko  
+  
+    Eso hi saṅgharatano suppaṭipanno anuttaro 
+ Sabbaṃ samantarahitaṃ nanu rittā sabbasaṅkhārā  
+  
+    So kassapo jinavaro satthā setyārāmamhi nibbuto 
+ Tattheva tassa jinathūpo yojanubbedhamuggatoti  
+  
+ Kassapa buddhavaṃso catuvīsatimo  
+  
+   Te vijjā sīmu   Saddhammapaṇḍaraṃjatanaṃ sīmu   Māpetvāabhayaṃ sīmu  
+  
+  
+                    
+  
+ Gotama buddhavaṃso 
+                   
+   Ahametarahi sambuddho  gotamo sakyavaḍḍhano  
+ Padhānaṃ padahitvāna patto sambodhimuttamaṃ  
+  
+   Brahmunā yācito santo dhammacakkaṃ pavattayiṃ 
+ Aṭṭhārasannaṃ koṭīnaṃ paṭhamābhi samayo ahū  
+  
+   Tato parañca desente naramarūnaṃ  samāgame 
+ Gaṇanāya na vattabbo dutiyābhi samayo ahū  
+  
+   Idhevāhaṃ etarahi ovadiṃ mama   atrajaṃ 
+ Gaṇanāya na vattabbo tatiyābhi samayo ahū  
+  
+   Ekova   sannipāto me sāvakānaṃ mahesinaṃ 
+ Aḍḍhateḷasasatānaṃ bhikkhunāsi samāgamo  
+  
+   Virocamāno vimalo bhikkhusaṅghassa majjhago 
+ Dadāmī patthitaṃ sabbaṃ maṇīva sabbakāmado  
+  
+   Phalamākaṅkhamānānaṃ bhavacchandajahesinaṃ 
+ Catusaccaṃ pakāsemi   anukampāya pāṇinaṃ  
+  
+   Dasavīsasahassānaṃ dhammābhisamayo ahū 
+ Ekadvinnaṃ abhisamayo gaṇanāto asaṅkhiyo  
+  
+   Vitthārikaṃ bāhujaññaṃ  iddhaṃ phītaṃ suphullitaṃ 
+ Idha mayhaṃ sakyamunino sāsanaṃ suvisodhitaṃ  
+  
+    Anāsavā vītarāgā santacittā samāhitā 
+ Bhikkhūneka satā sabbe parivārenti maṃ sadā  
+  
+    Idāni ye etarahi jahanti mānusaṃ bhavaṃ 
+ Appattamānasā sekhā te bhikkhu viññūgarahitā  
+   Ahaṃ etarahi buddho sīmu   Sakyavaddhano mavi sakyapuṅgavo   pu  
+   Naradeva   sīmu sya machasaṃ   Dhavadissāmi mavi   Ekosi mavi  
+   Pakāsesiṃ sīmu   Bahūjaññaṃ   sīmu  
+  
+  
+                    
+  
+    Ariyañjasaṃ thomayantā sadā dhammaratā janā 
+ Bujjhissanti satimanto saṃsārasaritā narā  
+  
+    Nagaraṃ kapilavatthu me rājā suddhodano pitā 
+ Mayhaṃ janettikā mātā māyā devīti vuccati  
+  
+    Ekūnatiṃsa vassāni agāmajjhahaṃ vasiṃ 
+ Rammo surammo subhako  tayo pāsāda muttamā  
+  
+    Cattārīsa sahassāni nāriyo samalaṅkatā 
+ Bhaddakaccānā  nāma nārī rāhulo nāma atrajo  
+  
+    Nimitte caturo disvā assayānena nikkhakamiṃ 
+ Chabbassaṃ padhānacāraṃ acariṃ dukkaraṃ ahaṃ  
+                   
+    Bārāṇasiyaṃ isipatane jinacakkaṃ pavattitaṃ  
+ Ahaṃ gotama sambuddho saraṇo  sabbapāṇinaṃ  
+  
+    Kolito upatisso ca dve bhikkhu aggasāvakā 
+ Ānando nāmupaṭṭhāko santikāvacaro mama  
+  
+    Khemā uppalavaṇṇā ca bhikkhūnī aggasāvikā 
+ Citto ca hatthāḷavako aggupaṭṭhākupāsakā  
+  
+    Uttarā nandamātā ca aggupaṭṭhīkupāsikā 
+ Ahaṃ assatthamūlamhi patto sambodhi muttamaṃ  
+  
+    Byāmappabhā sadā mayhaṃ soḷasahatthamuggatā  
+ Appaṃ vassasataṃ āyu idānetarahi vijjati 
+ Tāvatā tiṭṭhamānohaṃ tāremi janataṃ bahuṃ  
+  
+   Sucandako kokanudo ko bhuvo   syā   Yasodharā mavi Syā  
+   Cakkaṃ pavattitaṃ mayā sīmu   Saraṇaṃ sīmu machasaṃ syā   Muggato   sīmu  
+  
+  
+                    
+  
+    hapayitvāna dhammukkaṃ  pacchimaṃ janabodhanaṃ 
+ Ahampi  na cirasseva saddhiṃ sāvakasaṅghato 
+ Idheva parinibbissaṃ aggīvāhārasaṅkhayā  
+  
+    Tāni ca atulatejāni imāni ca dasabalāni iddhiyo  
+ Ayaṃ ca guṇadharavaradeho  dvattiṃsa lakkhaṇavicitto   
+  
+    Dasa disā pabhāsetvā sataraṃsīva jappabhā 
+ Sabbā samantarahessanti nanu rittā sabbasaṅkhārāti  
+ Gotama buddhavaṃso pañcavīsatimo  
+  
+   Dhammokkaṃ sīmu   Ahampi sīmu   Imāni ca dasabalāni ca   sīmu imāni ca 
+ yasabalāni iddhiyo syā imāni ca dasabalānibalāni machasaṃ  
+   Ayaṃcaguṇavaradeho sīmu ahaṃguṇadhāraṇe deho syā aya bhuva guṇadhāraṇo 
+ deho machasaṃ   Dvattisaṃvaralakkhaṇavicitto machasaṃ sya dvattisaṃvara 
+ lakkhaṇacito sīmu 
+  
+  
+                    
+  
+ Buddhapakiṇṇaka kaṇḍo 
+  
+   Aparimeyye ito kappe caturo āsuṃ vināyakā 
+ Taṇhaṅkaro medhaṅkaro athopi saraṇaṅkaro 
+ Dīpaṅkaro ca samabuddho ekakappamhi te jinā  
+  
+   Dīpaṅkarassa aparena koṇḍañño nāma nāyako 
+ Ekova eka kappamhi tāresi janataṃ bahuṃ  
+  
+   Dīpaṅkarassa bhagavato koṇḍaññassa ca satthuno 
+ Etesaṃ antarā tappā gaṇanāto asaṅkhiyā  
+  
+   Koṇḍaññassa aparena maṅgalo nāma nāyako 
+ Tesampi antarā kappā gaṇanāto asaṅkhiyā  
+  
+   Maṅgalo ca sumano ca revato sobhito muni 
+ Tepi buddhā eka kappe cakkhumanto pabhaṅkarā  
+                   
+   Sobhitassa aparena anomadassī mahāyaso 
+ Tesampi antarā kappā gaṇanāto asaṅkhiyā  
+  
+   Anomadassī padumo nārado cāpi nāyako 
+ Te pi buddhā ekakappe tamantakārakā munī  
+  
+   Nāradassa aparena padumuttaro nāma nāyako 
+ Ekakappamhi uppanno tāresi janataṃ bahuṃ  
+  
+   Nāradassa bhagavato padumuttarassa satthuno 
+ Tesampi antarā kappā gaṇanāto asaṅkhiyā  
+  
+    Kappasatasahassamhi eko āsi mahāmuni 
+ Padumuttaro lokavidū āhutīnaṃ paṭiggaho  
+  
+    Tiṃsakappasahassamhi duce āsuṃ vināyakā 
+ Sumedho ca sujāto ca orato padumuttarā   
+  
+   Dharaso padumuttaro sīmu Dharato padumuttaro syā  
+  
+  
+                    
+  
+    Aṭṭhārase kappasate tayo āsuṃ vināyakā 
+ Piyadassī atthadassī dhammadassī ca nāyakā  
+ Orato  ca sujātassa sambuddhā dvīpaduttamā  
+  
+    Catunavute ito kappe eko āsi mahāmuni 
+ Siddhattho so lokavidū sallakatto anuttaro  
+  
+    Dvenavute ito kappe duve āsuṃ vināyakā 
+ Tisso phusso ca sambuddho asamā appaṭi puggalā  
+  
+    Ekanavute ito kappe vipassī nāma nāyako 
+ Sopi buddho kāruṇiko satte mocesi bandhanā  
+  
+    Ekatiṃse ito kappe duve āsuṃ vināyakā 
+ Sikhī ca vessabhū ceva asamā appaṭipuggalā  
+  
+    Imamhi bhaddake kappe tayo āsuṃ vināyakā 
+ Kakusandho  koṇāgamano kassapo cāpi nāyako 
+ Ahametarahi sambuddho metteyyo cāpi hessati  
+  
+    Etepi pañca sambuddhā  dhīrā lokānukampakā 
+ Etesaṃ dhammarājūnaṃ aññesaṃ neka koṭinaṃ 
+ Ācīkkhitvāna taṃ maggaṃ nibbutā te sasāvakāti  
+  
+ Buddhapakiṇṇakakaṇḍo niṭṭhito  
+  
+   Dharaso sīmu   Kukkusandho syā   Etepime pañca buddhā machasaṃ syā Etepi pañca 
+ buddhā sīmu  
+  
+  
+                    
+  
+ Dhātubhājanīya kathā 
+                   
+   Mahāgotamo jinavaro kusānārāya  nibbuto 
+ Dhātu vitthārikaṃ āsi tesu tesu padesato  
+  
+   Eko ajātasattussa eko vesāliyāpure 
+ Eko kapilavatthumhi eko ca allakappake  
+  
+   Eko ca rāmagāmamhi eko va veṭhadīpake 
+ Eko pāveyyake malle eko ca kosinārake  
+  
+   Kumbhassa thūpaṃ kāresi brāhmaṇo doṇa savhayo 
+ Aṅgārathūpaṃ kāresuṃ moriyā tuṭṭha mānasā  
+  
+   Aṭṭhasārīrikā thūpā navamo kumbhacetiyo 
+ Aṅgāra thūpo dasamo tadāyeva patiṭṭhito  
+  
+   Ekā dāṭhā tidasapure ekā nāgapure ahū 
+  
+   Cattāḷīsa samādantā kesā lomā ca sabbaso 
+ Devā hariṃsu ekekaṃ cakkavāḷa paramparā  
+  
+   Madhurāyaṃ bhagavato patto daṇḍañca cīvaraṃ 
+ Nivāsanaṃ kusaghare paccattharaṇaṃ kapilavhaye  
+  
+   Pāṭaliputtanagare karakaṃ kāyabandhanaṃ 
+ Campāyamudakasāṭikā uṇṇalomañca kosale  
+  
+   Kusinārāmamhi sīmu kusirāramhi machasaṃ 
+ Uṇahīsaṃ tasesā dāṭhā akakhakā ceva dhātuyo 
+ Asamahinanā imā satata sesā bhinanā va dhātuye 
+ Mahanatā mugga matatā ca majjhamā hinana taṇadhulā 
+ Khuddakā sāsa pamattā nānā vannā ca dhātuyo 
+  
+  
+                    
+  
+    Kāsāvañca brahmaloke veṭhanaṃ tidase pure 
+ Pāsāṇake padaṃ seṭṭhaṃ yañcāpi accutippadaṃ 
+ Nisīdanaṃ avanti pure raṭṭhe attharaṇaṃ tadā  
+                   
+    Araṇī ca mithilāyaṃ videhe parissāvanaṃ 
+ Vāsi sucigharañcāpi indapatte pure tadā  
+  
+    Parikkhāraṃ avasesaṃ janapade aparantake 
+ Paribhuttañca muninā akaṃsu manujā tadā  
+  
+    Dhātu vitthārikaṃ āsi gotamassa mahesino 
+ Pāṇinaṃ anukampāya āhu porāṇikā tadā  
+  
+ Dhātubhājanīyakathā niṭṭhitā  
+  
+ Buddhavaṃso niṭṭhito  
+  
+ Mahantā suvaṇṇa vaṇṇā ca   muttā vaṇṇā ca majjhimā 
+ Khuddakā makulavaṇṇāca   soḷasa deṇa matatikā  
+ Mahantā pañca nālīyo   nāliyo pañca majjhimā khuddakā chanālī ceva   etā sabbāpi 
+ dhātuyo 
+  
+ Uṇahisaṃ sīhaḷe dīpe   brahma loke ca vāmakaṃ 
+ Sīhaḷe dakkhīṇakakhaṃca   sabbā petā patiṭṭhitāti   Vajirāyaṃ       
+ Makuṭapure sīmu  
+   Kāsāvā brahmaloke ca   machasaṃ kāsāvakaṃ brahmaloke  syā  
+  
+ Imā gāthāyo marammapotthake dissanti  
+ Sīhaḷa potthake natthi  
+  
+  
+ 

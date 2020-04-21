@@ -1,0 +1,3481 @@
+﻿ 
+  
+ Dhatukatha 
+ Based on the ed  by Edmund Rowland Gooneratne  The Dhātu Kathā Pakaraṇa and its commentary  
+ London   Pali Text Society       
+  Reprinted  with corrections             
+  
+  
+  
+ Input by the Dhammakaya Foundation  Thailand            
+  GRETIL Version vom            
+  
+  
+ NOTICE 
+ This file is  C  Copyright the Pali Text Society and the Dhammakaya Foundation        
+ This work is licensed under a Creative Commons Attribution ShareAlike     International License  
+  
+ These files are provided by courtesy of the Pali Text Society for 
+ scholarly purposes only  
+ In principle they represent a digital edition  without revision or 
+ correction  of the printed editions of the complete set of Pali 
+ canonical texts published by the PTS  While they have been subject to a 
+ process of checking  it should not be assumed that there is no 
+ divergence from the printed editions and it is strongly recommended that 
+ they are checked against the printed editions before quoting  
+  
+  
+  
+  
+ ANNOTATED VERSION IN PTS LAYOUT 
+  
+  
+  
+  
+ STRUCTURE OF REFERENCES  added   
+ Dhātuk nn nn   Dhātukathā Niddesa Roman  paragraph 
+  
+  
+  
+ THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY  
+ COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE  
+  
+ Text converted to Unicode  UTF     
+  This file is to be used with a UTF   font and your browsers VIEW configuration 
+ set to UTF     
+  
+ description  multibyte sequence  
+ long a ā 
+ long A Ā 
+ long i ī 
+ long I Ī 
+ long u ū 
+ long U Ū 
+ vocalic r ṛ 
+ vocalic R Ṛ 
+ long vocalic r ṝ 
+ vocalic l ḷ 
+ vocalic L Ḷ 
+ long vocalic l ḹ 
+ velar n ṅ 
+ velar N Ṅ 
+ palatal n ñ 
+ palatal N Ñ 
+ retroflex t ṭ 
+ retroflex T Ṭ 
+ retroflex d ḍ 
+ retroflex D Ḍ 
+ retroflex n ṇ 
+ retroflex N Ṇ 
+ palatal s ś 
+ palatal S Ś 
+ retroflex s ṣ 
+ retroflex S Ṣ 
+ anusvara ṃ 
+ visarga ḥ 
+ long e ē 
+ long o ō 
+ l underbar ḻ 
+ r underbar ṟ 
+ n underbar ṉ 
+ k underbar ḵ 
+ t underbar ṯ 
+  
+ Unless indicated otherwise  accents have been dropped in order 
+ to facilitate word search  
+  
+ For a comprehensive list of GRETIL encodings and formats see  
+ http gretil sub uni goettingen degretilgretdiac pdf 
+ and 
+ http gretil sub uni goettingen degretilgretdias pdf 
+  
+ For further information see  
+ http gretil sub uni goettingen degretil htm 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Dhātukathā 
+  
+  page      
+   
+ Dhātu Kathā Pakaraṇaṃ  
+ NAMO TASSA BHAGAVATO ARAHATO SAMMĀSAMBUDDHASSA 
+          Saṃgaho asaṃgaho      saṃgahītena asaṃgahītaṃ      
+ asaṃgahītena saṃgahītaṃ      saṃgahītena saṃgahītaṃ      
+ asaṃgahītena asaṃgahītaṃ      sampayogo vippayogo      
+ sampayuttena vippayuttaṃ      vippayuttena sampayuttaṃ  
+     sampayuttena sampayuttaṃ       vippayuttena vippayuttaṃ       saṃgahītena sampayuttaṃ vippayuttaṃ       sampayuttena saṃgahītaṃ asaṃgahītaṃ       asaṃgahītena 
+ sampayuttaṃ vippayuttaṃ       vippayuttena saṃgahītaṃ 
+ asaṃgahītaṃ  
+       Pañcakkhandhā   dvādasāyatanāni  aṭṭhārasa dhātuyo  
+ cattāri saccāni  bāvīsatindriyāni  paṭiccasamuppādo  cattāro 
+ satipaṭṭhānā  cattāro sammappadhānā  cattāro iddhipādā  
+ cattāri jhānāni  catasso appamaññāyo  pañcindriyāni  pañca 
+ balāni  satta bojjhaṃgā  ariyo aṭṭhaṃgiko maggo  phasso  
+ vedanā  saññā  cetanā  cittaṃ  adhimokkho  manasikāro  
+      Tīhi saṃgaho  tīhi asaṃgaho  catuhi sampayogo  catuhi 
+ vippayogo  
+      Sabhāgo  visabhāgo  
+      Sabbā pi Dhammasaṃgaṇi Dhātukathāya Mātikā  ti   
+  Mātikā    
+ I   SAṂGAHĀSAṂGAHO 
+      Dhātuk I   Rūpakkhandho katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi saṃgahīto  
+  
+  
+  page      
+   DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Rūpakkhandho ekena khandhena ekādasahi āyatanehi 
+ ekādasahi dhātūhi saṃgahīto  
+      Katīhi asaṃgahīto  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi 
+ asaṃgahīto  
+      Dhātuk I   Vedanākhandho katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi saṃgahīto  
+      Vedanākhandho ekena khandhena ekenāyatanena ekāya 
+ dhātuyā saṃgahīto  
+      Katīhi asaṃgahīto  
+      Catuhi khandhehi ekādasahi  āyatanehi  sattarasahi dhātūhi asaṃgahīto  
+      Dhātuk I   Saññākkhandho katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi saṃgahīto  
+      Saññākkhandho ekena khandhena ekenāyatanena ekāya 
+ dhātuyā saṃghahīto  
+      Katīhi asaṃgahīto  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahīto  
+      Dhātuk I   Saṃkhārakkhandho katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi saṃgahīto  
+      Saṃkhārakkhandho ekena khandhena ekenāyatanena 
+ ekāya dhātuyā saṃgahīto  
+      Katīhi asaṃgahīto  
+      Catūhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahīto  
+      Dhātuk I   Viññāṇakkhandho katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi saṃgahīto  
+      Viññāṇakkhandho ekena khandhena ekenāyatanena sattahi dhātūhi saṃgahīto  
+      Katīhi asaṃgahīto  
+      Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi 
+ asaṃgahīto  
+      Dhātuk I   Rūpakkhandho ca Vedanākkhandho ca katīhi khandhehi katīhāyatanehi katīhi dhātūhi saṃgahīto  
+      Rūpakkhandho ca Vedanākkhandho ca dvīhi khandhehi 
+ ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO    
+      Katīhi asaṃgahītā  
+      Tihi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I   Rūpakkhandho ca Saññākhandho ca        pe       
+      Dvīhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi 
+ saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I   Rūpakkhandho ca Saṃkhārakkhandho ca        pe       
+      Dvīhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I   Rūpakkhandho ca Viññāṇakkhandho ca        pe       
+      Dvīhi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi asaṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi kandhehi na kehici āyatanehi na kāhici dhātūhi 
+ asaṃgahītā  
+      Dhātuk I    Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho ca katīhi khandhehi katīhi āyatanehi katīhi dhātūhi 
+ saṃgahītā  
+      Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho 
+ ca tīhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi 
+ saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I    Rūpakkhandho ca Vedanākkhandho ca Saṃkhārakkhando ca        pe       
+      Tīhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi 
+ saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I    Rūpakkhandho ca Vedanākhandho ca Viññāṇakkhandho ca        pe       
+  
+  
+  page      
+   DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Tīhi khandhehī dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi na kehici āyatanehi na kāhici dhātūhi 
+ asaṃgahītā  
+      Dhātuk I    Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho 
+ ca Saṃkhārakkhandho ca katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi saṃgahītā  
+      Rūpakkhandho ca Vedanākhandho ca Saññākhandho ca 
+ Saṃkhārakkhandho ca catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I    Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho 
+ ca Viññāṇakkhandho ca        pe       
+      Catūhi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena nekehici āyatanehi nekāhici dhātūhi 
+ asaṃgahītā  
+      Dhātuk I    Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho 
+ ca Saṃkhārakkhandho ca Viññāṇakkhandho ca katīhi khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā  
+      Rūpakkhandho ca Vedanākkhandho ca Saññākkhandho 
+ ca Saṃkhārakkhandho ca Viññāṇakkhandho ca pañcahi 
+ khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I    Pañcakkhandhā katīhi khandhehi katīhi āyatanehi 
+ katīhi dhātūhi saṃgahītā  
+      Pañcakkhandhā pañcahi khandhehi dvādasahi āyatanehi 
+ aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO    
+      Dhātuk I    Cakkhāyatanaṃ katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi saṃgahītaṃ  
+      Cakkhāyatanaṃ ekenakhandhena ekenāyatanena ekāya 
+ dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Sotāyatanaṃ       pe       
+      Dhātuk I    Ghānāyatanaṃ       pe       
+      Dhātuk I    Jivhāyatanaṃ       pe       
+      Dhātuk I    Kāyāyatanaṃ       pe       
+      Dhātuk I    Rūpāyatanaṃ       pe       
+      Dhātuk I    Saddāyatanaṃ       pe       
+      Dhātuk I    Gandhāyatanaṃ       pe       
+      Dhātuk I    Rasāyatanaṃ       pe       
+      Dhātuk I    Phoṭṭhabbāyatanaṃ       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahitaṃ  
+      Dhātuk I    Manāyatanaṃ       pe       
+      Ekena khandhena ekenāyatanena sattahi dhātūhi saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Dhammāyatanaṃ       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi 
+ ekenāyatanena ekāya dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Ekena khandhena ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Cakkhāyatanañ ca Sotāyatanañ ca        pe       
+      Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+  
+  
+  page      
+   DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Dhātuk I       Cakkhāyatanañ ca ghānāyatanañ ca        pe       
+      Cakkhāyatanañ ca jivhāyatanañ ca        pe       
+      Cakkhāyatanañ ca kāyāyatanañ ca        pe       
+      Cakkhāyatanañ ca rūpāyatanañ ca        pe       
+      Cakkhāyatanañ ca saddāyatanañ ca        pe       
+      Cakkhāyatanañ ca gandhāyatanañ ca        pe       
+      Cakkhāyatanañ ca rasāyatanañ ca        pe       
+      Dhātuk I    Cakkhāyatanañ ca phoṭṭhabbāyatanañ ca        
+ pe       
+      Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  Catuhi khandhehi dasahāyatanehi 
+ soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I    Cakkhāyatanañ ca manāyatanañ ca        pe       
+ Dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk I    Cakkhāyatanañ ca dhammāyatanañ ca        pe       
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītaṃ  
+      Dhātuk I    Dvādasāyatanāni katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi saṃgahītāni  
+      Dvādasāyatanāni asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi 
+ saṃgahītāni  
+      Katīhi asaṃgahītāni  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi 
+ asaṃgahītāni  
+      Dhātuk I    Cakkhudhātu katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi saṃgahītā  
+      Cakkhudhātu ekena khandhena ekenāyatanena ekāya 
+ dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO    
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk I       Sotadhātu       pe       
+      Ghānadhātu       pe       
+      Jivhādhātu       pe       
+      Kāyadhātu       pe       
+      Rūpadhātu       pe       
+      Saddadhātu       pe       
+      Gandhandhātu       pe       
+      Rasadhātu       pe       
+      Phoṭṭhabbadhātu       pe       
+      Cakkhuviññāṇadhātu       pe       
+      Sotaviññāṇa dhātu       pe       
+      Ghānaviññāṇadhātu       pe       
+      Jivhāviññāṇadhātu       pe       
+      Kāyaviññāṇadhātu       pe       
+      Manodhātu       pe       
+      Manoviññāṇadhātu       pe       
+      Ekena khandhena  ekenāyatanena  ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catūhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I    Dhammadhātu       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi 
+ ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk I    Cakkhudhātu ca sotadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca ghānadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca jivhādhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca kāyadhatu ca       pe       
+      Dhātuk I    Cakkhudhātu ca rūpadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca saddadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca gandhadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca rasadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca phoṭṭhabbadhātu ca       pe       
+  
+  
+  page      
+   DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I    Cakkhudhātu ca cakkhuviññāṇa dhātu ca       
+ pe       
+      Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I    Cakkhudhātu ca sotaviññāṇadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca ghānaviññāṇadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca jivhāviññāṇadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca kāyaviññāṇadhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca manodhātu ca       pe       
+      Dhātuk I    Cakkhudhātu ca manoviññāṇadhātu ca       
+ pe       
+      Dvīhi khandhehi dvīhi āyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I    Cakkhudhātu ca dhammadhātu ca       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvihāyatanehī dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I    Aṭṭhārasa dhātuyo katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi asaṃgahītā  Aṭṭhārasa dhātuyo asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahi 
+ āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I    Dukkhasaccaṃ katīhi khandhehi katīhi āyatanehi 
+ katīhi dhātūhi saṃgahītaṃ  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO    
+      Dukkhasaccaṃ pañcahi khandhehi dvādasahi āyatanehi 
+ aṭṭhārasahi dhātūhi saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Samudayasaccaṃ       pe       
+      Ekena khandhena       pe       
+      Dhātuk I    Maggasaccaṃ       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Nirodhasaccaṃ       pe       
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Pañcahi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Dukkhasaccañ ca samudayasaccañ ca        pe       
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I    Dukkhasaccañ ca maggasaccañ ca        pe       
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I    Dukkhasaccañ ca nirodhasaccañ ca        pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā       pe       
+      Dhātuk I    Dukkhasaccañ ca samudayasaccañ ca maggasaccañ 
+ ca        pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKATAṆAṂ   I  
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūti asaṃgahītā  
+      Dhātuk I    Dukkhasaccañ ca samudayasaccañ ca nirodhasaccañ 
+ ca        pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātuhi saṃgahītā  
+      Katīhi asaṃgahītā  Na kehici khandhehi na kehici 
+ āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I    Dukkhasaccañ ca samudayasaccañ ca maggasaccañ 
+ ca nirodhasaccañ ca        pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I    Cattāri saccāni katīhi khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā  
+      Cattāri saccāni asaṃkhataṃ khandhato ṭhapetvā pañcahi 
+ khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I    Cakkhundriyaṃ katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi saṃgahītaṃ  
+      Cakkhundriyaṃ ekena khandhena ekenāyatanena ekāya 
+ dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I       Sotindriyaṃ       pe       
+      Ghānindriyaṃ       pe       
+      Jivhindriyaṃ       pe       
+      Kāyindriyaṃ       pe       
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Itthindriyaṃ       pe       
+      Purisindriyaṃ       pe       
+      Ekena khandhena ekanāyatanena ekāya dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Manindriyaṃ       pe       
+      Ekena khandhena ekenāyatanena sattahi dhātūhi saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I    Jivitindriyaṃ       pe       
+      Dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Tīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi 
+ asaṃgahītaṃ  
+      Dhātuk I        Sukhindriyaṃ       pe       
+      Dukkhindriyaṃ       pe       
+      Somanassindriyaṃ       pe       
+      Domanassindriyaṃ       pe       
+      Upekkhindriyaṃ       pe       
+      Saddhindriyaṃ       pe       
+      Viriyindriyaṃ       pe       
+      Satindriyaṃ       pe       
+      Samādhindriyaṃ       pe       
+      Paññindriyaṃ       pe       
+      Anaññātaṃ ñassāmitindriyaṃ       pe       
+      Aññindriyaṃ       pe       
+      Aññatāvindriyaṃ       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahitaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I     Cakkhundriyañ ca sotindriyañ ca        pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Cakkhundriyañ ca ghānindriyañ ca        
+ pe       
+      Dhātuk I     Cakkhundriyañ ca jivhindriyañ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca kāyindriyañ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca itthindriyañ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca purisindriyañ ca        
+ pe       
+      Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītaṃ  
+      Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Cakkhundriyañ ca manindriyañ ca        
+ pe       
+      Dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Cakkhundriyañ ca jīvitindriyañ ca        pe       
+      Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Cakkhundriyañ ca sukhindriyañ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca dukkhindriyañ ca        
+ pe       
+      Dhātuk I     Cakkhundriyañ ca somanassindriyañ ca        
+ pe       
+      Dhātuk I     Cakkhundriyañ ca domanassindriyañ ca        
+ pe       
+      Dhātuk I     Cakkhundriyañ ca upekhindriyañ ca        
+ pe       
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Dhātuk I     Cakkhundriyañ ca saddhindriyañ ca        
+ pe       
+      Dhātuk I     Cakkhundriyañ ca viriyindriyañ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca satindriyañ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca samādhindriyañ ca        
+ pe       
+      Dhātuk I     Cakkhundriyañ ca paññindriyañ ca        
+ pe       
+      Dhātuk I     Cakkhundriyañ ca anaññātaṃ ñassāmitindriyañ 
+ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca aññindriyañ ca        pe       
+      Dhātuk I     Cakkhundriyañ ca aññatāvindriyañ ca        
+ pe       
+      Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Bāvīsati indriyāni katīhi khandhehi katīhāyatanehi 
+ kātīhi dhātūhi saṃgahītā  
+      Bāvīsatindriyāni catuhi khandhehi sattahāyatanehi 
+ terasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena pañcahāyatanehi pañcahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Avijjā       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catūhi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk I     Avijjā paccayā saṃkhārā       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahīta  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I      Saṃkhāra paccayā  viññāṇaṃ       pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Ekena khandhena ekenāyatanena sattahi dhātūhi saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi 
+ asaṃgahītaṃ 
+      Dhātuk I     Viññāṇa paccayā nāmarūpaṃ       pe       
+      Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītaṃ 
+      Katīhi asaṃgahītaṃ  
+      Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I     Nāmarūpa paccayā saḷāyatanaṃ       pe       
+      Dvīhī khandhehi chahāyatanehi dvādasahi dhātūhi 
+ saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I     Saḷāyatana paccayā phasso       pe       
+      Dhātuk I     Phassa paccayā vedanā       pe       
+      Dhātuk I     Vedanā paccayā taṇhā       pe       
+      Dhātuk I     Taṇhā paccayā upādānaṃ       pe       
+      Dhātuk I     Upādāna paccayā kamma bhavo       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātūya saṃgahīto  
+      Katīhi asaṃgahīto  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahīto  
+      Dhātuk I         Uppatti bhavo       pe       kāma bhavo 
+       pe       saññā bhavo       pe       pañcavokāra bhavo       pe       
+      Pañcahi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi saṃgahīto  
+      Katīhi asaṃgahīto  
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā 
+ asaṃgahīto  
+      Dhātuk I     Rūpa bhavo       pe       
+      Pañcahi khandhehi pañcahāyatanehi aṭṭhahi dhātūhi 
+ saṃgahīto  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Katīhi asaṃgahīto  
+      Na kehici khandhehi sattahāyatanehi dasahi dhātūhi 
+ asaṃgahīto  
+      Dhātuk I         Arūpa bhavo       pe       Nevasaññanāsaññabhavo       pe       
+      Catuvokāra bhavo       pe       Catuhi khandhehi 
+ dvīhāyatanehi dvīhi dhātūhi saṃgahīto  
+      Katīhi asaṃgahīto  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahīto  
+      Dhātuk I         Asañña bhavo       pe       Ekavokārabhavo       pe       
+      Ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṃgahīto  
+      Katīhi asaṃgahīto  
+      Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahīto  
+      Dhātuk I         Jāti dvīhi khandhehi jarā dvīhi khandhehi maraṇaṃ dvīhi khandhehi ekena āyatanena ekāya dhātuyā 
+ saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Tīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi 
+ asaṃgahītaṃ  
+      Dhātuk I         Soko       pe       paridevo        
+ pe       dukkhaṃ       pe       domanassaṃ        
+ pe       upāyāso       pe       satipaṭṭhānam        
+ pe       sammappadhānaṃ       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītaṃ 
+      Katīhi asaṃgahītaṃ  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītaṃ  
+      Dhātuk I     Iddhipādo       pe       
+      Dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahīto  
+      Katīhi asaṃgahīto  
+      Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahīto  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Dhātuk I     Jhānaṃ dvīhi khandhehi ekenāyatanena ekāya 
+ dhātuyā saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Tīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi 
+ asaṃgahītaṃ  
+      Dhātuk I         Appamaññā    Pañcindriyāni    Pañca balāni  Satta bojjhaṅgā    Ariyo aṭṭhaṅgiko maggo    Phasso  Vedanā    Saññā    Cetanā    Adhimokkho    Manasikāro        
+ pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahito  
+      Katīhi asaṃgahīto  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahīto  
+      Dhātuk I     Cittam ekena khandhena ekenāyatanena sattahi 
+ dhātūhi saṃgahītaṃ  
+      Katīhi asaṃgahītaṃ  
+      Catūhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītaṃ  
+      Dhātuk I     Kusalā dhammā akusalādhammā katīhi khandhehi 
+ katīhi āyatanehi katīhi dhātūhi saṃgahītā  
+      Kusalā dhammā akusalā dhammā catuhi khandhehi 
+ dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Avyākatā dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I     Sukhāya vedanāya sampayuttā dhammā        
+ pe       
+      Dhātuk I     Dukkhāya vedanāya sampayuttā dhammā        
+ pe       
+      Tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Dvīhi khandhehi dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Adukkhamasukhāya vedanāya sampayuttā dhammā 
+       pe       
+      Tīhi khandhehi dvīhi āyatanehi sattahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Vipākadhammā       pe       
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Vipākadhammadhammā       pe       
+      Dhātuk I     Saṃkiliṭṭha saṃkilesikā dhammā       pe       
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Nevavipākanavipākadhamma dhammā        pe 
+         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi terasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi asaṃgahītā  
+      Dhātuk I     Upādinnupādāniyā dhammā       pe       
+      Pañcahi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṃgahītā  
+      Dhātuk I     Anupādinnupādāniyā dhammā       pe       
+      Pañcahi khandhehi sattahāyatanehi aṭṭhahi dhātūhi 
+ saṃgahītā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi pañcahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Anupādinnā anupādāniyā dhammā       pe       
+      Dhātuk I     Asaṃkiliṭṭha asaṃkilesikā dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Asaṃkiliṭṭha saṃkilesikā dhammā       pe       
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I     Savitakka savicārā dhammā       pe       
+      Catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Avitakkavicāramattā dhammā       pe       
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Avitakka avicārā dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk I     Sukhasahagatā dhammā       pe       
+      Tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Dhātuk I     Upekha sahagatā dhammā       pe       
+      Tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Dassanena pahātabbā  dhammā        Dhātuk I     Bhāvanāya pahātabbā dhammā       Dhātuk I     Dassanena pahātabba hetukā dhammā       Dhātuk I     Bhāvanāya pahātabba hetukā dhammā       Dhātuk I     Ācaya gāmino dhammā       Dhātuk I     Apacaya gāmino dhammā       Dhātuk I     Sekkhā dhammā       Dhātuk I     Asekkhā dhammā       Dhātuk I     Mahaggatā dhammā       pe       
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Neva dassanena na bhāvanāya pahātabbā dhammā       Dhātuk I     Neva dassanena na bhāvanāya pahātabbā hetukā 
+ dhammā       Dhātuk I     Neva ācaya gāmino na apacaya gāmino dhammā       Dhātuk I     Neva sekkhā nāsekkha dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I     Parittā dhammā       pe       
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I     Appamāṇā dhammā       pe       
+      Asaṃkhatam khandhato ṭhapetvā catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Parittārammaṇā dhammā       pe       
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasāhayatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk I         Mahaggatārammaṇā dhammā    Appamāṇārammaṇā dhammā    Hīnā dhammā    Micchattaniyatā 
+ dhammā    Sammattaniyatā dhammā    Maggārammaṇā 
+ dhammā    Maggahetukā dhammā    Maggādhipatino dhammā    Atītārammaṇā dhammā    Anāgatārammaṇā dhammā 
+       pe       
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Majjhimā dhammā       pe       
+      Pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I     Aniyatā dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I     Uppannā dhammā       pe       
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Dhātuk I     Anuppannā dhammā       pe       
+      Pañcahi khandhehi sattāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Upādinnā dhammā       pe       
+      Pañcahi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk I         Atītā dhammā    Anāgatā dhammā    Paccuppannā dhammā    Ajjhattā dhammā    Bahiddhā dhammā  Ajjhattabahiddhā dhammā       pe       
+      Pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I     Bahiddhā dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Atītārammaṇā dhammā    Aṇāgatārammanā 
+ dhammā       pe       
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Paccuppannārammaṇā dhammā    Ajjhattārammaṇā dhammā    Bahiddhārammaṇā dhammā    Ajjhattabahiddhārammaṇā dhammā       pe       
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Sanidassana sappaṭighā dhammā       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Anidassana sappaṭighā dhammā       pe       
+      Ekena khandhena navahāyatanehi navahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi dvīhāyatanehi navahi dhātūhi asaṃgahītā  
+      Dhātuk I     Anidassana appaṭighā dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi dasahāyatanehi dasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Hetu dhammā    Hetu ceva sahetukā dhammā  Hetu ceva hetu sampayuttā dhammā       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātuhi asaṃgahītā  
+      Dhātuk I         Nahetudhammā    Ahetukā dhammā    Hetuvippayuttā dhammā    Nahetu ahetukā dhammā        pe 
+         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Sahetukā dhammā    Hetu sampayuttā dhammā 
+    Hetukā ceva nahetudhammā    Hetu sampayuttā ceva na 
+ ca hetu dhammā    Na hetu sahetukā dhammā       pe       
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Sappaccayā dhammā    Saṃkhatā dhammā        
+ pe       
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I     Appaccayā dhammā asaṃkhatā dhammā        pe 
+         
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Pañcahi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk I     Sanidassanā dhammā       pe       
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Anidassanā dhammā       pe       
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṃgahītā  
+      Dhātuk I     Sappaṭighā dhammā       pe       
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk I     Appaṭighā dhammā       pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi dasahāyatanehi dasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Rūpino dhammā       pe       
+      Ekena khandhena ekādasahi āyatanehi ekādasahi dhātūhi 
+ saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I     Arūpino dhammā       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahi āyatanehi dasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Lokiyā dhammā       pe         
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I     Lokuttarā dhammā       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Kenaci viññeyyā dhammā    Kenaci naviññeyyā 
+ dhammā       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Āsavā dhammā    Asavā ceva sāsavā dhammā  Āsavā ceva āsava sampayuttā dhammā       pe       
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I         No āsavā dhammā    Āsavā vippayuttā dhammā 
+       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Sāsavā dhammā    Sāsavā ceva no ca āsavā 
+ dhammā    Āsava vippayuttā sāsavā dhammā        pe 
+           
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Anāsavā dhammā    Āsava vippayuttā anāsavadhammā       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Āsava sampayuttā dhammā    Āsava sampayuttā ceva no ca āsavā dhammā       pe         
+      Catuhi khandhehi dvīhi āyatanehi dvīhī dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Saññojanā dhammā    Ganthā dhammā    Oghā 
+ dhammā    Yogā dhammā    Nīvaraṇā dhammā    Parāmāsā 
+ dhammā    Parāmāsā ceva parāmaṭṭhā dhammā        pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I         No parāmāsā dhammā    Parāmāsa vippayuttā 
+ dhammā  
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Parāmaṭṭhā dhammā    Parāmaṭṭhā ceva no ca 
+ parāmāsā dhammā    Parāmāsa vippayuttā paramaṭṭhā 
+ dhammā        pe         
+      Pañcahi khandhehi dvādasahi āyatanehi  aṭṭhārasahi  
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Parāmaṭṭhā dhammā    Parāmāsa vippayuttā 
+ aparāmaṭṭhā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Parāmāsa sampayuttā dhammā        pe         
+      Catuhi khandhehi dvīhi āyatanehi dvīhidhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Sārammaṇā dhammā        pe         
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Dhātuk I     Anārammaṇā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk I     Cittā dhammā        pe         
+      Ekena khandhena ekenāyatanena sattahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatānehi ekādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     No cittā dhamma       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi 
+ ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena ekenāyatanena sattahi dhātuhi asaṃgahītā  
+      Dhātuk I         Cetasikā dhammā    Citta sampayuttā dhammā 
+    Citta saṃsaṭṭhā dhammā        pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I     Acetasikā dhammā       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Citta vippayuttā dhammā    Citta visaṃsaṭṭhā 
+ dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena 
+ ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Dhātuk I     Citta samuṭṭhānā dhammā        pe         
+      Catuhi khandhehi chahāyatanehi chahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena chahāyatanehi dvādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         No citta samuṭṭhānā dhammā    No citta sahabhuno dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Citta sahabhuno dhammā    Cittānuparivattino 
+ dhammā        pe         
+      Catuhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I         Citta saṃsaṭṭha samuṭṭhāna sahabhuno dhammā    Citta saṃsaṭṭha samuṭṭhānānuparivattino dhammā 
+         pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhī khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I         No citta saṃsaṭṭha samuṭṭhānā dhammā    No 
+ citta saṃsaṭṭha samuṭṭhāna sahabhuno dhammā  No cittasaṃsaṭṭha samuṭṭhānānuparivattino dhammā       pe 
+         
+      Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhī khandhehi na kehici āyatanehi na kāhici dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Ajjhattikā dhammā        pe       
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Dvīhi khandhehi chahāyatanehi dvādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṃgahītā  
+      Dhātuk I     Bāhirā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi chahāyatanehi chahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena chahāyatanehi dvādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Upādā dhammā        pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk I     No upādā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ tīhāyatanehi navahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi navahāyatanehi navahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Upādinnā dhammā        pe         
+      Pañcahi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk I     Anupādinnā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ sattahāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Upādānā dhammā    Kilesā dhammā    Kilesā 
+ ceva saṃkilesikā dhammā    Kilesā ceva saṃkiliṭṭhā 
+ dhammā    Kilesā ceva kilesā sampayuttā dhammā       
+ pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I  
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk I         No kilesā dhammā    Asaṃkiliṭṭhā dhammā  Kilesa vippayuttā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Saṃkilesikā dhammā    Saṃkilesikā ceva no ca 
+ kilesā dhammā    Kilesa vippayuttā saṃkilesikā dhammā 
+         pe         
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Asaṃkilesikā dhammā    Kilesa vippayuttā asaṃkilesikā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Saṃkiliṭṭhā dhammā    Kilesa sampayuttā dhammā    Saṃkiliṭṭhā ceva no ca kilesā dhammā    Kilesa sampayuttā ceva no ca kilesā dhammā        pe         
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Dassanena pahātabbā dhammā    Bhāvānāya pahātabbā dhammā    Dassanena pahātabbahetukā dhammā  Bhavānāya pahātabbahetukā dhammā       pe       
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Na dassanena pahātabbā dhammā    Na bhāvanaya pahātabbā dhammā    Na dassanena pahātabbahetukā 
+ dhammā    Na bhāvanāya pahātabbahetukā dhammā       
+ pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I         Savitakkā dhammā    Savicārā dhammā       
+ pe         
+      Catuhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Avitakkā dhammā    Avicārā dhammā       
+ pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk I         Sappītikā dhammā    Pītisahagatā dhammā 
+         pe         
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Asappītikā dhammā    Napītisahagatā dhammā 
+    Nasukhasahagatā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKKARAṆAṂ   I  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk I     Sukhasahagatā dhammā        pe         
+      Tīhi khandhehi dvihāyatanehi tīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Upekhāsahagatā dhammā        pe         
+      Tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I     Na upekhāsahagatā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi terasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi asaṃgahītā  
+      Pañcahi dhātūhi asaṃgahītā  
+      Dhātuk I         Kāmāvacarā dhammā    Pariyāpannā dhammā  Sa uttarā dhammā        pe         
+      Pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk I         Na kāmāvacarā dhammā    Apariyāpannā 
+ dhammā    Anuttarā dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā catuhi khandhehi 
+ dvihāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dhātuk I         Rūpāvacarā dhammā    Arūpāvacarā dhammā  Nīyānikā dhammā    Niyatā dhammā    Saraṇā dhammā 
+         pe       
+  
+  
+  page      
+ I   SAṂGAHĀSAṂGAHO     
+      Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃgahītā  
+      Kātīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk I         Na rūpāvacarā dhammā    Na arūpāvacarā 
+ dhammā    Aniyyānikā dhammā    Aniyatā dhammā    Asaraṇā dhamma        pe         
+      Katīhi khandhehi katīhi āyatanehi katīhi dhātūhi 
+ asaṃgahītā  
+      Asaraṇā dhammā asaṃkhataṃ khandhato ṭhapetvā 
+ pañcahi khandhehi dvādasahi āyatanehi aṭṭhārasahi 
+ dhātūhi saṃgahītā  
+      Kātīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+ Saṃgahāsaṃgaha pada niddeso  
+  
+  
+  page      
+    
+ II    SAṂGAHĪTENA ASAṂGAHĪTAṂ  
+      Dhātuk II   Cakkhāyatanena ye dhammā    Phoṭṭhabbāyatanena 
+ ye dhammā    Cakkhu dhātuyā ye dhammā    Phoṭṭhabbadhātuyā ye dhammā khandhasaṃgahena saṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi asaṃgahītā  
+      Te dhammā catūhi khandhehi dvihāyatanehi aṭṭhahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk II   Cakkhu viññāṇa dhātuyā ye dhammā    Sota viññāṇadhātuyā ye dhammā    Ghāna viññāṇa dhātuyā ye dhammā 
+    Jivhā viññāṇa dhātuyā ye dhammā    Kāya viññāṇadhātuyā ye dhammā    Mano dhātuyā ye dhammā    Manoviññāṇa dhātuyā ye dhammā khandhasaṃgahena saṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena asaṃgahītā  te dhammā        pe         
+      Catuhi khandhehi ekādasahi āyatanehi dvādasahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk II   Cakkhundriyena ye dhammā    Sotindrivena ye 
+ dhammā    Ghānindriyena ye dhammā    Jivhindriyena ye 
+ dhammā    Kāyindriyena ye dhammā    Itthindriyena ye 
+ dhammā    Purisindriyena ye dhammā khandhasaṃgahena 
+ saṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena 
+ asaṃgahītā te dhammā        pe         
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk II   Asaññabhavena ye dhammā    Ekavokārabhavena ye 
+ dhammā khandhasaṃgahena saṃgahītā āyatanasaṃgahena 
+ asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā       
+ pe       
+  
+  
+  page      
+ II   SAṂGAHĪTENA ASAṂGAHĪTAṂ     
+      Catūhi khandhehi tīhāyatanehi navahi dhātūhi asaṃgahītā  
+      Dhātuk II   Paridevena ye dhammā    Sanidassana sappaṭighehi 
+ dhammehi ye dhammā khandhāsaṃgahena saṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā        pe         
+      Catuhi khandhehi dvihāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk II   Anidassana sappaṭighehi dhammehi ye dhammā 
+ khandhasaṃgahena saṃgahītā āyatana saṃgahena 
+ asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā 
+         pe         
+      Catuhi khandhehi dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk II   Sanidassanehi dhammehi ye dhammā khandhasaṃgahena saṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā        pe         
+      Catuhi khandhehi dvīhi āyatanehi aṭṭhahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk II   Sappaṭighehi dhammehi ye dhammā    Upādehi dhammehi 
+ ye dhammā khandhasaṃgahena saṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā 
+ katīhi khandhehi katīhi āyatanehi katīhi dhātūhi asaṃgahītā  
+      Te dhammā catuhi khandhehi ekādasahi āyatanehi 
+ sattarasahi dhātūhi asaṃgahītā  
+      Dasāyatanā sattarasadhātuyo 
+      Sattindriyā asañña bhavo ekavokāra bhavo 
+      Paridevo sanidassana sappaṭighaṃ 
+      Anidassanaṃ punar eva sappaṭighaṃ upādā ti  
+ Saṃgahītena asaṃgahīta pada niddeso  
+  
+  
+  page      
+    
+ III    ASAṂGAHĪTENA SAṂGAHĪTĀṂ  
+      Dhātuk III   Vedanākkhandhena ye dhammā    Saññākkhandhena ye 
+ dhammā    Saṃkhārakkhandhena ye dhammā    Samudayasaccena ye dhammā    Maggasaccena ye dhammā khandhasaṃgahena asaṃgahītā āyātanasaṃgahena saṃgahītā 
+ dhātusaṃgahena saṃgahītā te dhammā katīhi khandhehi 
+ katīhi āyatanehi katīhi dhātūhi saṃgahītā  
+      Te dhammā asaṃkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III   Nirodha saccena ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena saṃgahītā te dhammā        pe         
+      Catuhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III   Jīvitindriyena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā te dhammā        pe         
+      Dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III   Itthindriyena ye dhammā    Purisindriyena ye 
+ dhamma    Sukhindriyena ye dhammā    Dukkhindriyena ye 
+ dhammā    Somanassindriyena ye dhammā    Domanassindriyena ye dhammā    Upekhindriyena ye dhammā  Saddhindriyena ye dhammā    Viriyindriyena ye dhammā  Satindriyena ye dhammā    Samādhindriyena ye dhammā  Paññindriyena ye dhammā    Anaññātaṃ ñassāmitindriyena ye dhammā    Aññindriyena ye dhammā    Aññatāvindriyena ye dhammā    Avijjāya ye dhammā    Avijjā paccayā 
+ saṃkhārena ye dhammā    Saḷāyatana paccayā phassena ye 
+ dhammā    Phassa paccayā vedanāya ye dhammā    Vedanā 
+  
+  page      
+ III   ASAṂGAHĪTENA SAṂGAHĪTAṂ     
+ paccayā taṇhāya ye dhammā    Taṇhā paccayā upādānena 
+ ye dhammā    Kammabhavena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā te dhammā        pe         
+      Asaṃkhataṃ khandhato  ṭhapetvā  tīhi khandhehi ekenāyatanena ekāva dhātuyā saṃgahītā  
+      Dhātuk III   Jātiyā ye dhammā    Jarāya ye dhammā    Maraṇena 
+ ye dhammā    Jhānena ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena 
+ saṃgahītā te dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā dvīhi khandhehi 
+ ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III   Sokena ye dhammā    Dukkhena ye dhammā    Domanassena ye dhammā    Upāyāsena ye dhammā    Satipaṭṭhānena ye dhammā    Sammappadhānena ye dhammā  Appamaññāya ye dhammā    Pañcahi indriyehi ye dhammā 
+    Pañcahi balehi ye dhammā    Sattahi bojjhaṃgehi ye 
+ dhammā    Ariyena aṭṭhaṃgikena maggena ye dhammā  Phassena ye dhammā    Vedanāya ye dhammā    Saññāya 
+ ye dhammā    Cetanāya ye dhammā    Adhimokkhena ye 
+ dhammā    Manasikārena ye dhammā    Hetuhi dhammehi 
+ ye dhammā    Hetu ceva sahetukehi dhammehi ye dhammā 
+    Sahetu ceva hetu sampayuttehi dhammehi ye dhammā 
+ khandhasaṃgahena asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā te dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III   Appaccayehi dhammehi ye dhammā    Asaṃkhatehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā 
+ te dhammā        pe         
+      Catuhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III   Āsavehi dhammehi ye dhammā    Āsavā ceva sāsavehi 
+ dhammehi ye dhammā    Āsavā ceva āsava sampayuttehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā 
+ te dhammā        pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   III  
+      Asaṃkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III   Saññojanehi dhammehi ye dhammā    Ganthehi  Oghehi    Yogehi    Nīvaraṇehi    Parāmāsehi dhammehi ye 
+ dhammā    Parāmāsā ceva parāmaṭṭhehi dhammehi ye 
+ dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena saṃgahītā te dhammā 
+         pe         
+      Asaṃkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III    Cetasikehi dhammehi ye dhammā    Citta sampayuttehi dhammehi ye dhammā    Citta saṃsaṭṭhehi dhammehi 
+ ye dhammā    Citta saṃsaṭṭha samuṭṭhānehi dhammehi ye 
+ dhammā    Citta saṃsaṭṭha samuṭṭhāna sahabhūhi dhammehi ye dhammā    Citta saṃsaṭṭha samuṭṭhānānuparivattīhi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena saṃgahītā te dhammā        pe         
+      Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena 
+ ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Dhātuk III    Citta sahabhūhi dhammehi ye dhammā    Cittānuparivattīhi dhammehi ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena 
+ saṃgahītā te dhammā        pe         
+      Na kehici khandhehi ekenāyatanena ekāya dhātuyā 
+ saṃgahītā  
+      Dhātuk III    Upādānehi dhammehi ye dhammā    Kilesehi dhammehi ye dhammā    Kilesā ceva saṃkilesehi dhammehi ye 
+ dhammā    Kilesā ceva saṃkiliṭṭhehi dhammehi ye dhammā    Kilesā ceva kilesa sampayuttehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena 
+ saṃgahītā dhātusaṃgahena saṃgahītā te dhammā  Katīhi 
+ khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā  
+      Te dhammā asaṃkhataṃ khandhato ṭhapetvā tīhi 
+ khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+ Asaṃgahītena saṃgahīta pada niddeso  
+  
+  page      
+    
+ IV    SAṂGAHĪTENA SAṂGAHĪTAṂ  
+      Dhātuk IV   Samudaya saccena ye dhammā    Magga saccena ye 
+ dhammā khandhasaṃgahena saṃgahītā āyatanasaṃgahena 
+ saṃgahītā dhātusaṃgahena saṃgahītā tehi dhammehi ye 
+ dhammā khandhasaṃgahena saṃgahītā āyatana saṃgahena saṃgahītā dhātusaṃgahena saṃgahītā te dhammā 
+ katīhi khandhehi katīhi āyatanehi katīhi dhātūhi saṃgahītā  
+      Te dhammā ekena khandhena ekenāyatanena ekāya 
+ dhātuyā saṃgahītā  
+      Dhātuk IV   Itthindriyena ye dhammā    Purisindriyena ye dhammā    Sukhindriyena ye dhammā    Dukkhindriyena ye 
+ dhammā    Somanassindriyena ye dhammā Domanassindriyena ye dhammā    Upekhindriyena ye dhammā    Saddhindriyena ye dhammā    Viriyindriyena ye dhammā  Satindriyena ye dhammā    Samādhindriyena ye dhammā  Paññindriyena ye dhammā    Anaññātaṃ ñassāmitindriyena 
+ ye dhammā    Aññindriyena ye dhammā    Aññatāvindriyena 
+ ye dhammā    Avijjāya ye dhammā    Avijjā paccayā saṃkhārena ye dhammā    Saḷāyatana paccayā phassena ye 
+ dhammā    Vedanā paccayā taṇhāya ye dhammā    Taṇhāpaccayā upādānena ye dhammā    Kamma bhavena ye 
+ dhammā    Sokena ye dhammā    Paridevena ye dhammā  Dukkhena ye dhammā    Domanassena ye dhammā    Upāyāsena ye dhammā    Satipaṭṭhānena ye dhammā    Sammappadhānena ye dhammā  Appamaññāya ye dhammā    Pañcahi indriyehi ye dhammā    Pañcahi balehi ye dhammā  Sattahi bojjhaṃgehi ye dhammā    Ariyena atthaṃgikena 
+ maggena ye dhammā    Phassena ya dhammā    Cetanāya ye 
+ dhammā    Adhimokkhena ye dhammā    Manasikārena ye 
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   IV  
+ dhammā    Hetuhi dhammehi ye dhammā    Hetu ceva 
+ sahetukehi dhammehi ye dhammā    Hetu ceva hetusampayuttehi dhammehi ye dhammā    Āsavehi    Saññojanehi    Ganthehi    Oghehi    Yogehi    Nīvaraṇehi    Parāmāsehi    Upādānehi dhammehi ye dhammā    Kilesā ceva 
+ saṃkilesikehi dhammehi ye dhammā    Kilesā ceva kilesasampayuttehi dhammehi ye dhammā khandhasaṃgahena 
+ saṃgahītā āyatanasaṃgahena saṃgahītā dhātusaṃgahena 
+ saṃgahītā tehi dhammehi ye dhammā khandhasaṃgahena 
+         pe       saṃgahītā te dhammā        pe         
+      Te dhammā ekena khandhena ekenāyatanena ekāya 
+ dhātuyā saṃgahītā  
+      Dve saccā paṇṇarasindriyāni ekādasa paṭiccasamuppādā 
+ uddhaṃ puna ekādasa gocchakapadam ettha tiṃsavidhan 
+ ti  
+ Saṃgahītena saṃgahītā pada niddeso  
+  
+  
+  page      
+    
+ V    ASAṂGAHĪTENA ASAṂGAHĪTAṂ  
+      Dhātuk V   Rūpakkhandhena ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā khandha 
+ saṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā 
+ dhātusaṃgahena asaṃgahītā te dhammā katīhi khandhehi 
+ kathīhi āyatanehi katīhi dhātūhi asaṃgahītā  
+      Te dhammā ekena khandhena ekenāyatanena sattahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk V   Vedanākhandhena ye dhammā    Saññākhandhena ye 
+ dhammā    Saṃkhārakkhandhena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       
+ pe       te dhammā        pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V   Viññāṇakkhandhena ye dhammā    Manāyatanena ye 
+ dhammā      Cakkhu viññāṇa dhātuyā ye dhammā    Manoviññāṇa dhātuyā ye dhammā    Manindriyena ye dhammā 
+ khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye 
+ dhammā        pe       te dhammā        pe         
+      Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītā  
+      Dhātuk V   Cakkhāyatanena ye dhammā    Phoṭṭhabbāyatanena 
+ ye dhammā    Cakkhu dhātuyā ye dhammā      Phoṭṭhabbadhātuyā ye dhammā    Khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        pe       te 
+ dhammā        pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   V  
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk V   Dhammāyatanena ye dhammā    Dhamma dhātuyā ye 
+ dhammā    Itthindriyena ye dhammā    Purisindriyena ye 
+ dhammā    Jīvitindriyena ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        pe       
+ te dhammā        pe         
+      Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk V   Samudayasaccena ye dhammā    Maggasaccena ye 
+ dhammā    Nirodhasaccena ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena 
+ asaṃgahītā tehi dhammehi ye dhammā        pe       
+ te dhammā        pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V   Cakkundriyena ye dhammā      Kāyindriyena ye dhammā 
+ khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃ 
+ gahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye 
+ dhammā        pe       te dhammā        pe         
+      Catuhi khandhehi dvīhāyatanehi aṭṭhārasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk V   Manindriyena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena 
+ asaṃgahītā tehi dhammehi ye dhammā        pe       
+ te dhammā        pe         
+      Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītā  
+      Dhātuk V   Sukhindriyena ye dhammā    Dukkhindriyena ye dhammā    Somanassindriyena ye dhammā    Domanassindriyena 
+ ye dhammā    Upekkhindriyena ye dhammā      Saddhindriyena ye dhammā    Viriyindriyena ye dhammā      Satindriyena ye dhammā    Samādhindriyena ye dhammā      Paññindriyena ye dhammā    Anaññātaṃ ñassāmitindriyena ye 
+ dhammā      Aññindriyena ye dhammā    Aññatāvindriyena ye 
+ dhammā    Avijjāya ye dhammā    Avijjā paccayā saṃkhārena ye dhammā khandhasaṃgahena asaṃgahītā āyatana 
+  
+  page      
+ V   ASAṂGAHĪTENA ASAṂGAHĪTAṂ     
+ saṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi 
+ dhammehi ye dhammā        pe       te dhammā       
+ pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Saṃkhāra paccayā viññāṇena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā 
+ dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā 
+         pe       te dhammā        pe         
+      Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Viññāṇa paccayā nāmarūpena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā 
+ dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā 
+         pe       te dhammā        pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā asaṃgahītā  
+      Dhātuk V    Saḷāyatana paccayā phassena ye dhammā    Phassapaccayā vedanāya ye dhammā    Vedanā paccayā taṇhayā 
+ ye dhammā    Taṇhā paccayā upādānena ye  dhammā   Kamma bhavena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena 
+ asaṃgahītā tehi dhammehi ye dhammā        pe       
+ te dhammā        pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Arūpa bhavena ye dhammā    Nevasaññāsaññā bhavena ye dhammā    Catu vokāra bhavena ye dhammā  Iddhi pādena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        pe       te 
+ dhammā        pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Asañña bhavena ye dhammā    Ekavokāra bhavena 
+ ye dhammā    Jātiyā ye dhammā    Jarāya ye dhammā  Maraṇena ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga 
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ  V  
+ hīta tehi dhammehi ye dhammā        pe       te 
+ dhammā        pe         
+      Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk V    Paridevena ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena 
+ asaṃgahītā tehi dhammehi ye dhammā        pe       
+ te dhammā        pe         
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk V    Sokena ye dhammā    Dukkhena ye dhammā    Domanassena ye dhammā    Upāyāsena ye dhammā    Satipaṭṭhānena ye dhammā    Sammappadhānena ye dhammā  Jhānena ye dhammā    Appamaññāya ye dhammā    Pañcahi 
+ indriyehi ye dhammā    Pañcahi balehi ye dhammā    Sattahi 
+ bhojjhaṃgehi ye dhammā    Ariyena aṭṭhaṃgikena maggena 
+ ye dhammā    Phassena ye dhammā    Vedanāya ye dhammā    Saññāya ye dhammā    Cetanāya ye dhammā    Adhimokkhena ye dhammā    Manasikārena ye dhammā    Khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā 
+ dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā 
+         pe       te dhammā        pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk V    Cittena ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        pe       te 
+ dhammā        pe         
+      Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk V    Kusalehi dhammehi ye dhammā    Akusalehi dhammehi ye dhammā    Sukhāya vedanāya sampayuttehi dhammehi ye dhammā    Dukkhāya vedanāya sampayuttehi 
+ dhammehi ye dhammā    Adukkhamasukhāya vedanāya 
+ sampayuttehi dhammehi ye dhammā    Vipākehi dhammehi 
+ ye dhammā    Vipākadhammadhammehi ye dhammā  Anupādinna anupādaniyehi dhammehi ye dhammā    Saṃkiliṭṭha saṃkilesikehi dhammehi ye dhammā    Asaṃkiliṭ 
+  
+  page      
+ V   ASAṂGAHĪTENA ASAṂGAHĪTAṂ     
+ ṭha asaṃkilesikehi dhammehi ye dhammā    Savitakkasavicārehi dhammehi ye dhammā    Avitakka vicāramattehi 
+ dhammehi ye dhammā    Pīti sahagatehi dhammehi ye 
+ dhammā    Sukha sahagatehi dhammehi ye dhammā  Upekhā sahagatehi dhammehi ye dhamma    Dassanena 
+ pahātabbehi dhammehi ye dhammā    Bhāvanāya pahātabbehi dhammehi ye dhammā    Dassanena pahātabba hetukehi dhammehi ye dhammā    Bhāvanāya pahātabbahetukehi dhammehi ye dhammā    Ācayagāmihi dhammehi 
+ ye dhammā    Apacayagāmihi dhammehi ye dhammā  Sekkhehi dhammehi ye dhammā    Asekkhehi dhammehi ye 
+ dhammā    Mahaggatehi dhammehi ye dhammā    Appamāṇehi dhammehi ye dhammā    Parittārammaṇehi dhammehi 
+ ye dhammā    Mahaggatārammaṇehi dhammehi ye dhammā 
+    Appamāṇārammaṇehi dhammehi ye dhammā    Hīnehi 
+ dhammehi ye dhammā    Paṇītehi dhammehi ye dhammā  Micchatta niyatehi dhammehi ye dhammā    Sammattaniyatehi dhammehi ye dhammā    Maggārammaṇehi dhammehi ye dhammā    Maggahetukehi dhammehi ye dhammā 
+    Maggādhipatīhi dhammehi ye dhammā    Atītārammaṇehi 
+ dhammehi ye dhammā    Anāgatārammaṇehi dhammehi ye 
+ dhammā    Paccuppannārammaṇehi dhammehi ye dhammā 
+    Ajjhattārammaṇehi dhammehi ye dhammā    Bahiddhārammaṇehi dhammehi ye dhammā    Ajjhattabahiddhārammaṇehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena 
+ asaṃgahītā tehi dhammehi ye dhammā        pe       
+ te dhammā        pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk V    Sanidassana sappaṭighehi dhammehi ye dhammā  Anidassana sappaṭighehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā 
+ dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā 
+         pe       te dhammā        pe         
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk V    Hetuhi dhammehi ye dhammā    Hetu ceva sahetukehi 
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   V  
+ dhammehi ye dhammā    Hetu ceva hetu sampayuttehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te dhammā       pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Sahetukehi dhammehi ye dhammā    Hetu  sampayuttehi  dhammehi ye dhammā    Sahetukā ceva na ca hetuhi 
+ dhammehi ye dhammā    Hetu  sampayuttā  ceva na ca hetuhi 
+ dhammehi ye dhammā    Nahetu sahetukehi dhammehi ye 
+ dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te dhammā        
+ pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Appaccayehi dhammehi ye dhammā    Asaṃkhatehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te 
+ dhammā       pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk V    Sanidassanehi dhammehi ye dhammā    Sappaṭighehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te 
+ dhammā       pe         
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṃgahītā  
+      Dhātuk V    Rūpīhi dhammehi ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        
+ pe       te dhammā       pe         
+      Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk V    Arūpīhi dhammehi ye dhammā    Lokuttarehi dham 
+  
+  page      
+ V   ASAṂGAHĪTENA ASAṂGAHĪTAṂ     
+ mehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā 
+ tehi dhammehi ye dhammā       pe       te dhammā 
+       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk V    Āsavehi dhammehi ye dhammā    Āsavā ceva sāsavehi 
+ dhammehi ye dhammā    Āsavā ceva āsava sampayuttehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te 
+ dhammā       pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk V    Anāsavehi dhammehi ye dhammā    Āsava sampayuttehi dhammehi ye dhammā    Āsava sampayuttā ceva no 
+ ca āsavehi dhammehi ye dhammā    Āsava vippayuttā 
+ anāsavehi dhammehi ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        pe 
+         te dhammā       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Saṃyojanehi dhammehi ye dhammā    Ganthehi 
+ dhammehi ye dhammā    Oghehi dhammehi ye dhammā  Yogehi dhammehi ye dhammā    Nīvaraṇehi dhammehi ye 
+ dhammā    Parāmāsehi dhammehi ye dhammā    Parāmāsā 
+ ceva parāmaṭṭhehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        
+ pe       te dhammā       pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Aparāmaṭṭhehi dhammehi ye dhammā    Parāmāsasampayuttehi dhammehi ye dhammā    Parāmāsa vippayuttehi aparāmaṭṭehi dhammehi ye dhammā    Sārammaṇehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃga 
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   V  
+ hītā tehi dhammehi ye dhammā       pe       te dhammā       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Anārammaṇehi dhammehi ye dhammā    Nocittehi 
+ dhammehi ye dhammā    Citta vippayuttehi dhammehi ye 
+ dhammā     Citta visaṃsaṭṭhehi  dhammehi ye dhammā  Citta samuṭṭhānehi dhammehi ye dhammā    Citta sahabhūhi dhammehi ye dhammā    Cittānuparivattīhi dhammehi 
+ ye dhammā    Bāhirehi dhammehi ye dhammā    Upādānehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te dhammā       pe         
+      Ekena khandhena ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk V    Cittehi dhammehi ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā  dhātusaṃgahena  asaṃgahītā tehi dhammehi ye dhammā        pe 
+         te dhammā       pe         
+      Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Cetasikehi dhammehi ye dhammā    Citta sampayuttehi dhammehi ye dhammā    Citta saṃsaṭṭhehi dhammehi 
+ ye dhammā    Citta saṃsaṭṭha samuṭṭhānehi dhammehi ye 
+ dhammā    Citta saṃsaṭṭha samuṭṭhāna sahabhūhi dhammehi ye dhammā    Citta saṃsaṭṭha samuṭṭhānānuparivattīhi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te dhammā       pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Ajjhattikehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā        pe 
+         te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā asaṃgahītā  
+  
+  
+  page      
+ V   ASAṂGAHĪTENA ASAṂGAHĪTAṂ     
+      Upādānehi dhammehi ye dhammā  
+      Dhātuk V    Kilesehi dhammehi ye dhammā    Kilesā ceva saṃkilesikehi dhammehi ye dhammā    Kilesā ceva saṃkiliṭṭhehi 
+ dhammehi ye dhammā    Kilesā ceva kilesa sampayuttehi 
+ dhammehi ye dhammā khandhasaṃgahena asaṃgahītā 
+ āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā       pe       te 
+ dhammā       pe         
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk V    Asaṃkilesikehi dhammehi ye dhammā        
+ Asaṃkiliṭṭhehi dhammehi ye dhammā        
+ Kilesa sampayuttehi dhammehi ye dhammā        
+ Saṃkiliṭṭhā ceva no ca kilesehi dhammehi ye dhammā        
+ Kilesa sampayuttā ceva no ca kilesehi dhammehi ye 
+      dhammā        
+ Kilesa vippayuttā asaṃkilesikehi dhammehi ye dhammā        
+ Dassanena pahātabbehi dhammehi ye dhammā        
+ Bhāvanāya pahātabbehi dhammehi ye dhammā        
+ Dassanena pahātabba hetukehi dhammehi ye dhammā        
+ Bhāvanāya pahātabba hetukehi dhammehi ye dhammā        
+ Savitakkehi dhammehi ye dhammā        
+ Savicārehi dhammehi ye dhammā        
+ Sappītikehi dhammehi ye dhammā        
+ Pītisahagatehi dhammehi ye dhammā        
+ Sukha sahagatehi dhammehi ye dhammā        
+ Upekhā sahagatehi dhammehi ye dhammā        
+ Na kāmāvacarehi dhammehi ye dhammā        
+ Rūpāvacarehi dhammehi ye dhammā        
+ Arūpāvacarehi dhammehi ye dhammā        
+ Apariyāpannehi dhammehi ye dhammā        
+ Niyyānikehi dhammehi ye dhammā        
+ Niyatehi dhammehi ye dhammā        
+ Anuttarehi dhammehi ye dhammā        
+ Saraṇehi dhammehi ye dhammā khandhasaṃgahena 
+ asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā tehi dhammehi ye dhammā khandhasaṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā 
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   V  
+ dhātusaṃgahena asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi katīhi dhātūhi asaṃgahītā  
+      Te dhammā ekena khandhena dasahāyatanehi dasahi 
+ dhātūhi asaṃgahītā  
+      Rūpañ ca dhammāyatanaṃ dhammadhātu itthī pumaṃ  
+      Jīvitaṃ nāmarūpaṃ dve bhavā jāti jarā  ca   
+      Maccu rūpam anārammaṇaṃ nocittena vippayuttaṃ  
+      Visaṃsaṭṭha samuṭṭhāna sahabhūhi anuparivattī  
+      Bāhirā upādā dve vīsati esa nayo subuddho  
+ Asaṃgahītena asaṃgahīta pada niddeso  
+  
+  
+  page      
+    
+ VI    SAMPAYOGO VIPPAYOGO  
+      Dhātuk VI   Rūpakkhandho katīhi khandhehi katīhi āyatanehi 
+  katīhi  dhātūhi sampayutto ti  
+      Natthi  Katīhi vippayutto  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayutto  ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI   Vedanākkhandho    Saññākkhandho    Saṃkhārakkhandho 
+ tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto 
+ ekenāyatanena ekāya dhātuyā kehici sampayutto katīhi 
+ vippayutto  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayutto  ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI   Viññāṇakkhandho tīhi khandhehi sampayutto ekenāyatanena ekāya dhātuyā kehici sampayutto katīhi vippayutto  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayutto  ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI   Cakkhāyatanaṃ       pe       Phoṭṭhabbāyatanaṃ       pe           sampayuttan ti  
+      Natthi  Katīhi vippayuttaṃ  Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttaṃ ekenāyatanena 
+ ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI   Manāyatanaṃ tīhi khandhehi sampayuttaṃ ekenāya 
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   VI  
+ tanena ekāya dhātuyā kehici sampayuttaṃ  katīhi vippayuttaṃ  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI   Cakkhudhātu       pe       Phoṭṭhabbadhātu 
+         pe             sampayuttā ti  
+      Natthi  Katīhi vippayuttā  Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya 
+ dhātuyā kehici vippayuttā  
+      Dhātuk VI   Cakkhuviññāṇadhātu       pe       Manodhātu 
+ manoviññāṇadhātu       pe       tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+ katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI   Samudayasaccaṃ maggasaccaṃ  tīhi  khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ ekena khandhena 
+ ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ  katīhi 
+ vippayuttaṃ  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI   Nirodhasaccaṃ    Cakkhundriyaṃ    Kāyindriyaṃ  Itthindriyaṃ    Purisindriyaṃ       pe       sampayuttaṃ  
+ Natthi  katīhi vippayuttaṃ  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttaṃ ekena āyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Manindriyam tīhi khandhehi sampayuttaṃ ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ  katīhi vippayuttaṃ  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ ekenāyatanena dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Sukhindriyaṃ    Dukkhindriyaṃ    Somanassindriyaṃ 
+    Domanassindriyaṃ tīhi khandhehi ekenāyatanena ekāya 
+ dhātuyā sampayuttaṃ ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttaṃ  katīhi vippayuttaṃ  
+  
+  
+  page      
+ VI   SAMPAYOGO VIPPAYOGO    
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Upekhindriyaṃ tīhi khandhehi ekenāyatanena chahi 
+ dhātūhi sampayuttaṃ ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttaṃ  katīhi vippayuttaṃ  
+      Ekena khandhena dasahāyatanehi ekādasahi dhātūhi 
+ vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Saddhindriyaṃ    Viriyindriyaṃ    Satindriyaṃ    Samādhindriyaṃ    Paññindriyaṃ    Anaññātaññassāmitindriyaṃ    Aññindriyaṃ    Aññātāvindriyaṃ    Avijjā    Avijjapaccayā saṃkhārā tīhi khandhehi ekenāyatanena ekāya 
+ dhātuyā sampayuttā ekena khandhena ekenāyatanena 
+ ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Saṃkhārapaccayā viññaṇam tīhi khandhehi sampayuttaṃ ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ  
+ katīhi vippayuttaṃ  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Saḷāyatanapaccayā phasso tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto ekena khandhena 
+ ekenāyatanena ekāya dhātuyā kehici sampayutto  katīhi 
+ vippayutto  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI    Phassapaccayā vedanā tīhi khandhehi ekenāyatanena 
+ sattahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Vedanāpaccayā taṇhā    Taṇhapaccayā upādāṇaṃ  Kammabhavo tīhi khandhehi ekanāyatanena ekāya dhātuyā 
+ sampayutto ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sāmpayutto  katīhi vippayutto  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   VI  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto 
+      Dhātuk VI    Rūpa bhavo       pe       sampayutto ti  Natthi  
+ Katīhi vippayutto  Na kehici khandhehi na kehici 
+ āyatanehi tīhi dhātūhi vippayutto  
+      Dhātuk VI    Arūpabhavo    Nevasaññānāsaññāyatanabhavo    Catuvokārabhavo       pe       sampayutto ti  Natthi  
+ Katīhi vippayutto  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI    Asaññabhavo    Ekavokārabhavo    Paridevo        pe 
+         sampayutto ti  Natthi  Katīhi vippayutto  
+      Catuhi khandhehi ekanāyatanena sattahi dhātūhi vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI    Soko    Dukkhaṃ    Domanassaṃ tīhi khandhehi 
+ ekenāyatanena ekāya dhātuyā sampayuttaṃ ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ  
+ katīhi vippayuttaṃ  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Upāyāso    Satipaṭṭhānaṃ    Sammappadhānaṃ tīhi 
+ khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ 
+ ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttaṃ  katīhi vippayuttaṃ  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Iddhipādo dvīhi khandhehi sampayutto ekena 
+ khandhena ekena āyatanena ekāya dhātuyā kehici sampayutto  katīhi vippayutto  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI    Jhānam dvīhi khandhehi ekenāyatanena ekāya 
+ dhātuyā sampayuttaṃ ekena khandhena ekenāyatanena 
+ ekāya dhātuyā kehici sampayuttaṃ  katīhi vippayuttaṃ  
+  
+  
+  page      
+ VI   SAMPAYOGO VIPPAYOGO    
+      Dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Appamaññā    Pañcindriyaṃ    Pañca balāni    Satta 
+ bojjhaṃgā    Ariyo aṭṭhaṃgiko maggo tīhi khandhehi ekena 
+ āyatanena ekāya dhātuyā sampayutto ekena khandhena 
+ ekenāyatanena ekāya dhātuyā kehici sampayutto  katīhi 
+ vippayutto  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayutto ekena āyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI    Phasso    Cetanā    Manasikāro tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto ekena khandhena 
+ ekenāyatanena ekāya dhātuyā kehici sampayutto  katīhi 
+ vippayutto  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI    Vedanā    Saññā tīhi khandhehi ekenāyatanena 
+ sattahi dhātūhi sampayutto  ekenāyatanena ekāya dhātuyā 
+ kehici sampayutto  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Cittaṃ tīhi khandhehi sampayuttaṃ ekenāyatanena 
+ ekāya dhātuyā kehici sampayuttaṃ  katīhi vippayuttaṃ  
+      Ekena khandhena dasahi āyatanehi dasahi dhātūhi 
+ vippayuttaṃ ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ  
+      Dhātuk VI    Adhimokkho tīhi khandhehi ekenāyatanena dvīhi 
+ dhātūhi sampayutto ekena khandhena ekenāyatanena ekāya 
+ dhātuyā kehici sampayutto  katīhi vippayutto  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayutto ekenāyatanena ekāya dhātuyā kehici vippayutto  
+      Dhātuk VI    Kusalā dhammā    Akusalā dhammā katīhi khandhehi 
+ katīhi āyatanehi katīhi dhātūhi sampayuttā ti  Natthi  
+ Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Sukhāya vedanāya sampayuttā dhammā    Dukkhāya 
+ vedanāya sampayuttā dhammā ekena khandhena sampa 
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   VI  
+ yuttā ekena āyatanena ekāya dhātuyā kehici sampayuttā  
+ katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Adukkhamasukhāya vedanāya sampayuttā dhammā 
+ ekena khandhena sampayuttā ekena āyatanena ekāya 
+ dhātuyā kehici sampāyuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Vipākā dhammā       pe          sampayuttā ti  
+ Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Vipākadhammadhammā    Saṃkiliṭṭhasaṃkilesikā 
+ dhammā sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekena āyatanena ekāya dhātuyā kehici vipputtā  
+      Dhātuk VI    Nevavipākanavipākadhammadhammā       pe       
+ sampayuttā ti  Natthi  
+      Katīhi vippayuttā  Na kehici khandhehi na kehici 
+ āyatanehi pañcahi dhātūhi vippayuttā  
+      Dhātuk VI    Anupādinna anupādāniyā dhammā    Asaṃkiliṭṭhaasaṃkilesikā dhammā sampayuttā ti  Natthi  Katīhi 
+ vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Savitakkasavicārā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Avitakkavicāramattā dhammā    Pītisahagatā dham 
+  
+  page      
+ VI   SAMPAYOGO VIPPAYOGO    
+ mā ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Avitakka avicārā dhammā sampayuttā ti  Natthi  
+ Katīhi vippayuttā  Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā  
+      Dhātuk VI    Sukhasahagatā dhammā ekena khandhena sampayuttā ekena āyatanena ekāya dhātuyā kehici sampayuttā  
+ katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Upekhāsahagatā dhammā ekena khandhena sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+ katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi ekādasahi dhātūhi 
+ vippayuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Dassanena pahātabbā dhammā    Bhāvanāya pahātabbā dhammā    Dassanena pahātabba hetukā dhammā  Bhāvanāya pahātabba hetukā dhammā    Ācayagāmino 
+ dhammā    Apacayagāmino dhammā    Sekkhā dhammā  Asekkā dhammā    Mahaggatā dhammā        pe      
+         sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Appamāṇā dhammā    Paṇītā dhammā        sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Parittārammaṇā dhammā        sampayuttā ti  
+ Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Mahaggatārammaṇā dhammā    Appamāṇārammaṇā 
+ dhammā    Hīnā dhammā    Micchattaniyatā dhammā  Sammattaniyatā dhammā    Maggārammaṇā dhammā   
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   VI  
+ Maggahetukā dhammā    Maggādhipatino dhammā        
+ sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Anuppannā dhammā        sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Atītārammaṇā dhammā    Anāgatārammaṇā dhammā        sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Paccuppannārammaṇā dhammā    Ajjhattārammaṇā 
+ dhammā    Bahiddhārammaṇā dhammā    Ajjhattabahiddhārammaṇā dhammā        sampayuttā ti  Natthi  Katīhi 
+ vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Sanidassana sappaṭighā dhammā    Anidassana sappaṭighā dhammā        sampayuttā ti  Natthi  Katīhi 
+ vippayuttā  
+      Catuhi khandhehi ekenāyatanena ekāya dhātuyā kehici 
+ vippayuttā  
+      Dhātuk VI    Hetudhammā    Hetu ceva sahetukā dhammā    Hetu 
+ ceva hetusampayuttā dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Sahetukā dhammā    Hetusampayuttā dhammā        
+ sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Sahetukā ceva na ca hetudhammā    Hetusampayuttā ceva na ca hetudhammā    Na hetukā sahetukā 
+ dhammā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  katīhi vippayuttā  
+  
+  
+  page      
+ VI   SAMPAYOGO VIPPAYOGO    
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Appaccayā dhammā    Asaṃkhatā dhammā    Sanidassanā dhammā    Sappaṭighā dhammā    Rūpino dhammā 
+         sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Lokuttarā dhammā        sampayuttā ti  Natthi  
+ Katīhi vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Āsavā dhammā    Āsavā ceva sāsavā dhammā    Āsavā 
+ ceva āsavasampayuttā dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Anāsavā dhammā    Āsavavippayuttā anāsavā dhammā        sampayuttā  Natthi  Katīhi vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Āsavasampayuttā dhammā        sampayuttā ti  
+ Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Āsavasampayuttā ceva no ca āsavā dhammā ekena 
+ khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Saṃyojanā dhammā        pe        Ganthā dhammā    Oghā dhammā    Yogā dhammā    Nīvaraṇā dhammā 
+    Parāmāsā dhammā    Parāmāsā ceva parāmaṭṭhā dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  katīhi vippayuttā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   VI  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Aparāmaṭṭhā dhammā    Parāmāsavippayutta aparāmaṭṭhā dhammā        sampayuttā ti  Natthi  Katīhi 
+ vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Parāmāsasampayuttā dhammā ekena khandhena 
+ ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi 
+ vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Sārammaṇā dhammā        sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Anārammaṇā dhammā    Cittavippayuttā dhammā  Cittavisaṃsaṭṭhā dhammā    Upādā dhammā        sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Cittā dhammā tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Cetasikā dhammā    Cittasampayuttā dhammā    Cittasaṃsaṭṭhā dhammā    Cittasaṃsaṭṭhasamuṭṭhānā dhammā    Cittasaṃsaṭṭha samuṭṭhāna sahabhuno dhammā  Cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā ekena 
+ khandhena ekenāyatanena sattahi dhātūhi sampayuttā  
+ katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekena āyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Anupādinnā dhammā        sampayuttā ti  Natthi  
+ Katīhi vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā  
+  
+  
+  page      
+ VI   SAMPAYOGO VIPPAYOGO    
+      Dhātuk VI    Upādānā dhammā       pe       kilesā dhammā  kilesā ceva saṃkilesikā dhammā    Kilesā ceva saṃkiliṭṭhā 
+ dhammā    Kilesā ceva kilesasampayuttā dhammā tīhi 
+ khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena 
+ khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Asaṃkilesikā dhammā    Kilesavippayutta asaṃkilesikā dhammā        sampayuttā ti  Natthi  Katīhi 
+ vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Saṃkiliṭṭhā dhammā    Kilesasampayuttā dhammā 
+         sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Saṃkiliṭṭhā ceva no ca kilesā dhammā    kilesasampayuttā ceva no ca kilesā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi 
+ vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Dassanena pahātabbā dhammā    Bhāvanāya pahātabbā dhammā    Dassanena pahātabba hetukā dhammā  Bhāvanāya pahātabba hetukā dhammā        sampayuttā 
+ ti  Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Savitakkā dhamma    Savicārā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+ katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Avitakkā dhammā    Avicārā dhammā        sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ vippayuttā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   VI  
+      Dhātuk VI    Sappītikā dhammā    Pītisahagatā dhammā ekena 
+ khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Upekhāsahagatā dhammā ekena khandhena sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+ katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VI    Na kāmāvacarā dhammā    Apariyāpannā dhammā  Anuttarā dhammā       sampayuttā ti  Natthi  Katīhi 
+ vippayuttā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk VI    Rūpāvacarā dhammā    Arūpāvacarā dhammā    Niyyānikā dhammā    Niyatā dhammā    Saraṇā dhammā katīhi 
+ khandhehi katīhi āyatanehi katīhi dhātūhi sampayuttā ti  
+ Natthi  Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+ Sampayoga vippayoga pada niddeso 
+  
+  
+  page      
+    
+ VII    SAMPAYUTTENA VIPPAYUTTAṂ  
+      Dhātuk VII   Vedanākkhandhena ye dhammā    Saññākkhandhena 
+ ye dhammā    Saṃkhārakkhandhena ye dhammā    Viññāṇakkhandhena ye dhammā    Manāyatanena ye dhammā 
+ sampayuttā  tehi dhammehi ye dhammā vippayuttā te 
+ dhammā katīhi khandhehi katīhi āyatanehi katīhi dhātūhi 
+ vippayuttā  
+      Te dhammā catuhi khandhehi ekenāyatanena sattahi 
+ dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici 
+ vippayuttā  
+      Dhātuk VII   Cakkhuviññāṇadhātuyā ye dhammā       pe       
+ Manodhātuyā ye dhammā    Manoviññāṇadhātuyā ye dhammā sampayuttā  tehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe        
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ vippāyuttā  
+      Dhātuk VII   Manindriyena ye dhammā sampayuttā tehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VII   Upekhindriyena ye dhammā sampayuttā tehi dhammehi ye dhammā vippayuttā te  dhammā        pe        
+      Na kehici khandhehi na kehici āyatanehi pañcahi 
+ dhātūhi vippayuttā  
+      Dhātuk VII   Saṃkhārapaccayā viññāṇena ye dhammā    Saḷāyatanapaccayā phassena ye dhammā    Phassapaccayā vedanāya 
+ ye dhammā    Phassena ye dhammā    Vedanāya ye dhammā 
+    Saññāya ye dhammā    Cetanāya ye dhammā    Cittena ye 
+ dhammā    Manasikārena ye dhammā sampayuttā tehi 
+ dhammehi ye dhammā vippayuttā te dhammā       pe        
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   VII  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VII   Adhimokkhena ye dhammā sampayuttā tehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe        
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ vippayuttā  
+      Dhātuk VII   Adukkhamasukhāya vedanāya sampayuttehi dhammehi 
+ ye dhammā    Upekhā sahagatehi dhammehi ye dhammā 
+ sampayuttā tehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe        
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi 
+ vippayuttā  
+      Dhātuk VII   Savitakka savicārehi dhammehi ye dhammā sampayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe        
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ vippayuttā  
+      Dhātuk VII   Cittehi dhammehi ye dhammā    Cetasikehi dhammehi 
+ ye dhammā    Cittasampayuttehi dhammehi ye dhammā  Cittasaṃsaṭṭhehi dhammehi ye dhammā    Cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā    Cittasaṃsaṭṭhasamuṭṭhāna sahabhūhi dhammehi ye dhammā    Cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā 
+ sampayuttā tehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe        
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk VII    Savitakkehi dhammehi ye dhammā    Savicārehi 
+ dhammehi ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe        
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ vippayuttā  
+      Dhātuk VII    Upekhā sahagatehi dhammehi ye dhammā sampayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+ katīhi khandhehi katīhi āyatanehi katīhi dhātūhi vippayuttā  
+      Te dhammā na kehici khandhehi na kehici āyatanehi 
+ pañcahi dhātūhi vippayuttā  
+  
+  
+  page      
+ VII   SAMPAYUTTENA VIPPAYUTTAṂ     
+      Khandhā caturo āyatanañ camekaṃ 
+      Dhātusu satta dve pi ca indriyāno  
+      Tayo paṭiccattariva phassa pañcamā  
+      Adhimuccanā manasi ti  kesu tīṇi  
+      Suttantarā dve ca manena yuttā  
+      Vitakkā vicāraṇā ūpekkhā nāya cāti  
+ Sampayuttena vippayutta pada niddeso  
+  
+  
+  page      
+    
+ VIII    VIPPAYUTTENA SAMPAYUTTAṂ  
+      Dhātuk VIII   Rūpakkhandhena ye dhammā vippayuttā tehi dhammehi ye dhammā sampayuttā te dhammā katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampayuttā ti  
+      Natthi  
+      Dhātuk VIII   Vedanākkhandhena ye dhammā    Saññākkhandhena 
+ ye dhammā    Saṃkhārakkhandhena ye dhammā    Viññāṇakkhandhena ye dhammā       pe       Saraṇehi dhammehi ye dhammā    Araṇehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā sampayuttā te dhammā 
+ katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampayuttā 
+ ti  
+      Natthi  
+ Vippayuttena sampayutta pada niddeso 
+  
+  
+  page      
+    
+ I     SAMPAYUTTENA SAMPAYUTTAṂ  
+      Dhātuk I    Vedanākkhandhena ye dhammā    Saññākkhandhena 
+ ye dhammā    Saṃkhārakkhandhena ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā 
+ katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampayuttā  
+      Te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I    Viññāṇakkhandhena ye dhammā       pe       Manāyatanena ye dhammā    Cakkhu viññāṇa dhātuyā ye 
+ dhammā    Mano dhātuyā ye dhammā    Manoviññāṇa dhātuyā ye dhammā sampayuttā tehi dhammehi ye dhammā 
+ sampayuttā te dhammā       pe         
+      Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I    Samudaya saccena ye dhammā    Magga saccena ye 
+ dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I    Manindriyena ye dhammā sampayuttā tehi dhammehi 
+ ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I    Sukhindriyena ye dhammā    Dukkhindriyena ye 
+ dhammā    Somanassindriyena ye dhammā    Domanassin 
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I   
+ driyena ye dhamma sampayuttā tehi dhammehi ye dhammā 
+ sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I    Upekkhindriyena ye dhammā sampayuttā tehi 
+ dhammehi ye dhammā sampayuttā te dhammā        
+ pe         
+      Tīhi khandhehi ekenāyatanena chahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I    Saddhindriyena ye dhammā    Viriyindriyena ye dhammā 
+    Satindriyena ye dhammā    Samādhindriyena ye 
+ dhammā    Paññindriyena ye dhammā    Anaññātaññassāmitindriyena ye dhammā    Aññindriyena ye dhammā  Aññātāvindriyena ye dhammā    Avijjāya ye dhammā  Avijjā paccayā saṃkhārena ye dhammā sampayuttā tehi 
+ dhammehi ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I    Saṃkhāra paccayā viññāṇena ye dhammā sampayuttā 
+ tehi dhammehi ye dhammā sampayuttā te dhammā        
+ pe         
+      Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I    Saḷāyatana paccayā phassena ye dhammā sampayuttā 
+ tehi dhammehi ye dhammā sampayuttā te dhammā        
+ pe         
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I     Phassa paccayā vedanāya ye dhammā sampayuttā 
+ tehi dhammehi ye dhammā sampayuttā te dhammā        
+ pe         
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I     Vedanā paccayā taṇhāya ye dhammā    Taṇhāppaccayā upādānena ye dhammā    Kamma bhavena ye dhammā 
+ sampayuttā te dhammā       pe       
+  
+  
+  page      
+ I    SAMPAYUTTENA SAMPAYUTTAṂ     
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I     Sokena ye dhammā    Dukkhena ye dhammā    Domanassena ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I     Upāyāsena ye dhammā    Satipaṭṭhānena ye dhammā 
+    Sammappadhānena ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā 
+ ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Iddhipādena ye dhammā sampayuttā tehi dhammehi 
+ ye dhammā sampayuttā te dhammā       pe         
+      Dvīhi khandhehi sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I     Jhānena ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā sampayuttā te dhammā       pe         
+      Dvīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I     Appamaññā ye dhammā    Pañcindriyena ye dhammā 
+    Pañca balehi ye dhammā    Sattahi bojjhaṃgehi ye 
+ dhammā    Ariyena aṭṭhaṃgikena maggena ye dhammā 
+ sampayuttā tehi dhammehi ye dhammā sampayuttā te 
+ dhammā       pe         
+      Tīhi khandhena ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanena ekayā dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I     Phassena ye dhammā    Cetanāya ye dhammā  Manasikārena ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I     Vedanāya ye dhammā saññāya ye dhammā sam 
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I   
+ payuttā tehi dhammehi ye dhammā sampayuttā te dhammā 
+       pe         
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I     Cittena ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Dhātuk I     Adhimokkhena ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayuttā 
+ ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Sukhāya vedanāya sampayuttehi dhammehi ye 
+ dhammā    Dukkhāya vedanāya sampayuttehi dhammehi 
+ ye dhammā    Adukkhamasukhāya vedanāya sampayuttehi 
+ dhammehi ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā sampayuttā te dhammā       pe         
+      Ekena khandhena sampayuttā ekenāyatanena ekāya 
+ dhātuyā kehici sampayuttā  
+      Dhātuk I     Savitakka savivārehi dhammehi ye dhammā    Avitakka vicāra mattehi dhammehi ye dhammā    Pīti sahagatehi dhammehi ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā sampayuttā te dhammā       pe         
+      Ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Sukha sahagatehi dhammehi ye dhammā    Upekhāsahagatehi dhammehi ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā       pe         
+      Ekena khandhena sampayuttā ekenāyatanena ekāya 
+ dhātuyā kehici sampayuttā  
+      Dhātuk I     Hetuhi dhammehi ye dhammā    Hetu ceva sahetukehi dhammehi ye dhammā    Hetu ceva hetu sampayuttehi 
+ dhammehi ye dhammā sampayuttā tehi dhammehi ye 
+ dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā ekena khandhena ekenāyatanenā ekāya dhātuyā 
+ kehici sampayuttā  
+  
+  
+  page      
+ I    SAMPAYUTTENA SAMPAYUTTAṂ     
+      Dhātuk I     Sahetukā ceva na ca hetuhi dhammehi ye dhammā  Hetu sampayuttā ceva na ca hetuhi dhammehi ye dhammā 
+    Na hetu sahetukehi dhammehi ye dhammā sampayuttā 
+ tehi dhammehi ye dhammā sampayuttā te dhammā        
+ pe         
+      Ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Āsavehi dhammehi ye dhammā    Āsavā ceva sāsavehi dhammehi ye dhammā    Āsavā ceva āsava sampayuttehi dhammehi ye dhammā sampayuttā te dhammā 
+       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā 
+ ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Āsavā sampayuttehi dhammehi ye dhammā    Āsavā 
+ sampayuttā ceva no ca āsavehi dhammehi ye dhammā 
+ sampayuttā tehi dhammehi ye dhammā sampayuttā te 
+ dhammā       pe         
+      Ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Saṃyojanehi dhammehi ye dhammā       pe       
+ Ganthehi dhammehi ye dhammā    Oghehi dhammehi ye 
+ dhammā    Yogehi dhammehi ye dhammā    Nīvaraṇehi 
+ dhammehi ye dhammā    Parāmāsehi dhammehi ye 
+ dhammā    Parāmāsā ceva parāmaṭṭhehi dhammehi ye 
+ dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuya sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Dhātuk I     Parāmāsa sampayuttehi dhammehi ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā 
+       pe         
+      Ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Cittehi dhammehi ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   I   
+      Dhātuk I     Cetasikehi dhammehi ye dhammā    Citta sampayuttehi dhammehi ye dhammā    Citta saṃsaṭṭhehi dhammehi 
+ ye dhammā    Citta saṃsaṭṭha samuṭṭhānehi dhammehi ye 
+ dhammā    Citta saṃsaṭṭha samuṭṭhāna sahabhūhi dhammehi ye dhammā    Citta saṃsaṭṭha samuṭṭhānānuparivattīhi dhammehi ye dhammā sampayuttā tehi dhammehi 
+ ye dhammā sampayuttā te dhammā       pe         
+      Ekena khandhena ekenāyatanena sattahi dhātūhi sampayuttā  
+      Dhātuk I     Upādānehi       pe       kilesehi dhammehi ye 
+ dhammā    Kilesā ceva saṃkilesikehi dhammehi ye 
+ dhammā    Kilesā ceva saṃkiliṭṭhehi dhammehi ye 
+ dhammā    Kilesā ceva kilesa sampayuttehi dhammehi 
+ ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā 
+ ekena khandhena ekenāyatānena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Saṃkiliṭṭhā ceva no ca kilesehi dhammehi ye dhammā    Kilesa sampayuttā ceva no ca kilesehi dhammehi ye 
+ dhammā    Savitakkehi dhammehi ye dhammā    Savicārehi 
+ dhammehi ye dhammā    Sappītikehi dhammehi ye dhammā 
+    Pīti sahagatehi dhammehi ye dhammā sampayuttā tehi 
+ dhammehi ye dhammā sampayuttā te dhammā        
+ pe         
+      Ekena khandhena ekenāyatanena ekāya dhātuyā kehici 
+ sampayuttā  
+      Dhātuk I     Sukha sahagatehi dhammehi ye dhammā upekhāsahagatehi dhammehi ye dhammā sampayuttā tehi dhammehi ye dhammā sampayuttā te dhammā katīhi khandhehi 
+ katīhāyatanehi katīhi dhātūhi sampayuttā  
+      Te dhammā ekena khandhena sampayuttā ekenāyatanena 
+ ekāya dhātuyā kehici sampayuttā  
+ Sampayutta sampayuttena pada niddeso  
+  
+  
+  page      
+    
+     VIPPAYUTTENA VIPPAYUTTAṂ  
+      Dhātuk     Rūpakkhandhena ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā katīhi khandhehi 
+ katīhāyatanehi katīhi dhātūhi vippayuttā  
+      Te dhammā catuhi khandhehi ekenāyatanena sattahi 
+ dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici 
+ vippayuttā  
+      Dhātuk     Vedanakkhandhena ye dhammā    Saññākkhandhena ye 
+ dhammā    Saṃkhārakkhandhena ye dhammā    Viññāṇakkhandhena ye dhammā    Manāyatanena ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekayā dhātuyā kehici vippayuttā  
+      Dhātuk     Cakkhāyatanena ye dhammā       pe       Phoṭṭhabbāyatanena ye dhammā    Cakkhudhātuyā ye 
+ dhammā       pe       Phoṭṭhabbadhātuyā ye dhammā 
+ vippayuttā te dhammā       pe         
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk     Cakkhuviññāṇadhātuyā ye dhammā       pe       
+ Manodhātuyā ye dhammā    Manoviññāṇadhātuyā ye 
+ dhammā    Samudayasaccena ye dhammā    Maggasaccena 
+ ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk     Nirodhasaccena ye dhammā    Cakkhundriyena ye 
+ dhammā       pe       Kāyindriyena ye dhammā   
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ      
+ Itthindriyena ye dhammā    Purisindriyena ye dhammā 
+ vippayuttā tehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe         
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk     Manindriyena ye dhammā vippayuttā tehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk     Sukhindriyena ye dhammā    Dukkhindriyena ye 
+ dhammā    Somanassindriyena ye dhammā    Domanassindriyena ye dhammā vippayuttā tehi dhammehi ye dhammā 
+ vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk     Upekhindriyena ye dhammā vippayuttā tehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi ekādasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk     Saddhindriyena ye dhammā    Viriyindriyena ye 
+ dhammā    Satindriyena ye dhammā    Samādhindriyena 
+ ye dhammā    Paññindriyena ye dhammā    Anaññataññassāmītindriyena ye dhammā    Aññindriyena ye dhammā  Aññatāvindriyena ye dhammā    Avijjāya ye dhammā  Avijjā paccayā saṃkhārena ye dhammā vippayuttā tehi 
+ dhammehi ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā  
+      Dhātuk      Saṃkhāra paccayā viññāṇena ye dhammā    Saḷāyatana paccayā phassena ye dhammā    Phassa paccayā vedanāya ye dhammā vippayuttā te dhammā vippayuttā tehi 
+ dhammehi ye dhammā       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāyā dhātuyā kehici vippayuttā  
+      Dhātuk      Vedanā paccayā taṇhāya ye dhammā    Taṇhā paccayā 
+ upādānena ye dhammā    Kammabhavena ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe       
+  
+  
+  page      
+    SAMPAYUTTENA SAMPAYUTTAṂ     
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Rūpabhavena ye dhammā vippayuttā tehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe         
+      Na kehici khandhehi na kehici āyatanehi tīhi dhātūhi 
+ vippayuttā  
+      Dhātuk      Asaññabhavena ye dhammā    Ekavokārabhavena ye 
+ dhammā    Paridevena ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā       pe         
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Arūpabhavena ye dhammā    Nevasaññānāsaññābhavena ye dhammā    Catuvokārabhavena ye dhammā  Sokena ye dhammā    Dukkhena ye dhammā    Domanassena 
+ ye dhamma    Upāyāsena ye dhammā    Satipaṭṭhānena ye 
+ dhammā    Sammappadhānena ye dhammā    Iddhipādena ye 
+ dhammā    Jhānena ye dhammā    Appamaññāya ye 
+ dhammā    Pañcahi indriyehi ye dhammā    Pañcahi balehi 
+ ye dhammā    Sattahi bojjhaṃgehi ye dhammā    Ariyena 
+ aṭṭhaṃgikena maggena ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanhehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Phassena ye dhammā    Vedanāya ye dhammā    Saññāya ye dhammā    Cetanāya ye dhammā    Cittena ye 
+ dhammā    Manasikārena ye dhammā vippayuttā tehi 
+ dhammehi ye dhammā vippayuttā te dhammā        pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Adhimokkhena ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Kusalehi dhammehi ye dhammā    Akusalehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā 
+ vippayuttā te dhammā       pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ      
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Sukhāya vedanāya sampayuttehi dhammehi ye 
+ dhammā    Dukkhāya vedanāya sampayuttehi dhammehi ye 
+ dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā 
+ te dhammā       pe         
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā 
+ vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi ekādasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Vipākehi dhammehi ye dhammā vippayuttā tehi 
+ dhammehi ye dhammā vippayuttā te dhammā        pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā keheci vippayuttā  
+      Dhātuk      Vipākadhammadhammehi ye dhammā    Saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Neva vipāka na vipāka dhamma dhammehi ye 
+ dhammā    Anupādinnupādāniyehi dhammehi ye dhammā 
+ vippayuttā tehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe         
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā  
+      Dhātuk      Anupādinna anupādāniyehi dhammehi ye dhammā 
+    Asaṃkiliṭṭha asaṃkilesikehi dhammehi ye dhammā 
+ vippayuttā tehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe         
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Savitakka savicārehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe       
+  
+  
+  page      
+    VIPPAYUTTENA VIPPAYUTTAṂ     
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Avitakka vicāramattehi dhammehi ye dhammā  Pītisahagatehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Avitakka avicārehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe         
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ vippayuttā  
+      Dhātuk      Sukhasahagatehi dhammehi ye dhammā vippayuttā 
+ te dhammā       pe         
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Upekhāsahagatehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Ekena khandhena dasahāyatanehi ekādasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Dassanena pahātabbehi dhammehi ye dhammā  Bhāvanāya pahātabbehi dhammehi ye dhammā  Dassanena pahātabba hetukehi dhammehi ye dhammā  Bhāvanāya pahātabba hetukehi dhammehi ye dhammā  Ācayagāmihi dhammehi ye dhammā    Apacayagāmihi 
+ dhammehi ye dhammā    Sekhehi dhammehi ye dhammā  Asekhehi dhammehi ye dhammā    Mahaggatehi dhammehi 
+ ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekanāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Appamāṇehi dhammehi ye dhammā    Parittehi 
+ dhammehi ye dhammā vippayuttā tehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ      
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Parittārammaṇehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Mahaggatārammaṇehi dhammehi ye dhammā  Appamāṇārammaṇehi dhammehi ye dhammā    Hīnehi 
+ dhammehi ye dhammā    Paṇītehi dhammehi ye dhammā 
+    Micchattaniyatehi dhammehi ye dhammā    Sammattaniyatehi dhammehi ye dhammā    Maggārammaṇehi 
+ dhammehi ye dhammā    Maggahetukehi dhammehi ye 
+ dhammā    Maggādhipatīhi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Anuppannehi dhammehi ye dhammā vippayuttā tehi 
+ dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Atītārammaṇehi dhammehi ye dhammā    Anāgatārammaṇehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhamma       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Paccuppannārammaṇehi dhammehi ye dhammā  Ajjhattārammaṇehi dhammehi ye dhammā    Bahiddharammaṇehi dhammehi ye dhammā    Ajjhattabahiddhārammaṇehi dhammehi ye dhammā vippayuttā tehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Sanidassana sappaṭighehi dhammehi ye dhammā  Anidassana sappaṭighehi dhammehi ye dhammā vippa 
+  
+  page      
+    VIPPAYUTTENA VIPPAYUTTAṂ     
+ yuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe         
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayutta ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Hetuhi dhammehi ye dhammā    Sahetukehi dhammehi ye dhammā    Hetu sampayuttehi dhammehi ye 
+ dhammā    Hetu ceva sahetukehi dhammehi ye dhammā  Hetu ceva hetu sampayuttehi dhammehi ye dhammā  Hetu sampayuttā ceva na ca hetuhi dhammehi ye dhammā 
+    Na hetu sahetukehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Appaccayehi dhammehi ye dhammā    Asaṃkhatehi 
+ dhammehi ye dhammā    Sanidassanehi dhammehi ye 
+ dhammā    Sappaṭighehi dhammehi ye dhammā    Rūpīhi 
+ dhammehi ye dhammā vippayuttā tehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe         
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Lokuttarehi dhammehi ye dhammā vippayuttā tehi 
+ dhammehi ye dhammā vippayuttā te dhammā        pe 
+           
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Āsavehi dhammehi ye dhammā    Āsava sampayuttehi 
+ dhammehi ye dhammā    Āsavā ceva sāsavehi dhammehi 
+ ye dhammā    Āsavā ceva āsava sampayuttehi dhammehi 
+ ye dhammā    Āsava sampayuttā ceva no ca āsavehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā 
+ vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Anāsavehi dhammehi ye dhammā    Āsava vippayuttā 
+ anāsavehi dhammehi ye dhammā vippayuttā tehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ      
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Saṃyojanehi dhammehi ye dhammā       pe         
+      Ganthehi dhammehi ye dhammā    Oghehi dhammehi ye 
+ dhammā    Yogehi dhammehi ye dhammā    Nīvaraṇehi 
+ dhammehi ye dhammā    Parāmāsehi dhammehi ye dhammā 
+    Parāmāsa sampayuttehi dhammehi ye dhammā    Parāmāsā ceva parāmaṭṭhehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Aparāmaṭṭhehi dhammehi ye dhammā    Parāmāsavippayuttā aparāmaṭṭhehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe         
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Sārammaṇehi dhammehi ye dhammā    Cittehi dhammehi ye dhammā    Cetasikehi dhammehi ye dhammā  Citta sampayuttehi dhammehi ye dhammā    Citta saṃsaṭṭhehi dhammehi ye dhammā    Citta saṃsaṭṭha samuṭṭhānehi dhammehi ye dhammā    Citta saṃsaṭṭha samuṭṭhāna sahabhūhi dhammehi ye dhammā    Citta saṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā 
+ te dhammā       pe         
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Ārammaṇehi dhammehi ye dhammā    Citta vippayuttehi dhammehi ye dhammā    Citta saṃsaṭṭhehi dhammehi 
+ ye dhammā    Upādā dhammehi ye dhammā vippayuttā tehi 
+ dhammehi ye dhammā vippayuttā te dhammā        pe 
+           
+      Catuhi khanehehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Anupādiṇṇehi dhammehi ye dhammā vippayuttā tehi 
+ dhammā ye dhammehi vippayuttā te dhammā        pe 
+         
+  
+  
+  page      
+    VIPPAYUTTENA VIPPAYUTTAṂ     
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā  
+      Dhātuk      Upādānehi dhammehi ye dhammā       pe         
+      Kilesehi dhammehi ye dhammā    Saṃkiliṭṭhehi dhammehi ye dhammā    Kilesa sampayuttehi dhammehi ye 
+ dhammā    Kilesā ceva saṃkilesekehi dhammehi ye 
+ dhammā    Kilesā ceva saṃkiliṭṭhehi dhammehi ye dhammā 
+    Kilesā ceva kilesa sampayuttehi dhammehi ye dhammā 
+    Kilesa sampayuttā ceva no ca kilesehi dhammehi ye 
+ dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā 
+ te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Asaṃkilesikehi dhammehi ye dhammā    Kilesa vippayutta asaṃkilesikehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Dassanena pahātabbehi dhammehi ye dhammā  Bhāvanāya pahātabbehi dhammehi ye dhammā    Dassanena pahātabba hetukehi dhammehi ye dhammā    Bhāvanāya pahātabba hetukehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā 
+       pe         
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Savitakkehi dhammehi ye dhammā    Savicārehi 
+ dhammehi ye dhammā vippayuttā tehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Avitakkehi dhammehi ye dhammā    Avicārehi dhammehi ye dhammā vippayuttā tehi dhammehi ye dhammā 
+ vippayuttā te dhammā       pe         
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ vippayuttā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ      
+      Dhātuk      Sappītikehi dhammehi ye dhammā    Pītisahagatehi 
+ dhammehi ye dhammā vippayuttā tehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe         
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+         Sukhasahagatehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Upekhāsahagatehi dhammehi ye dhammā vippayuttā 
+ tehi dhammehi ye dhammā vippayuttā te dhammā        
+ pe         
+      Ekena khandhena dasahāyatanehi ekādasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk      Na kāmāvacarehi dhammehi ye dhammā    Apariyāpannehi dhammehi ye dhammā    Anuttarehi dhammehi ye 
+ dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā 
+ te dhammā       pe         
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ vippayuttā  
+      Dhātuk      Rūpāvacarehi dhammehi ye dhammā    Arūpāvacarehi 
+ dhammehi ye dhammā    Niyyānikehi dhammehi ye dhammā    Niyatehi dhammehi ye dhammā    Saraṇehi dhammehi 
+ ye dhammā vippayuttā tehi dhammehi ye dhammā vippayuttā te dhammā katīhi khandhehi katīhi āyatanehi katīhi 
+ dhātūhi vippayuttā  
+      Te dhammā ekena khandhena dasahāyatanehi soḷasahi 
+ dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici 
+ vippayuttā  
+ Vippayuttena vippayutta pada niddeso  
+  
+  
+  page      
+    
+ XI    SAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ  
+      Dhātuk XI   Samudaya saccena ye dhammā  magga saccena ye 
+ dhammā khandha saṃgahena saṃgahītā āyatana saṃgahena saṃgahītā dhātu saṃgahena saṃgahītā te dhammā 
+ katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampayuttā  
+      Te dhammā tīhi khandhehi ekenāyatanena sattahi dhātuhi sampayuttā ekena khandhena ekenāyatanena ekāya 
+ dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XI   Itthindriyena ye dhammā  purisindriyena ye dhammā 
+ khandha saṃgahena saṃgahītā āyatana saṃgahena saṃgahītā dhātu saṃgahena saṃgahītā te dhammā katīhi khandhehi katīhāyātanehi katīhi dhātūhi sampayuttā ti  
+ Natthi  Katīhi vippayuttā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātuhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XI   Sukhindriyena ye dhammā    Dukkhindriyena ye 
+ dhammā    Somanassindriyena ye dhammā    Domanassindriyena ye dhammā khandha saṃgahena saṃgahītā āyatana saṃgahena saṃgahītā dhātu saṃgahena saṃgahītā te 
+ dhammā       pe         
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi 
+ vippayuttā ekenāyatanena ekāya dhātuya kehici vippayuttā  
+      Dhātuk XI   Upekhindriyena ye dhammā khandha saṃgahena saṃgahītā āyatana saṃgahena saṃgahītā dhātu saṃgahena 
+ saṃgahītā te dhammā       pe       
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   XI  
+      Tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  Ekena khandhena dasahāyatanehi 
+ paṇṇarasahi dhātūhi vippayuttā ekenāyatanena ekāya 
+ dhātuyā kehici vippayuttā  
+      Dhātuk XI   Saddhindriyena ye dhammā    Viriyindriyena ye dhammā    Satindriyena ye dhammā    Samādhindriyena ye 
+ dhammā    Paññindriyena ye dhammā    Anaññātaññassāmītindriyena ye dhammā    Aññindriyena ye dhammā  Aññatāvindriyena ye dhammā    Avijjāya ye dhammā  Avijjā paccayā saṃkhārena ye dhammā    Saḷāyatana paccayā phassena ye dhammā    Vedanā paccayā taṇhāya ye 
+ dhammā    Taṇhā paccayā upādānena ye dhammā    Kammabhavena ye dhammā khandha saṃgahena saṃgahītā āyatana saṃgahena saṃgahītā dhātu saṃgahena saṃgahītā te 
+ dhammā       pe         
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekena khandhena ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahi āyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XI   Paridevena ye dhammā khandha saṃgahena saṃgahītā 
+ āyatana saṃgahena saṃgahītā dhātu saṃgahena saṃgahītā te dhammā katīhi khandhehi katīhi āyatanehi katīhi 
+ dhātūhi sampayuttā ti  Natthi  Katīhi vippayuttā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XI   Sokena ye dhammā    Dukkhena ye dhammā    Domanassena ye dhammā khandha saṃgahena saṃgahītā āyatanasaṃgahena saṃgahītā dhātu saṃgahena saṃgahītā te 
+ dhammā       pe         
+      Tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XI   Upāyāsena ye dhammā    Satipaṭṭhānena ye dhammā 
+  
+  
+  page      
+ XI   SAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ     
+    Sammappadhānena ye dhammā    Appamaññāya ye 
+ dhammā    Pañcahi indriyehi ye dhammā    Pañcahi balehi 
+ ye dhammā    Sattahi bhojjaṃgehi ye dhammā    Ariyena 
+ aṭṭhaṃgikena maggena ye dhammā    Phassena ye dhammā    Cetanāya ye dhammā    Adhimokkhena ye dhammā  Manasikārena ye dhammā    Hetuhi dhammehi ye dhammā 
+    Hetu ceva sahetukehi dhammehi ye dhammā    Hetu 
+ ceva hetusampayuttehi dhammehi ye dhammā    Āsavehi 
+ dhammehi ye dhammā    Āsavā ceva sāsavehi dhammehi 
+ ye dhammā    Āsavā ceva āsavasampayuttehi dhammehi 
+ ye dhammā    Saṃyojanehi dhammehi ye dhammā        
+ pe       Ganthehi dhammehi ye dhammā    Oghehi dhammehi ye dhammā    Yogehi dhammehi ye dhammā    Nīvaraṇehi dhammehi ye dhammā    Parāmāsehi dhammehi ye 
+ dhammā    Upādāniyehi dhammehi ye dhammā    Kilesehi 
+ dhammehi ye dhammā    Kilesā ceva saṃkilesikehi dhammehi ye dhammā    Kilesā ceva saṃkiliṭṭehi dhammehi ye 
+ dhammā    Kilesā ceva kilesasampayuttehi dhammehi 
+ ye dhammā khandha saṃgahena saṃgahītā āyatanasaṃgahena saṃgahītā dhātu saṃgahena saṃgahītā te 
+ dhammā katīhi khandhehi katīhāyatanehi katīhi dhātūhi 
+ sampayuttā  
+      Te dhammā tīhi khandhehi ekenāyatanena sattahi dhātuhi sampayuttā ekena khandhena ekenāyatanena ekāya 
+ dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+ Saṃgahītena sampayutta vippayutta padaniddeso  
+  
+  
+  page      
+    
+ XII    SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ  
+      Dhātuk XII   Vedanākkhandhena ye dhammā    Saññākkhandhena 
+ ye dhammā     Saṃkhārakkhandhena  ye dhammā sampayuttā te dhammā katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi saṃgahītā  
+      Te dhammā tīhi khandhehi divīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XII   Viññāṇakkhandhena ye dhammā    Manāyatanena ye 
+ dhammā    Cakkhu viññāṇa dhātuyā ye dhammā        
+ pe       Manodhātuyā ye dhammā    Maṇo viññāṇa dhātuyā ye dhamma sampayuttā te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII   Samudaya saccena ye dhammā    Magga saccena ye 
+ dhammā sampayuttā te dhammā       pe         
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII   Manindriyena ye dhammā sampayuttā te dhammā 
+       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+  
+  
+  page      
+ XII   SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ     
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII   Sukhindriyena ye dhammā    Dukkhindriyena ye 
+ dhammā    Somanassindriyena ye dhammā    Domanassindriyena ye dhammā sampayuttā te dhammā       pe         
+      Tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk XII   Upekhindriyena ye dhammā sampayuttā te dhammā 
+       pe         
+      Tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII   Saddhindriyena ye dhammā    Viriyindriyena ye dhammā    Satindriyena ye dhammā    Samādhindriyena ye 
+ dhammā     Paññindriyena  ye dhammā    Anaññātaṃ ñassāmītindriyena ye dhammā    Aññindriyena ye dhammā  Aññatāvindriyena ye dhammā    Avijjāya ye dhammā  Avijjā paccayā saṃkhārena ye dhammā sampayuttā te 
+ dhammā       pe         
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII   Saṃkhāra paccayā viññāṇena ye dhammā sampayuttā 
+ te dhammā       pe         
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   XII  
+      Dhātuk XII   Saḷāyatana paccayā phassena ye dhammā sampayuttā 
+ te dhammā       pe         
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Phassa paccayā vedanāya ye dhammā sampayuttā te 
+ dhammā       pe        
+      Tīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Vedanā paccayā taṇhāya ye dhammā    Taṇhā paccayā 
+ upādānena ye dhammā    Kamma bhavena ye dhammā 
+ sampayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Sokena ye dhammā    Dukkhena ye dhammā    Domanassena ye dhammā sampayuttā te dhammā        pe 
+          
+      Tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Upāyāsena ye dhammā    Satipaṭṭhānena ye dhammā 
+    Sammappadhānena ye dhammā sampayuttā te dhammā 
+       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII    Iddhipādena ye dhammā sampayuttā te dhammā 
+       pe       
+  
+  
+  page      
+ XII   SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ     
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Jhānena ye dhammā sampayuttā te dhammā        
+ pe        
+      Tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Appamaññāya ye dhammā    Pañcahi balehi ye 
+ dhammā    Sattahi bhojjhaṃgehi ye dhammā    Ariyena 
+ aṭṭhaṃgikena maggena ye dhammā sampayuttā te dhammā 
+       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII    Phassena ye dhammā    Cetanāya ye dhammā    Manasikāreṇa ye dhammā sampayuttā te dhammā        pe 
+          
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Vedanāya ye dhammā    Saññāya ye dhammā    Sampayuttā te dhammā       pe        
+      Tīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Cittena ye dhammā sampayuttā te dhammā        
+ pe        
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   XII  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII    Sukhāya vedanāya sampayuttehi dhammehi ye 
+ dhammā    Dukkhāya vedanāya sampayuttehi dhammehi 
+ ye dhammā    Adukkhamasukhāya vedanāya sampayuttehi 
+ dhammehi ye dhammā    Savitakka savicārehi dhammehi 
+ ye dhammā    Avitakka vicara mattehi dhammehi ye dhammā    Pīti sahagatehi dhammehi ye dhammā    Sukha sahagatehi dhammehi ye dhammā    Upekhā sahagatehi dhammehi ye dhammā sampayuttā te dhammā       pe        
+      Ekena khandhena ekenāyatanena ekāya dhātuyā asaṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Hetūhi dhammehi ye dhammā    Hetu ceva sahetukehi dhammehi ye dhammā    Hetu sampayuttehi dhammehi ye dhammā sampayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā    Sahetukā ceva na ca hetuhi dhammehi ye 
+ dhammā    Hetu sampayuttā ceva na ca hetuhi dhammehi 
+ ye dhammā    Na hetu sahetukehi dhammehi ye dhammā 
+ sampayuttā te dhammā       pe        
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Āsavehi dhammehi ye dhammā    Āsavā ceva sāsavehi dhammehi ye dhammā    Āsavā ceva āsava sampayuttehi dhammehi ye dhammā sampayuttā te dhammā 
+       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahīta  
+  
+  
+  page      
+ XII   SAMPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ     
+      Kātīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII    Āsava sampayuttā ceva no ca āsavehi dhammehi ye 
+ dhammā  sampayuttā  te dhammā       pe        
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Saṃyojanehi dhammehi ye dhammā       pe       
+ Ganthehi dhammehi ye dhammā    Oghehi dhammehi ye 
+ dhammā Yogehi dhammehi ye dhammā    Nīvaraṇehi 
+ dhammehi ye dhammā       pe       Parāmāsehi dhammehi ye dhammā    Parāmāsā ceva parāmaṭṭhehi dhammehi ye dhammā sampayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII    Parāmāsa sampayuttehi dhammehi ye dhammā 
+ sampayuttā te dhammā       pe        
+      Ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Cittehi dhammehi ye dhammā sampayuttā te 
+ dhammā       pe        
+      Tīhi khandhehi ekenāyatanena ekāya dhātuyā saṃgahītā  
+       Katīhi  asaṃgahītā  
+      Dvīhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Cetasikehi dhammehi ye dhammā    Citta saṃsaṭṭhehi 
+ dhammehi ye dhammā    Citta saṃsaṭṭha samuṭṭhānehi 
+ dhammehi ye dhammā    Citta saṃsaṭṭha samuṭṭhānasahabhūhi dhammehi ye dhammā    Citta saṃsaṭṭha sa 
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   XII  
+ muṭṭhānānuparivattīhi dhammehi ye dhammā sampayuttā te dhammā       pe        
+      Ekena khandhena ekenāyatanena sattahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi ekādasahi dhātūhi asaṃgahītā  
+      Dhātuk XII    Upādānehi dhammehi ye dhammā       pe         
+      Kilesehi dhammehi ye dhammā    Kilesā ceva saṃkilesikehi dhammehi ye dhammā    Kilesā ceva saṃkiliṭṭhehi 
+ dhammehi ye dhammā    Kilesā ceva kilesa sampayuttehi 
+ dhammehi ye dhammā sampayuttā te dhammā        
+ pe        
+      Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XII    Saṃkilesā ceva no ca kilesehi dhammehi ye dhammā 
+    Kilesa sampayuttā ceva no ca kilesehi dhammehi ye 
+ dhammā    Savitakkehi dhammehi ye dhammā    Savicārehi 
+ dhammehi ye dhammā    Sappītikehi dhammehi ye dhammā 
+    Pīti sahagatehi dhammehi ye dhammā    Sukha sahagatehi dhammehi ye dhammā    Upekhā sahagatehi dhammehi 
+ ye dhammā sampayuttā te dhammā katīhi khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā  
+      Te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekādasahi āyatanehi sattarasahi dhātūhi asaṃgahītā  
+ Sampayuttena saṃgahītāsaṃgahīta pada niddeso  
+  
+  
+  page      
+    
+      XIII      ASAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ  
+      Dhātuk XIII   Rūpakkhandhena ye dhammā khandha saṃgahena 
+ asaṃgahītā āyatana saṃgahena asaṃgahītā dhātu saṃgahena asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampayuttā  Te dhammā tīhi 
+ khandhehi sampayuttā ekenāyatanena ekāya dhātuyā 
+ kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XIII   Dhammāyatanena ye dhammā    Dhammā dhātuyā ye 
+ dhammā    Itthindriyena ye dhammā    Purisindriyena ye 
+ dhammā    Jīvitindriyena ye dhammā    Viññāṇa paccayā 
+ nāmarūpena ye dhammā    Asañña bhavena ye dhammā  Eka vokāra bhavena ye dhammā    Jātiyā ye dhammā  Jarāya ye dhammā    Maraṇena ye dhammā khandha saṃgahena asaṃgahītā dhātu saṃgahena asaṃgahītā te 
+ dhammā       pe         
+      Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XIII   Arūpa bhavena ye dhammā    Nevasaññānāsaññabhavena ye dhammā    Catu vokāra bhavena ye dhammā  Iddhipādena ye dhammā khandha saṃgahena asaṃgahītā 
+ āyatana saṃgahena asaṃgahītā dhātu saṃgahena asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi sampayuttā ti  
+      Natthi  
+      Katīhi vippayuttā  
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   XIII  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XIII   Kusalehi dhammehi ye dhammā    Akusalehi dhammehi ye dhammā    Sukhāya vedanāya sampayuttehi dhammehi ye dhammā    Dukkhāya vedanāya sampayuttehi 
+ dhammehi ye dhammā    Adukkhamasukhāya vedanāya 
+ sampayuttehi dhammehi ye dhammā    Vipākehi dhammehi 
+ ye dhammā    Vipāka dhamma dhammehi ye dhammā  Anupādinna anupādāniyehi dhammehi ye dhammā    Saṃkiliṭṭha saṃkilesikehi dhammehi ye dhammā    Asaṃkiliṭṭha asaṃkilesikehi dhammehi ye dhammā    Savitakkasavicārehi dhammehi ye dhammā    Avitakka avicāramattehi 
+ dhammehi ye dhammā    Pīti sahagatehi dhammehi ye 
+ dhammā    Sukha sahagatehi dhammehi ye dhammā  Upekhā sahagatehi dhammehi ye dhammā    Dassanena 
+ pahātabbehi dhammehi ye dhammā    Bhāvanāya pahātabbehi dhammehi ye dhammā    Dassanena pahātabbahetukehi dhammehi ye dhammā    Bhāvanāya pahātabbahetukehi dhammehi ye dhammā    Ācayagāmīhi dhammehi 
+ ye dhammā    Apacayagāmihi dhammehi ye dhammā  Sekkhehi dhammehi ye dhammā    Asekkhehi dhammehi ye 
+ dhammā    Mahaggatehi dhammehi ye dhammā    Appamāṇehi dhammehi ye dhammā    Parittārammaṇehi dhammehi 
+ ye dhammā    Mahaggatārammaṇehi dhammehi ye dhammā 
+    Appamāṇārammaṇehi dhammehi ye dhammā    Hīnehi 
+ dhammehi ye dhammā    Paṇītehi dhammehi ye dhammā  Micchatta niyatehi dhammehi ye dhammā    Samatta niyatehi dhammehi ye dhammā    Maggārammaṇehi dhammehi 
+ ye dhammā    Maggahetukehi dhammehi ye dhammā  Maggādhipatīhi dhammehi ye dhammā    Atītārammaṇehi 
+ dhammehi ye dhammā    Anāgatārammaṇehi dhammehi ye 
+ dhammā    Paccuppannārammaṇehi dhammehi ye dhammā 
+    Ajjhattārammaṇehi dhammehi ye dhammā    Bahiddhārammaṇehi dhammehi ye dhammā    Ajjhattā bahiddhārammaṇehi dhammehi ye dhammā    Sahetukehi dhammehi 
+ ye dhammā    Hetu sampayuttehi dhammehi ye dhammā  Sahetukā ceva na ca hetūhi dhammehi ye dhammā    Hetusampayuttā ceva na ca hetu dhammehi ye dhammā    Na 
+  
+  page      
+ XIII   ASAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ     
+ hetu sahetukehi dhammehi ye dhammā khandha saṃgahena asaṃgahītā āyatana saṃgahena asaṃgahītā dhātusaṃgahena asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi katīhi dhātūhi sampayuttā ti  
+      Natthi  
+      Katīhi vippayuttā  
+      Catūhi khandhehi ekenāyatanena sattahi dhātuhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XIII   Rūpīhi dhammehi ye dhammā khandha saṃgahena 
+ asaṃgahītā āyatana saṃgahena asaṃgahītā dhātu saṃgahena asaṃgahītā te dhammā       pe        
+      Tīhi khandhehi sampayuttā ekenāyatanena ekāya dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XIII   Arūpīhi dhammehi ye dhammā    Lokuttarehi dhammehi ye dhammā    Anāsavehi dhammehi ye dhammā  Āsava sampayuttehi dhammehi ye dhammā    Āsava sampayuttā ceva no ca āsavehi dhammehi ye dhammā    Āsavavippayuttā anāsavehi dhammehi ye dhammā    Asaṃyoja 
+ nehi dhammehi ye dhammā    Aganthaniyehi dhammehi ye 
+ dhammā    Anoghaniyehi dhammehi ye dhammā    Ayoganiyehi dhammehi ye dhammā    Anīvaraṇiyehi dhammehi ye 
+ dhammā    Aparāmaṭṭhehi dhammehi ye dhammā    Parāmāsa sampayuttehi dhammehi ye dhammā    Parāmāsavippayutta aparāmaṭṭhehi dhammehi ye dhammā    Sārammaṇehi dhammehi ye dhammā khandha saṃgaheṇa asaṃgahītā āyatana saṃgahena asaṃgahītā dhātu saṃgahena 
+ asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi 
+ katīhi dhātūhi sampayuttā ti  
+      Natthi  
+      Katīhi vippayuttā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XIII   Anārammaṇehi dhammehi ye dhammā    No cittehi 
+ dhammehi ye dhammā    Citta vippayuttehi dhammehi ye 
+  
+  
+  page      
+    DHĀTU KATHĀ PAKARAṆAṂ   XIII  
+ dhammā    Cittā saṃsaṭṭhehi dhammehi ye dhammā    Cittasamuṭṭhānehi dhammehi ye dhammā    Citta sahabhūhi 
+ dhammehi ye dhammā    Cittānuparivattīhi dhammehi ye 
+ dhammā    Bāhirehi dhammehi ye dhammā    Upādā dhammehi ye dhammā khandha saṃgahena asaṃgahītā āyatanasaṃgahena asaṃgahītā dhātu saṃgahena asaṃgahītā te 
+ dhammā katīhi dhātuhi sampayuttā  
+      Te dhamma tīhi khandhehi sampayuttā ekenāyatanena 
+ ekāya dhātuyā kehici sampayuttā  
+      Katīhi vippayuttā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Dhātuk XIII   Anupādāniyehi dhammehi ye dhammā    Upādānasampayuttehi dhammehi ye dhammā    Upādāna vippayutta anupādānehi dhammehi ye dhammā    Asaṃkilesikehi 
+ dhammehi ye dhammā    Asaṃkiliṭṭhehi dhammehi ye 
+ dhammā    Kilesa sampayuttehi dhammehi ye dhammā  Saṃkiliṭṭhā ceva no ca kilesehi dhammehi ye dhammā  Kilesa sampayuttā ceva no ca kilesehi dhammehi ye 
+ dhammā    Kilesa vippayutta asaṃkilesikehi dhammehi ye 
+ dhammā    Dassanena pahātabbehi dhammehi ye dhammā 
+    Bhāvanāya pahātabbehi dhammehi ye dhammā    Dassanena pahātabba hetukehi dhammehi ye dhammā    Bhāvanāya pahātabba hetukehi dhammehi ye dhammā    Savitakkehi dhammehi ye dhammā    Savicārehi dhammehi ye 
+ dhammā    Sappītikehi dhammehi ye dhammā    Pītisahagatehi dhammehi ye dhammā    Sukha sahagatehi 
+ dhammehi ye dhammā    Upekha sahagatehi dhammehi ye 
+ dhammā    Kāmāvacarehi dhammehi ye dhammā    Rūpāvacarehi dhammehi ye dhammā    Arūpāvacarehi dhammehi 
+ ye dhammā    Apariyāpannehi dhammehi ye dhammā  Niyyānikehi dhammehi ye dhammā    Niyatehi dhammehi 
+ ye dhammā    Anuttarehi dhammehi ye dhammā    Saraṇehi 
+ dhammehi ye dhammā khandha saṃgahena asaṃgahītā 
+ āyatana saṃgahena asaṃgahītā dhātu saṃgahena asaṃgahītā te dhammā katīhi khandhehi katīhāyatanehi katīhi 
+ dhātūhi sampayuttā ti  
+      Natthi  
+  
+  
+  page      
+ XIII   ASAṂGAHĪTENA SAMPAYUTTAṂ VIPPAYUTTAṂ     
+      Katīhi vippayuttā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātuhi vippayuttā ekenāyatanena ekāya dhātuyā kehici vippayuttā  
+      Tatruddānaṃ  
+ Rūpañ ca dhammāyatanaṃ dhammā    dhātu itthī pumaṃ 
+ Jīvitam nāmarūpaṃ dve bhavā jāti jarā 
+ Maccu rūpaṃ anārammaṇaṃ no cittena vippayuttaṃ 
+ Visaṃsaṭṭha samuṭṭhāna sahabhu anuparivattī 
+ Bāhiraṃ upādā dve vīsatiyo esa nayo subuddho  
+      Asaṃgahitena sampayutta vippayutta pada niddeso  
+  
+  
+  page      
+    
+ XIV    VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ  
+      Dhātuk XIV   Rūpakkhandhena ye dhammā vippayuttā te dhammā 
+ katīhi khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā  
+      Te dhammā catuhi khandhehi dvīhāyatanehi aṭṭhahi 
+ dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV   Vedanākkhandhena ye dhammā    Saññākkhandhena ye 
+ dhammā    Saṃkhārakkhandhena ye dhammā    Viññāṇakkhandhena ye dhammā    Manāyatanena ye dhammā    Manindriyena ye dhammā vippayuttā te dhammā katīhi 
+ khandhehi katīhāyatanehi katīhi dhātūhi saṃgahītā  
+      Te dhammā asaṃkhataṃ khandhato ṭhapetvā ekena 
+ khandhena ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk XIV   Cakkhāyatanena ye dhammā       pe       Phoṭṭhabbāyatanena ye dhammā    Cakkhu dhātuyā ye dhammā 
+       pe       Phoṭṭhabba dhātuyā ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV   Cakkhu viññāṇa dhātuyā ye dhammā    Sota viññāṇa 
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ     
+ dhātuyā ye dhammā    Ghāna viññāṇa dhātuyā ye dhammā 
+    Jivhā viññaṇa dhātuyā ye dhammā    Kāya viññāṇadhātuyā ye dhammā    Mano dhātuyā ye dhammā    Manoviññāṇa dhātuyā ye dhammā vippayuttā te dhammā        
+ pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk XIV   Dukkha saccena ye dhammā vippayuttā te dhammā 
+       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV   Samudaya saccena ye dhammā    Magga saccena ye 
+ dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃghahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV   Nirodha saccena ye dhammā    Cakkhundriyena ye 
+ dhammā    Sotindriyena ye dhammā    Ghānindriyena ye 
+ dhammā    Jivhindriyena ye dhammā    Kāyindriyena ye 
+ dhammā    Itthindriyena ye dhammā    Purisindriyena ye 
+ dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV   Manindriyena ye dhammā    Sukhindriyena ye dhammā 
+    Dukkhindriyena ye dhammā    Somanassindriyena ye 
+ dhammā    Domanassindriyena ye dhammā vippayuttā te 
+ dhammā       pe        
+  
+  
+  page      
+     DHĀTU KATHĀ  PAKARAṆAṂ    XIV  
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanhehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi  asaṃgahītā   
+      Na kehici khandhehi na kehici ayatanehi pañcahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV   Saddhindriyena ye dhammā    Viriyindriyena ye 
+ dhammā    Satindriyena ye dhammā    Samādhindriyena ye 
+ dhammā    Paññindriyena ye dhammā    Anaññātaṃ ñasāmītindriyena ye dhammā    Aññindriyena ye dhammā  Aññatāvindriyena ye dhammā    Avijjāya ye dhammā  Avijjā paccayā saṃkhārena ye dhammā vippayuttā te 
+ dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Saṃkhāra paccayā viññāṇena ye dhammā    Saḷāyatana paccayā phassena ye dhammā    Phassa paccayā vedanāya ye dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Vedanā paccayā taṇhāya ye dhammā    Taṇhā paccayā 
+ upādānena ye dhammā    Kamma bhavena ye dhammā 
+ vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Uppatti bhavena ye dhammā    Saññā bhavena ye 
+ dhammā    Pañca vokāra bhavena ye dhammā vippayuttā 
+ te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātuhi saṃgahītā  
+  
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ      
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Kamma bhavena ye dhammā vippayuttā te dhammā 
+       pe        
+      Catuhi khandhehi dvīhāyatanehi pañcahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi terasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Rūpa bhavena ye dhammā    Asañña bhavena ye 
+ dhammā    Eka vokāra bhavena ye dhammā Paridevena 
+ ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Arūpa bhavena ye dhammā    Nevasaññānāsaññābhavena ye dhammā    Catu vokāra bhavena ye dhammā  Sokena ye dhammā    Dukkhena ye dhammā    Domanassena 
+ ye dhammā    Upāyāsena ye dhammā    Satipaṭṭhānena ye 
+ dhammā    Sammappadhānena ye dhammā    Iddhipādena 
+ ye dhammā    Jhānena ye dhammā    Appamaññāya ye 
+ dhammā    Pañcahi indriyehi ye dhammā    Pañcahi balehi 
+ ye dhammā    Sattahi bojjhaṃgehi ye dhammā    Ariyena 
+ aṭṭhaṃgikena maggena ye dhammā vippayuttā te dhammā 
+       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Phassena ye dhammā    Vedanāya ye dhammā  Saññāya ye dhammā    Cetanāya ye dhammā    Cittena ye 
+ dhammā    Manasikārena ye dhammā vippayuttā te dhammā 
+       pe         
+      Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+  
+  
+  page      
+     DHĀTU KATHĀ  PAKARAṆAṂ    XIV  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Adhimokkhena ye dhammā vippayuttā te dhammā 
+       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk XIV    Kusalehi dhammehi ye dhammā    Akusalehi dhammehi ye dhammā    Sukhāya vedanāya sampayuttehi dhammehi ye dhammā    Dukkhāya vedanāya sampayuttehi 
+ dhammehi ye dhammā vippayuttā te dhammā       pe 
+        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Avyākatehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā    Vipākehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi terasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Vipāka dhamma dhammehi ye dhammā     Saṃkiliṭṭha saṃkilesikehi  dhammehi ye dhammā vippayuttā te 
+ dhammā       pe        
+  
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ      
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk XIV    Neva vipāka na vipāka dhamma dhammehi ye dhammā    Anupādinnupādāniyehi dhammehi ye dhammā  Anupādinna anupādāniyehi dhammehi ye dhammā    Asaṃkiliṭṭha asaṃkilesikehi dhammehi ye dhammā vippayuttā 
+ te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Upādinnupādāniyehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Asaṃkiliṭṭha saṃkilesikehi dhammehi ye dhammā 
+ vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Savitakka savicārehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk XIV    Avitakkavicāramattehi dhammehi ye dhammā    Pītisahagatehi dhammehi ye dhammā    Sukha sahagatehi 
+  
+  
+  page      
+     DHĀTU KATHĀ PAKARAṆAṂ   XIV  
+ dhammehi ye dhammā vippayuttā te dhammā       pe 
+        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Avitakkavicārehi dhammehi ye dhammā vippayuttā 
+ te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Upekhā sahagatehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi terasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Dassanena pahātabbehi dhammehi ye dhammā  Bhāvanāya pahātabbehi dhammehi ye dhammā    Dassanena pahātabba hetukehi dhammehi ye dhammā    Bhāvanāya pahātabba hetukehi dhammehi ye dhammā    Ācayagāmihi dhammehi ye dhammā    Apacayagāmihi dhammehi 
+ ye dhammā    Sekhehi dhammehi ye dhammā    Asekhehi 
+ dhammehi ye dhammā    Mahaggatehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk XIV    Neva dassanena na bhāvanāya pahātabbehi dhammehi ye dhammā    Neva dassanena na bhāvanāya pahā 
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ      
+ tabba hetukehi dhammehi ye dhammā    Nevā ācayagāmina apacayagāmīhi dhammehi ye dhammā    Neva sekhā 
+ nāsekhehi dhammehi ye dhammā    Parittehi dhammehi 
+ ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Appamāṇehi dhammehi ye dhammā    Paṇītehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi  saṃgahītā   
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Parittārammaṇehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi dvādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Mahaggatārammaṇehi dhammehi ye dhammā    Appamāṇārammaṇehi dhammehi ye dhammā    Hīnehi dhammehi ye dhammā    Micchatta niyatehi dhammehi ye dhammā    Sammatta niyatehi dhammehi ye dhammā    Maggārammaṇehi dhammehi ye dhammā    Magga hetukehi 
+ dhammehi ye dhammā    Maggādhipatīhi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk XIV    Majjhimehi dhammehi ye dhammā    Aniyatehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhatūhi saṃgahītā  
+  
+  
+  page      
+     DHĀTU KATHĀ PAKARAṆAṂ   XIV  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Uppannehi dhammehi ye dhammā    Anuppannehi 
+ dhammehi ye dhammā    Uppādehi dhammehi ye dhammā  Atītehi dhammehi ye dhammā    Anāgatehi dhammehi ye 
+ dhammā    Paccuppannehi dhammehi ye dhammā    Ajjhattehi dhammehi ye dhammā    Bahiddhā dhammehi ye 
+ dhammā    Sanidassana sappaṭighehi dhammehi ye dhammā 
+    Anidassana sappaṭighehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Atītārammaṇehi dhammehi ye dhammā    Anāgatārammaṇehi dhammehi ye dhammā    Ajjhattārammaṇehi dhammehi ye dhammā    Bahiddhārammaṇehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk XIV    Paccuppannārammaṇehi dhammehi ye dhammā  Ajjhattabahiddhārammaṇehi dhammehi ye dhammā vippayuttā te dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi dvādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi chahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Hetuhi dhammehi ye dhammā    Sahetukehi dhammehi ye dhammā    Hetu sampayuttehi dhammehi ye dhammā    Hetu ceva sahetukehi dhammehi ye dhammā    Sahetukā ceva na ca hetukehi dhammehi ye dhammā    Hetu 
+ ceva hetu sampayuttehi dhammehi ye dhammā    Hetu 
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ      
+ sampayuttā ceva na ca hetuhi dhammehi ye dhammā  Na hetu sahetukehi dhammehi ye dhammā vippayutta te 
+ dhammā       pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Ahetukehi dhammehi ye dhammā    Hetuvippayuttehi 
+ dhammehi ye dhammā    Nahetuahetukehi dhammehi ye 
+ dhammā vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+       Katīhi  asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Appaccayehi dhammehi ye dhammā    Asaṃkhatehi 
+ dhammehi ye dhammā    Sanidassanehi dhammehi ye 
+ dhammā    Sappaṭighehi dhammehi ye dhammā    Rūpīhi 
+ dhammehi ye dhammā    Lokuttarehi dhammehi ye dhammā 
+ vippayuttā te dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Lokiyehi dhammehi ye dhammā vippayuttā te 
+ dhammā       pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Āsavehi dhammehi ye dhammā    Āsava sampayuttehi 
+ dhammehi ye dhammā    Āsavā ceva sāsavehi dhammehi 
+ ye dhammā    Āsavā ceva āsava sampayuttehi dhammehi 
+ ye dhammā    Āsava sampayuttā ceva no ca āsavehi 
+ dhammehi ye dhammā vippayuttā te dhammā       
+ pe        
+  
+  
+  page      
+     DHĀTU KATHĀ PAKARAṆAṂ   XIV  
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Sāsavehi dhammehi ye dhammā Āsava sampayuttehi dhammehi ye dhammā Sāsavā ceva no ca āsavehi 
+ dhammehi ye dhammā Āsava vippayutta sāsavehi dhammehi ye dhammā vippayuttā te dhammā        pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Anāsavehi dhammehi ye dhammā Āsava vippayuttaanāsavehi dhammehi ye dhammā vippayuttā te dhammā 
+         pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhārasahi dhātūhi 
+ saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Saṃyojanehi dhammehi ye dhammā        pe       
+ Ganthehi dhammehi ye dhammā Oghehi dhammehi ye 
+ dhammā Yogehi dhammehi ye dhammā Nīvaraṇehi 
+ dhammehi ye dhammā        pe       Parāmāsehi 
+ dhammehi ye dhammā Parāmāsa sampayuttehi dhammehi ye dhammā Parāmāsā ceva parāmaṭṭhehi dhammehi 
+ ye dhammā vippayuttā te dhammā        pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Parāmaṭṭhehi dhammehi ye dhammā Parāmāsavippayuttehi dhammehi ye dhammā Parāmaṭṭhā ceva 
+ no ca parāmāsehi dhammehi ye dhammā Parāmāsavippayutta parāmaṭṭhehi dhammehi ye dhammā vippayuttā 
+ te dhammā        pe        
+  
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ     
+      Catuhi khandhehi dvihāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Aparāmaṭṭhehi dhammehi ye dhammā Parāmāsavippayutta aparāmaṭṭhehi dhammehi ye dhammā vippayuttā 
+ te dhammā        pe        
+      Catuhi khandhehi dvihāyatanehi aṭṭhahi dhātuhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Sārammaṇehi dhammehi ye dhammā Cittehi dhammehi ye dhammā Cetasikehi dhammehi ye dhammāCitta sampayuttehi dhammehi ye dhammā Citta saṃsaṭṭhehi dhammehi ye dhammā Citta saṃsaṭṭha samuṭṭhānehi dhammehi ye dhammā Citta saṃsaṭṭha samuṭṭhāna sahabhūhi dhammehi ye dhammā Citta saṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā 
+ te dhammā        pe        
+      Asaṃkhataṃ khandhato ṭhapetvā ekena khandhena 
+ ekādasahi āyatanehi ekādasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Catuhi khandhehi ekenāyatanena sattahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Anārammaṇehi dhammehi ye dhammā Citta vippayuttehi dhammehi ye dhammā Citta saṃsaṭṭhehi dhammehi ye dhammā Upādā dhammehi ye dhammā Anupādinnehi dhammehi ye dhammā vippayutta te dhammā 
+         pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Upādinnehi dhammehi ye dhammā vippayuttā te 
+ dhammā        pe       
+  
+  
+  page      
+     DHĀTU KATHĀ PAKARAṆAṂ   XIV  
+      Catuhi khandhehi dvīhāyatanehi tīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi paṇṇarasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Upādānehi dhammehi ye dhammā        pe       
+ Kilesehi dhammehi ye dhammā Saṃkiliṭṭhehi dhammehi 
+ ye dhammā Kilesa sampayuttehi dhammehi ye dhammā 
+  Kilesā ceva saṃkilesikehi dhammehi ye dhammāSaṃkiliṭṭhā ceva no ca kilesehi dhammehi ye dhammaKilesā ceva kilesa sampayuttehi dhammehi ye dhammāKilesa sampayuttā ceva no ca kilesehi dhammehi ye 
+ dhammā vippayuttā te dhammā        pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Saṃkilesikehi dhammehi ye dhammā Asaṃkiliṭṭhehi dhammehi ye dhammā Kilesa vippayuttehi dhammehi ye dhammā Saṃkilesikā ceva no ca kilesehi 
+ dhammehi ye dhammā Kilesa vippayutta asaṃkilesikehi 
+ dhammehi ye dhammā vippayuttā te dhammā        pe 
+          
+      Catuhi khandhehi dvīhāyatanehi dvihi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Asaṃkilesikehi dhammehi ye dhammā Kilesa vippayutta asaṃkilesikehi dhammehi ye dhammā vippayuttā te 
+ dhammā        pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Dassanena pahātabbehi dhammehi ye dhammāBhāvanāya pahātabbehi dhammehi ye dhammā Dassanena 
+  
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ     
+ pahātabba hetukehi dhammehi ye dhammā Bhāvanāya 
+ pahātabba hetukehi dhammehi ye dhammā vippayuttā te 
+ dhammā        pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Kātīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Na dassanena pahātabbehi dhammehi ye dhammāNa bhāvanāya pahātabbehi dhammehi ye dhammā Na 
+ dassanena pahātabba hetukehi dhammehi ye dhammāNa bhāvanāya pahātabba hetukehi dhammehi ye dhammā 
+ vippayuttā te dhammā        pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi 
+ asaṃgahītā  
+      Dhātuk XIV    Savitakkehi dhammehi ye dhammā Savicārehi 
+ dhammehi ye dhammā vippayuttā te dhammā        pe 
+          
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi sattarasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā 
+ asaṃgahītā  
+      Dhātuk XIV    Sappītikehi dhammehi ye dhammā Pīti sahagatehi 
+ dhammehi ye dhammā Sukha sahagatehi dhammehi ye 
+ dhammā vippayuttā te dhammā        pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Upekhā sahagatehi dhammehi ye dhammā vippayuttā 
+ te dhammā        pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi terasahi dhātūhi saṃgahītā  
+  
+  
+  page      
+     DHĀTU KATHĀ PAKARAṆAṂ   XIV  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi pañcahi 
+ dhātūhi asaṃgahītā  
+      Dhātuk XIV    Kāmāvacarehi dhammehi ye dhammā Pariyāpannehi dhammehi ye dhammā Sauttarehi dhammehi ye 
+ dhammā vippayuttā te dhammā        pe        
+      Catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi asaṃgahītā 
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Na kāmāvacarehi dhammehi ye dhammā Apariyāpannehi dhammehi ye dhammā Anuttarehi dhammehi ye 
+ dhammā vippayuttā te dhammā        pe        
+      Catuhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṃgahītā  
+      Dhātuk XIV    Rūpāvacarehi dhammehi ye dhammā Arūpāvacarehi 
+ dhammehi ye dhammā Niyyānikehi dhammehi ye dhammā 
+  Niyatehi dhammehi ye dhammā Saraṇehi dhammehi 
+ ye dhammā vippayuttā te dhammā        pe        
+      Asaṃkhataṃ khandhato ṭhapetvā pañcahi khandhehi 
+ dvādasahi āyatanehi aṭṭhārasahi dhātūhi saṃgahītā  
+      Katīhi asaṃgahītā  
+      Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṃgahītā  
+      Dhātuk XIV    Na rūpāvacarehi dhammehi ye dhammā Na arūpāvacarehi dhammehi ye dhammā Aniyyānikehi dhammehi 
+ ye dhammā Aniyatehi dhammehi ye dhammā Araṇehi dhammehi ye dhammā vippayuttā te dhammā katīhi 
+ khandhehi katīhi āyatanehi katīhi dhātūhi saṃgahītā  
+      Te dhammā catuhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṃgahītā  
+  
+  
+  page      
+ XIV   VIPPAYUTTENA SAṂGAHĪTAṂ ASAṂGAHĪTAṂ     
+      Katīhi asaṃgahītā  
+      Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṃgahītā  
+      Dhammāyatanaṃ dhammadhātu jīvitannāma chalābhi 
+      Jātiyo jarā maraṇaṃ dve jātike na labbhare 
+      Paṭhamantare satta gocchake dasa aparanena cuddasa 
+      Cha paṭhamake icc ete satta cattārīsā dhammā 
+      Samucchedenupalabbhati mogha pucchakena vā ti  
+      Vippayuttena saṃgahīta asaṃgahīta pada niddeso  
+      Dhātukathāppakaranaṃ samattaṃ Mahāvihāra vāsinaṃ 
+ vācanā maggena  
+      Saṃgahamasaṃgahaṃ sampayoga vippayogaṃ paramhi 
+ ca 
+      Gambhīraṃ nipuṇaṃ ṭhānaṃ tam pi Buddhena desitaṃ  
+      Saṃgahītena asaṃgahītaṃ asaṃgahītena ca saṃgahītaṃ 
+      Saṃgahītena saṃgahītam asaṃgahītena casaṃgahītaṃ 
+      Gambhīra dhammaṃ catusaccagocaram 
+      Catuppakāraṃ vibhajī Tathāgato  
+      Sampayuttena ca vippayuttaṃ vippayuttena sampayuttaṃ 
+      Sampayuttena ca sampayuttaṃ vippayuttena ca vippayuttam 
+      Rūpī arūpī bahu dhamma saṃkulaṃ 
+      Vibhajji dhammaṃ catudhā Tathāgato  
+ Siddhir astu  
+  
+  
+  
+  
+  
+ 

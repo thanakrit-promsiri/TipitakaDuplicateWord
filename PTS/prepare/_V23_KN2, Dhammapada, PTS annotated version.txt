@@ -1,0 +1,2892 @@
+﻿ 
+  
+ Dhammapada 
+ Based on the edition by O  v  Hinüber and K R  Norman  
+ London   Pali Text Society      
+  
+  
+  
+ Input by the Dhammakaya Foundation  Thailand            
+  
+  
+  
+ NOTICE 
+ This file is  C  Copyright the Pali Text Society and the Dhammakaya Foundation        
+ This work is licensed under a Creative Commons Attribution ShareAlike     International License  
+  
+ These files are provided by courtesy of the Pali Text Society for 
+ scholarly purposes only  
+ In principle they represent a digital edition  without revision or 
+ correction  of the printed editions of the complete set of Pali 
+ canonical texts published by the PTS  While they have been subject to a 
+ process of checking  it should not be assumed that there is no 
+ divergence from the printed editions and it is strongly recommended that 
+ they are checked against the printed editions before quoting  
+  
+  
+  
+ ANNOTATED VERSION 
+  
+  
+  
+ THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY  
+ COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE  
+  
+ Text converted to Unicode  UTF     
+  This file is to be used with a UTF   font and your browsers VIEW configuration 
+ set to UTF      
+  
+ description  multibyte sequence  
+ long a ā 
+ long A Ā 
+ long i ī 
+ long I Ī 
+ long u ū 
+ long U Ū 
+ vocalic r ṛ 
+ vocalic R Ṛ 
+ long vocalic r ṝ 
+ vocalic l ḷ 
+ vocalic L Ḷ 
+ long vocalic l ḹ 
+ velar n ṅ 
+ velar N Ṅ 
+ palatal n ñ 
+ palatal N Ñ 
+ retroflex t ṭ 
+ retroflex T Ṭ 
+ retroflex d ḍ 
+ retroflex D Ḍ 
+ retroflex n ṇ 
+ retroflex N Ṇ 
+ palatal s ś 
+ palatal S Ś 
+ retroflex s ṣ 
+ retroflex S Ṣ 
+ anusvara ṃ 
+ visarga ḥ 
+ long e ē 
+ long o ō 
+ l underbar ḻ 
+ r underbar ṟ 
+ n underbar ṉ 
+ k underbar ḵ 
+ t underbar ṯ 
+  
+ Unless indicated otherwise  accents have been dropped in order  
+ to facilitate word search  
+  
+ For a comprehensive list of GRETIL encodings and formats see  
+ http gretil sub uni goettingen degretilgretdiac pdf 
+ and 
+ http gretil sub uni goettingen degretilgretdias pdf 
+  
+ For further information see  
+ http gretil sub uni goettingen degretil htm 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  page      
+   
+ Dhammapada 
+    Yamakavagga 
+ manopubbaṅgamā dhammā manoseṭṭhā manomayā   
+ manasā ce paduṭṭhena bhāsatī vā karoti vā  
+ tato naṃ dukkham anveti cakkaṃ va vahato padaṃ    Dhp    
+  
+ manopubbaṅgamā dhammā manoseṭṭhā manomayā   
+ manasā ce pasannena bhāsatī vā karoti vā  
+ tato naṃ sukham anveti chāyā va anapāyinī    Dhp    
+  
+  akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me    
+ ye taṃ upanayhanti veraṃ tesaṃ na sammati    Dhp    
+  
+  
+                                                                            d  Ch  Dhp a  SST bhāsati 
+ GDhp      PDhp    Udāna v        Rau     
+   d  Ch  Dhp a  J  SST bhāsati e  H  L anupGDhp      PDhp    Udāna v       
+   b  Dhp a māṃ  misprint  c  Ch  L ye ca taṃ  Faus  With Mss  Ch  Ch    
+ upanayih   
+ PDhp    Udāna v       GM III          foll  
+  
+  page      
+   Dhammapada 
+  akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me    
+ ye taṃ na upanayhanti veraṃ tes  ūpasammati    Dhp    
+  
+ na hi verena verāni sammant  idha kudācana  
+ averena ca sammanti  esa dhammo sanantano    Dhp    
+  
+ pare ca na vijānanti   mayam ettha yamāmase    
+ ye ca tattha vijānanti tato sammanti medhagā    Dhp    
+  
+ subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ  
+ bhojanamhi cāmattaññuṃ kusītaṃ hīnavīriyaṃ  
+ taṃ ve pasahatī Māro vāto rukkhaṃ va dubbalaṃ    Dhp    
+  
+  
+                                                                            c  Ch  H  L ye ca taṃ n  upanayhPDhp    Udāna v        GM III          foll  
+   b  Ch  Dhp a  SST sammantīdha 
+ PDhp      Udāna v        GM III          foll  
+   b  H yamāmhase 
+ PDhp      a  c d  Udāna v       
+   a  L  passī  c  Dhp a  H  J  SST  amhi amattaññuṃ L  amhi 
+ amattaññū  e  Ch  Dhp a  J  SST pasahati 
+ GDhp      PDhp    Udāna v       
+  
+  page      
+    Yamakavagga   
+ asubhānupassiṃ viharantaṃ indriyesu susaṃvutaṃ  
+ bhojanamhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ  
+ taṃ ve na ppasahatī Māro vāto selaṃ va pabbataṃ    Dhp    
+  
+ anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati  
+ apeto damasaccena na so kāsāvam arahati    Dhp    
+  
+ yo ca vantakasāv  assa sīlesu susamāhito  
+ upeto damasaccena sa ve kāsāvam arahati    Dhp     
+  
+ asāre sāramatino sāre cāsāradassino  
+ te sāraṃ nādhigacchanti micchāsaṃkappagocarā    Dhp     
+  
+ sārañ ca sārato ñatvā asārañ ca asārato  
+ te sāraṃ adhigacchanti sammāsaṃkappagocarā    Dhp     
+  
+                                                                            a  H  L  passī  b  L susamutaṃ  L mattaññū  e  Faus  ve   Ch  J  Dhp a   
+ SST na ppasahati 
+ GDhp      PDhp    Udāna v        
+   b  Ch paridahissati  d  Faus  H kāsāvaṃ  Faus arhati 
+ GDhp      PDhp     Udāna v       Rau     
+   GDhp      PDhp     Udāna v      
+   a  H asore saṃramatino  b  H sāñca     asāra  L ca asār    d  Dhp a  
+ SST  saṅkappaGDhp      PDhp      Udāna v      
+  
+  page      
+   Dhammapada 
+  
+ yathā agāraṃ ducchannaṃ vuṭṭhi samativijjhati  
+ evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati    Dhp     
+  
+ yathā agāraṃ succhannaṃ vuṭṭhi na samativijjhati  
+ evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati    Dhp     
+  
+ idha socati pecca socati pāpakārī ubhayattha socati   
+ so socati so vihaññati disvā kammakiliṭṭham attano    Dhp     
+  
+ idha modati pecca modati katapuñño ubhayattha modati   
+ so modati so pamodati disvā kammavisuddhim attano    Dhp     
+  
+                                                                            d  Dhp a  SST  saṅkappaGDhp      PDhp      Udāna v       
+   a  J yathāgāraṃ  b  Ch  Dhp a vuṭṭhī 
+ GDhp      PDhp      Udāna v       
+   a  J yathāgāraṃ  Ch suchannaṃ  b  Ch  Dhp a vuṭṭhī 
+ GDhp      PDhp      Udāna v       
+   a  L peca  d  Dhp a  kiliṭṭhaṃ  
+ vaitālīya  GDhp      PDhp    Udāna v       
+  
+  page      
+    Yamakavagga   
+  
+ idha tappati pecca tappati pāpakārī ubhayattha tappati   
+  pāpaṃ me katan  ti tappati  bhiyyo tappati duggatiṃ gato    Dhp     
+  
+ idha nandati pecca nandati katapuñño ubhayattha nandati   
+  puññaṃ me katan  ti nandati  bhiyyo nandati suggatiṃ gato    Dhp     
+  
+ bahum pi ce sahitaṃ bhāsamāno na takkaro hoti naro pamatto  
+ gopo va gāvo gaṇayaṃ paresaṃ na bhāgavā sāmaññassa hoti    Dhp     
+  
+  
+                                                                            a  L peca  d  Dhp a  visuddhiṃ J  visuddham 
+ vaitālīya  GDhp      PDhp    Udāna v       
+   c  Dhp a kataṃ  d  SST bhīyo 
+ vaitālīya  GDhp      d  Udāna v         
+   c  Dhp a kataṃ  d  SST bhīyo  Dhp a  H sugatiṃ 
+ vaitālīya  GDhp      a b  Udāna v        d        
+   a  Ch saṃhitaṃ  d  for the replacement of short  th and  th syllables by  
+ one long syllable see Sadd     and Elders  Verses I ad Th         cf  
+ next verse  
+ triṣṭubh  GDhp      PDhp      a c  f  Udāna v      
+  
+  page      
+   Dhammapada 
+ appam pi ce sahitaṃ bhāsamāno dhammassa hoti anudhammacārī  
+ rāgañ ca dosañ ca pahāya mohaṃ sammappajāno suvimuttacitto  
+ anupādiyāno idha vā huraṃ vā sa bhāgavā sāmaññassa hoti    Dhp     
+  
+ Yamakavaggo paṭhamo 
+  
+                                                                            a  Ch saṃhitaṃ  b  SST hotī  f  cf    d 
+ triṣṭubh  GDhp      PDhp      a c  f  Udāna v      
+  
+  page      
+   
+    Appamādavagga 
+ appamādo amatapadaṃ pamādo maccuno padaṃ   
+ appamattā na mīyanti ye pamattā yathā matā    Dhp     
+  
+ etaṃ visesato ñatvā appamādamhi paṇḍitā  
+ appamāde pamodanti ariyānaṃ gocare ratā    Dhp     
+  
+ te jhāyino sātatikā niccaṃ daḷhaparakkamā  
+ phusanti dhīrā nibbānaṃ yogakkhemaṃ anuttaraṃ    Dhp     
+  
+ uṭṭhānavato satīmato sucikammassa nisammakārino  
+ saññatassa ca dhammajīvino appamattassa yaso bhivaḍḍhati    Dhp     
+  
+  
+                                                                            d  Dhp a yatha  misprint    
+ GDhp      PDhp     Udāna v      Rau     
+   a  Ch  L evaṃ  H evam  d  Faus aryānaṃ  
+ GDhp      PDhp     Udāna v     
+   b  H daḷhaṃ pa   c  J  SST nibbāṇaṃ 
+ GDhp        PDhp     Udāna v      
+   a  H uṭṭhānavaho  J  SST satimato  c  Ch omits ca 
+ vaitālīya  GDhp      PDhp     Udāna v     
+  
+  page      
+   Dhammapada 
+ uṭṭhānen  appamādena saññamena damena ca  
+ dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati    Dhp     
+  
+ pamādam anuyuñjanti bālā dummedhino janā  
+ appamādañ ca medhāvī dhanaṃ seṭṭhaṃ va rakkhati    Dhp     
+  
+ mā pamādam anuyuñjetha mā kāmaratisanthavaṃ   
+ appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ    Dhp     
+  
+ pamādaṃ appamādena yadā nudati paṇḍito  
+ paññāpāsādaṃ āruyha asoko sokiniṃ pajaṃ  
+ pabbataṭṭho va bhummaṭṭhe dhīro bāle avekkhati    Dhp     
+  
+  
+                                                                            b  Ch  H saṃyamena  SST vā  c  Faus kayrātha H kayirathā  L 
+ medhāvaṃ  d  H ogho nonā      L nobhiGDhp      PDhp     Udāna v     
+   GDhp      PDhp     Udāna v      
+   a  Dhp a pamādaṃ H pamādanu   b  H  saṇṭhavaṃ L  nth   d  H  
+ vipullaṃ 
+ GDhp           a b  PDhp     Udāna v       
+   a  Dhp a pamādam  c  Ch  H  J  L  sādam āruyha  e  Ch bhūmaṭṭhe  f  
+ H  L apekkhati  
+ GDhp      PDhp     Udāna v      Rau     
+  
+  page      
+    Appamādavagga   
+ appamatto pamattesu suttesu bahujāgaro  
+ abalassaṃ va sīghasso hitvā yāti sumedhaso    Dhp     
+  
+ appamādena Maghavā devānaṃ seṭṭhataṃ gato   
+ appamādaṃ pasaṃsanti pamādo garahito sadā    Dhp     
+  
+ appamādarato bhikkhu pamāde bhayadassivā  
+ saññojanaṃ aṇuṃthūlaṃ ḍahaṃ aggī va gacchati    Dhp     
+  
+ appamādarato bhikkhu pamāde bhayadassivā  
+ abhabbo parihānāya nibbānass  eva santike    Dhp     
+  
+ Appamādavaggo dutiyo 
+  
+                                                                            b  H  jagaro  c  H siṅghaso L siṃghaso 
+ GDhp      PDhp     Udāna v       a  Utt     c  Mhbh          a  etc  
+   d  Faus garhito 
+ GDhp      Udāna v      c d  a b  
+   b  Ch  SST  dassi vā  c  Ch  H  J saṃyojanaṃ  H anuthulaṃ d  H  L 
+ ḍayhaṃ  
+ GDhp     PDhp     c d      c d   Udāna v       
+   b  Ch  SST  dassi vā  A II        and Mp III      read  dassīvā   c  H  
+ parihāya J parihāṇāya  d  Dhp a  J  SST nibbāṇass 
+ GDhp     PDhp     Udāna v       
+  
+  page      
+    
+    Cittavagga 
+ phandanaṃ capalaṃ cittaṃ dūrakkhaṃ dunnivārayaṃ  
+ ujuṃ karoti medhāvī usukāro va tejanaṃ    Dhp     
+  
+ vārijo va thale khitto okamokata ubbhato  
+ pariphandat  idaṃ cittaṃ Māradheyyaṃ pahātave    Dhp     
+  
+ dunniggahassa lahuno yatthakāmanipātino  
+ cittassa damatho sādhu  cittaṃ dantaṃ sukhāvahaṃ    Dhp     
+  
+ sududdasaṃ sunipuṇaṃ yatthakāmanipātinaṃ  
+ cittaṃ rakkhetha medhāvī  cittaṃ guttaṃ sukhāvahaṃ    Dhp     
+  
+  
+                                                                            a  Dhp a phandanañ capalañ  b  J durakkhaṃ 
+ GDhp      PDhp      Udāna v      
+   b  H ukkamokata  c  L  phandant  Dhp a idañ  d  L pahatade 
+ GDhp    b  PDhp      Udāna v       Rau     
+   PDhp      Udāna v      
+   a  Dhp a  J sunipunaṃ  
+ GDhp    a  PDhp      b d  Udāna v        
+  
+  page      
+    Cittavagga    
+ dūraṅgamaṃ ekacaraṃ asarīraṃ guhāsayaṃ  
+ ye cittaṃ saññamessanti mokkhanti Mārabandhanā    Dhp     
+  
+ anavaṭṭhitacittassa saddhammaṃ avijānato  
+ pariplavapasādassa paññā na paripūrati    Dhp     
+  
+ anavassutacittassa ananvāhatacetaso  
+ puññapāpapahīnassa n  atthi jāgarato bhayaṃ    Dhp     
+  
+ kumbhūpamaṃ kāyam imaṃ viditvā nagarūpamaṃ cittam idaṃ ṭhapetvā  
+ yodhetha Māraṃ paññāvudhena jitañ ca rakkhe anivesano siyā    Dhp     
+  
+  
+                                                                            b  H asāriraṃ  c  Ch saṃyamissanti 
+ GDhp    a  PDhp      Udāna v     A   Rau     
+   a  H  L  vatthita   c  H parippava  J paripalava   
+ GDhp    c  PDhp      Udāna v        
+   c  Dhp a  J  pahīṇassa 
+ GDhp    d  PDhp      Udāna v        d       
+   b  Faus thapetvā H  L thaketvā  c  Faus  H yojetha L yedhetha  J 
+  yudhena 
+ abc triṣṭubh  d jagatī  GDhp    b  PDhp      Udāna v         Rau     
+  
+  page      
+    Dhammapada 
+ aciraṃ vat  ayaṃ kāyo paṭhaviṃ adhisessati  
+ chuddho apetaviññāṇo niratthaṃ va kaliṅgaraṃ    Dhp     
+  
+ diso disaṃ yan taṃ kayirā verī vā pana verinaṃ   
+ micchāpaṇihitaṃ cittaṃ pāpiyo naṃ tato kare    Dhp     
+  
+ na taṃ mātā pitā kayirā aññe vāpi ca ñātakā   
+ sammāpaṇihitaṃ cittaṃ seyyaso naṃ tato kare    Dhp     
+  
+ Cittavaggo tatiyo 
+  
+                                                                            d  H kaḷigaraṃ 
+ GDhp      PDhp      Udāna v      
+   a  Ch  SST yaṃ  Faus kayrā  b  Faus verivā  cf    b   d  H pi pāpiyo 
+ a c  Udāna v      
+   a  Faus kayrā  d  H  L kare ti  
+ Udāna v       
+  
+  page      
+    
+    Pupphavagga 
+ ko imaṃ paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ    
+ ko dhammapadaṃ sudesitaṃ kusalo puppham iva ppacessati     Dhp     
+  
+ sekho paṭhaviṃ vijessati Yamalokaṃ ca imaṃ sadevakaṃ   
+ sekho dhammapadaṃ sudesitaṃ kusalo puppham iva ppacessati    Dhp     
+  
+ pheṇūpamaṃ kāyam imaṃ viditvā marīcidhammaṃ abhisambudhāno  
+ chetvāna Mārassa papupphakāni adassanaṃ maccurājassa gacche    Dhp     
+  
+  
+                                                                            a  H  J  L vicessati  b  Ch  Dhp a  H  J  L  lokañ ca  d  Ch  Dhp a  H  
+ J  L  SST iva pavaitālīya  GDhp      PDhp      Udāna v      
+   L omits whole verse  a  H sekkhīmaṃ pathaviṃ  H  J vicessati  b  Ch  
+ Dhp a  H  J  lokañ ca  d  Ch  Dhp a  J  SST iva pavaitālīya  GDhp      PDhp      Udāna v      
+   c  H pi puppharāni 
+ triṣṭubh  GDhp      PDhp      Udāna v         Rau     
+  
+  page      
+    Dhammapada 
+ pupphāni h  eva pacinantaṃ vyāsattamanasaṃ naraṃ  
+ suttaṃ gāmaṃ mahogho va maccu ādāya gacchati    Dhp     
+  
+ pupphāni h  eva pacinantaṃ vyāsattamanasaṃ naraṃ  
+ atittaṃ yeva kāmesu antako kurute vasaṃ    Dhp     
+  
+ yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ  
+ paleti rasam ādāya evaṃ gāme munī care    Dhp     
+  
+ na paresaṃ vilomāni  na paresaṃ katākataṃ  
+ attano va avekkheyya katāni akatāni ca    Dhp     
+  
+  
+                                                                            a  Faus pupphān  eva  b  Ch  Dhp a  H  J  L byā   cd  L omits 
+ GDhp      PDhp      Udāna v         Rau     
+   ab  L omits  a  Faus pupphān  eva  b  Ch  Dhp a  H  J byā   c  Ch 
+ atittañ ñeva L atītaṃ  
+ GDhp        PDhp      Udāna v        
+   b  Ch  gandham a   H aheddhayaṃ  c  H pareti  Thai r   l  
+ GDhp      PDhp      Udāna v      
+   a  H omits  c  H apekkheyya 
+ GDhp      PDhp      a c       a c  Udāna v      
+  
+  page      
+    Pupphavagga    
+ yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ  
+ evaṃ subhāsitā vācā aphalā hoti akubbato    Dhp     
+  
+ yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ  
+ evaṃ subhāsitā vācā saphalā hoti sakubbato    Dhp     
+  
+ yathāpi puppharāsimhā kayirā mālāguṇe bahū  
+ evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ    Dhp     
+  
+ na pupphagandho paṭivātam eti na candanaṃ tagaramallikā vā  
+ satañ ca gandho paṭivātam eti sabbā disā sappuriso pavāti    Dhp     
+  
+  
+                                                                            GDhp      PDhp      Udāna v      
+   b  H  L sugandhakaṃ  d  Ch  L hoti sukubbato Faus hoti kubbato J 
+ pakubbato 
+ GDhp      PDhp      Udāna v      
+   a  Dhp a puppa   misprint   b  Faus kayrā  Dhp a mālaguṇe H mālāguḷe 
+ L mālāgule  c  L evaṃ mātena macchena     
+ GDhp      PDhp      Udāna v       
+   b  H taggaraṃ malli vā L tagaraṃ malikā SST tagaraṃ mallikā  Dhp a 
+ va  d  Ch  Dhp a vḷ  pavāyati 
+ triṣṭubh  GDhp      PDhp      Udāna v      
+  
+  page      
+    Dhammapada 
+ candanaṃ tagaraṃ vāpi uppalaṃ atha vassikī  
+ etesaṃ gandhajātānaṃ sīlagandho anuttaro    Dhp     
+  
+ appamatto ayaṃ gandho yāyaṃ tagaracandanī  
+ yo ca sīlavataṃ gandho vāti devesu uttamo    Dhp     
+  
+ tesaṃ sampannasīlānaṃ appamādavihārinaṃ  
+ sammadaññāvimuttānaṃ Māro maggaṃ na vindati    Dhp     
+  
+ yathā saṃkāradhānasmiṃ ujjhitasmiṃ mahāpathe  
+ padumaṃ tattha jāyetha sucigandhaṃ manoramaṃ    Dhp     
+  
+ evaṃ saṃkārabhūtesu andhabhūte puthujjane  
+ atirocati paññāya sammāsambuddhasāvako    Dhp     
+  
+ pupphavaggo catuttho 
+  
+                                                                            a  H taggaraṃ 
+ GDhp      PDhp      Udāna v      
+   PDhp      Udāna v      
+   GDhp      PDhp      Udāna v         
+   a  H saṃkāraṭṭhā  J saṅkāra  L saṅkāraṭṭhāGDhp      PDhp      Udāna v       
+   c  Dhp a atirocate  d  H  L  sāvako ti 
+ GDhp      PDhp      Udāna v       
+  
+  page      
+    
+    Bālavagga 
+ dīghā jāgarato rattī dīghaṃ santassa yojanaṃ  
+ dīgho bālānaṃ saṃsāro saddhammaṃ avijānataṃ    Dhp     
+  
+ carañ ce nādhigaccheyya seyyaṃ sadisam attano  
+ ekacariyaṃ daḷhaṃ kayirā n  atthi bāle sahāyatā    Dhp     
+  
+  puttā m  atthi dhanaṃ m  atthi  iti bālo vihaññati  
+ attā hi attano n  atthi kuto puttā kuto dhanaṃ    Dhp     
+  
+ yo bālo maññatī balyaṃ paṇḍito vāpi tena so   
+ bālo ca paṇḍitamānī sa ve bālo ti vuccati    Dhp     
+  
+                                                                            a  Ch  Dhp a  J ratti 
+ PDhp      Udāna v       
+   c  Faus ekacaryaṃ  A dalhaṃ 
+  
+ a  c d  Udāna v        GM III             
+   a  A putta m atthi dhanaṃ atthi  so also pratīka    Dhp a II        A 
+ ct   putto me atthi dhanaṃ me atthi    Dhp a II        Ch  H  L dhanam 
+ atthi J dhanam m  atthi  c  H nātthi L nitthi  d  A puttā  corr    putto  A 
+ ct   putto      Dhp a II        
+ Udāna v      
+  
+  page      
+    Dhammapada 
+  
+ yāvajīvam pi ce bālo paṇḍitaṃ payirupāsati  
+ na so dhammaṃ vijānāti dabbī sūparasaṃ yathā    Dhp     
+  
+ muhuttam api ce viññū paṇḍitaṃ payirupāsati  
+ khippaṃ dhammaṃ vijānāti jivhā sūparasaṃ yathā    Dhp     
+  
+ caranti bālā dummedhā amitteneva attanā  
+ karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ    Dhp     
+  
+ na taṃ kammaṃ kataṃ sādhu yaṃ katvā anutappati  
+ yassa assumukho rodaṃ vipākaṃ paṭisevati    Dhp     
+  
+ tañ ca kammaṃ kataṃ sādhu yaṃ katvā nānutappati  
+ yassa patīto sumano vipākaṃ paṭisevati    Dhp     
+  
+  
+                                                                            a  Ch  J maññati  Ch  J  SST bālyaṃ 
+ PDhp      Udāna v          c  Sūy           b   Utt     d 
+   b  Faus payrupāsati  d  A dabbhi 
+ GDhp      PDhp     Udāna v         Rau     
+   b  Faus payrupāsati  
+ GDhp      PDhp      Udāna v        
+   PDhp      Udāna v       S I        Ja III        
+   PDhp      Udāna v      
+   PDhp      a b      a b  Udāna v       
+  
+  page      
+    Bālavagga    
+ madhuvā maññatī bālo yāva pāpaṃ na paccati  
+ yadā ca paccatī pāpaṃ atha bālo dukkhaṃ nigacchati    Dhp     
+  
+ māse māse kusaggena bālo bhuñjetha bhojanaṃ  
+ na so saṃkhatadhammānaṃ kalaṃ nāgghati soḷasiṃ    Dhp     
+  
+ na hi pāpaṃ kataṃ kammaṃ sajju khīraṃ va mucchati  
+ ḍahantam bālam anveti bhasmācchanno va pāvako    Dhp     
+  
+  
+                                                                            a  Faus mādhuvā  misprint   Ch  J maññati  c  Ch  J paccati  L papaṃ  
+ d  Ch  L omit atha  Faus  bālo  
+ GDhp        b  PDhp     b  Udāna v        
+   b  Ch bhuñjeyya  c  Dhp a  J saṅkhata  Dhp a exegesis saṃkhāta   cf  
+ Sn        see discussion in StII             p      and also WZKS 
+           p     note     d  Ch  J SST agghati  Dhp a solasiṃ 
+ GDhp      PDhp      Utt       Isibhās        a b  PDhp     a b  c d  
+     c d  a b d  Udāna v         c d       E      d            Rau     
+   b  Dhp a sajjukhīraṃ L sajja  mucchati is read With H  Luders 
+  Philologica Indica        p        all mss  and editions muccati  c  Dhp a 
+ ḍahan taṃ L ḍayhantaṃ  Rau     suggests reading ḍahaṃ tam  cf  
+   d   d  J  SST bhasma   L pāpako     
+ PDhp      Udāna v        Rau     
+  
+  page      
+    Dhammapada 
+ yāvad eva anatthāya ñattaṃ bālassa jāyati  
+ hanti bālassa sukkaṃsaṃ muddham assa vipātayaṃ    Dhp     
+  
+ asataṃ bhāvanam iccheyya purekkhārañ ca bhikkhusu  
+ āvāsesu ca issariyaṃ pūjā parakulesu ca     Dhp     
+  
+  mam  eva kata maññantu gihī pabbajitā ubho   
+ mam  evātivasā assu kiccākiccesu kismici    
+ iti bālassa saṃkappo  icchā māno ca vaḍḍhati    Dhp     
+  
+ aññā hi lābhūpanisā aññā nibbānagāminī   
+ evam etaṃ abhiññāya bhikkhu Buddhassa sāvako  
+ sakkāraṃ nābhinandeyya vivekam anubrūhaye    Dhp     
+  
+                                                                            b  H ñātaṃ L yātaṃ  for  ñattaṃ  N  Thai pronunciation y   ñ   d  H 
+ nipātaṃyaṃ L nipātiyaṃ  
+ PDhp      Udāna v       Rau     
+   a  Ch asantaṃ  Faus bhāvan  icch  H bhāvam icch  L asabbhāvanam 
+ iccheyyaṃ  c  Faus issaryam  d  Ch pūjaṃ 
+ PDhp      Udāna v        
+   a  H mam ekata J kataṃ L mam ekatta maññantu  c  Dhp a mam  eva 
+ ativasā H  L mam eva abivassa J mam eva ativasā  d  H  L kismiñci  e  
+ Ch saṅkappo 
+ a d  PDhp      e f      a b  a d  Udāna v       e f       a b 
+  
+  page      
+    Bālavagga    
+  
+ Bālavaggo pañcamo 
+  
+                                                                            a  Dhp a āññā  misprint   Dhp a hī  misprint     b  Dhp a  SST 
+ nibbāṇa   f  H  L  haye ti 
+ a b  PDhp     c d  c f       a b  Udāna v      c d  c f        a d   
+  
+  page      
+    
+    Paṇḍitavagga 
+ nidhīnaṃ va pavattāraṃ yaṃ passe vajjadassinaṃ  
+ niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje   
+ tādisaṃ bhajamānassa seyyo hoti na pāpiyo    Dhp     
+  
+ ovadeyyānusāseyya asabbhā ca nivāraye   
+ sataṃ hi so piyo hoti asataṃ hoti appiyo    Dhp     
+  
+ na bhaje pāpake mitte na bhaje purisādhame   
+ bhajetha mitte kalyāṇe bhajetha purisuttame    Dhp     
+  
+ dhammapīti sukhaṃ seti vipasannena cetasā   
+ ariyappavedite dhamme sadā ramati paṇḍito    Dhp     
+  
+ udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ  
+  
+                                                                            GDhp      PDhp      Udāna v      
+   a  Dhp a  eyy  anu  L  eyya anuGDhp      PDhp      Udāna v      a b  d  c 
+   b  H apurisādhamme L purisadhame 
+ PDhp     a d  Udāna v        
+   c  Faus aryaGDhp      PDhp      Udāna v           
+  
+  page      
+    Paṇḍitavagga    
+ dāruṃ namayanti tacchakā attānaṃ damayanti paṇḍitā    Dhp     
+  
+ selo yathā ekaghano vātena na samīrati  
+ evaṃ nindāpasaṃsāsu na samiñjanti paṇḍitā    Dhp     
+  
+ yathāpi rahado gambhīro vipasanno anāvilo  
+ evaṃ dhammāni sutvāna vippasīdanti paṇḍitā    Dhp     
+  
+ sabbattha ve sappurisā vajanti  na kāmakāmā lapayanti santo   
+ sukhena phuṭṭhā athavā dukhena na uccāvacaṃ paṇḍitā dassayanti    Dhp     
+  
+  
+                                                                            b  H damayanti  corr  from dayanti  c  L damayanti 
+ vaitālīya  Udāna v       
+   a  Dhp a  SST  ghaṇo 
+ GDhp      PDhp     Udāna v       
+   a  Faus rhado H raha gambhiro  b  SST vippasanno  H anovilo  d  SST 
+  sīdantī 
+ GDhp      PDhp      Udāna v        
+   a  Ch  Dhp a  J cajanti SST cajantī  Dhp a vḷ  vajanti  Udāna v 
+ vrajanti  GDhp vivedi   d  Faus n  uccāvacaṃ J noccāvacaṃ 
+ triṣṭubh  GDhp      PDhp     Udāna v       
+  
+  page      
+    Dhammapada 
+ na attahetu na parassa hetu na puttam icche na dhanaṃ na raṭṭhaṃ  
+ na iccheyya adhammena samiddhim attano sa sīlavā paññavā dhammiko siyā    Dhp     
+  
+ appakā te manussesu ye janā pāragāmino   
+ athāyaṃ itarā pajā tīram evānudhāvati    Dhp     
+  
+ ye ca kho sammadakkhāte dhamme dhammānuvattino  
+ te janā pāram essanti  maccudheyyaṃ suduttaraṃ    Dhp     
+  
+ kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito   
+ okā anokaṃ āgamma viveke yattha dūramaṃ    Dhp     
+  
+  
+                                                                            a  H omits na parassa hetu  c  Faus n  iccheyy  SST nayicche  d  H  L 
+ silavā sa paab triṣṭubh  cd jagatī  GDhp      PDhp     
+   PDhp      Udāna v        b  Āyār          
+   d  Faus saduttaraṃ 
+ PDhp      Udāna v       
+   c  Ch  SST anokam āPDhp      cf  S V          a c  Udāna v       
+  
+  page      
+    Paṇḍitavagga    
+ tatrābhiratim iccheyya  hitvā kāme akiñcano  
+ pariyodapeyya attānaṃ cittaklesehi paṇḍito    Dhp     
+  
+ yesaṃ sambodhi aṅgesu sammā cittaṃ subhāvitaṃ  
+ ādānapaṭinissagge anupādāya ye ratā  
+ khīṇāsavā jutīmanto te loke parinibbutā   ḥ   Dhp     
+  
+ Paṇḍitavaggo chaṭṭho 
+  
+  
+                                                                            a  Dhp a  ratiṃ  c  Faus paryodapeyya  d  H cittalesehi  
+ PDhp      a b  Udāna v       e f 
+   a  Ch  H  SST  bodhiyaṃgesu  e  Ch  J jutimanto 
+ PDhp      Udāna v           
+   H chaṭṭhamo 
+  
+  page      
+    
+    Arahantavagga 
+ gataddhino visokassa vippamuttassa sabbadhi  
+ sabbaganthappahīnassa pariḷāho na vijjati    Dhp     
+  
+ uyyuñjanti satīmanto na nikete ramanti te  
+ haṃsā va pallalam hitvā okamokaṃ jahanti te    Dhp     
+  
+ yesaṃ sannicayo n  atthi ye pariññātabhojanā  
+ suññato animitto ca vimokho yesaṃ gocaro  
+ ākāse va sakuntānaṃ gati tesaṃ durannayā    Dhp     
+  
+ yassāsavā parikkhīṇā āhāre ca anissito  
+ suññato animitto ca vimokho yassa gocaro  
+ ākāse va sakuntānaṃ padaṃ tassa durannayaṃ   ḥ   Dhp     
+  
+  
+                                                                            c  H  gaṇṭha   J  ppahīṇassa 
+ PDhp     Udāna v       
+   a  J satimanto 
+ PDhp      Udāna v      
+   d  Ch  Dhp a  J vimokkho  J yesa 
+ PDhp     Udāna v         Rau     
+   a  B yabhāsavā  but pratīka    Dhp a II                  yassāsavā  
+ SST  kkhīnā  d  Dhp a  J vimokkho  f  B  Dhp a  H padan tassa  
+  
+  page      
+    Arahantavagga    
+  
+ yass  indriyāni samathaṃ gatāni assā yathā sārathinā sudantā  
+ pahīnamānassa anāsavassa devāpi tassa pihayanti tādino    Dhp     
+  
+ paṭhavīsamo no virujjhati indakhīlūpamo tādi subbato  
+ rahado va apetakaddamo saṃsārā na bhavanti tādino    Dhp     
+  
+ santaṃ tassa manaṃ hoti santā vācā ca kamma ca  
+ sammadaññāvimuttassa upasantassa tādino    Dhp     
+  
+ assaddho akataññū ca sandhicchedo ca yo naro  
+ hatāvakāso vantāso sa ve uttamaporiso    Dhp     
+  
+                                                                            L durannayā  
+ PDhp      Udāna v        
+   a  B  H samatthaṅ ga  Ch  SST samathaṅ ga   b  L assa  c  J pahīṇaabc triṣṭubh  d jagatī  PDhp     Udāna v       Rau     
+   a  Ch  H pathavi  J paṭhavivaitālīya  Udāna v         
+   b  B kammañ ca H kammā ca  
+ PDhp     Udāna v        
+  
+  page      
+    Dhammapada 
+  
+ gāme vā yadi vāraññe ninne vā yadi vā thale  
+ yatth  arahanto viharanti taṃ bhūmiṃ rāmaṇeyyakaṃ    Dhp     
+  
+ ramaṇīyāni araññāni  yattha na ramatī jano  
+ vītarāgā ramissanti  na te kāmagavesino    Dhp     
+  
+ Arahantavaggo sattamo 
+  
+                                                                            a  L asaddho ca 
+ PDhp      Udāna v        see discussion in M  Hara  IIJ           
+ pp         
+   c  B  Ch  Dhp a  H  L yattha arah  Faus yatth  arh  J SST yatthārah   
+ d  Ch bhūmiPDhp      Udāna v        a  Āyār         
+   a  B  L  yani ara  Faus ramaṇīyān  ara  H rammaṇiyā araññā  b  
+ Dhp a ramati  c  Faus  L ramessanti  d  H  L  vesīno ti 
+ PDhp      Udāna v       
+  
+  page      
+    
+    Sahassavagga 
+ sahassam api ce vācā anatthapadasaṃhitā  
+ ekam atthapadaṃ seyyo yaṃ sutvā upasammati    Dhp      
+  
+ sahassam api ce gāthā anatthapadasaṃhitā  
+ ekaṃ gāthāpadaṃ seyyo yaṃ sutvā upasammati    Dhp      
+  
+ yo ca gāthāsataṃ bhāse anatthapadasaṃhitā  
+ ekaṃ dhammapadaṃ seyyo yaṃ sutvā upasammati    Dhp      
+  
+ yo sahassaṃ sahassena saṅgāme mānuse jine  
+ ekañ ca jeyya m attānaṃ sa ve saṅgāmajuttamo    Dhp      
+  
+  
+                                                                            b  L  sañhitā  always so in L   c  Ch  Dhp a  H  J  L ekaṃ 
+ GDhp      PDhp      b d  Udāna v       
+   c  H dhammapadaṃ 
+ GDhp      b d  Udāna v         
+   a  J ce  L gathaṃ  c  H  SST gāthāpadaṃ  
+ GDhp      PDhp      Udāna v         
+   c  J  SST jeyya attānaṃ 
+ GDhp      PDhp      Udāna v         Utt      
+  
+  page      
+    Dhammapada 
+ attā have jitaṃ seyyo yā cāyaṃ itarā pajā   
+ attadantassa posassa niccaṃ saññatacārino    Dhp      
+  
+ n  eva devo na gandhabbo na Māro saha Brahmunā  
+ jitaṃ apajitaṃ kayirā tathārūpassa jantuno    Dhp      
+  
+ māse māse sahassena yo yajetha sataṃsamaṃ  
+ ekañ ca bhāvitattānaṃ muhuttam api pūjaye   
+ sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ    Dhp      
+  
+ yo ca vassasataṃ jantu aggiṃ paricare vane  
+ ekañ ca bhāvitattānaṃ muhuttam api pūjaye   
+ sā yeva pūjanā seyyo yañ ce vassasataṃ hutaṃ    Dhp      
+  
+  
+                                                                            b  L yā ayam  d  H saññāta  SST saṃyataPDhp      Udāna v      
+   c  H avajitaṃ      v  very unlikely L avajitaṃ  certain    Faus kayrā 
+ PDhp      Udāna v      
+   b  Dhp a  J  SST sataṃ samaṃ  two words   c  Faus ekaṃ ca  f  SST  
+ ca 
+ GDhp      PDhp      a b         a b  a b  Udāna v           c f   
+        Rau     
+   a  L ye  f  SST ca 
+ GDhp           PDhp      Udāna v       
+  
+  page      
+    Sahassavagga    
+ yaṃ kiñci yiṭṭhañ ca hutañ ca loke saṃvaccharaṃ yajetha puññapekho  
+ sabbam pi taṃ na catubhāgam eti  abhivādanā ujjugatesu seyyo    Dhp      
+  
+ abhivādanasīlissa niccaṃ vaddhāpacāyino  
+ cattāro dhammā vaḍḍhanti  āyu vaṇṇo sukhaṃ balaṃ    Dhp      
+  
+ yo ca vassasataṃ jīve dussīlo asamāhito  
+ ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino    Dhp      
+  
+ yo ca vassasataṃ jīve duppañño asamāhito  
+ ekāhaṃ jīvitaṃ seyyo paññāvantassa jhāyino    Dhp      
+  
+  
+                                                                            b  SST hīṇa   d  Ch  H  L vīriyam Faus vīryam 
+ GDhp      PDhp      Udāna v       
+   b  Ch  H  L  bbayaṃ  c  H ekaṃhaṃ  d  H  L  bbayaṃ  
+ GDhp      PDhp      Udāna v       
+   c  H ekāṃhaṃ     
+ PDhp      Udāna v        
+   d  H  L uttaman ti 
+ GDhp      PDhp      Udāna v         Rau     
+  
+  page      
+    Dhammapada 
+ yo ca vassasataṃ jīve kusīto hīnavīriyo  
+ ekāhaṃ jīvitaṃ seyyo viriyam ārabhato daḷhaṃ    Dhp      
+  
+ yo ca vassasataṃ jīve apassaṃ udayavyayaṃ  
+ ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ    Dhp      
+  
+ yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ  
+ ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ    Dhp      
+  
+ yo ca vassasataṃ jīve apassaṃ dhammam uttamaṃ  
+ ekāhaṃ jīvitaṃ seyyo passato dhammam uttamam    Dhp      
+  
+ Sahassavaggo aṭṭhamo 
+  
+                                                                           varaints not available  
+  
+  
+  
+  page      
+    
+    Pāpavagga 
+ abhittharetha kalyāṇe pāpā cittaṃ nivāraye   
+ dandhaṃ hi karoto puññaṃ pāpasmiṃ ramatī mano    Dhp      
+  
+ pāpañ ce puriso kayirā na taṃ kayirā punappunaṃ   
+ na tamhi chandaṃ kayirātha  dukkho pāpassa uccayo    Dhp      
+  
+ puññañ ce puriso kayirā kayirāth  enaṃ punappunaṃ   
+ tamhi chandaṃ kayirātha  sukho puññassa uccayo    Dhp      
+  
+ pāpo pi passatī bhadraṃ yāva pāpaṃ na paccati   
+ yadā ca paccatī pāpaṃ atha pāpo pāpāni passati    Dhp      
+  
+                                                                            a  H anittharettha  c  H  L karato 
+ PDhp     Udāna v       
+   ab  Faus pūriso kayrā     kayrā  a  J pāpaṃ ce  b  Ch  Dhp a naṃ 
+ GDhp      PDhp     Udāna v        
+   a  J puññaṃ ce  Faus pūriso kayrā  b  Ch kayirā naṃ Faus kayrāth 
+ GDhp      PDhp     Udāna v        
+  
+  page      
+    Dhammapada 
+  
+ bhadro pi passatī pāpaṃ yāva bhadraṃ na paccati   
+ yadā ca paccatī bhadraṃ atha bhadro bhadrāni passati    Dhp      
+  
+ māppamaññetha pāpassa  na man taṃ āgamissati    
+ udabindunipātena udakumbho pi pūrati   
+ bālo pūrati pāpassa thokathokam pi ācinaṃ    Dhp      
+  
+ māppamaññetha puññassa  na man taṃ āgamissati    
+ udabindunipātena udakumbho pi pūrati   
+ dhīro pūrati puññassa thokathokam pi ācinaṃ    Dhp      
+  
+                                                                            a  Ch  J  SST passati  c  H omits ca  Ch  J  SST paccati  d  Faus 
+  pāpo  Rau     suggests omitting pāpo  
+ PDhp      Udāna v        
+   a  Ch  J  SST passati  c  Ch  J  SST paccati  d  Faus  bhadro   Rau 
+     suggests omitting bhadro  
+ PDhp      b      b  Udāna v        
+   a  H  L māvamaññetha  see discussion in CPD s v  appamaññati   b  H 
+ omits na  Ch mandaṃ H  L mattaṃ     SST m  antaṃ  c  L  pāteni  e  
+ H purati bālo J pūrati bālo L omits bālo  f  H thokaṃ thokaṃ pi 
+ L thokaṃ thokam pi  Dhp a  SST āciṇaṃ H āciṇṇaṃ 
+ GDhp      PDhp      b d  fe      b d  f  Udāna v        Rau     
+  
+  page      
+    Pāpavagga    
+  
+ vāṇijo va bhayaṃ maggaṃ appasattho mahaddhano  
+ visaṃ jīvitukāmo va pāpāni parivajjaye    Dhp      
+  
+ pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṃ   
+ nābbaṇaṃ visam anveti  n  atthi pāpaṃ akubbato    Dhp      
+  
+ yo appaduṭṭhassa narassa dussati suddhassa posassa anaṅgaṇassa  
+ tam eva bālaṃ pacceti pāpaṃ sukhumo rajo paṭivātaṃ va khitto    Dhp      
+  
+ gabbham eke upapajjanti nirayaṃ pāpakammino   
+ saggaṃ sugatino yanti parinibbanti anāsavā    Dhp      
+  
+                                                                            a  H  L māvamāññettha  b  Ch mandaṃ H  L mattam J maṃ taṃ SST 
+ m  antaṃ  e  Dhp a  J pūrati dhīro H  L purati dhiro  f  H  L thokaṃ 
+ thokaṃ pi  Dhp a  SST āciṇaṃ H āciṇṇaṃ 
+ GDhp      PDhp      b d  f      b d  f  Udāna v       
+   b  L  ddhanto  corr  into  ddhano   
+ PDhp      Udāna v       
+   c  H nibbānaṃ      Dhp a visaṃ  d  L akabbato 
+ PDhp      Udāna v       
+   c  L tame bālaṃ  Faus paṭieti L paccati  for the replacement of short  th 
+ and  th syllables by one long syllable see Sadd      
+ triṣṭubh  PDhp      Udāna v      
+  
+  page      
+    Dhammapada 
+  
+ na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa  
+ na vijjatī so jagatippadeso yatthaṭṭhito muñceyya pāpakammā    Dhp      
+  
+ na antalikkhe na samuddamajjhe na pabbatānaṃ vivaraṃ pavissa  
+ na vijjatī so jagatippadeso yatthaṭṭhitaṃ na ppasahetha maccu    Dhp      
+  
+ Pāpavaggo navamo 
+  
+                                                                            a  Faus ek  Ch  Dhp a uppajjanti J papajjanti  b  H niriyaṃ  d  Faus  
+ parinibbant 
+ PDhp      Rau     
+   d  L  SST yatra   SST adds na  Ch  J  L mucceyya  perhaps so read  
+ triṣṭubh  Udāna v      
+   c  Dhp a  J vijjati  d  L  SST yatra   Ch  L na ppasaheyya H na  
+ pasaheyya  H  L maccu ti 
+ triṣṭubh  Udāna v        Rau     
+  
+  page      
+    
+     Daṇḍavagga 
+ sabbe tasanti daṇḍassa sabbe bhāyanti maccuno   
+ attānaṃ upamaṃ katvā na haneyya na ghātaye    Dhp      
+  
+ sabbe tasanti daṇḍassa sabbesaṃ jīvitaṃ piyaṃ   
+ attānaṃ upamaṃ katvā na haneyya na ghātaye    Dhp      
+  
+ sukhakāmāni bhūtāni yo daṇḍena vihiṃsati  
+ attano sukham esāno pecca so na labhate sukhaṃ    Dhp      
+  
+ sukhakāmāni bhūtāni yo daṇḍena na hiṃsati  
+ attano sukham esāno pecca so labhate sukhaṃ    Dhp      
+  
+  
+                                                                            d  H  L ghāṭaye 
+ a  c d  PDhp      a  c d  Udāna v       Rau     
+   d  H  L ghāṭaye 
+ PDhp      Udāna v       b  Āyār             
+   d  SST omits so 
+ PDhp      Udāna v       Rau     
+   a  H na sukha   b  H daṇḍena vihiṃsati 
+ PDhp      Udāna v      
+  
+  page      
+    Dhammapada 
+ mā voca pharusaṃ kañci vuttā paṭivadeyyu taṃ   
+ dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṃ    Dhp      
+  
+ sace neresi attānaṃ kaṃso upahato yathā  
+ esa patto si nibbānaṃ sārambho te na vijjati    Dhp      
+  
+ yathā daṇḍena gopālo gāvo pāceti gocaraṃ  
+ evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ    Dhp      
+  
+ atha pāpāni kammāni karaṃ bālo na bujjhati   
+ sehi kammehi dummedho aggidaḍḍho va tappati    Dhp      
+  
+ yo daṇḍena adaṇḍesu appaduṭṭhesu dussati  
+ dasannam aññataraṃ ṭhānaṃ khippam eva nigacchati    Dhp      
+  
+                                                                            a  H  L kiñci 
+ PDhp      Udāna v      
+   a  H sacce noresi  c  Ch esa Faus eso  J  SST nibbāṇaṃ 
+ PDhp      Udāna v       
+   b  Ch  H  L pājeti  which is probably the older reading  see H  Luders  
+ Beobachtungen       c  SST maccū  d  Ch  H  L pājenti 
+ GDhp      PDhp      Udāna v      
+   Udāna v       
+  
+  page      
+     Daṇḍavagga    
+  
+ vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ  
+ garukaṃ vāpi ābādhaṃ cittakkhepaṃ va pāpuṇe    Dhp      
+  
+ rājato va upassaggaṃ abbhakkhānaṃ va dāruṇaṃ  
+ parikkhayaṃ va ñātinaṃ bhogānaṃ va pabhaṅguṇaṃ    Dhp      
+  
+ athav  assa agārāni aggī ḍahati pāvako   
+ kāyassa bhedā duppañño nirayaṃ sopapajjati    Dhp      
+  
+ na naggacariyā na jaṭā na paṃkā nānāsakā thaṇḍilasāyikā vā  
+  
+                                                                            c  C thānaṃ  d  L khippataraṃ va gacchati 
+ Udāna v       
+   c  B  C gurukaṃ  d  L cittaklepaṃ papuṇṇe      C pāpuṇi 
+ Udāna v       
+   a  Ch  Faus vā  H upapaggaṃ      b  C abbhakkhānañ ca dārunaṃ  c  C 
+ vā H  L ca  Dhp a  SST ñātīnaṃ  d  C vā H  L ca  J ñātīnaṃ  C  
+ pabhaṅgaṇaṃ Ch  J  SST pabhaṅguraṃ L pabhaṃgunaṃ 
+ Udāna v       c d  a b  GM III              
+   a  Faus athavāssa  b  Ch  SST aggi  C  H  L dahati  d  C  H  J niriyaṃ  
+ Dhp a  H so upaGDhp        a c  Udāna v       
+  
+  page      
+    Dhammapada 
+ rajo va jallaṃ ukkuṭikappadhānaṃ sodhenti maccaṃ avitiṇṇakaṃkhaṃ    Dhp      
+  
+ alaṃkato ce pi samaṃ careyya santo danto niyato brahmacārī  
+ sabbesu bhūtesu nidhāya daṇḍaṃ so brāhmaṇo so samaṇo sa bhikkhu    Dhp      
+  
+ hirīnisedho puriso koci lokasmi vijjati  
+ yo nindaṃ appabodhati asso bhadro kasām iva    Dhp    a  
+  
+ asso yathā bhadro kasāniviṭṭho ātāpino saṃvegino bhavātha    Dhp    b  
+  
+                                                                            a  Faus  caryā  Dhp a  H  SST paṅkā  b  C nanāsikā thandila   c  C 
+ rajojalaṃ Ch  L rajojallaṃ Faus rajo va jall  ukk  H rajjojalaṃ J rājo 
+ va jallaṃ SST rajo ca jallaṃ  C ukkutika   d  H na bodhenti  C na 
+ sodhenti  C  Ch  Dhp a  J  SST  kaṅkhaṃ 
+ triṣṭubh  PDhp      Udāna v       Rau     
+   a  C  Ch  L  SST alaṅk   Dhp a  H  SST samañ car   b  C brāhma  L 
+ sabrahamacāri  d  H bho brāhtriṣṭubh  GDhp     PDhp     Udāna v       C  Sūy          b 
+   b  Dhp a  J lokasmiṃ  c  C niddaṃ H nidaṃ  C  H appabodheti Ch 
+ apabodheti J apabodhati L appabodhesi  Rau     suggests reading 
+ appaṃ bodhati   
+ a  d  Udāna v      
+  
+  page      
+     Daṇḍavagga    
+  
+ saddhāya sīlena ca viriyena ca samādhinā dhammavinicchayena ca  
+ sampannavijjācaraṇā patissatā pahassatha dukkham idaṃ anappakaṃ    Dhp      
+  
+ udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ  
+ dāruṃ namayanti tacchakā attānaṃ damayanti subbatā    Dhp      
+  
+ Daṇḍavaggo dasamo 
+  
+                                                                            Dhp a SST include these pādas with     a  H kasāviniṭṭho  b  H bhavatha 
+ triṣṭubh  PDhp     a b 
+   a  Ch  Faus  J vīriyena  which is metr  correct   b  L omits ca  c  H 
+ patisuttā L vijācaraṇa ppatissutā  d  Faus pahassathā Ch jahissatha H 
+ pajjahissatha L pajahissatha 
+ jagatī  PDhp     c f  Udāna v       
+   b  C damayanti  c  C damayanti  d  L subbatā ti  
+ vaitālīya  Udāna v       
+  
+  page      
+    
+     Jarāvagga 
+ ko nu hāso kim ānando niccaṃ pajjalite sati   
+ andhakārena onaddhā padīpaṃ na gavessatha    Dhp      
+  
+ passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ  
+ āturaṃ bahusaṃkappaṃ yassa n  atthi dhuvaṃ ṭhiti    Dhp      
+  
+ parijiṇṇaṃ idaṃ rūpaṃ roganiḍḍaṃ pabhaṅguṇaṃ   
+ bhijjati pūtisandeho maraṇantaṃ hi jīvitaṃ    Dhp      
+  
+ yān  imāni apatthāni alāpūn  eva sārade  
+ kāpotakāni aṭṭhīni tāni disvāna kā rati    Dhp      
+  
+                                                                            d  Ch gavesatha 
+ GDhp      PDhp      Udāna v     
+   a  L yassa cittaṃ kataṃ  c  C bahūsaṅkappaṃ  C  Ch  H  J  SST 
+  saṅk    d  C dhuva thiti 
+ Udāna v         
+   a  Ch  H  J  L  jiṇṇam idaṃ  b  C  L  niddaṃ Ch  nīḷaṃ Dhp a  SST 
+  niḍḍhaṃ H  nidaṃ J niḍḍhaṃ  Ch  J  SST pabhaṅguraṃ  d  C 
+ maraṇaṃ taṃ 
+ GDhp      PDhp      Udāna v        Rau     
+  
+  page      
+     Jarāvagga    
+  
+ aṭṭhīnaṃ nagaraṃ kataṃ maṃsalohitalepanaṃ  
+ yattha jarā ca maccu ca māno makkho ca ohito    Dhp      
+  
+ jīranti ve rājarathā sucittā atho sarīram pi jaraṃ upeti  
+ satañ ca dhammo na jaraṃ upeti santo have sabbhi pavedayanti    Dhp      
+  
+ appassutāyaṃ puriso balivaddo va jīrati   
+ maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati    Dhp      
+  
+ anekajātisaṃsāraṃ sandhāvissaṃ anibbisaṃ  
+ gahakārakaṃ gavesanto  dukkhā jāti punappunaṃ    Dhp      
+  
+                                                                            a  SST yāni māni  C  H  L ava   b  Ch alābūn  eva H  L alābun  eva 
+ C alāvun  eva 
+ GDhp           a  c d  Udāna v      Rau     
+   c  SST maccū 
+ GDhp      Udāna v        Rau     
+   b  Dhp a jaram 
+ triṣṭubh  GDhp      Udāna v      
+   b  Ch balibaddo H  L balibaddho  C ends atho sa  
+ PDhp     
+  
+  page      
+    Dhammapada 
+  
+ gahakāraka diṭṭḥo si puna gehaṃ na kāhasi   
+ sabbā ete phāsukā bhaggā gahakūṭaṃ visaṃkhitaṃ   
+ visaṃkhāragataṃ cittaṃ taṇhānaṃ khayam ajjhagā    Dhp      
+  
+ acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ  
+ jiṇṇakoñcā va jhāyanti khīṇamacche va pallale    Dhp      
+  
+ acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ  
+ senti cāpātikhīṇā va purāṇāni anutthunaṃ    Dhp      
+  
+ Jarāvaggo ekādasamo 
+  
+                                                                            a  L saṅsāraṃ  c  Ch  kāraṃ 
+ Udāna v      
+   a  H  kālaka  c  Dhp a  J  SST te  d  Ch  J visaṅkhataṃ Dhp a  SST 
+ visaṅkhitaṃ H visaṃkhātaṃ L visaṃkhataṃ  e  Ch  H  J  SST 
+ visaṅkhāra   f  L ajjhagā ti 
+ Udāna v      
+   a  Faus  caryaṃ 
+ GDhp    a  PDhp      Udāna v      
+   a  Faus  caryaṃ  c  J cāpātikhinnā  d  H anuthunan ti L anutthunan ti 
+ GDhp    B  PDhp      Udāna v      
+  
+  page      
+    
+     Attavagga 
+ attānañ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ   
+ tiṇṇaṃ aññataraṃ yāmaṃ paṭijaggeyya paṇḍito    Dhp      
+  
+ attānam eva paṭhamaṃ patirūpe nivesaye   
+ ath  aññam anusāseyya  na kilisseyya paṇḍito    Dhp      
+  
+ attānañ ce tathā kayirā yath  aññam anusāsati  
+ sudanto vata dametha  attā hi kira duddamo    Dhp      
+  
+ attā hi attano nātho  ko hi nātho paro siyā   
+ attanā hi sudantena nāthaṃ labhati dullabhaṃ    Dhp      
+  
+ attanā va kataṃ pāpaṃ attajaṃ attasambhavaṃ  
+  
+                                                                            c  H  J  L tiṇṇam aPDhp      a b      a b  Udāna v      a b  e f 
+   GDhp      PDhp      Udāna v        Rau     
+   a  Faus kayrā  b  Ch yathāññaṃ H athaññam  c  J dhammetha 
+ PDhp      Udāna v      
+   c  L attā hi 
+ PDhp      Udāna v        Rau     
+  
+  page      
+    Dhammapada 
+ abhimatthati dummedhaṃ vajiraṃ v  amhamayaṃ maṇiṃ    Dhp      
+  
+ yassa accantadussīlyaṃ māluvā sālam iv  otataṃ  
+ karoti so tath  attānaṃ yathā naṃ icchatī diso    Dhp      
+  
+ sukarāni asādhūni attano ahitāni ca   
+ yaṃ ve hitañ ca sādhuñ ca taṃ ve paramadukkaraṃ    Dhp      
+  
+ yo sāsanaṃ arahataṃ ariyānaṃ dhammajīvinaṃ  
+ paṭikkosati dummedho diṭṭhiṃ nissāya pāpikaṃ  
+ phalāni kaṭṭhakasseva attaghaññāya phallati    Dhp      
+  
+  
+                                                                            a  Ch hi  c  H abhimaddati L abhimathati SST abhimanthati  d  Faus 
+ vajraṃ L vajira   Ch  J  SST asmamayaṃ L  vhamayaṃ  L reads 
+    b    b twice by dittography  With the same variants as given 
+ PDhp      a  Udāna v        c d        
+   b  Faus mālvā  Ch  L  SST iv  otthataṃ H iv  otthitaṃ  c  SST tathā  
+ ttānaṃ  d  Dhp a icchati 
+ GDhp      PDhp      Udāna v       
+   c  J sādhuṃ 
+ GDhp      PDhp      a b      a b  Udāna v       
+   b  Faus aryānaṃ  e  H  L kaṇṭhakasseva  read kaṇṭaka  With PDhp    cf  
+ Rau      and CPD s v   kaṭṭhaka  Rem    f  Ch  ghātāya 
+ GDhp      PDhp      a d      a d  Udāna v     
+  
+  page      
+     Attavagga    
+ attanā va kataṃ pāpaṃ attanā saṃkilissati   
+ attanā akataṃ pāpaṃ attanā va visujjhati   
+ suddhī asuddhī paccattaṃ nāñño aññaṃ visodhaye    Dhp      
+  
+ attadatthaṃ paratthena bahunā pi na hāpaye   
+ attadattham abhiññāya sadatthapasuto siyā    Dhp      
+  
+ Attavaggo dvādasamo 
+  
+                                                                            a  Ch hi  e  Dhp a  J suddhi  Ch  Dhp a  J asuddhi  f  J nāññam añño 
+ PDhp      a d  Udāna v        c d        a b 
+   d  H  L siyā ti 
+ GDhp      PDhp      Udāna v        a  Isibhās       
+  
+  page      
+    
+     Lokavagga 
+ hīnaṃ dhammaṃ na seveyya pamādena na saṃvase  
+ micchādiṭṭhiṃ na seveyya na siyā lokavaḍḍhano    Dhp      
+  
+ uttiṭṭhe na ppamajjeyya dhammaṃ sucaritaṃ care   
+ dhammacārī sukhaṃ seti asmiṃ loke paramhi ca    Dhp      
+  
+ dhammaṃ care sucaritaṃ na naṃ duccaritaṃ care   
+ dhammacārī sukhaṃ seti asmiṃ loke paramhi ca    Dhp      
+  
+ yathā bubbulakaṃ passe yathā passe marīcikaṃ  
+ evaṃ lokaṃ avekkhantaṃ maccurājā na passati    Dhp      
+  
+  
+                                                                            d  Faus  Dhp a  J  vaddhano L  vaḍhano  cf  Rau     and H  Luders  
+ Beobachtungen pp     foll   esp  p     note     
+ GDhp      PDhp     Udāna v      Rau     
+   a  H udiṭṭhe 
+ GDhp      PDhp     Udāna v       
+   a  H  L dhammañ care  b  L taṃ for naṃ 
+ GDhp      PDhp      a b  d      a b  d  Udāna v       
+   a  L omits  Ch  Dhp a bubbuḷakaṃ 
+ PDhp      Udāna v        
+  
+  page      
+     Lokavagga    
+ etha passath  imaṃ lokaṃ cittaṃ rājarathūpamaṃ  
+ yattha bālā visīdanti  n  atthi saṅgo vijānataṃ    Dhp      
+  
+ yo ca pubbe pamajjitvā pacchā so na ppamajjati  
+ so maṃ lokaṃ pabhāseti abbhā mutto va candimā    Dhp      
+  
+ yassa pāpaṃ kataṃ kammaṃ kusalena pithīyati  
+ so maṃ lokaṃ pabhāseti abbhā mutto va candimā    Dhp      
+  
+ andhabhūto ayaṃ loko tanuk  ettha vipassati   
+ sakunto jālamutto va appo saggāya gacchati    Dhp      
+  
+ haṃsādiccapathe yanti ākāse yanti iddhiyā  
+ nīyanti dhīrā lokamhā jetvā Māraṃ savāhanaṃ    Dhp      
+  
+                                                                            d  H saṃgo L sago 
+ Udāna v        
+   c  Dhp a  J  SST so imaṃ 
+ GDhp      PDhp     Udāna v       
+   b  Ch pidhīyati Dhp a piṭhīyati  c  Dhp a  J  SST so imaṃ  
+ Udāna v       
+   c  Ch sakuṇo  d  L saggā pesakāradhītāya ga   pesakāradhītā inserted 
+ from Dhp a III        ad Dhp      SST ssaggāya 
+ Udāna v      
+  
+  page      
+    Dhammapada 
+  
+ ekaṃ dhammaṃ atītassa musāvādissa jantuno  
+ vitiṇṇaparalokassa n  atthi pāpaṃ akāriyaṃ    Dhp      
+  
+ na ve kadariyā devalokaṃ vajanti bālā have na ppasaṃsanti dānaṃ   
+ dhīro ca dānaṃ anumodamāno ten  eva so hoti sukhī parattha    Dhp      
+  
+ pathavyā ekarajjena saggassa gamanena vā  
+ sabbalokādhipaccena sotāpattiphalaṃ varaṃ    Dhp      
+  
+ Lokavaggo terasamo 
+  
+                                                                            a  Dhp a  H  L haṃsā ā   c  J niyyanti  d  J jitvā  Ch savāhiniṃ J  SST 
+ savāhiṇiṃ 
+ PDhp      Udāna v      
+   d  L akariyaṃ 
+ PDhp      Udāna v     
+   a  Faus  ve   Faus kadaryā H kadariyaṃ  H vijjanti 
+ triṣṭubh  PDhp      Udāna v      
+   a  H  L pathabyā  d  H  L varan ti 
+ b  d  PDhp     b d 
+  
+  page      
+    
+     Buddhavagga 
+ yassa jitaṃ nāvajīyati jitaṃ assa no yāti koci loke   
+ tam buddham anantagocaraṃ apadaṃ kena padena nessatha    Dhp      
+  
+ yassa jālinī visattikā taṇhā n  atthi kuhiñci netave  
+ tam buddham anantagocaraṃ apadaṃ kena padena nessatha    Dhp      
+  
+ ye jhānapasutā dhīrā nekkhammūpasame ratā  
+ devāpi tesaṃ pihayanti sambuddhānaṃ satīmataṃ    Dhp      
+  
+ kiccho manussapaṭilābho kicchaṃ maccāna jīvitaṃ   
+  
+                                                                            b  H  J  SST jitam  Dhp a noyāti  one word  cf  CPD s v  oyāti   c  Ch  
+ Dhp a  H  L taṃ  Dhp a buddhaṃ  
+ acd vaitālīya  b aupacchandasaka  PDhp      Udāna v        
+   c  Ch  Dhp a  H  L taṃ  Dhp a buddhaṃ 
+ vaitālīya  PDhp      Udāna v        
+   c  Faus pihenti 
+ PDhp      Udāna v      
+  
+  page      
+    Dhammapada 
+ kicchaṃ saddhammasavanaṃ kiccho Buddhānam uppādo    Dhp      
+  
+ sabbapāpassa akaraṇaṃ kusalassa upasampadā  
+ sacittapariyodapanaṃ etaṃ Buddhāna sāsanaṃ    Dhp      
+  
+ khantī paramaṃ tapo titikkhā  nibbānaṃ paramaṃ vadanti Buddhā   
+ na hi pabbajito parūpaghātī samaṇo hoti paraṃ viheṭhayanto    Dhp      
+  
+ anupavādo anupaghāto pātimokkhe ca saṃvaro  
+ mattaññutā ca bhattasmiṃ pantañ ca sayanāsanaṃ  
+ adhicitte ca āyogo etaṃ Buddhāna sāsanaṃ    Dhp      
+  
+                                                                            b  H  L maccānaṃ  c  Ch  ssavanaṃ SST  savaṇaṃ  d  Dhp a 
+ Buddhānaṃ H  L Buddhanaṃ 
+ GDhp      PDhp     
+   a  Faus sabbapāpass  a  L sabbapassa a   b  Faus kusalass  ūpa   c  
+ Faus  paryodapanaṃ H sacittamapari   d  SST etam  
+ PDhp      Udāna v        Isibhās     d 
+   b  J  SST nibbāṇaṃ  c  L  ghāṭi  d  H samaraṇo  L vihetayanto 
+ aupacchandasaka  PDhp      Udāna v      
+  
+  page      
+     Buddhavagga    
+  
+ na kahāpaṇavassena titti kāmesu vijjati   
+  appassādā dukhā kāmā  iti viññāya paṇḍito    Dhp      
+  
+ api dibbesu kāmesu ratiṃ so nādhigacchati   
+ taṇhakkhayarato hoti sammāsambuddhasāvako    Dhp      
+  
+ bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca  
+ ārāmarukkhacetyāni manussā bhayatajjitā    Dhp      
+  
+ n  etaṃ kho saraṇaṃ khemaṃ  n  etaṃ saraṇam uttamaṃ   
+ n  etaṃ saraṇaṃ āgamma  sabbadukkhā pamuccati    Dhp      
+  
+                                                                            a  Ch  Dhp a  J  SST anūpa  anūpa   F  ghāṭo  d  SST panthaṃ  e  H 
+ ayogo  f  SST etam  Dhp a Buddhānaṃ 
+ Udāna v         Rau      b  Sn    b  Utt     d  f  Isibhās     d 
+   PDhp      Udāna v      
+   b  H nādhigacchanti  c  F taṇhākkhayaPDhp      Udāna v       
+   a  F bahū ve H  J bahu saraṇaṃ  b  H pabbajitam      d  H  tajitāni 
+ PDhp      Udāna v        b  Dasav     b     b 
+  
+  page      
+    Dhammapada 
+  
+ yo ca Buddhañ ca Dhammañ ca Saṃghañ ca saraṇaṃ gato  
+ cattāri ariyasaccāni sammapaññāya passati    Dhp      
+  
+ dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ  
+ ariyañ c  aṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ    Dhp      
+  
+ etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇam uttamaṃ  
+ etaṃ saraṇaṃ āgamma sabbadukkhā pamuccati    Dhp      
+  
+  
+                                                                            b  Dhp a saraṇaṃ  c  Ch  F  H  J  SST saraṇam āPDhp      Udāna v         d  Utt  ed  Charpentier     d  pamuccai    
+ Isibhās     d  Sūy         d   Utt  ed  Puṇyavijaya  Bhojak     d 
+  vimuccai  
+   b  F Saṅghañ ca  H saraṇaṅ gato  c  Faus arya   d  Ch  Dhp a  J  SST 
+  ppaññāya 
+ PDhp      Udāna v           
+   c  Ch ariyaṃ c  F ariyaṭṭhaṃgika ṃ  Faus aryañ H ariyatthaṅgikaṃ 
+ Udāna v        d  GDhp     
+   c  Ch  F  H  J  SST saraṇam āPDhp      Udāna v         d  cf     d 
+  
+  page      
+     Buddhavagga    
+ dullabho purisājañño na so sabbattha jāyati   
+ yattha so jāyatī dhīro taṃ kulaṃ sukham edhati    Dhp      
+  
+ sukho Buddhānaṃ uppādo sukhā saddhammadesanā  
+ sukhā saṃghassa sāmaggī samaggānaṃ tapo sukho    Dhp      
+  
+ pūjārahe pūjayato Buddhe yadi va sāvake  
+ papañcasamatikkante tiṇṇasokapariddave   Dhp      
+ te tādise pūjayato nibbute akutobhaye  
+ na sakkā puññaṃ saṃkhātuṃ im  ettam api kenaci   ḥ  ḥ   Dhp      
+  
+ Buddhavaggo cuddasamo 
+  
+ Paṭhamakabhāṇavāraṃ 
+  
+  
+                                                                            a  H puriso jañño  c  J jāyati 
+ GDhp      PDhp     Udāna v       
+   a  Ch Buddhānam upp   c  J  SST saṅghassa  J sāmaggi  
+ PDhp     Udāna v       
+   b  L bhayaṃ  c  Dhp a puñña  Ch  J saṅkhātuṃ H  L saṅkhatuṃ  d  H 
+ imetāmapi  H  L kenacī ti Ee  Narada  Calcutta       iti kenaci  cf  Rau      
+   L cuddamo 
+   H  L om  
+  
+  page      
+    
+     Sukhavagga 
+ susukhaṃ vata jīvāma verinesu averino   
+ verinesu manussesu viharāma averino    Dhp      
+  
+ susukhaṃ vata jīvāma āturesu anāturā   
+ āturesu manussesu viharāma anāturā    Dhp      
+  
+ susukhaṃ vata jīvāma ussukesu anussukā   
+ ussukesu manussesu viharāma anussukā    Dhp      
+  
+ susukhaṃ vata jīvāma yesan no n  atthi kiñcanaṃ   
+ pītibhakkhā bhavissāma devā ābhassarā yathā    Dhp      
+  
+  
+                                                                            GDhp      PDhp      Udāna v         a  Utt     a  
+   a  H jivoma  d  H vihārāma 
+ Udāna v         a  Utt     a  
+   b  L omits  d  H vihārāma 
+ GDhp      PDhp      Udāna v         a  Utt     a 
+   b  Ch  J yesaṃ 
+ GDhp      a b  PDhp     a b  Udāna v         Rau      Utt     ab 
+  
+  page      
+     Sukhavagga    
+ jayaṃ veraṃ pasavati dukkhaṃ seti parājito   
+ upasanto sukhaṃ seti hitvā jayaparājayaṃ    Dhp      
+  
+ n  atthi rāgasamo aggi  n  atthi dosasamo kali   
+ n  atthi khandhādisā dukkhā  n  atthi santiparaṃ sukhaṃ    Dhp      
+  
+ jighacchāparamā rogā  saṃkhārā paramā dukhā   
+ etaṃ ñatvā yathābhūtaṃ nibbānaṃ paramaṃ sukhaṃ    Dhp      
+  
+ ārogyaparamā lābhā  santuṭṭhiparamaṃ dhanaṃ   
+ vissāsaparamā ñātī  nibbānaṃ paramaṃ sukhaṃ    Dhp      
+  
+  
+                                                                            GDhp      PDhp     Udāna v       
+   b  Dhp a kalī H kālī  c  Ch  J khandhasamā H khandhāsamo L 
+ kandhāsamā  
+ Rau     
+   b  Ch  D  H  J  SST saṅkh   d  J nibbāṇaparamaṃ SST nibbāṇaṃ 
+ GDhp      PDhp     Udāna v       
+   a  L ārogyaparā  b  Faus santuṭṭhī  c  H visāsā D vissāsā  Ch  Dhp a 
+ ñāti  d  J nibbāṇaparamaṃ SST nibbāṇaṃ 
+ GDhp      PDhp     Udāna v       Rau     
+  
+  page      
+    Dhammapada 
+ pavivekarasaṃ pītvā rasaṃ upasamassa ca  
+ niddaro hoti nippāpo dhammapītirasaṃ pivaṃ    Dhp      
+  
+ sādhu dassanam ariyānaṃ sannivāso sadā sukho   
+ adassanena bālānaṃ niccam eva sukhī siyā    Dhp      
+  
+ bālasaṅgatacārī hi dīgham addhāna socati   
+ dukkho bālehi saṃvāso amitteneva sabbadā   
+ dhīro ca sukhasaṃvāso ñātīnaṃ va samāgamo    Dhp      
+  
+ dhīrañ ca paññañ ca bahussutañ ca dhoreyyasīlaṃ vatavantam āriyaṃ  
+ taṃ tādisaṃ sappurisaṃ sumedhaṃ bhajetha nakkhattapathaṃ va candimā    Dhp      
+  
+                                                                            a  Ch pitvā D pivitvā  d  J pibaṃ 
+ Udāna v      
+   a  D  L  SST sāhu  Faus aryānaṃ  
+ GDhp      PDhp     Udāna v       
+   a  Dhp a  saṃgata  L  saṅgāta   b  D  H  J  L digham  d  L ametteneva  
+ e  for dhīro read dhīre  see Kasussyntax       f  H ñāti va 
+ GDhp      PDhp     Udāna v        
+ tasmā hi  
+ D om  hi 
+  
+  page      
+     Sukhavagga    
+  
+ Sukhavaggo pannarasamo 
+  
+                                                                            a  Dhp a  ssutaṃ ca  b  read dhoreyya With D  H  L for dhorayha  of 
+ eds  cf  Mittelindisch       D  H  L  sīla   D SST  vatavantam a  H  
+ L  patavantam āac triṣṭubh  bd jagatī  GDhp      PDhp     Udāna v         
+  
+  page      
+    
+     Piyavagga 
+ ayoge yuñjaṃ attānaṃ yogasmiñ ca ayojayaṃ  
+ atthaṃ hitvā piyaggāhī pihet  attānuyoginaṃ    Dhp      
+  
+ mā piyehi samāgañchi appiyehi kudācanaṃ   
+ piyānaṃ adassanaṃ dukkhaṃ appiyānañ ca dassanaṃ    Dhp      
+  
+ tasmā piyaṃ na kayirātha piyāpāyo hi pāpako   
+ ganthā tesaṃ na vijjanti yesaṃ n  atthi piyāppiyam    Dhp      
+  
+ piyato jāyatī soko piyato jāyatī bhayaṃ   
+ piyato vippamuttassa n  atthi soko kuto bhayaṃ    Dhp      
+  
+                                                                            a  Ch  D  H  J  L yuñjam a   b  D yogasmiṃñ     ca H  L yogasmi ca  D 
+ ayojanaṃ  d  H attānaṃ mayoginaṃ  
+ GDhp      PDhp      Udāna v     
+   a  D samāgacchi  c  Faus piyān   read piyānam m c    cf     d   d  D 
+ appiyānaṃñ     ca 
+ PDhp     Udāna v       Rau     
+   a  Faus kayrātha c  H gaṇṭhā 
+ PDhp     Udāna v     
+  
+  page      
+     Piyavagga    
+  
+ pemato jāyatī soko pemato jāyatī bhayaṃ   
+ pemato vippamuttassa n  atthi soko kuto bhayaṃ    Dhp      
+  
+ ratiyā jāyatī soko ratiyā jāyatī bhayaṃ   
+ ratiyā vippamuttassa n  atthi soko kuto bhayaṃ    Dhp      
+  
+ kāmato jāyatī soko kāmato jāyatī bhayaṃ   
+ kāmato vippamuttassa n  atthi soko kuto bhayaṃ    Dhp      
+  
+ taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ   
+ taṇhāya vippamuttassa n  atthi soko kuto bhayaṃ    Dhp      
+  
+  
+                                                                            ab  D  H  L jāyate  
+ PDhp     Udāna v      
+   ab  D  H  L jāyate  
+ Udāna v                 
+   ab  D  H  L jāyate  abc  D rattiyā 
+ Udāna v      
+   ab  D  H  L jāyate  
+ Udāna v      
+   ab  D  H  L jāyate  
+ Udāna v                  
+  
+  page      
+    Dhammapada 
+ sīladassanasampannaṃ dhammaṭṭhaṃ saccavādinaṃ  
+ attano kamma kubbānaṃ taṃ jano kurute piyaṃ    Dhp      
+  
+ chandajāto anakkhāte manasā ca phuṭo siyā  
+ kāmesu ca appaṭibaddhacitto uddhaṃsoto ti vuccati    Dhp      
+  
+ cirappavāsiṃ purisaṃ dūrato sotthim āgataṃ  
+ ñātimittā suhajjā ca abhinandanti āgataṃ    Dhp      
+  
+ tath  eva katapuññam pi asmā lokā paraṃ gataṃ  
+ puññāni paṭigaṇhanti piyaṃ ñātīva āgataṃ   ḥ   Dhp      
+  
+ Piyavaggo soḷasamo 
+  
+  
+                                                                            b  Ch  J  SST  vedinaṃ H  L  vādinnaṃ  d  D  H  L tañ jano 
+ GDhp      b d  PDhp      Udāna v        
+   a  L anakkhāto  c  H omits ca 
+ Udāna v     
+   Udāna v      
+   a  H  L  puññam hi D  puññaṃ hi  c  Faus  J  L pati   d  H piyaṃ yāva 
+  N  Thai pronunciation y   ñ  tī omitted  āgatan ti  L āgantan ti 
+ Udāna v      
+   H sorasamo 
+  
+  page      
+    
+     Kodhavagga 
+ kodhaṃ jahe vippajaheyya mānaṃ saññojanaṃ sabbam atikkameyya  
+ taṃ nāmarūpasmim asajjamānaṃ akiñcanaṃ nānupatanti dukkhā    Dhp      
+  
+ yo ve uppatitaṃ kodhaṃ rathaṃ bhantaṃ va dhāraye  
+ tam ahaṃ sārathiṃ brūmi  rasmiggāho itaro jano    Dhp      
+  
+ akkodhena jine kodhaṃ asādhuṃ sādhunā jine   
+ jine kadariyaṃ dānena saccenālikavādinaṃ    Dhp      
+  
+ saccam bhaṇe na kujjheyya dajjā appasmi yācito  
+ etehi tīhi ṭhānehi gacche devāna santike    Dhp      
+  
+                                                                            a  Dhp a kodhañ  b  Ch  D saṃyojanaṃ  Dhp a sabbaṃ  H aṭi   c  L tan 
+ nāma   D  Dhp a  SST  asmiṃ a  H  J  L  asmi a   d  H akiñcānānupaL akiñcanaṃ nupatriṣṭubh  GDhp      PDhp      Udāna v      
+   b  D vāraye d  D rasmiṃ kaho  Faus taro 
+ GDhp      Udāna v        Rau     
+   c  C kaddariyaṃ Faus kadaryaṃ  d  C  J saccena alikavādinā ti Dhp a 
+ saccena alīkaGDhp      Udāna v        Rau     
+  
+  page      
+    Dhammapada 
+  
+ ahiṃsakā ye munayo niccaṃ kāyena saṃvutā  
+ te yanti accutaṃ ṭhānaṃ yattha gantvā na socare    Dhp      
+  
+ sadā jāgaramānānaṃ ahorattānusikkhinaṃ  
+ nibbānaṃ adhimuttānaṃ atthaṃ gacchanti āsavā    Dhp      
+  
+ porāṇam etaṃ Atula n  etaṃ ajjatanām iva   
+ nindanti tuṇhiṃ āsīnaṃ nindanti bahubhāṇinaṃ  
+ mitabhāṇinam pi nindanti  n  atthi loke anindito    Dhp      
+  
+  
+                                                                            a  H  L saccaṃ  b  Ch appam pi Dhp a appasmiṃ J dajjāppasmim pi 
+ SST ppasmim pi yāc   Rau     suggests reading dajjā ppasmā pi 
+ yācito  cf  Brough  GDhp p        d  H devānaṃ 
+ GDhp      PDhp      Udāna v        c  Sūy         a 
+   a  H  kāyā munPDhp      Udāna v      
+   c  J  SST nibbāṇaṃ 
+ PDhp      Udāna v      
+   a  SST etam  H atura L ātulyaṃ  b  H ne ajjatanam iva  c  Ch  Dhp a  
+ H  J  SST tuṇhim ā   e  Ch  bhāṇiṃ H  bhaninaṃ J  bhāṇim L 
+ mattabhāṇ   Rau     suggests reading  bhāṇim  probably m c   but for 
+ resolution of the  st syllable see Warder      
+ GDhp      PDhp      c f  Udāna v        Rau     
+  
+  page      
+     Kodhavagga    
+ na cāhu na ca bhavissati na c  etarahi vijjati  
+ ekantaṃ nindito poso ekantaṃ vā pasaṃsito    Dhp      
+  
+ yañ ce viññū pasaṃsanti anuvicca suve suve  
+ acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ    Dhp      
+  
+ nekkhaṃ jambonadasseva ko taṃ ninditum arahati   
+ devā pi naṃ pasaṃsanti  Brahmunā pi pasaṃsito    Dhp      
+  
+ kāyappakopaṃ rakkheyya kāyena saṃvuto siyā   
+ kāyaduccaritaṃ hitvā kāyena sucaritaṃ care    Dhp      
+  
+ vacīpakopaṃ rakkheyya vācāya saṃvuto siyā   
+ vacīduccaritaṃ hitvā vācāya sucaritaṃ care    Dhp      
+  
+  
+                                                                            a  Faus hessati 
+ GDhp      PDhp      Udāna v       c d  a b  
+   a  Ch yaṃ 
+ GDhp      PDhp      a b  Udāna v       a b  c d        a b 
+   a  Ch nikkhaṃ  L jambū   b  H nindito m aGDhp      PDhp      a b  Udāna v       c d         c d  
+   PDhp      Udāna v      
+   PDhp      Udāna v     
+  
+  page      
+    Dhammapada 
+ manopakopaṃ rakkheyya manasā saṃvuto siyā   
+ manoduccaritaṃ hitvā manasā sucaritaṃ care    Dhp      
+  
+ kāyena saṃvutā dhīrā atho vācāya saṃvutā  
+ manasā saṃvutā dhīrā te ve suparisaṃvutā    Dhp      
+  
+ Kodhavaggo sattarasamo 
+  
+                                                                            PDhp      Udāna v      
+   GDhp     PDhp      Udāna v      a d 
+  
+  page      
+    
+     Malavagga 
+ paṇḍupalāso va dāni si Yamapurisā pi ca taṃ upaṭṭhitā   
+ uyyogamukhe ca tiṭṭhasi pātheyyam pi ca te na vijjati    Dhp      
+  
+ so karohi dīpam attano khippaṃ vāyama paṇḍito bhava   
+ niddhantamalo anaṅgaṇo dibbaṃ ariyabhūmim ehisi    Dhp      
+  
+ upanītavayo va dāni si sampayāto si Yamassa santike   
+ vāso pi ca te n  atthi antarā pātheyyam pi ca te na vijjati    Dhp      
+  
+ so karohi dīpam attano khippaṃ vāyama paṇḍito bhava   
+  
+                                                                            b  Ch te  c  L uññoga   N  Thai pronunciation ñ   y  
+ vaitālīya  PDhp      
+   d  Ch  bhūmiṃ upehisi  read āriya  m c     
+ vaitālīya  a  c  Udāna v      b  e  c d  PDhp     c d  
+   a  Ch  SST ca  c  Ch omits pi ca  d  Ch pātheyyaṃ 
+ vaitālīya  
+  
+  page      
+    Dhammapada 
+ niddhantamalo anaṅgaṇo na punaṃ jātijaraṃ upehisi    Dhp      
+  
+ anupubbena medhāvī thokathokaṃ khaṇe khaṇe  
+ kammāro rajatasseva niddhame malam attano    Dhp      
+  
+ ayasā va malaṃ samuṭṭhitaṃ taduṭṭhāya tam eva khādati  
+ evaṃ atidhonacārinaṃ sakakammāni nayanti duggatiṃ    Dhp      
+  
+ asajjhāyamalā mantā  anuṭṭhānamalā gharā   
+ malaṃ vaṇṇassa kosajjaṃ  pamādo rakkhato malaṃ    Dhp      
+  
+  
+                                                                            d  Ch  Dhp a  J  SST puna 
+ vaitālīya  c  PDhp     c  a  c d  Udāna v      b  e f 
+   b  H  L thokaṃ thokaṃ 
+ PDhp      Udāna v       
+   d  Ch  Dhp a  H  L sāni kammāni 
+ vaitālīya  PDhp      Udāna v      
+   b  H anuṭṭhāyamalaṃ  d  L rakkhi malaṃ 
+ PDhp      Rau     
+  
+  page      
+     Malavagga    
+ mal  itthiyā duccaritaṃ  maccheraṃ dadato malaṃ   
+ malā ve pāpakā dhammā asmiṃ loke paramhi ca    Dhp      
+  
+ tato malā malataraṃ avijjā paramaṃ malaṃ   
+ etaṃ malaṃ pahatvāna nimmalā hotha bhikkhavo    Dhp      
+  
+ sujīvaṃ ahirīkena kākasūrena dhaṃsinā  
+ pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ    Dhp      
+  
+ hirīmatā ca dujjīvaṃ niccaṃ sucigavesinā  
+ alīnen  appagabbhena suddhājīvena passatā    Dhp      
+  
+ yo pāṇaṃ atimāpeti musāvādañ ca bhāsati  
+ loke adinnaṃ ādiyati paradārañ ca gacchati    Dhp      
+  
+  
+                                                                            PDhp      d  Udāna v      
+   c  SST etam  H  L pahantvāna 
+ PDhp     
+   a  L omits sujīvaṃ  Ch  Dhp a  SST ahirikena  d  SST saṅkilGDhp      PDhp      Udāna v      
+   a  J hirimatā  c  J alīnenāpa   d  H pasutā 
+ GDhp      PDhp      Udāna v      
+   a  Ch  H  J  L pāṇam ati   Ch  J  SST atipāteti  b  J  vādaṃ  c  Ch 
+ adinnam ā   H nādiyati      d  H  dāruñ J  dāraṃ 
+  
+  page      
+    Dhammapada 
+ surāmerayapānañ ca yo naro anuyuñjati  
+ idh  eva m eso lokasmiṃ mūlaṃ khanati attano    Dhp      
+  
+ evaṃ bho purisa jānāhi  pāpadhammā asaññatā   
+ mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ    Dhp      
+  
+ dadanti ve yathāsaddhaṃ yathāpasādanaṃ jano   
+ tattha yo maṅku bhavati paresaṃ pānabhojane  
+ na so divā vā rattiṃ vā samādhiṃ adhigacchati    Dhp      
+  
+ yassa c  etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ  
+ sa ve divā vā rattiṃ vā samādhiṃ adhigacchati    Dhp      
+  
+  
+                                                                            a  J  pānaṃ L  mānañ ca  c  J idh  eva poso  d  Ch  Dhp a  J  SST 
+ khaṇati 
+   a  J evam  Faus posa  
+ Rau     
+   a  Ch  J  SST dadāti  b  H  danañ jano  c  J tattha ve  Dhp a maṅku 
+ hoti H  L maṃkuko hoti J maṅka yo hoti  f  Ch  L samādhim adhiPDhp      Udāna v       
+   d  Ch samādhim aPDhp      Udāna v       
+  
+  page      
+     Malavagga    
+ n  atthi rāgasamo aggi n  atthi dosasamo gaho  
+ n  atthi mohasamaṃ jālaṃ n  atthi taṇhāsamā nadī    Dhp      
+  
+ sudassaṃ vajjam aññesaṃ attano pana duddasaṃ   
+ paresaṃ hi so vajjāni opunāti yathā bhusaṃ   
+ attano pana chādeti kaliṃ va kitavā saṭho    Dhp      
+  
+ paravajjānupassissa niccaṃ ujjhānasaññino  
+ āsavā tassa vaḍḍhanti ārā so āsavakkhayā    Dhp      
+  
+ ākāse ca padaṃ n  atthi samaṇo n  atthi bāhiro   
+ papañcābhiratā pajā nippapañcā tathāgatā    Dhp      
+  
+ ākāse ca padaṃ n  atthi samaṇo n  atthi bāhiro  
+  
+                                                                            b  H  L gāho  d  H jalam  
+ Udāna v       
+   a  SST vajjaṃ  d  Dhp a  J  SST opuṇāti L onoti  corr    opanoti   H  L 
+ thusaṃ  f  H kaḷiṃ  L satho 
+ GDhp      PDhp      Udāna v      
+   a  H  passissaṃ L  passisaṃ 
+ GDhp        PDhp      Udāna v         c d       e f  
+   a  Ch  L va Dhp a  J  SST omit ca  b  L samano  Ch  J  SST bāhire  
+ Udāna v       
+  
+  page      
+    Dhammapada 
+ saṃkhārā sassatā n  atthi n  atthi buddhānam iñjitaṃ    Dhp      
+  
+ Malavaggo aṭṭhārasamo 
+  
+                                                                            a  Ch  L va Dhp a  J  SST omit ca  b  Ch  Dhp a  J  SST bāhire  c  
+ Ch  J  SST saṅkhārā  H passatā  d  Dhp a  J buddhānaṃ  H  L iñjitan 
+ ti 
+ GDhp        a b  Udāna v       
+  
+  page      
+    
+     Dhammaṭṭhavagga 
+ na tena hoti dhammaṭṭho yen  atthaṃ sahasā naye   
+ yo ca atthaṃ anatthañ ca ubho niccheyya paṇḍito    Dhp      
+  
+ asāhasena dhammena samena nayatī pare  
+ dhammassa gutto medhāvī dhammaṭṭho ti pavuccati   Dhp      
+ na tena paṇḍito hoti yāvatā bahu bhāsati   
+ khemī averī abhayo paṇḍito ti pavuccati    Dhp      
+  
+ na tāvatā dhammadharo yāvatā bahu bhāsati   
+ yo ca appam pi sutvāna dhammaṃ kāyena passati  
+ sa ve dhammadharo hoti yo dhammaṃ na ppamajjati    Dhp      
+  
+ na tena thero hoti yen  assa phalitaṃ siro   
+ paripakko vayo tassa moghajiṇṇo ti vuccati    Dhp      
+  
+ yamhi saccañ ca dhammo ca ahiṃsā saññamo damo  
+ sa ve vantamalo dhīro thero ti pavuccati    Dhp      
+  
+                                                                            Rau     
+   d  Udāna v        
+   GDhp      PDhp     Udāna v      
+   a  Ch  L thero so hoti Faus bhavati  b  Ch  J palitaṃ H  L palisiro  
+ GDhp      Udāna v        Rau     
+  
+  page      
+    Dhammapada 
+  
+ na vākkaraṇamattena vaṇṇapokkharatāya vā  
+ sādhurūpo naro hoti issukī maccharī saṭho    Dhp      
+  
+ yassa c  etaṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ  
+ sa vantadoso medhāvī sādhurūpo ti vuccati    Dhp      
+  
+ na muṇḍakena samaṇo abbato alikaṃ bhaṇaṃ  
+ icchālobhasamāpanno samaṇo kiṃ bhavissati    Dhp      
+  
+ yo ca sameti pāpāni aṇuṃthūlāni sabbaso  
+ samitattā hi pāpānaṃ samaṇo ti pavuccati    Dhp      
+  
+  
+                                                                            a  J saccaṃ  b  Ch  H  J saṃyamo  d  Ch thero iti pa  Dhp a thero ti 
+ ppa  H  J thero hoti pa  Faus thaviro L so thero  
+ GDhp            a c  PDhp     a c  b c  Udāna v          d        
+   GDhp      PDhp      Udāna v       
+   d  H ti pavuccati 
+ GDhp      c  PDhp     c  Udāna v            
+   GDhp      PDhp      Udāna v        
+   b  H anuthulGDhp           PDhp      Udāna v       c f    b d         d f   
+  
+  page      
+     Dhammaṭṭhavagga    
+ na tena bhikkhu hoti yāvatā bhikkhate pare   
+ vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā    Dhp      
+  
+ yo dha puññañ ca pāpañ ca bāhetvā brahmacariyavā  
+ saṃkhāya loke carati sa ve bhikkhū ti vuccati    Dhp      
+  
+ na monena munī hoti mūḷharūpo aviddasu   
+ yo ca tulaṃ va paggayha varam ādāya paṇḍito   Dhp      
+  
+ pāpāni parivajjeti sa munī tena so muni   
+ yo munāti ubho loke munī tena pavuccati    Dhp      
+  
+ na tena ariyo hoti yena pāṇāni hiṃsati   
+ ahiṃsā sabbapāṇānaṃ ariyo ti pavuccati    Dhp      
+  
+  
+                                                                            a  Ch  SST bhikkhu so hoti Dhp a bhikkhū H  L bhikkhuko  Faus bhavati  
+ GDhp     Udāna v       
+   b  Dhp a  H  L bāhitvā  Faus  caryavā  c  Ch  J  SST saṅkhāya 
+ GDhp               a b  d  Udāna v         a  Dasav     a 
+   a  J muni  b  L avindasu  c  H turaṃ  d  SST paṇṇito 
+ Rau     
+   c  SST muṇāti  d  Ch  J muni 
+ a  Udāna v          d 
+   c  Isibhās       
+  
+  page      
+    Dhammapada 
+ na sīlabbatamattena bāhusaccena vā puna  
+ atha vā samādhilābhena viviccasayanena vā   Dhp      
+  
+ phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ   
+ bhikkhu vissāsa māpādi appatto āsavakkhayaṃ    Dhp      
+  
+ Dhammaṭṭhavaggo ekūnavīsatimo  
+  
+  
+                                                                            b  H  L bahu   Ch  H pana  d  Ch  Dhp a  L vivittaGDhp     PDhp      Udāna v       
+   d  L appamatto 
+ GDhp            PDhp      Udāna v       c d  a b  
+   L ekūṇa 
+  page      
+    
+     Maggavagga 
+ maggān  aṭṭhaṅgiko seṭṭho saccānaṃ caturo padā   
+ virāgo seṭṭho dhammānaṃ dipadānañ ca cakkhumā    Dhp      
+  
+ es  eva maggo n  atth  añño dassanassa visuddhiyā   
+ etaṃ hi tumhe paṭipajjatha  Mārass  etaṃ pamohanaṃ    Dhp      
+  
+ etaṃ hi tumhe paṭipannā dukkhass  antaṃ karissatha   
+ akkhāto ve mayā maggo aññāya sallasanthanaṃ    Dhp      
+  
+ tumhehi kiccaṃ ātappaṃ  akkhātāro tathāgatā   
+ paṭipannā pamokkhanti jhāyino Mārabandhanā    Dhp      
+  
+                                                                            a  H  L aṭṭhaṃgiko  d  J dvipadGDhp      PDhp      Udāna v      
+   a  J  L  SST eso va  c  Ch etañ hi H etam hi L enaṃ  d  SST 
+ pamocanaṃ 
+ PDhp     a d  a b  Udāna v       
+   a  Ch etañ hi  L paṭipanno  c  H akkhato  Ch vo  d  Ch  kantanaṃ H 
+  saṇṭhānaṃ L  saṇṭhanaṃ 
+ a b  PDhp     e f  c d      a b  c d  Udāna v      a b  Rau     
+  
+  page      
+    Dhammapada 
+  
+  sabbe saṃkhārā aniccā  ti yadā paññāya passati  
+ atha nibbindatī dukkhe  esa maggo visuddhiyā    Dhp      
+  
+  sabbe saṃkhārā dukkhā  ti yadā paññāya passati  
+ atha nibbindatī dukkhe  esa maggo visuddhiyā    Dhp      
+  
+  sabbe dhammā anattā  ti yadā paññāya passati  
+ atha nibbindatī dukkhe  esa maggo visuddhiyā    Dhp      
+  
+ uṭṭhānakālamhi anuṭṭhahāno yuvā balī ālasiyaṃ upeto  
+ saṃsannasaṃkappamano kusīto paññāya maggaṃ alaso na vindati    Dhp      
+  
+                                                                            a  Ch kiccam ā   b  L tathāgato 
+ PDhp     c f  a b  Udāna v       c d   c d              
+   a  Ch  H  J saṅkhārā  b  Faus  ti   c  Ch  J nibbindati  d  H es  eva and 
+ in dittography  esa maggo 
+ GDhp      PDhp      Udāna v       
+   a  Ch  J saṅkhārā  c  Ch nibbindati 
+ GDhp      Udāna v       
+   c  Ch  J nibbindati 
+ GDhp      PDhp      Udāna v       
+  
+  page      
+     Maggavagga    
+  
+ vācānurakkhī manasā susaṃvuto kāyena ca akusalaṃ na kayirā  
+ ete tayo kammapathe visodhaye  ārādhaye maggam isippaveditaṃ    Dhp      
+  
+ yogā ve jāyati bhūrī ayogā bhūrisaṃkhayo  
+ etaṃ dvedhāpathaṃ ñatvā bhavāya vibhavāya ca  
+ tath  attānaṃ niveseyya yathā bhūrī pavaḍḍhati    Dhp      
+  
+ vanaṃ chindatha  mā rukkhaṃ  vanato jāyatī bhayaṃ   
+ chetvā vanaṃ vanathañ ca nibbanā hotha bhikkhavo    Dhp      
+  
+                                                                            b  Dhp a ālasiyā H alasiyaṃ  see discussion in CPD s v  upeta   c  H  L  
+ sampannaṃ  J  SST  saṅkappaabc triṣṭubh  d jagatī  
+ GDhp      PDhp     Udāna v         
+   a  H manasā saṃvuto  d  J maggaṃ 
+ acd jagatī  b triṣṭubh  PDhp      Udāna v       c  Utt      c 
+   a  Ch  Dhp a  SST jāyatī H  L jāyate  Ch  J bhūri  b  Ch  J  SST 
+  saṅkhayo  c  H dhidhā   L yatvā  N  Thai pronunciation ñ   y   e  Ch 
+ tathāttānaṃ  f  Ch  J  SST bhūri 
+ PDhp      Udāna v         
+  
+  page      
+    Dhammapada 
+  
+ yāvaṃ hi vanatho na chijjati aṇumatto pi narassa nārisu  
+ paṭibaddhamano va tāva so vaccho khīrapako va mātari    Dhp      
+  
+ ucchinda sineham attano kumudaṃ sāradikaṃ va pāṇinā   
+ santimaggam eva brūhaya nibbānaṃ sugatena desitaṃ    Dhp      
+  
+ idha vassaṃ vasissāmi idha hemantagimhisu  
+ iti bālo vicinteti antarāyaṃ na bujjhati    Dhp      
+  
+  
+                                                                            b  Ch  Dhp a jāyate H  L jayate  c  H chetvāna  Ch  Dhp a  H  L vanañ  
+ ca  H vanatthañ ca L vanaṭṭhañ ca  d  SST nibbaṇā 
+ GDhp     PDhp      Udāna v      
+   a  Ch yāva hi Faus  hi  H yāvañ hi J omits hi L yāvam hi  b  SST anu   
+ d  L reads va after vaccho  SST khīrapāno 
+ vaitālīya  GDhp     PDhp      Udāna v       
+   c  H bruhiye  d  J  SST nibbāṇaṃ 
+ vaitālīya  GDhp      PDhp      Udāna v       ab  Utt      ab  c  Utt 
+      c 
+   b  H hemagimhesu  c  H  L vicintesi 
+ GDhp      PDhp      Udāna v       
+  
+  page      
+     Maggavagga    
+ taṃ puttapasusammattaṃ byāsattamanasaṃ naraṃ  
+ suttaṃ gāmaṃ mahogho va maccu ādāya gacchati    Dhp      
+  
+ na santi puttā tāṇāya na pitā na pi bandhavā  
+ antakenādhipannassa n  atthi ñātīsu tāṇatā    Dhp      
+  
+ etam atthavasaṃ ñatvā paṇḍito sīlasaṃvuto  
+ nibbānagamanaṃ maggaṃ khippam eva visodhaye    Dhp      
+  
+ Maggavaggo vīsatimo 
+  
+                                                                            a  H omits putta   c  Dhp a vā 
+ GDhp      PDhp      b d      b d  Udāna v        Rau      for Mhbh 
+  sampannaṃ for  sammattaṃ see Brough  GDhp p       
+   d  J ñātisu 
+ GDhp      PDhp      Udāna v      
+   a  H atthaṃ  c  J nibbāṇa   d  H visodhaye ti 
+ c d  cf  PDhp        c d  c d  Udāna v      
+  
+  page      
+    
+     Pakiṇṇakavagga 
+ mattāsukhapariccāgā passe ce vipulaṃ sukhaṃ  
+ caje mattāsukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ    Dhp      
+  
+ paradukkhūpadhānena yo attano sukham icchati  
+ verasaṃsaggasaṃsaṭṭho verā so na pamuccati    Dhp      
+  
+ yaṃ hi kiccaṃ apaviddhaṃ akiccaṃ pana kayirati  
+ unnaḷānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā    Dhp      
+  
+ yesañ ca susamāraddhā niccaṃ kāyagatā sati  
+ akiccan te na sevanti kicce sātaccakārino   
+ satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā    Dhp      
+  
+                                                                            c  H rajje for caje  
+ GDhp      PDhp     Udāna v       
+   a  J  dānena  b  Ch  J  SST omit yo  d  H veravaso  Ch  Dhp a  H na 
+ parimuccati  perhaps so read  for resolution of the  th syllable see 
+ Warder      L na parimuñcati 
+ GDhp      PDhp      Udāna v      
+   a  Dhp a  H  J add tad after kiccaṃ  H  J apaviṭṭhaṃ  b  Faus kayrati  c  
+ J  SST unnalānaṃ 
+ GDhp      PDhp      Udāna v      a d  
+  
+  page      
+     Pakiṇṇakavagga    
+  
+ mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye  
+ raṭṭhaṃ sānucaraṃ hantvā anīgho yāti brāhmaṇo    Dhp      
+  
+ mātaraṃ pitaraṃ hantvā rājāno dve ca sotthiye  
+ veyyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo    Dhp      
+  
+ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  
+ yesaṃ divā ca ratto ca niccaṃ Buddhagatā sati    Dhp      
+  
+ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  
+ yesaṃ divā ca ratto ca niccaṃ Dhammagatā sati    Dhp      
+  
+ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  
+ yesaṃ divā ca ratto ca niccaṃ Saṃghagatā sati    Dhp      
+  
+                                                                            c  Ch akiccaṃ  d  H sātacchaGDhp      PDhp      Udāna v       
+   GDhp     PDhp     Udāna v                Rau      cf  F  Bernhard  
+  Zur Textgeschichte und Interpretation der Strophen Dhammapada      
+       in Festschrift fur Wilhelm Eilers  Wiesbaden       pp           
+   a  H hantā  b  J sottiye  c  Ch  Dhp a veyagghaGDhp     a b  d  PDhp    a b  d  a c  Udāna v         cf  prec  
+   GDhp      a c  PDhp     a c  Udāna v        
+   GDhp      PDhp     a c  Udāna v        
+  
+  page      
+    Dhammapada 
+  
+ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  
+ yesaṃ divā ca ratto ca niccaṃ kāyagatā sati    Dhp      
+  
+ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  
+ yesaṃ divā ca ratto ca ahiṃsāya rato mano    Dhp      
+  
+ suppabuddhaṃ pabujjhanti sadā Gotamasāvakā  
+ yesaṃ divā ca ratto ca bhāvanāya rato mano    Dhp      
+  
+ duppabbajjaṃ durabhiramaṃ durāvāsā gharā dukhā  
+ dukkho samānasaṃvāso  dukkhānupatit  addhagū  
+ tasmā na c  addhagū siyā na ca dukkhānupatito siyā    Dhp      
+  
+ saddho sīlena sampanno yasobhogasamappito  
+ yaṃ yaṃ padesaṃ bhajati tattha tatth  eva pūjito    Dhp      
+  
+                                                                            d  J  SST SaṅghaGDhp      PDhp     a c  Udāna v        
+   GDhp      PDhp      Udāna v        
+   GDhp      PDhp      Udāna v        
+   GDhp      PDhp      Udāna v        
+   a   Rau     suggests reading pabbajjaṃ durabhiramaṃ  but cf  GDhp 
+       f  J omits na ca   Rau     suggests omitting siyā  probably m c   
+ but for resolution of the  st and  th syllables see Warder      
+ GDhp      a d  Udāna v      
+  
+  page      
+     Pakiṇṇakavagga    
+  
+ dūre santo pakāsenti himavanto va pabbato   
+ asant  ettha na dissanti rattikhittā yathā sarā    Dhp      
+  
+ ekāsanaṃ ekaseyyaṃ eko caram atandito  
+ eko damayam attānaṃ vanante ramito siyā    Dhp      
+  
+ Pakiṇṇakavaggo ekavīsatimo 
+  
+                                                                            c  H bhijati  
+ GDhp      PDhp      a  d  Udāna v      
+   a  J pakāsanti  b  L himavante  c  H dassanti  d  Ch  J rattiṃ khittā 
+ Udāna v       
+   d  L siyā ti 
+ GDhp      PDhp      Udāna v      
+  
+  page      
+    
+     Nirayavagga 
+ abhūtavādī nirayaṃ upeti yo vāpi katvā na karomi c  āha  
+ ubho pi te pecca samā bhavanti nihīnakammā manujā parattha    Dhp      
+  
+ kāsāvakaṇṭhā bahavo pāpadhammā asaññatā   
+ pāpā pāpehi kammehi nirayaṃ te upapajjare    Dhp      
+  
+ seyyo ayoguḷo bhutto tatto aggisikhūpamo  
+ yañ ce bhuñjeyya dussīlo raṭṭhapiṇḍaṃ asaññato    Dhp      
+  
+ cattāri ṭhānāni naro pamatto āpajjatī paradārūpasevī   
+ apuññalābhaṃ na nikāmaseyyaṃ nindaṃ tatīyaṃ nirayaṃ catutthaṃ    Dhp      
+  
+                                                                            a  H  L niriyaṃ  b  J cāpi  Dhp a  H  J karomī ti cāha L karomi ccāha  
+ d  SST nihīṇatriṣṭubh  GDhp      PDhp      Udāna v      Rau     
+   b  L asaññitā  d  Faus nirayan L niriyan 
+ PDhp      a c  Udāna v      
+   d  Ch  piṇḍam 
+ GDhp      PDhp      Udāna v     
+  
+  page      
+     Nirayavagga    
+  
+ apuññalābho ca gatī ca pāpikā bhītassa bhītāya ratī ca thokikā  
+ rājā ca daṇḍaṃ garukaṃ paṇeti  tasmā naro paradāraṃ na seve    Dhp      
+  
+ kuso yathā duggahīto hatthaṃ evānukantati  
+ sāmaññaṃ dupparāmaṭṭhaṃ nirayāy  upakaḍḍhati    Dhp      
+  
+ yaṃ kiñci saṭhilaṃ kammaṃ saṃkiliṭṭhañ ca yaṃ vataṃ  
+ saṃkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ    Dhp      
+  
+  
+                                                                            b  Ch  Dhp a  J āpajjati H āpajjaneti  d  Dhp a  J  SST tatiyaṃ  
+ triṣṭubh  GDhp      PDhp      Udāna v      
+   c  L garukam  Faus paneti 
+ ab jagatī  cd triṣṭubh  PDhp      Udāna v      
+   a  Ch  Dhp a  J  SST  gahito  b  Ch  Dhp a  J hattham e   H  kaddhati 
+ L  kaḍhati  c  H  L  matthaṃ  d  Dhp a nirayāya u  H  L niriyāy 
+ GDhp      PDhp      Udāna v       
+   a  Ch  Dhp a  J  SST sithilaṃ H  L siṭhilaṃ  b  Ch  Dhp a saṃkiliṭṭhañ 
+ H kiliṭṭhañ  c  Ch  J saṅkassaraṃ  Faus  caryaṃ 
+ Udāna v      
+  
+  page      
+    Dhammapada 
+ kayirañ ce kayirāth  enaṃ daḷham enaṃ parakkame   
+ saṭhilo hi paribbājo bhiyyo ākirate rajaṃ    Dhp      
+  
+ akataṃ dukkataṃ seyyo pacchā tapati dukkataṃ   
+ katañ ca sukataṃ seyyo yaṃ katvā nānutappati    Dhp      
+  
+ nagaraṃ yathā paccantaṃ guttaṃ santarabāhiraṃ  
+ evaṃ gopetha attānaṃ  khaṇo ve mā upaccagā   
+ khaṇātītā hi socanti nirayamhi samappitā    Dhp      
+  
+ alajjitāye lajjanti lajjitāye na lajjare  
+ micchādiṭṭhisamādānā sattā gacchanti duggatiṃ    Dhp      
+  
+  
+                                                                            a  Ch  H  J  SST kayirā ce L kayira ce  Faus kayrāth  c  Ch  SST 
+ sithilo H  L siṭhilo J sathilo 
+ Udāna v      
+   a  Ch  H  L dukkaṭaṃ  b  Ch dukkaṭaṃ  c  J kataṃ 
+ GDhp      a b  PDhp     a b  a b  Udāna v       a b  c d        ab  
+   a  H yathā nagaraṃ  d  Ch  J vo  f  H  L niriyamhi 
+ GDhp      PDhp       c f      c f  a b  Udāna v      c d  c f       
+ a d  d f       d f 
+   b  L na lajjanti 
+ GDhp      PDhp     a b  e f  Udāna v      a b  e f 
+  
+  page      
+     Nirayavagga    
+ abhaye bhayadassino bhaye cābhayadassino  
+ micchādiṭṭhisamādānā sattā gacchanti duggatiṃ    Dhp      
+  
+ avajje vajjamatino vajje cāvajjadassino  
+ micchādiṭṭhisamādānā sattā gacchanti duggatiṃ    Dhp      
+  
+ vajjañ ca vajjato ñatvā avajjañ ca avajjato  
+ sammādiṭṭhisamādānā sattā gacchanti suggatiṃ   ḥ   Dhp      
+  
+ Nirayavaggo dvavīsatimo 
+  
+  
+                                                                            b  Dhp a  H  L ca abhayaGDhp      PDhp     c f  Udāna v      c f 
+   a  H vajjadassino L vajjāmatino  b  Dhp a  H  L ca avajjaPDhp      c d  Udāna v      e f 
+   c d  Udāna v      e f 
+   H  L niriya 
+  page      
+    
+     Nāgavagga 
+ ahaṃ nāgo va saṃgāme cāpāto patitaṃ saraṃ  
+ ativākyaṃ titikkhissaṃ dussīlo hi bahujjano    Dhp      
+  
+ dantaṃ nayanti samitiṃ dantaṃ rājābhirūhati  
+ danto seṭṭho manussesu yo tivākyaṃ titikkhati    Dhp      
+  
+ varam assatarā dantā ājānīyā ca sindhavā  
+ kuñjarā ca mahānāgā  attadanto tato varaṃ    Dhp      
+  
+ na hi etehi yānehi gaccheyya agataṃ disaṃ  
+ yath  attanā sudantena danto dantena gacchati    Dhp      
+  
+  
+                                                                            a  Ch  J  SST saṅgāme  b  Ch cāpato 
+ GDhp      PDhp      Udāna v        Rau     
+   b  L  bhirūyhati  d  Dhp a tivākyan 
+ PDhp     Udāna v       
+   b  Dhp a vā  H sindhuvā  c  Dhp a vā 
+ GDhp      PDhp     Udāna v       
+   c  Ch  J  SST yathāttanā 
+ GDhp      PDhp     a  c d  Udāna v        
+  
+  page      
+     Nāgavagga    
+ dhanapālako nāma kuñjaro kaṭukapabhedano dunnivārayo  
+ baddho kabalaṃ na bhuñjati  sumarati nāgavanassa kuñjaro    Dhp      
+  
+ middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī  
+ mahāvarāho va nivāpapuṭṭho punappunaṃ gabbham upeti mando    Dhp      
+  
+ idaṃ pure cittam acāri cārikaṃ yenicchakaṃ yatthakāmaṃ yathāsukhaṃ  
+ tad ajj  ahaṃ niggahessāmi yoniso hatthippabhinnaṃ viya aṃkusaggaho    Dhp      
+  
+ appamādaratā hotha  sacittam anurakkhatha   
+ duggā uddharath  attānaṃ paṃke sanno va kuñjaro    Dhp      
+  
+                                                                            a  Ch  pālo  b  Ch  bhedano Dhp a  J  SST  ppabhedano L  ppabhedo  
+ c  Ch kabaḷaṃ H kavaraṃ 
+ vaitālīya  Rau     
+   a  D ve     for ca  b  D niddhāyitā  c  H  L  vuṭṭho 
+ triṣṭubh  Udāna v       
+   a  H cittam acārikaṃ L cittam icārikaṃ cārikaṃ     SST cāritaṃ  c  H 
+ nigahissāmi L niggahissāmi  d  Ch  Dhp a  H  J  SST aṅkusajagatī  Udāna v      
+  
+  page      
+    Dhammapada 
+  
+ sace labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāridhīraṃ  
+ abhibhuyya sabbāni parissayāni careyya ten  attamano satīmā    Dhp      
+  
+ no ce labhetha nipakaṃ sahāyaṃ saddhiṃcaraṃ sādhuvihāridhīraṃ  
+ rājā va raṭṭhaṃ vijitaṃ pahāya eko care mātaṅg  araññe va nāgo    Dhp      
+  
+ ekassa caritaṃ seyyo  n  atthi bāle sahāyatā   
+ eko care na ca pāpāni kayirā appossukko mātaṅg  araññe va nāgo    Dhp      
+  
+  
+                                                                            d  Ch  Dhp a  H  J  SST paṅke 
+ a  c d  GDhp     a  c d  a  c d  Udāna v         a b       a  d 
+   b  SST saddhiñ   cd  H omits  
+ triṣṭubh  PDhp    Udāna v        GM III            
+   ab  H omits  b  SST saddhiñ   c  H rājā   beginning of gap  d  Ch  J 
+ mātaṅgaraññe  i e  compound  
+ triṣṭubh  PDhp     Udāna v           GM III            
+   c  Faus kayrā  d  Ch  J mātaṅgaraññe  i e  compound  L mataṃgaab anuṣṭubh  cd triṣṭubh  PDhp     Udāna v         GM III            
+  
+  page      
+     Nāgavagga    
+ atthamhi jātamhi sukhā sahāyā tuṭṭhī sukhā yā itarītarena   
+ puññaṃ sukhaṃ jīvitasaṃkhayamhi  sabbassa dukkhassa sukhaṃ pahānaṃ    Dhp      
+  
+ sukhā matteyyatā loke atho petteyyatā sukhā   
+ sukhā sāmaññatā loke atho brahmaññatā sukhā    Dhp      
+  
+ sukhaṃ yāvajarā sīlaṃ sukhā saddhā patiṭṭhitā  
+ sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ    Dhp      
+  
+ Nāgavaggo tevīsatimo 
+  
+                                                                            b  L bhuṭṭhī  c  Ch  J  SST  saṅkhayamhi 
+ triṣṭubh  PDhp     Udāna v       a  c  b  d 
+   a  L metteyyatā  b  L metteyatā  
+ PDhp     Udāna v       
+   a  L  jaraṃ  d  Faus pāpān  L pāpāna a   read pāpānam m c  With Ck 
+ Cc    
+ a b  PDhp    a b  c d     c d  Udāna v       
+  
+  page      
+    
+     Taṇhāvagga 
+ manujassa pamattacārino taṇhā vaḍḍhati māluvā viya   
+ so palavatī hurāhuraṃ phalam icchaṃ va vanasmi vānaro    Dhp      
+  
+ yaṃ esā sahatī jammī taṇhā loke visattikā  
+ sokā tassa pavaḍḍhanti abhivaṭṭhaṃ va bīraṇaṃ    Dhp      
+  
+ yo c  etaṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ  
+ sokā tamhā papatanti udabindu va pokkharā    Dhp      
+  
+ taṃ vo vadāmi bhaddaṃ vo yāvant  ettha samāgatā  
+ taṇhāya mūlaṃ khanatha usīrattho va bīraṇaṃ  
+ mā vo naḷaṃ va soto va Māro bhañji punappunaṃ    Dhp      
+  
+                                                                            c  Ch plavatī J  SST plavati  d  Dhp a vanasmiṃ SST vanamhi  L 
+ inserts māravatthuṃ after vānaro 
+ vaitālīya  GDhp     PDhp      Udāna v     
+   a  J yā  Ch sahate  d  Dhp a  SST abhivaṭṭaṃ Faus  J abhivaḍḍhaṃ L 
+ abhivuṭṭhaṃ  cf  CPD s v  abhivaṭṭa  
+ PDhp      Udāna v      
+   a  Ch sahate  d  J  bindū 
+ PDhp      Udāna v       
+  
+  page      
+     Taṇhāvagga    
+ yathāpi mūle anupaddave daḷhe chinno pi rukkho punar eva rūhati  
+ evam pi taṇhānusaye anūhate nibbattati dukkham idaṃ punappunaṃ    Dhp      
+  
+ yassa chattiṃsatī sotā manāpassavanā bhusā   
+ vāhā vahanti duddiṭṭhaṃ saṃkappā rāganissitā    Dhp      
+  
+ savanti sabbadā sotā  latā ubbhijja tiṭṭhati  
+ tañ ca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha    Dhp      
+  
+ saritāni sinehitāni ca somanassāni bhavanti jantuno  
+  
+                                                                            c  Ch  Dhp a  J  L  SST khaṇatha  e  J  L nalaṃ  SST vā soto va 
+ a b  GDhp     a ab  a d  PDhp     a d  a d  Udāna v       
+   c  Dhp a evaṃ  d  Ch  Dhp a nibbattatī 
+ jagatī  PDhp      Udāna v        Rau     
+   a  Ch  J chattiṃsati  b  Ch  savanā SST  ssavaṇā  c  L mahāvahanti  
+ Ch duddiṭṭhiṃ SST  diṭṭhiṃ  d  Ch  J  L  SST saṅkappā 
+ PDhp      Udāna v       
+   a  Dhp a  SST sabbadhī Ch  L sabbadhi 
+ a  Isibhās     a 
+  
+  page      
+    Dhammapada 
+ te sātasitā sukhesino te ve jātijarūpagā narā    Dhp      
+  
+ tasiṇāya purakkhatā pajā parisappanti saso va bādhito   
+ saññojanasaṅgasattakā dukkham upenti punappunaṃ cirāya    Dhp      
+  
+ tasiṇāya purakkhatā pajā parisappanti saso va bādhito   
+ tasmā tasiṇaṃ vinodaye bhikkhu ākaṃkha virāgam attano    Dhp      
+  
+ yo nibbanatho vanādhimutto vanamutto vanam eva dhāvati  
+ taṃ puggalam eva passatha  mutto bandhanam eva dhāvati    Dhp      
+  
+                                                                            vaitālīya  GDhp     PDhp      Udāna v     
+   b  Ch bandhito  c  Ch  J  L saṃyoj   Ch  L  saṃga   Dhp a  sattā 
+ abc vaitālīya  d aupacchandasaka  GDhp     PDhp      Udāna v      Rau 
+     
+   a  L purekkhitā  b  H  sappanti  end of gap  Ch bandhito  d  Ch omits 
+ bhikkhu  Ch ākaṅkhanta Dhp a ākaṅkha J  SST ākaṅkhī 
+ vaitālīya  
+  
+  page      
+     Taṇhāvagga    
+  
+ na taṃ daḷhaṃ bandhanam āhu dhīrā yad āyasaṃ dārujaṃ pabbajañ ca  
+ sārattarattā maṇikuṇḍalesu puttesu dāresu ca yā apekhā    Dhp      
+  
+ etaṃ daḷhaṃ bandhanam āhu dhīrā ohārinaṃ sithilaṃ duppamuñcaṃ  
+ etam pi chetvāna paribbajanti anapekhino kāmasukhaṃ pahāya    Dhp      
+  
+ ye rāgarattānupatanti sotaṃ sayaṃkataṃ makkaṭako va jālaṃ  
+ etam pi chetvāna vajanti dhīrā anapekhino sabbadukkhaṃ pahāya    Dhp      
+  
+  
+                                                                            a  H nibbānattho L nibbanattho  c  Ch etha 
+ a aupacchandasaka  bcd vaitālīya  GDhp     PDhp      Udāna v       
+   b  Dhp a  SST babbajañ ca L pabbajaṃ vā  d  Ch apekkhā 
+ triṣṭubh  GDhp      PDhp      Udāna v      
+   a  L evaṃ  d  Ch  J  SST anapekkhino 
+ triṣṭubh  GDhp      PDhp      Udāna v      
+   b  SST sayaṅ   c  L etaṃ pi  d  Ch  J  SST anapekkhino 
+ triṣṭubh  GDhp     
+  
+  page      
+    Dhammapada 
+ muñca pure muñca pacchato majjhe muñca bhavassa pāragū   
+ sabbattha vimuttamānaso na punañ jātijaraṃ upehisi    Dhp      
+  
+ vitakkapamathitassa jantuno tibbarāgassa subhānupassino  
+ bhiyyo taṇhā pavaḍḍhati  esa kho daḷhaṃ karoti bandhanaṃ    Dhp      
+  
+ vitakkūpasame ca yo rato asubhaṃ bhāvayatī sadā sato  
+ esa kho vyantikāhiti esa cchecchati Mārabandhanaṃ    Dhp      
+  
+  
+                                                                            d  Ch punaṃ E  H  J  L  SST puna jāti   E upehissi 
+ vaitālīya  GDhp      PDhp      Udāna v       
+   a  Ch  E vitakkamathitassa  c  SST bhīyo  H pavaḍḍhanti  d  E  L 
+ gāḷhaṃ for daḷham 
+ vaitālīya  Udāna v     
+   a  E  pasama  b  Ch bhāvayate H bhavayeyati     J bhāvayati  c  Ch  H 
+ byanti  E byattikāhati  but byantikāhiti in E ct     Dhp a IV       Faus 
+ viyantikāhitī L byantikāhati  d  E esa cchejjati H esā cche  Ch  J  L esachevaitālīya  a b  Udāna v     
+  
+  page      
+     Taṇhāvagga    
+ niṭṭhaṅgato asantāsī vītataṇho anaṅgaṇo  
+ acchidda bhavasallāni antimo yaṃ samussayo    Dhp      
+  
+ vītataṇho anādāno niruttipadakovido  
+ akkharānaṃ sannipātaṃ jaññā pubbāparāni ca  
+ sa ve antimasārīro mahāpañño mahāpuriso ti vuccati    Dhp      
+  
+ sabbābhibhū sabbavidū ham asmi sabbesu dhammesu anūpalitto  
+ sabbañjaho taṇhakkhaye vimutto sayaṃ abhiññāya kam uddiseyyaṃ    Dhp      
+  
+ sabbadānaṃ dhammadānaṃ jināti  sabbaṃ rasaṃ dhammaraso jināti   
+ sabbaṃ ratiṃ dhammaratī jināti  taṇhakkhayo sabbadukkhaṃ jināti    Dhp      
+  
+                                                                            a  Dhp a  J niṭṭhaṃ gato L naṭṭhaṃ gato  c  Ch  J acchindi E achindi  
+ but acchinna in E ct     Dhp a IV        SST acchiddi 
+ GDhp    a   a  c d  Udāna v       
+   f  E omits mahāpañño  but mahāpañño is commented on in E ct     
+ Dhp a IV       Faus  mahāpuriso  
+ PDhp      a  Udāna v     c  
+   c  E sabbaṃjaho  H  L  kkhayo 
+ triṣṭubh  Udāna v      
+  
+  page      
+     Dhammapada 
+  
+ hananti bhogā dummedhaṃ no ce pāragavesino   
+ bhogataṇhāya dummedho hanti aññe va attanaṃ    Dhp      
+  
+ tiṇadosāni khettāni  rāgadosā ayaṃ pajā   
+ tasmā hi vītarāgesu dinnaṃ hoti mahapphalaṃ    Dhp      
+  
+ tiṇadosāni khettāni  dosadosā ayaṃ pajā   
+ tasmā hi vītadosesu dinnaṃ hoti mahapphalaṃ    Dhp      
+  
+ tiṇadosāni khettāni  mohadosā ayaṃ pajā   
+ tasmā hi vītamohesu dinnaṃ hoti mahapphalaṃ    Dhp      
+  
+ tiṇadosāni khettāni  icchādosā ayaṃ pajā   
+ tasmā hi vigaticchesu dinnaṃ hoti mahapphalaṃ    Dhp      
+  
+                                                                            abcd  SST jiṇāti  c  Ch  rati  
+ triṣṭubh  Udāna v        
+   b  Dhp a  SST ve E ca  c  E dummedhā  d  E attānaṃ  
+ Udāna v        
+   b  H  dosāni 
+ PDhp      Udāna v        
+   PDhp      Udāna v        
+   PDhp      Udāna v        
+  
+  page      
+     Taṇhāvagga     
+  
+ Taṇhāvaggo catuvīsatimo 
+  
+                                                                            c  H  L vita icchesu  
+ Udāna v            
+  
+  page      
+     
+     Bhikkhuvagga 
+ cakkhunā saṃvaro sādhu  sādhu sotena saṃvaro   
+ ghāṇena saṃvaro sādhu  sādhu jivhāya saṃvaro    Dhp      
+  
+ kāyena saṃvaro sādhu  sādhu vācāya saṃvaro   
+ manasā saṃvaro sādhu sādhu sabbattha saṃvaro  
+ sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati    Dhp      
+  
+ hatthasaññato pādasaññato vācāya saññato saññatuttamo   
+ ajjhattarato samāhito eko santusito tam āhu bhikkhuṃ    Dhp      
+  
+ yo mukhasaññato bhikkhu mantabhāṇī anuddhato  
+ atthaṃ dhammañ ca dīpeti madhuraṃ tassa bhāsitaṃ    Dhp      
+  
+                                                                            c  Ch  E  H  L ghānena 
+ Udāna v       a d  
+   e  E saṃvaro H  L susaṃvuto  f  L pamuñcati  
+ GDhp     PDhp    a b  e f  Udāna v        f  cf     d 
+   a  Ch  saṃyato  saṃyato  b  Ch saṃyato  Ch E saṃyatuttamo  d  E 
+ bhikkhū ti  
+ abc vaitālīya  d aupacchandasaka  GDhp     PDhp     Udāna v       
+  
+  page      
+     Bhikkhuvagga     
+  
+ dhammārāmo dhammarato dhammaṃ anuvicintayaṃ  
+ dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati    Dhp      
+  
+ salābhaṃ nātimaññeyya nāññesaṃ pihayaṃ care   
+ aññesaṃ pihayaṃ bhikkhu samādhiṃ nādhigacchati    Dhp      
+  
+ appalābho pi ce bhikkhu salābhaṃ nātimaññati  
+ taṃ ve devā pasaṃsanti suddhājīviṃ atanditaṃ    Dhp      
+  
+ sabbaso nāmarūpasmiṃ yassa n  atthi mamāyitaṃ  
+ asatā ca na socati sa ve bhikkhū ti vuccati    Dhp      
+  
+  
+                                                                            a  Ch  samyato  b  H mittābhānī  c  J dhammaṃ  L dhīgheti      d  L  
+ madhuran tassa 
+ GDhp           PDhp     Udāna v       
+   GDhp     PDhp      Udāna v       Rau      a  Utt      c 
+   b  Dhp a  SST pihayañ  c  L pihayi 
+ GDhp     PDhp     Udāna v       
+   b  Dhp a nādhigacchati  misprint   Dhp a IV       reads nātimaññati  
+ GDhp     PDhp     c d  Udāna v         
+   GDhp     b d  Udāna v         b  Āyār          
+  
+  page      
+     Dhammapada 
+ mettāvihārī yo bhikkhu pasanno buddhasāsane  
+ adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ    Dhp      
+  
+ siñca bhikkhu imaṃ nāvaṃ  sittā te lahum essati   
+ chetvā rāgañ ca dosañ ca tato nibbānam ehisi    Dhp      
+  
+ pañca chinde pañca jahe pañca vuttaribhāvaye   
+ pañcasaṅgātigo bhikkhu oghatiṇṇo ti vuccati    Dhp      
+  
+ jhāya bhikkhu mā ca pāmado mā te kāmaguṇe bhamassu cittaṃ   
+ mā lohaguḷaṃ gilī pamatto  mā kandī  dukkham idan  ti ḍayhamāno   ḥ   Dhp      
+  
+  
+                                                                            d  Ch  J  L saṅkhārGDhp     PDhp    a d  Udāna v        
+   c  J rāgaṃ ca dosaṃ ca  d  J nibbāṇaṃ SST nibbāṇam 
+ GDhp     PDhp     Udāna v       
+   b  Ch  J  SST c  uttari  H  L pañcutarivibhāvaye 
+ GDhp     Rau     
+   a  H jhāyī  Ch  Dhp a  SST pamādo  cf  Brough  GDhp p       and note 
+ the reading pāmado at Ja VI        in Mss  no                 and 
+      of the National Library  Bangkok  cf  JPTS X        pp          
+  
+  page      
+     Bhikkhuvagga     
+  
+ n  atthi jhānaṃ apaññassa paññā n  atthi ajhāyato   
+ yamhi jhānañ ca paññā ca sa ve nibbānasantike    Dhp      
+  
+ suññāgāraṃ paviṭṭhassa santacittassa bhikkhuno  
+ amānusī ratī hoti sammā dhammaṃ vipassato    Dhp      
+  
+ yato yato sammasati khandhānaṃ udayavyayaṃ  
+ labhatī pītipāmojjaṃ amataṃ tam vijānataṃ    Dhp      
+  
+ tatrāyam ādi bhavati idha paññassa bhikkhuno   
+ indriyaguttī santuṭṭhī pātimokkhe ca saṃvaro   
+ mitte bhajassu kalyāṇe suddhājīve atandite    Dhp      
+  
+                                                                            b  Ch ramessu SST vḷ  bhavassu  c  SST giḷī  d  Dhp a  SST kandi H 
+ kanda L kaṇḍi  L ḍeyhaa vaitālīya  bcd aupacchandasaka  GDhp     b a  PDhp    b d  Udāna v 
+         
+   b  Dhp a  SST ajjhāyato H ajhāyino  c  L paññañ ca  d  J  SST 
+ nibbāṇaGDhp     PDhp     Udāna v       
+   b  H upasantassa for santacittassa  c  Ch  J rati 
+ GDhp     PDhp     Udāna v       
+   b  Ch  H  J  SST  bbayaṃ L  bbaya ṃ   c  L labbhati  d  L amatan 
+ taṃ 
+ GDhp     PDhp     a b  Udāna v        c          
+  
+  page      
+     Dhammapada 
+  
+ paṭisanthāravutt  assa ācārakusalo siyā   
+ tato pāmojjabahulo dukkhass  antaṃ karissati    Dhp      
+ vassikā viya pupphāni maddavāni pamuñcati  
+ evaṃ rāgañ ca dosañ ca vippamuñcetha bhikkhavo    Dhp      
+  
+ santakāyo santavāco santavā susamāhito  
+ vantalokāmiso bhikkhu upasanto ti vuccati    Dhp      
+  
+ attanā coday  attānaṃ paṭimāse attam attanā   
+ so attagutto satimā sukhaṃ bhikkhu vihāhisi    Dhp      
+  
+                                                                            c  Ch  Dhp a  gutti SST  gutto  Ch  Dhp a  SST santuṭṭhi  ef  Ch  J take 
+ this With      as do some editions of the parallel versions  
+ GDhp         a d  PDhp     e f     a b  a b  Udāna v       c d   c d  
+       a b   e       a   f        d       b  
+   a  Ch  SST  vuty assa H  L patisaṇṭhāravuty assa J  vutty assa  b  H 
+ ācāraṇaku   d  J karissasi 
+ GDhp     a c  PDhp    c e  a c  Udāna v      c e  
+   c  J rāgaṃ ca dosaṃ ca 
+ GDhp      PDhp      Udāna v        c  Isibhās    c 
+   b  L santamano samāhito 
+ PDhp     Udāna v       
+  
+  page      
+     Bhikkhuvagga     
+  
+ attā hi attano nātho attā hi attano gati   
+ tasmā saññāmay  attānaṃ assaṃ bhadraṃ va vāṇijo    Dhp      
+  
+ pāmojjabahulo bhikkhu pasanno Buddhasāsane  
+ adhigacche padaṃ santaṃ saṃkhārūpasamaṃ sukhaṃ    Dhp      
+  
+ yo have daharo bhikkhu yuñjate Buddhasāsane  
+ so maṃ lokaṃ pabhāseti abbhā mutto va candimā   ḥ   Dhp      
+  
+ Bhikkhuvaggo pañcavīsatimo 
+  
+  
+                                                                            a  L codayantānaṃ  b  Ch paṭimaṃsetha attanā Dhp a  J paṭimāse ttam 
+ H paṭimāse hi attano L paṭimāse hi attānaṃ 
+ GDhp      
+   c  Ch  H saṃyamam attānaṃ Dhp a  SST saññamay 
+ PDhp      Udāna v         Rau     
+   d  Ch  H  J  L saṅkhāra  c  GDhp    a  c  a  Udāna v      c  b d         
+   b  Ch  Dhp a  J  L  SST yuñjati  c  Dhp a  J  L so imaṃ  L pabbāseti  
+ H candimā ti 
+ Udāna v       
+   L pañcavaggo pañcavisatimo       
+  
+  page      
+     
+     Brāhmaṇavagga 
+ chinda sotaṃ parakkamma  kāme panuda brāhmaṇa   
+ saṃkhārānaṃ khayaṃ ñatvā akataññū si brāhmaṇa    Dhp      
+  
+ yadā dvayesu dhammesu pāragū hoti brāhmaṇo  
+ ath  assa sabbe saṃyogā atthaṃ gacchanti jānato    Dhp      
+  
+ yassa pāraṃ apāraṃ vā pārāpāraṃ na vijjati  
+ vītaddaraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ jhāyiṃ virajam āsīnaṃ katakiccaṃ anāsavaṃ  
+ uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+                                                                            c  Ch  H  J  L saṅkhārGDhp     PDhp     Udāna v        
+   d  SST atthaṅ 
+ GDhp     PDhp     Udāna v        
+   a  Dhp a va  c  H visāraddaraṃ L vihaddaraṃ  Ch  Dhp a  J  SST 
+ visaṃyuttaṃ H visayutta  
+ GDhp     PDhp     a b  d  Udāna v             c           d  Utt 
+      d 
+  
+  page      
+     Brāhmaṇavagga     
+  
+ divā tapati ādicco  rattiṃ ābhāti candimā   
+ sannaddho khattiyo tapati  jhāyī tapati brāhmaṇo   
+ atha sabbam ahorattiṃ Buddho tapati tejasā    Dhp      
+  
+ bāhitapāpo ti brāhmaṇo samacariyā samaṇo ti vuccati   
+ pabbājayam attano malaṃ tasmā pabbajito ti vuccati    Dhp      
+  
+ na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo   
+ dhī brāhmaṇassa hantāraṃ  tato dhī y  assa muñcati    Dhp      
+  
+  
+                                                                            L omits      b  Ch  kiccam a   c  Ch uttamattham H uttamattaṃ  
+ GDhp           PDhp     c d     c d  a b  d  Udāna v         c d  
+         d  Utt      d 
+   b  Ch rattim  c  Faus khatyo  e  SST  rattaṃ 
+ GDhp     e  PDhp     Udāna v       
+   a  H  L omit ti  cd  H omits  c  Dhp a  J pabbājay  L pabbājeyyam  d  L 
+ pabbājito 
+ vaitālīya  GDhp     Udāna v         
+   a  Faus hareyya H  L pahāreyya 
+ GDhp     PDhp     Udāna v       
+  
+  page      
+     Dhammapada 
+ na brāhmaṇass  etad akiñci seyyo yadā nisedho manaso piyehi   
+ yato yato hiṃsamano nivattati tato tato sammati m eva dukkhaṃ    Dhp      
+  
+ yassa kāyena vācāya manasā n  atthi dukkataṃ  
+ saṃvutaṃ tīhi ṭhānehi tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yamhā dhammaṃ vijāneyya sammāsambuddhadesitaṃ  
+ sakkaccaṃ taṃ namasseyya aggihuttaṃ va brāhmaṇo    Dhp      
+  
+ na jaṭāhi na gottena na jaccā hoti brāhmaṇo   
+ yamhi saccañ ca dhammo ca so sukhī so ca brāhmaṇo    Dhp      
+  
+                                                                            a  L etaṃ kiñca 
+ abd triṣṭubh  c jagatī  GDhp     Udāna v       
+   b  Ch  Dhp a dukkaṭaṃ L dukkaṭṭaṃ 
+ GDhp     PDhp     Udāna v         d  Utt      d 
+   a  L yamhi  c  H  L  kaccan taṃ 
+ GDhp    a  c d  PDhp    a  c d  a b  d     a b  d  Udāna v        
+  
+  page      
+     Brāhmaṇavagga     
+  
+ kin te jaṭāhi dummedha  kin te ajinasāṭiyā   
+ abbhantaran te gahanaṃ  bāhiraṃ parimajjasi    Dhp      
+  
+ paṃsukūladharaṃ jantuṃ kisaṃ dhamanisanthataṃ  
+ ekaṃ vanasmiṃ jhāyantaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ na cāhaṃ brāhmaṇaṃ brūmi yonijaṃ mattisambhavaṃ  
+ bhovādi nāma so hoti sa ve hoti sakiñcano   
+ akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+  
+                                                                            d  H  L suci for sukhī 
+ GDhp    Udāna v       
+   a  J  SST kiṃ  b  J  SST kiṃ  L  sātiyā  c  H  J  SST gahaṇaṃ  Rau 
+     suggests reading garahaṃ for gahaṇaṃ  
+ GDhp    Udāna v       
+   b  H  saṇṭagataṃ L  sandhataṃ  c  L jāyantaṃ   
+ GDhp     a  c d  Udāna v           b  Th    b  Utt    b  d  Utt      d 
+   b  L mattisaṇṭhavaṃ  c  Dhp a  J  SST  vādī  d  Ch  SST ce  e  Dhp a 
+ akiñcanam 
+ GDhp     Udāna v         d  Utt      d 
+  
+  page      
+     Dhammapada 
+ sabbasaṃyojanaṃ chetvā yo ve na paritassati  
+ saṅgātigaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇam    Dhp      
+  
+ chetvā nandhiṃ varattañ ca sandānaṃ sahanukkamaṃ  
+ ukkhittapaḷighaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ akkosaṃ vadhabandhañ ca aduṭṭho yo titikkhati  
+ khantībalaṃ balānīkaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ akkodhanaṃ vatavantaṃ sīlavantaṃ anussutaṃ  
+ dantaṃ antimasārīraṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+  
+                                                                            c  H  L saṃgāti  E sakaṭigaṃ  ka mistake for similar gā   J visaññuttaṃ  
+ d  Dhp a aham 
+ a b  d  Udāna v         c d          d  Utt      d 
+   a  Ch  J naddhiṃ Dhp a  SST nandiṃ L nindi  b  J  SST sandāmaṃ 
+ GDhp     Udāna v         d  Utt      d 
+   a  J  bandhaṃ ca  c  Dhp a  J khantiGDhp     Udāna v         d  Utt      d  Rau     
+   a  H vatavanti  b  Ch anussadaṃ H  L anusukkam 
+ GDhp       Udāna v         d  Utt      d 
+  
+  page      
+     Brāhmaṇavagga     
+ vāri pokkharapatte va āragge r iva sāsapo  
+ yo na lippati kāmesu tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yo dukkhassa pajānāti idh  eva khayam attano  
+ pannabhāraṃ visaññuttaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ  
+ uttamatthaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ asaṃsaṭṭhaṃ gahaṭṭhehi anāgārehi c  ūbhayaṃ  
+ anokasāriṃ appicchaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+  
+                                                                            c  Ch limpati 
+ GDhp     PDhp     Udāna v         d  Utt      d 
+   a  SST pajāṇāti  b  Dhp a khayaṃ  c  Ch  Dhp a  J  L  SST 
+ visaṃyuttaṃ 
+ GDhp           Udāna v         d  Utt      d 
+   c  Ch  SST uttamattham aGDhp           PDhp     Udāna v         d  Utt      d 
+   c  Ch  sārim  a H anokkesari L  sāraṃ 
+ GDhp     PDhp     Udāna v         a  Utt     c  d  Utt      d 
+  
+  page      
+     Dhammapada 
+ nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca  
+ yo na hanti na ghāteti tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ aviruddhaṃ viruddhesu attadaṇḍesu nibbutaṃ  
+ sādānesu anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yassa rāgo ca doso ca māno makkho ca pātito  
+ sāsapo r iva āraggā tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ akakkasaṃ viññāpaniṃ giraṃ saccaṃ udīraye  
+ yāya nābhisaje kañci tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yo dha dīghaṃ va rassaṃ vā aṇuṃthūlaṃ subhāsubhaṃ  
+ loke adinnaṃ nādiyate tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+                                                                            GDhp     c  PDhp     c  Udāna v         a  Āyār           b  Utt      
+        d  d  Utt      d 
+   b  H nibbānaṃ 
+ GDhp     a b  d  Udāna v         b  see discussion in C  Caillat  BEI 
+                 pp         c d            d  Utt      d 
+   c  H āraggo 
+ GDhp     a b  d  Udāna v         d  Utt      d 
+   a  L  viññāpanaṃ SST viññāpāṇiṃ  b  Ch saccam u  L parasaccaṃ 
+ GDhp     PDhp     Udāna v         d  Utt      d 
+  
+  page      
+     Brāhmaṇavagga     
+  
+ āsā yassa na vijjanti asmiṃ loke paramhi ca  
+ nirāsayaṃ visaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yassālayā na vijjanti aññāya akathaṃkathī  
+ amatogadhaṃ anuppattaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yo dha puññañ ca pāpañ ca ubho saṅgaṃ upaccagā  
+ asokaṃ virajaṃ suddhaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+  
+                                                                            b  L anuthulaṃ  c  Ch  Dhp a  H  J  L nādiyati 
+ GDhp     Udāna v         d  Utt      d 
+   c  Ch nirāsāsaṃ 
+ b  PDhp    b  Udāna v         d  Utt      d 
+   b  Dhp a  SST akathaṅ   c  Ch  Dhp a amatogadham aUdāna v         d  Utt      d 
+   b  Ch saṅgam u  H  L saṃgaṃ 
+ GDhp            a b  d  Udāna v         c d                a  Dasav 
+     a  d  Utt      d 
+  
+  page      
+     Dhammapada 
+ candaṃ va vimalaṃ suddhaṃ vippasannam anāvilaṃ  
+ nandībhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yo imaṃ palipathaṃ duggaṃ saṃsāraṃ moham accagā  
+ tiṇṇo pāragato jhāyī anejo akathaṃkathī  
+ anupādāya nibbuto tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yo dha kāme pahatvāna anāgāro paribbaje  
+ kāmābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+  
+                                                                            c  SST  kkhīnaṃ 
+ GDhp           Udāna v      C   d  Utt      d 
+   a  Faus  SST yo maṃ H yo imam L yā imaṃ  Dhp a  SST paḷipathaṃ 
+ F palipataṃ H paripathaṃ  b  Dhp a mohaṃ F mohaṃ uccagā L 
+ mohanuccagā  c  L yāyi  d  F  L aneñjo  Dhp a  SST akathaṅGDhp       Udāna v         d  Utt      d 
+   a  Ch  F  L pahantvāna H pahantāna J pahātvāna  b  F pariccajje 
+  Dhp a IV        pabbajati   c  Ch  J  SST kāmabhavaGDhp           Udāna v           d  Utt      d 
+  
+  page      
+     Brāhmaṇavagga     
+ yo dha taṇhaṃ pahatvāna anāgāro paribbaje  
+ taṇhābhavaparikkhīṇaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā  
+ sabbayogavisaṃyuttaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ hitvā ratiñ ca aratiñ ca sītibhūtaṃ nirūpadhiṃ  
+ sabbalokābhibhuṃ vīraṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ cutiṃ yo vedi sattānaṃ upapattiñ ca sabbaso  
+  
+                                                                            a  Ch  F  H  L pahantvāna J pahātvāna  c  L  parikkhayaṃ 
+ Udāna v           d  Utt      d 
+   a  L hihantvā  F  L mānusikaṃ  Dhp a yogam  misprint     b  Dhp a 
+ yogam  F upajjagā L upajhagā 
+ Udāna v         d  Utt      d 
+   a  Ch  J ratiṃ ca aratim ca Faus cāratiñ  b  F sīta  L sitabhūti nirupati  
+ c  F dhīraṃ 
+ GDhp       Udāna v         d  Utt      d 
+  
+  page      
+     Dhammapada 
+ asattaṃ sugataṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yassa gatiṃ na jānanti devā gandhabbamānusā  
+ khīṇāsavaṃ arahantaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ yassa pure ca pacchā ca majjhe ca n  atthi kiñcanaṃ  
+ akiñcanaṃ anādānaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ usabhaṃ pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ  
+ anejaṃ nhātakaṃ buddhaṃ tam ahaṃ brūmi brāhmaṇaṃ    Dhp      
+  
+ pubbenivāsaṃ yo vedi saggāpāyañ ca passati  
+ atho jātikkhayaṃ patto abhiññāvosito muni  
+ sabbavositavosānaṃ tam ahaṃ brūmi brāhmaṇaṃ   ḥ   Dhp      
+  
+                                                                            GDhp     Udāna v         d  Utt      d 
+   L omits     
+  
+ GDhp           a b  d  Udāna v         d  Utt      d 
+   b  F kiñcinaṃ  c  Dhp a akiñcanam F akiñcinaṃ  so also in F ct  
+ throughout  SST akiñcaṇaṃ 
+ GDhp     a b  d  Udāna v      A   c d        e f   d  Utt      d 
+   a  H dhīraṃ  c  F  L aneñja  Dhp a  SST nahātakaṃ  F  L ṇhātakaṃ 
+ GDhp           Udāna v         d  Utt      d 
+  
+  page      
+     Brāhmaṇavagga     
+  
+ Brāhmaṇavaggo chabbīsatimo 
+  
+ yamakaṃ appamādaṃ cittaṃ pupphaṃ bālena paṇḍitaṃ  
+ arahantaṃ sahassena pāpaṃ daṇḍena  te dasa    Dhp     
+  
+ jarā attā ca loko ca buddhaṃ sukhaṃ piyena ca  
+ kodhaṃ malañ ca dhammaṭṭhaṃ maggavaggena vīsati    Dhp     
+  
+ pakiṇṇaṃ nirayaṃ nāgo taṇhaṃ bhikkhu ca brāhmaṇo   
+ ete chabbīsatī vaggā desitādiccabandhunā    Dhp     
+  
+                                                                            a  SST vedī  b  J saggāpāyaṃ ca  c  H jiti   SST  kkhayam  d  L muṇi  
+ e  F sabbaṃ voGDhp    a d  f  Udāna v         d  Utt      d 
+   L chavīsatimo  H  brahmaṇaṃ chabbīsatimo  dhammapadagāth daṅ 
+ pvar jāv hak vak leev dau nī lee  tee nī bai ju vakgga lee yamakaṃ       
+  The Dhammapada is complete in    vaggas up to this poit  The 
+ following are the names of the vaggas  yamaka         
+       not in L  on the end of this Ms  see  Katalog  Nr     
+ a  Ch yamakappamādo J yamakappamāde  b  Ch  J paṇḍito  c  Ch  J 
+ arahanto H arahattaṃ  Ch sahassañ ca  d  J pāpa  b  Ch  J buddho  J sukha   c  Ch  J kodho  Ch  J  ṭṭho 
+  
+  page      
+     Dhammapada 
+  
+ Dhammapadaṃ niṭṭhitaṃ 
+  
+                                                                            a  Ch  J nirayo H niriyaṃ  b  Ch  H  J taṇhā  c  Ch  J chabbīsati H 
+ chavīsati sambudhena pakāsitā  
+ After   H has the verses Dhp a IV            then Dhp a IV          
+ With some slight variants  
+  
+  
+ 

@@ -1,0 +1,2255 @@
+ 
+  
+ Dhammapada 
+  
+ Input by the Sri Lanka Tripitaka Project 
+  
+  CPD Classification      
+    Vol Dh      z Dhp    f I    
+                  
+    Vol Dh      z Dhp    w I    
+                   
+ Suttantapiṭake 
+ Khuddakanikāyo 
+  Dutiyo gantho  
+ Dhammapadapāḷi 
+  
+  
+  
+ THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY  
+ COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE 
+  
+ Te t converted to Unicode  UTF    
+  This file is to be used with a UTF   font and your browsers VIEW configuration 
+ set to UTF     
+  
+ description 
+ multibyte se uence 
+ long a 
+ ā  
+ long A 
+ Ā  
+ long i 
+ ī  
+ long I 
+ Ī  
+ long u 
+ ū  
+ long U 
+ Ū  
+ vocalic r 
+ ṛ  
+ vocalic R 
+ Ṛ  
+ long vocalic r 
+ ṝ  
+ vocalic l 
+ ḷ  
+ vocalic L 
+ Ḷ  
+ long vocalic l 
+ ḹ  
+ velar n 
+ ṅ  
+ velar N 
+ Ṅ  
+ palatal n 
+ ñ  
+ palatal N 
+ Ñ  
+ retrofle  t 
+ ṭ  
+ retrofle  T 
+ Ṭ  
+ retrofle  d 
+ ḍ  
+ retrofle  D 
+ Ḍ  
+ retrofle  n 
+ ṇ  
+ retrofle  N 
+ Ṇ  
+ palatal s 
+ ś  
+ palatal S 
+ Ś  
+ retrofle  s 
+ ṣ  
+ retrofle  S 
+ Ṣ  
+ anusvara 
+ ṃ  
+ visarga 
+ ḥ  
+ long e 
+ ē  
+ long o 
+ ō  
+ l underbar 
+ ḻ  
+ r underbar 
+ ṟ  
+ n underbar 
+ ṉ  
+ k underbar 
+ ḵ  
+ t underbar 
+ ṯ  
+  
+ Unless indicated otherwise accents have been dropped in order  
+ to facilitate word search 
+  
+ For a comprehensive list of GRETIL encodings and formats see 
+ httpgretilsubuni goettingendegretilgretdiacpdf 
+ and 
+ httpgretilsubuni goettingendegretilgretdiaspdf 
+  
+ For further information see 
+ httpgretilsubuni goettingendegretilhtm 
+  
+  
+  
+  
+  
+ Namo tassa bhagavato arahato sammāsambuddhassa  
+  
+   Yamakavaggo  
+  
+   Manopubbaṅgamā dhammā manoseṭṭhā manomayā   
+ Manasā ce paduṭṭhena bhāsati vā karoti vā 
+ Tato naṃ dukkhamanveti cakkaṃva vahato padaṃ  
+  
+   Manopubbaṅgamā dhammā manoseṭṭhā manomayā   
+ Manasā ce pasannena bhāsati vā karoti vā 
+ Tato naṃ sukhamanveti chāyāva anapāyinī  
+  
+   Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me   
+ Ye taṃ upanayhanti veraṃ tesaṃ na sammati  
+  
+   Akkocchi maṃ avadhi maṃ ajini maṃ ahāsi me   
+ Ye taṃ na upanayhanti veraṃ tesūpasammati  
+  
+                  
+   Na hi verena verāni sammantīdha kudācanaṃ   
+ Averena ca sammanti esa dhammo sanantano  
+  
+   Pare ca na vijānanti mayamettha yamāmase   
+ Ye ca tattha vijānanti tato sammanti medhagā  
+  
+   Subhānupassiṃ viharantaṃ indriyesu asaṃvutaṃ   
+ Bhojanambhi amattaññuṃ kusītaṃ hīnavīriyaṃ 
+ Taṃ ve pasahati māro vāto rukkhaṃva dubbalaṃ  
+  
+   Ākrośanmāmavocanmāma jayanmāmahāpayat 
+ Atra ye upanahyante vairaṃ teṣāṃ na śāmyati  
+   Ākrośanmāmavocanamāmajayanmāmahāpayat 
+ Atra ye nopanahyante vairaṃ teṣāṃ praśāmyati  
+  Mūlasarvāstivādivinaya Kośāmbakavastu  
+   Na hi vaireṇa vairāṇi śāmyantīha kadācana 
+ Kṣāntyā vairāṇi śāmyanti eṣa dharma sanātana   
+   Paretra na vijānanti vayamatrodyamāmahe 
+ Atra ye tu vijānanti teṣāṃ śāmyanti medhakā   
+  Mūlasarvāstivādivinaya Kośāmbakavastu  
+  
+                  
+   Asubhānupassiṃ viharantaṃ indriyesu susaṃvutaṃ   
+ Bhojanambhi ca mattaññuṃ saddhaṃ āraddhavīriyaṃ 
+ Taṃ ve nappasahati māro vāto selaṃva pabbataṃ  
+  
+   Anikkasāvo kāsāvaṃ yo vatthaṃ paridahessati   
+ Apeto damasaccena na so kāsāvamarahati  
+  
+    Yo ca vantakasāvassa sīlesu susamāhito    
+ Upeto damasaccena sa ve kāsāvamarahati  
+  
+    Asāre sāramatino sāre cāsāradassino    
+ Te sāraṃ nādhigacchanti micchāsaṃkappagocarā  
+  
+    Sārañca sārato ñatvā asārañca asārato    
+ Te sāraṃ adhigacchanti sammāsaṃkappagocarā  
+  
+    Yathāgāraṃ ducchannaṃ vuṭṭhi samativijjhati    
+ Evaṃ abhāvitaṃ cittaṃ rāgo samativijjhati  
+  
+                    Yathāgāraṃ succhannaṃ vuṭṭhi na samativijjhati    
+ Evaṃ subhāvitaṃ cittaṃ rāgo na samativijjhati  
+  
+    Idha socati pecca socati pāpakārī ubhayattha socati    
+ So socati so vihaññati disvā kamma kiliṭṭhamattano  
+  
+    Idha modati pecca modati katapuñño ubhayattha modati    
+ So modati so pamodati disvā kamma visuddhimattano  
+  
+    Idha tappati pecca tappati pāpakārī ubhayattha tappati    
+ Pāpaṃ me katanti tappati bhiyyo tappati duggatiṃ gato  
+  
+    Idha nandati pecca nandati pāpakārī ubhayattha nandati    
+ Pāpaṃ me katanti nandati bhiyyo nandati suggatiṃ gato  
+  
+                  
+    Bahumpi ce sahitaṃ bhāsamāno    
+ Na takkaro hoti naro pamatto 
+ Gopova gāvo gaṇayaṃ paresaṃ 
+ Na bhāgavā sāmaññassa hoti  
+  
+    Appampi ce sahitaṃ bhāsamāno    
+ Dhammassa hoti anudhammacārī 
+ Rāgañca dosañca pahāya mohaṃ 
+ Sammappajāno suvimuttacitto 
+ Anupādiyāno idha vā huraṃ vā 
+ Sa bhāgavā sāmaññassa hoti  
+  
+ Yamakavaggo paṭhamo  
+  
+                  
+   Appamādavaggo  
+  
+   Appamādo amatapadaṃ pamādo maccuno padaṃ    
+ Appamattā na mīyanti ye pamattā yathā matā  
+  
+   Etaṃ visesato ñatvā appamādamhi paṇḍitā    
+ Appamāde pamodanti ariyānaṃ gocare ratā  
+  
+   Te jhāyino sātatikā niccaṃ daḷhaparakkamā    
+ Phusanti dhīrā nibbāṇaṃ yogakkhemaṃ anuttaraṃ  
+  
+   Uṭṭhānavato satimato sucikammassa nisammakārino    
+ Saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati  
+  
+   Uṭṭhānenappamādena saññamena damena ca    
+ Dīpaṃ kayirātha medhāvī yaṃ ogho nābhikīrati  
+  
+   Apramādo hyamṛtapadaṃ pramādo mṛtyuna padam 
+ Apramattā na bīrayante ye pramattā sadā mṛtā   
+  Udānavarga apramādavarga  V    
+ Apramadu amatapada pramadu macuno pada 
+ Apramata na miyati ye pramata yadha mutu  Prā Dha   
+   Etad viśeṣato gñatvā hyapramādasya paṇaḍita  
+ Apramāde pramodata nityamārya svagocaram  
+  Udānavarga apramādavarga  V     
+ Eta viśeṣadha ñatva apramadasa panito 
+ Apramadi pramodia ariana goyari rato  Prā Dha   
+   Utthānavata smṛtātmana śucicittasya niśamyacāriṇa  
+ Saṃyatasya hi dharmajīvino hyapramattasya yaśobhivardhati  
+  Udānavarga apramādavarga  V    
+ Uṭhanamato samtimato suyikamasa niśmacarino 
+ Sañata hi dhamajīvino apramatasa yaśidhavaḍhati  Prā Dha  A       
+   Utthānenāpramādena saṃyamena damena ca 
+ Dvīpaṃ karoti medhāvi tamoghonābhimardati  
+  Udāna apramāda  V    
+ Uṭhanena apramadena sañamena damena ca 
+ Divu karoti medhavi ya jara nabhimardati  Prā Dha  A       
+  
+                  
+   Pamādamanuyuñjanti bālā dummedhino janā    
+ Appamādañca medhāvi dhanaṃ seṭṭhaṃva rakkhati  
+  
+   Mā pamādamanuyuñjetha mā kāmarati santhavaṃ    
+ Appamatto hi jhāyanto pappoti vipulaṃ sukhaṃ  
+  
+   Pamādaṃ appamādena yadā nudati paṇḍito    
+ Paññāpāsādamāruyha asoko sokiniṃ pajaṃ 
+ Pabbataṭṭhova bhummaṭṭhe dhīro bāle avekkhati  
+  
+                  
+   Appamatto pamattesu suttesu bahujāgaro    
+ Abalassaṃva sīghasso hitvā yāti sumedhaso  
+  
+    Appamādena maghavā devānaṃ seṭṭhataṃ gato    
+ Appamādaṃ pasaṃsanti pamādo garahito sadā  
+  
+    Appamādarato bhikkhu pamāde bhaya dassivā    
+ Saṃyojanaṃ aṇuṃ thūlaṃ ḍahaṃ aggīva gacchati  
+    Appamādarato bhikkhu pamāde bhaya dassivā    
+ Abhabbo parihāṇāya nibbāṇasseva santike  
+  
+ Appamādavaggo dutiyo  
+  
+   Pramada anuyujati bala drumedhino jana 
+ Apramada tu medhavi dhana śeṭhi va rachati  Prā Dha  A        
+ Pramādamanuvartante bālādurmedhaso janā  
+ Apramādaṃ tu medhāvī dhanaṃ śreṣṭhī va rakṣate  
+  Udānavarga apramādavarga  V     
+   Pramādaṃ nānuyujyeta na kāmaratisaṃstavam 
+ Apramatta sadādhyāyī prāpanute paramaṃ sukhaṃ  
+  Udānavarga  Iv V     
+ Na i pramada samayu aprati asava chayi 
+ Apramato hi jhayatu pranoti paramu sukhu  Prā Dha   
+ Apramadi pramodiya ma gāmarati sambhamu 
+ Apramato hi jhayatu viśeṣa adhigachati  Prā Dha   
+   Pramādamapramādena yadā nudati paṇḍita  
+ Pragñāprasādamāruhya tvaśoka śokinīṃ prajām 
+ Parvatastha iva bhūmiṣṭhān dhīro bālānavekṣate  
+  Udāna apramāda  V    
+ Pragñāprasādamāruhyāśocya śocato janān 
+ Bhūmiṣṭhāniva ślaiastha sarvān prāgñonupaśyati  
+  Yogabhāṣya  T      
+ Pramada apramadena yada nudati panitu 
+ Praña prasada aruyu aśoka śoino jana 
+ Pravataṭhova bhumaṭha dhīru bala avechati  Prā Dha  A        
+   Apramatu pramateṣu suteṣu baho jagaru 
+ Abalaśa va bhadraśu hatva yati sumedhasu  
+    Apramadaṃ praśaṃsanti pramādo garhita sadā 
+ Apramādena maghavān devānāṃ śreṣṭhatāṃ gata   
+  Udānavarga  Iv V     
+ Apramadena makaha devana samidhi gatu 
+ Apramada pragjhati pramadu garahitu sada  Prā Dha  A        
+    Apramādarato bhikṣu pramāde bhayadarśaka  
+ Durgādudadharata ātmānaṃ paṅkasanna iva kuñjara   
+  Udānavarga apramāda     
+    Apramada ratu yo bhikhu pramadi bhayadarśi vā abhavu parihanae nivanaseva satii  
+  Prā Dha  B     
+  
+                  
+   Cittavaggo  
+  
+   Phandanaṃ capalaṃ cittaṃ durakkhaṃ dunnivārayaṃ    
+ Ujuṃ karoti medhāvī usukārova tejanaṃ  
+  
+   Vārijova thale khitto okamokata ubbhato    
+ Pariphandatidaṃ cittaṃ māradheyyaṃ pahātave  
+  
+   Dunniggahassa lahuno  yatthakāmanipātino    
+ Cittassa damatho sādhu cittaṃ dantaṃ sukhāvahaṃ  
+  
+                  
+   Sududdasaṃ sunipunaṃ yatthakāmanipātinaṃ    
+ Cittaṃ rakkhetha medhāvī cittaṃ guttaṃ sukhāvahaṃ  
+  
+   Dūraṅgamaṃ ekacaraṃ asarīraṃ kuhāsayaṃ    
+ Ye cittaṃ saññamessanti mokkhanti mārabandhanā  
+  
+   Anavaṭṭhitacittassa saddhammaṃ avijānato    
+ Paripalavapasādassa paññā na paripūrati  
+  
+   Anavassutacittassa ananavāhatacetaso    
+ Puññapāpapahīṇassa natthi jāgarato bhayaṃ  
+  
+   Kumbhūpamaṃ kāyamimaṃ viditvā nagarūpamaṃ cittamidaṃ ṭhapetvā    
+ Yodhetha māraṃ paññāyudhena jitañca rakkhe anivesano siyā  
+  
+   Aciraṃ vatayaṃ kāyo paṭhaviṃ adhisessati    
+ Chuddho apetaviññāṇo niratthaṃva kaliṅgaraṃ  
+  
+    Diso disaṃ yantaṃ kayirā verī vā pana verinaṃ    
+ Micchāpaṇihitaṃ cittaṃ pāpiyo naṃ tato kare  
+  
+   Spandanaṃ capalaṃ cittaṃ dūrakṣaṃ durnivāraṇam 
+ Sṛjuṃ karoti medhāvī iṣukāra iva tejanam  
+  Udānavarga citta    
+ Druraja drunivaraṇa  Prā Dha  A    
+   Vārija iva sthale kṣipatamokādoghāt samuddhṛta  
+ Pariṣpandati vai cittaṃ māradheyaṃ prahātavai  
+  Udānavarga  V    
+   Duragama ekacara aśarira guhaśaya 
+ Ye cita sañameśati mocati marabhatana  Prā Dha   
+   Anavasthīta cittasya saddharma mavijānata  
+ Pariplavalrasādasya pragñā na paripūryate  Udānavarga     V     
+ Anavaṭṭhita citasa  prā Dha  A    
+   Anavaśuta citasa  prā Dha  A    
+   Ayirena vata i kayu padhavi    Siti 
+ Ruchu    Ciñana niratha ba kaḍīgaru  prā Dha  C VO      
+ Aviraṃ vata kāyoyaṃ pṛthivīmadhiśeṣyati 
+ Śunyavyapetavigñāno nirastaṃ vā kaḍaṃgaram  Udāna varga  V     
+  
+                  
+    Na taṃ mātā pitā kayirā aññe vā pi ca ñātakā    
+ Sammāpaṇihitaṃ cittaṃ seyyaso naṃ tato kare  
+  
+ Cittavaggo tatiyo  
+  
+                  
+ Pupphavaggo  
+  
+   Ko imaṃ paṭhaviṃ vicessati a     
+  Yamalokañca imaṃ sadevakaṃ 
+ Ko dhammapadaṃ sudesitaṃ 
+ Kusalo pupphamiva pacessati  
+  
+   Sekho paṭhaviṃ vicessati    
+ Yamalokañca imaṃ sadevakaṃ 
+ Sekho dhammapadaṃ sudesitaṃ 
+ Kusalo pupphamiva pacessati  
+  
+   Pheṇūpamaṃ kāyamimaṃ viditvā 
+ Marīcidhammaṃ abhisambudhāno 
+ Chetvāna mārassa papupphakāni b  
+ Adassanaṃ maccurājassa gacche  
+  
+   Pupphāni heva pacinantaṃ byāsattamanasaṃ naraṃ    
+ Suttaṃ gāmaṃ mahoghova maccu ādāya gacchati  
+  
+   Pupphāni heva pacinantaṃ byāsattamanasaṃ naraṃ    
+ Atittaṃ yeva kāmesu antako kurute vasaṃ  
+  
+   Yathāpi bhamaro pupphaṃ vaṇṇagandhaṃ aheṭhayaṃ    
+ Paḷeti rasamādāya evaṃ gāme munī care  
+  
+   Na paresaṃ vilomāni na paresaṃ katākataṃ    
+ Attanova avekkheyya katāni akatāni ca  
+  
+                  
+   Yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ agandhakaṃ    
+ Evaṃ subhāsitā vācā aphalā hoti akubbato  
+  
+   Yathāpi ruciraṃ pupphaṃ vaṇṇavantaṃ sagandhakaṃ    
+ Evaṃ subhāsitā vācā saphalā hoti pakubbato  
+  
+     Yamaloka ji  ita sadevaka 
+ Ko dhamapada sudeśita kuśala puṣaviva payeṣiti  prā Dha  C    
+   Budhu pradha    Ṣiti yamaloka ji eta sadevaka  
+ Budhu dhamapada sudesita kuśala puṣaciva payeṣiti  prā Dha  C    
+  A  vijessati iti bahūsu  
+  B  sapupphakākānīti kesuci  
+   Suptaṃ vyāghraṃ mahogho vā mṛtyurādāya gacchati Saṃcinvānakamevainaṃ 
+ kāmānamavitṛptanam  
+  Śāntiparva      Mahābhārata   
+   Puṣpāṇīva vicinvantamanyatragatamānasam Anavāpteṣu kāmeṣu 
+ Mṛtyurabhyeti mānavam  Śāntiparva      Mahābhārata   
+  
+                  
+    Yathāpi ppupharāsimhā kayirā mālākuṇe bahū    
+ Evaṃ jātena maccena kattabbaṃ kusalaṃ bahuṃ  
+  
+    Na pupphagandho paṭivātameti na candanaṃ tagaramallikā vā    
+ Satañca gandho paṭivātameti sabbā disā sappuriso pavāti  
+  
+    Candanaṃ tagaraṃ vāpi uppalaṃ atha vassikī    
+ Etesaṃ gandhajātānaṃ sīlagandho anuttaro  
+  
+    Appamatto ayaṃ gandho yāyaṃ tagaracandanī    
+ Yo ca sīlavataṃ gandho vāti devesu uttamo  
+    Tesaṃ sampannasīlānaṃ appamādavihārinaṃ    
+ Sammadaññā vimuttānaṃ māro maggaṃ na vindati  
+  
+    Yathā saṅkāradhānasmiṃ ujjhitasmiṃ mahāpathe    padumaṃ tattha jāyetha sucigandhaṃ 
+ manoramaṃ  
+                  
+    Evaṃ saṅkārabhūtesu andhabhūte puthujjane    
+ Atirocati paññāya sammāsambuddhasāvako  
+  
+ Pupphavaggo catuttho  
+  
+   Bālavaggo  
+  
+   Dīghā jāgarato ratti dīghaṃ santassa yojanaṃ    
+ Dīgho bālānaṃ saṃsāro saddhamma avijānataṃ  
+  
+   Carañce nādhigaccheyya seyyaṃ sadisamattano    
+ Ekacariyaṃ daḷhaṃ kayirā natthi bāle sahāyatā  
+  
+   Puttā matthi dhanammatthi iti bālo vihaññati    
+ Attā hi attano natthi kuto puttā kuto dhanaṃ  
+  
+   Yo bālo maññati bālyaṃ paṇaḍito vāpi tena so    
+ Bālo ca paṇḍitamānī sa ve bāloti vuccati  
+  
+   Yāvajīvampi ce bālo vaṇḍitaṃ payirupāsati    
+ Na so dhammaṃ vijānāti dabbī sūparasaṃ yathā  
+  
+                   
+   Muhuttampi ce viñgñu paṇḍitaṃ payirupāsati    
+ Khippaṃ dhammaṃ vijānāti jivhā sūparasaṃ yathā  
+  
+    Yadha sagara uḍasa ujhitasa maha pathi 
+ Padumu tatra jaea suyi gandha manoramu  Prā Dha  C    
+    Yadha sagha dhamā ā andhabhūte prudhijane 
+ Abhioti prañai samesabudha śavaka  Prā Dha  C    
+  
+                  
+   Caranti bālā dummedhā amitteneva attanā    
+ Karontā pāpakaṃ kammaṃ yaṃ hoti kaṭukapphalaṃ  
+  
+   Na taṃ kammaṃ kataṃ sādhu yaṃ katvā nānutappati    
+ Yassa assumukho rodaṃ vipākaṃ paṭisevati  
+  
+   Tañca kammaṃ kataṃ sādhu yaṃ katvā nānutappati    
+ Yassa patīto sumano vipākaṃ paṭisevati  
+  
+    Madhuvā maññati bālo yāva pāpaṃ na paccati    
+ Yadā ca paccati pāpaṃ atha bālo dukkhaṃ nigacchati  
+  
+    Māse māse kusaggena bālo bhuñjetha bhojanaṃ    
+ Na so saṅkhatadhammānaṃ kalaṃ agghati soḷasiṃ  
+    Na hi pāpaṃ kataṃ kamma sajju khīraṃva muccati    
+ Ḍahantaṃ bālamanveti bhasmacchannova pāvako  
+  
+    Yāvadeva anatthāya ñattaṃ bālassa jāyati    
+ Hanti bālassa sukkaṃsaṃ muddhamassa vipātayaṃ  
+  
+                   
+    Asataṃ bhāvanamiccheyya purekkhārañca bhikkhusu    
+ Āvāsesu ca issariyaṃ pūjā parakulesu ca  
+  
+    Mameva kataṃ maññantū gihī pabbajitā ubho    
+ Mameva ativasā assu kiccākiccesu kismici 
+ Iti bālassa saṃkappo icchā māno ca vaḍḍhati  
+  
+    Aññā hi lābhūpanisā aññā nibbānagāminī    
+ Evametaṃ abhiññāya bhikkhu buddhassa sāvako 
+ Sakkāraṃ nābhinandeyya vivekamanubrūhaye  
+  
+ Bālavaggo pañcamo  
+  
+   Paṇḍitavaggo  
+  
+   Nidhinaṃva pavattāraṃ yaṃ passe vajjadassinaṃ    
+ Niggayhavādiṃ medhāviṃ tādisaṃ paṇḍitaṃ bhaje 
+ Tādisaṃ bhajamānassa seyyo hoti na pāpiyo  
+  
+    Māse māse kuśāgreṇa bālo bhuṃjeta bhojanam 
+ Na so khuddhe prasādanya kalāmarghati ṣoḍaśīm  
+  Mahāvastu  Iii      Piṭa  
+ Masi masi sahasena yaea śatena ca 
+ Neva saghasa dhamesu kala aveti ṣoḍaśi  Prā Dha  C     
+  
+                  
+   Ovadeyyanusāseyya asabbhā ca nivāraye    
+ Sataṃ hi so piyo hoti asataṃ hoti appiyo  
+  
+   Na bhaje pāpake mitte na bhaje purisādhame    
+ Bhajetha mitte kalyāṇe bhajetha purisuttame  
+  
+                   
+   Dhammapīti sukhaṃ seti vippasannena tejasā    
+ Ariyappavedite dhamme sadā ramati paṇḍito  
+  
+   Udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ    
+ Dāruṃ namayanti tacchakā attānaṃ damayanti paṇḍitā  
+  
+   Selo yathā ekaghano vātena na samīrati    
+ Evaṃ nindāpasaṃsāsu na samiñjanti paṇḍitā  
+  
+   Yathāpi rahado gambhīro vippasanno anāvilo    
+ Evaṃ dhammāni sutvāna vippasīdanti paṇḍitā  
+  
+   Sabbattha ve sappurisā cajanti na kāmakāmā lapayanti santo    
+ Sukhena phuṭṭhā atha vā dukhena noccāvacaṃ paṇḍitā dassayanti  
+  
+   Na attahetu na parassa hetu    
+ Na puttamicche na dhanaṃ na raṭṭhaṃ 
+ Na iccheyya adhammena samiddhimattano 
+ Sa sīlavā paññavā dhammiko siyā  
+  
+    Appakā te manussesu ye janā pāragāmino    
+ Athāyaṃ itarā pajā tīramevānudhāvati  
+  
+                   
+    Ye ca kho sammadakkhāte dhamme dhammānuvattino    
+ Te janā pāramessanti maccudheyyaṃ suduttaraṃ  
+  
+    Kaṇhaṃ dhammaṃ vippahāya sukkaṃ bhāvetha paṇḍito    
+ Okā anokaṃ āgamma viveke yattha dūramaṃ  
+  
+   Yo atma hetu na parasa hetu Pavani kamani samayare a  
+ Na ichia adhamena samidhi atmano  
+ Sa śilava panitu dhammiho sida  Prā Dha  C      
+  
+                  
+    Tatrābhiratimiccheyya hitvā kāme akiñcano    
+ Pariyodapeyya attānaṃ cittaklesehi paṇḍito  
+  
+    Yesaṃ sambodhiaṅgesu sammā cittaṃ subhāvitaṃ    
+ Ādānapaṭinissagge anupādāya ye ratā 
+ Khīṇāsavā jutimanto te loke parinibbutā  
+  
+ Paṇḍitavaggo chaṭṭho  
+  
+   Arahantavaggo  
+  
+   Gataddhino visokassa vippamuttassa sabbadhi    
+ Sabbaganthappahīṇassa pariḷāho na vijjati  
+  
+   Uyyuñjanti satimanto na nikete ramanti te    
+ Haṃsāva pallalaṃ hitvā okamoka jahanti te  
+  
+                   
+   Yesaṃ sannicayo natthi ye pariññātabhojanā    
+ Suññato animitto ca vimokkho yesa gocarā 
+ Ākāseva sakuntānaṃ gati tesaṃ durannayā 
+  
+   Yassāsavā parikkhīṇā āhāre ca anissito    
+ Suññato animitto ca vimokkho yassa gocaro 
+ Ākāseva sakuntānaṃ padaṃ tassa durannayaṃ 
+  
+   Yassindriyāni samathaṃ gatāni    assā yathā sārathinā sudantā 
+ Pahīṇamānassa anāsavassa 
+ Devāpi tassa pihayanti tādino  
+  
+   Paṭhavisamo no virujjhati indakhīlūpamo tādi subbato    
+ Rahadova apetakaddamo saṃsārā na bhavanti tādino  
+  
+                  
+   Santaṃ tassa manaṃ hoti santā vācā ca kamma ca    
+ Sammadaññā vimuttassa upasantassa tādino  
+  
+   Assaddho akataññū ca sandhicchedo ca yo naro    
+ Hatāvakāso vantāso sa ve uttamaporiso  
+  
+   Gāme vā yadi vā raññe ninne vā yadi vā thale    
+ Yatthārahanto viharanti taṃ bhūviṃ rāmaṇeyyakaṃ  
+  
+                   
+    Ramaṇīyāni araññāni yattha na ramatī jano     
+ Vītarāgā ramissanti na te kāmagavesino  
+  
+ Arahantavaggo sattamo  
+  
+   Sahassavaggo  
+  
+   Sahassampi ce vācā anatthapadasaṃhitā     
+ Ekaṃ atthapadaṃ seyyo yaṃ sutvā upasammati  
+  
+   Sahassampi ce gāthā antthapadasaṃhitā     
+ Ekaṃ gāthāpadaṃ seyyā yaṃ sutvā upasammati  
+  
+   Yo ce gāthāsataṃ bhāse anatthapadasaṃhitaṃ     
+ Ekaṃ dhammapadaṃ seyyā yaṃ sutvā upasammati  
+  
+   Sahasramapi vācānāmanarthapadasaṃbhitā 
+ Ekā arthavatī śreyā yaṃ śrutvā upaśāmyati  
+  Mahāvastu       Piṭa  
+ Sahasa bi ya vaśana anatha pada sahita 
+ Eka gadha pada ṣebha ya ṣutva uvaśamati  Prā Dha  C     
+   Sahasramapi gāthānāmanarthapadasaṃhitā 
+ Ekā arthavatī śreyā yaṃ śrutvā upaśāmyati  
+  Mahāvastu       Piṭa  
+   Ja gadha śata bhaṣe anata pada sahita 
+ Eka gadha pada ṣeho ya ṣūtva uvaśamati  Prā Dha  C     
+  
+                  
+   Yo sahassaṃ sahassena saṅgāme mānuse jine     
+ Ekañca jeyya attānaṃ sa ve saṅgāmajuttamo  
+  
+   Attā have jitaṃ seyyo yā cāyaṃ itarā pajā     
+ Attadantassa posassa niccaṃ saññatacārino  
+  
+   Neva devo na gandhabbo na māro saha brahmunā     
+ Jitaṃ apajitaṃ kayirā tathārūpassa jantuno  
+  
+                   
+   Māse māse sahassena yo yajetha sataṃ samaṃ     
+ Ekañca bhāvitattānaṃ muhuttampi pūjaye 
+ Sā yeva pūjanā seyyā yañce vassasataṃ hutaṃ  
+  
+   Yo ca vassasataṃ jantu aggiṃ paricare vane     
+ Ekañca bhāvitattānaṃ muhuttampi pūjaye 
+ Sā yeva pūjanā seyyā yañce vassasataṃ hutaṃ  
+  
+   Yaṃ kiñci yiṭṭhaṃ va hutaṃ va loke     
+ Saṃvaccharaṃ yajetha puññapekkho 
+ Sabbampi taṃ na catubhāgameti 
+ Abhivādanā ujjugatesu seyyā  
+  
+    Abhivādanasīlissa niccaṃ vaddhāpacāyino     
+ Cattārā dhammā vaḍḍhanti āyu vaṇṇo sukhaṃ balaṃ  
+  
+   Yo śatāni sahasrāṇāṃ saṃgrāme manujān jayet 
+ Yo caikaṃ jayedātmānaṃ sa vai saṃgrāmajidvara   Mahāvastu       Piṭa  
+ Yo sahasa sahasani sagami manuṣa jini 
+ Eka ji    Atmana so ho sagamu utamu  Prā Dha  C    
+   Varṣe varṣeśvamedhena yo yajeta śataṃ samā  
+ Maṃsāni ca na khādedyastayo puṇyaphalaṃ samam  Manu  V     
+ Yo yajeta sahasrāṇāṃ māse māse śatāśatam 
+ Na so buddhe prasādasya kalāmarghati ṣoḍaśīm  
+  Mahāvastu       Piṭa  
+ Masi masi sahasina yo yaeva śatena ca 
+ Nevi budhi prasadasa kala aveti ṣoḍaśa  Prā Dha   
+   Yo ca varṣaśataṃ jīvedaganiṃ paricaranśacaret 
+ Patrāhāro chamāvāsī karonto cividhaṃ tapam 
+ Yaścaikaṃ bhāvitātmānaṃ muhūrtampi pūjayet 
+ Sā ekā pūjanā śreyo na ca varṣaśataṃ hutam  
+  Mahāvastu       Piṭa  
+ Ya ja vaṣa śata jatu agi pariyara vane 
+     Sa pi telena diva ratra atadrita 
+ Eka ji bhavitatmana muhūtaviva puae 
+ Sayeva puyana ṣebha yaji vaṣa śata hotu  Prā Dha  C        
+   Yat kiṃcidiṣṭaṃ ca hutaṃ ca loke 
+ Saṃvatsaraṃ yajati puṇyaprekṣo 
+ Sarvaṃ hi taṃ na caturbhāgameti 
+ Abhivādanaṃ ujjugateṣu śreyam  Mahāvastu       Piṭa  
+ Ya kiji yiṭha va hota va loke 
+                     
+                     
+ Abhivadana ujukateṣu ṣiho  Prā Dha  C     
+    Abhivādanaśīlasya nityaṃ vṛddhopasevina  
+ Catvāri sampravardhante āyurvidyā yaśo balam  
+  Masusmṛti        
+ Adhivadanaśilisa nica vṛḍhavasayino 
+ Catvari tasa vardhati ayo kirti subha bala  Prā Dha  Cvo     
+  
+                  
+    Yo ca vassasataṃ jīve dussīlo asamāhito     
+ Ekāhaṃ jīvitaṃ seyyo sīlavantassa jhāyino  
+  
+    Yo ca vassasataṃ jīve duppañño asamāhito     
+ Ekāhaṃ jīvitaṃ seyyo paññavantassa jhāyino  
+  
+    Yo ca vassasataṃ jīve kusīto hīnavīriyo     
+ Ekāhaṃ jīvitaṃ seyyo viriyamārabhato daḷhaṃ  
+  
+    Yo ca vassasataṃ jīve apassaṃ udayavyayaṃ     
+ Ekāhaṃ jīvitaṃ seyyo passato udayavyayaṃ  
+  
+                   
+    Yo ca vassasataṃ jīve apassaṃ amataṃ padaṃ     
+ Ekāhaṃ jīvitaṃ seyyo passato amataṃ padaṃ  
+  
+    Yo ca vassasataṃ jīve apassaṃ dhammamuttamaṃ     
+ Ekāhaṃ jīvitaṃ seyyo passato dhammamuttamaṃ  
+  
+ Sahassavaggo aṭṭhamo  
+  
+   Pāpavaggo  
+  
+   Abhitvaretha  kalyāṇe pāpā cittaṃ nivāraye     
+ Dandhaṃ hi karoto puññaṃ pāpasmiṃ ramatī mano  
+  
+    Yo ca varṣaśataṃ jīvedadu śīlo asamāhita  
+ Ekāhaṃ jīvitaṃ śreya śījavantasya dhyāyato  
+  Mahāvastu       Piṭa  
+    Yo ca varṣaśataṃ jīvet kuśīdo hīnavīryyavān 
+ Ekāhaṃ jīvitaṃ śreya śīlavantasya dhyāyato  
+  Mahāvastu       Piṭa  
+ Ya ji vaṣa śata jivi kusidhu hinaviriyava 
+ Muhutu jīvita ṣebha viriya arahato dāḍha  Prā Dha  C     
+    Yo ca      Apaśyaṃ udayavyayam 
+        Paśyato udayavyayam  Mahāvastu       Piṭa  
+ Ya ji vaṣa śata jivi apaśu uda 
+ Muhuta jīvita ṣehu paśato udakavaya  Prā Dha  C     
+    Yo ca      Apaśyaṃ amṛtaṃ padam 
+       Paśyato amṛtaṃ padam  Mahāvastu       Piṭa  
+    Yo ca      Apaśyaṃ dharmamuttamam 
+       Paśyato dharmamuttamam  Mahāvastu       Piṭa  
+ Ya ja vaṣa śata jivi apaśu dhamu utamu 
+ Muhuta jīvita sehu paśatu dhamu utamu  Prā Dha  G     
+   Abhittharetha bahūsu  
+  
+                  
+   Pāpaṃ ce puriso kayirā na taṃ kayirā punappunaṃ     
+ Na tamhi chandaṃ kayirātha dukkho pāpassa uccayo  
+  
+   Puññaṃ ce puriso kayirā kayirāthetaṃ punappunaṃ     
+ Tamhi chandaṃ kayirātha sukho puññassa uccayo  
+  
+   Pāpopi passati bhadraṃ yāva pāpaṃ na paccati     
+ Yadā ca paccati pāpaṃ atha pāpo pāpāni passati 
+  
+                   
+   Bhadropi passati pāpaṃ yāva bhadraṃ na paccati     
+ Yadā ca paccati bhadraṃ atha bhadro bhadrāni passati  
+  
+   Māpamaññetha pāpassa na mantaṃ āgamissati     
+ Udabindunipātena udakumbhopi pūrati 
+ Pūrati bālo pāpassa thokathokampi ācinaṃ  
+  
+   Māpamaññetha puññassa na maṃ taṃ āgamissati     
+ Udabindunipātena udakumbhopi pūrati 
+ Pūrati dhīro puññassa thokathokampi ācinaṃ  
+  
+                  
+   Vāṇijova bhayaṃ maggaṃ appasattho mahaddhano     
+ Visaṃ jīvitukāmova pāpāni parivajjaye  
+  
+   Pāṇimhi ce vaṇo nāssa hareyya pāṇinā visaṃ     
+ Nābbaṇaṃ visamanveti natthi pāpaṃ akubbato  
+  
+    Yo appaduṭṭhassa narassa dussati     
+ Suddhassa posassa anaṅgaṇassa 
+ Tameva bālaṃ pacceti pāpaṃ 
+ Sukhumo rajo paṭivātaṃva khitto  
+  
+    Gabbhamekepapajjanti nirayaṃ pāpakammino     
+ Saggaṃ sugatino yanti parinibbanti anāsavā  
+  
+                   
+    Na antalikkhe na samuddamajajhe     
+ Na pabbatānaṃ vivaraṃ pavissa 
+ Na vijjatī so jagatippadeso 
+ Yatthaṭthito mucceyya pāpakammā  
+  
+    Na antalikkhe na samuddamajajhe     
+ Na pabbatānaṃ vivaraṃ pavissa 
+ Na vijjati so jagatippadeso 
+ Yatthaṭthitaṃ nappasahetha maccu  
+  
+ Pāpavaggo navamo  
+  
+    Narakaṃ pāpakarmāṇa kṛtapuṇyastu svargatim  
+  Udānavarga  V     
+    Na cāntarīkṣe na samudramadhye 
+ Pa parvatānāṃ vividhapradeśe 
+ Na mātṛmūrdhani pradhṛtastathāṅke 
+ Tyaktuṃ kṣama karma kṛtaṃ naro hi  Garuḍapurāṇa 
+ Adhyāya         
+  
+                  
+    Daṇaḍavaggo  
+  
+   Sabbe tasanti daṇaḍassa sabbe bhāyanti maccuno     
+ Attānaṃ upamaṃ katvā na haneyya na ghātaye  
+  
+   Sabbe tasanti daṇaḍassa sabbesaṃ jīvitaṃ piyaṃ     
+ Attānaṃ upamaṃ katvā na haneyya na ghātaye  
+   Sukhakāmāni bhūtāni yodaṇḍena vihiṃsati     
+ Attano sukhamesāno pecca so na labhate sukhaṃ  
+  
+                   
+   Sukhakāmāni bhūtāni yodaṇḍena na hiṃsati     
+ Attano sukhamesāno pecca so labhate sukhaṃ  
+  
+   Māvoca pharusaṃ kañci vuttā paṭivadeyyu taṃ     
+ Dukkhā hi sārambhakathā paṭidaṇḍā phuseyyu taṃ  
+  
+   Sa ce neresi attānaṃ kaṃso upahato yathā     
+ Esa pattosi nibbāṇaṃ sārambho te na vijjati  
+  
+   Yathā daṇḍena gopālo gā pāceti gocaraṃ     
+ Evaṃ jarā ca maccu ca āyuṃ pācenti pāṇinaṃ  
+  
+   Atha pāpāni kammāni karaṃ bālo na bujjhati     
+ Sehi kammehi dummedho aggidaḍḍhova tappati  
+  
+   Prāṇā yathātmanobhīṣṭā bhūtānāmpi te tathā 
+ Ātmaupamyena bhūteṣū dayāṃ kurvanti sādhava   
+  Hitopadeśa      
+   Ahiṃsakāni bhūtāni daṇḍena vinihanti ya  
+ Ātmana sukhamicchan sa pretya naiva sukhī bhavet  
+  Mahābhārata          
+ Yohiṃsakāni bhūtāni hinastyātmasukhecchayā 
+ Sa jīvaṃśva mṛtaścaiva na kvacit sukhamedhate  
+  Manusmṛti        
+  
+                  
+   Yo daṇḍena adaṇḍesu appaduṭṭhesu dussati     
+ Dasannamaññataraṃ ṭhānaṃ khippameva nigacchati  
+  
+    Vedanaṃ pharusaṃ jāniṃ sarīrassa ca bhedanaṃ     
+ Garukaṃ vāpi ābādhaṃ cittakkhepaṃ va pāpuṇe  
+  
+    Rājato vā upassaggaṃ abbhakkhānaṃ va dāruṇaṃ     
+ Parikkhayaṃ va ñātīnaṃ bhogānaṃ va pabhaṅguraṃ 
+  
+    Atha vāssa agārāni aggi ḍahati pāvako     
+ Kāyassa bhedā duppañño nirayaṃ so upapajjati  
+  
+                   
+    Na naggacariyā na jaṭā na paṅkā     
+ Nānāsakā thaṇḍilasāyikā vā 
+ Rājo ca jallaṃ ukkuṭikappadhānaṃ 
+ Sodhenti maccaṃ avitiṇṇakaṅkhaṃ  
+    Alaṅkato cepi samaṃ careyya     
+ Santo danto niyato brahmacārī 
+ Sabbesu bhūtesu nidhāya daṇḍaṃ 
+ So brāhmaṇo so samaṇo sa bhikkhu  
+  
+    Na nagnacaryyā na jaṭā na paṅko 
+ Nānāśanaṃ sthaṇḍilaśāyikā vā 
+ Na rajomalaṃ notakuṭukapradhānaṃ 
+ Viśodhayenmohaviśīrṇakāṃkṣam  Divyāvadāna  
+    Alagito ya vi care a dhamu 
+ Datu śatu sañatu brammayari 
+ Savisu bhutesu nihai dana 
+ So bramaṇo so samaṇo so bhikhu  Prā Dha  B     
+  Alakṛtaścāpi careta dharmaṃ 
+ Dāntendriya śānta saṃyato brahmacārī 
+ Sarveṣū bhūteṣū nidhāya daṇḍaṃ 
+ Sa brāhmaṇa sa śramaṇa sa bhikṣu   Divyādāna  
+  
+                  
+    Hirīnisedho puriso koci lokasmiṃ vijjati     
+ Yo nindaṃ apabodhati asso bhadro kasāmiva  
+  
+    Asso yathā bhadro kasāniviṭiṭho     
+ Ātāpino saṃvegino bhavātha 
+ Saddhāya sīlena ca vīriyena ca 
+ Samādhinā dhammavinicchayena ca 
+ Sampannavijjācaraṇā patissatā 
+ Pahassatha dukkhamidaṃ anappakaṃ  
+  
+    Udakaṃ hi nayanti nettikā usukārā namayanti tejanaṃ     
+ Dāruṃ namayanti tacchakā attānaṃ damayanti subbatā  
+  
+ Daṇḍavaggo dasamo  
+  
+                   
+ Jarāvaggo  
+  
+   Ko nu hāso kimānando niccaṃ pajjalite sati     
+ Andhakārena onaddhā padīpaṃ na gavessatha  
+  
+   Passa cittakataṃ bimbaṃ arukāyaṃ samussitaṃ     
+ Āturaṃ bahusaṅkappaṃ yassa natthi dhuvaṃ ṭhiti  
+  
+   Kā nu kīraḍā kā nu rati evaṃ prajvalite sadā andhakāresmin prakṣiptā pradīpaṃ na 
+ gaveṣata  
+ Ko nu harṣo konu ānando evaṃ prajvalite sadā 
+ Andhakāre smin prakṣiptā ālokaṃ na prakāśaye  
+  Mahāvastu       Piṭa  
+  
+                  
+   Parijiṇṇamidaṃ rūpaṃ roganiḍḍhaṃ pabhaṅguraṃ     
+ Bhijjati pūtisandeho maraṇantaṃ hi jīvitaṃ  
+  
+   Yānimāni apatthāni alāpūneva sārade     
+ Kāpotakāni aṭṭhīni tāni disvāna kā rati  
+  
+   Aṭṭhīnaṃ nagaraṃ kataṃ maṃsalohitalepanaṃ     
+ Yattha jarā ca maccu ca māno makkho ca ohito  
+  
+   Jīranti ve rāja rathā sucittā     
+ Atho sarīrampi jaraṃ upeti  
+ Satañca dhammo na jaraṃ upeti 
+ Santo have sabbhi pavedayanti  
+  
+   Appassutāyaṃ puriso balivaddova jīrati     
+ Maṃsāni tassa vaḍḍhanti paññā tassa na vaḍḍhati  
+  
+                   
+   Anekajāti saṃsāraṃ sandhāvissaṃ anibbisaṃ     
+ Gahakārakaṃ gavesanto dukkhā jāti punappunaṃ  
+  
+   Parijīṇīpidaṃ rūpaṃ roganīḍaṃ prabhaṅguram 
+ Bhidyate pūti sandehaṃ maraṇāntaṃ hi jīvitam  Udānavarga  V      
+ Parijinamida ru rovu a niḍa prabhaguno 
+ Bheṃsiti              Prā Dha  C  VO     
+   Asthīsthūnaṃ syāyuyutaṃ māṃsaśoṇitalepanam 
+ Carmāvanaddhaṃ durgandhi pūrṇaṃ mūtra purīṣayo  
+ Jarāśokasamāviṣṭaṃ rogāyatanamāturam 
+ Rajasvalamanityaṃ ca bhūtāvāsmidaṃ tyajet  Manusmṛti  VI      
+   Cīryanti vai rājarathā sucitrā 
+ Hyato śarīrampi jarāmupeti 
+ Satāntu dharmo na jarāmupeti 
+ Santo hi taṃ satsu nivedayanti  Udānavarga  V     
+ Jiyarati hi rayaradha sucitra 
+ Adha śarira bi jara uveti 
+ Sata tu dharma na jara uveti 
+ Sato hiva sahi pravedayiti  Prā Dha  C  OV     
+  
+                  
+   Gahakāraka diṭṭhosi puna gehaṃ na kāhasi     
+ Sabbā te phāsukā bhaggā gahakauṭaṃ visaṅkhitaṃ 
+ Visaṅkhāragataṃ cittaṃ taṇhānaṃ khayamajjhagā  
+  
+    Acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ     
+ Jiṇṇakoñcā va jhāyanti khīṇamaccheva pallale  
+  
+    Acaritvā brahmacariyaṃ aladdhā yobbane dhanaṃ     
+ Senti cāpātikhittāva purāṇāni anutthunaṃ  
+  
+ Jarāvaggo ekādasamo  
+  
+    Attavaggo  
+  
+   Attānaṃ ce piyaṃ jaññā rakkheyya naṃ surakkhitaṃ     
+ Tiṇṇamaññataraṃ yāmaṃ paṭijaggeyya paṇḍito  
+  
+   Attānameva paṭhamaṃ patirūpe nivesaye     
+ Athaññamanusāseyya na kilisseyya paṇḍito  
+  
+                   
+   Attānañce tathā kayirā yathaññamanusāsati     
+ Sudanto vata dammetha attā hi kira duddamo  
+  
+   Attā hi attano nātho kohi nātho paro siyā     
+ Attanāva sudantena nāthaṃ labhati dullabhaṃ  
+  
+   Ātmābhi ātmano nātha ko nu nātha paro bhavet 
+ Ātmanā ti sudāntena svargaṃ prāpnoti paṇḍita   
+  Bodhicaryāvatāra      
+  
+                  
+   Attanāva kataṃ pāpaṃ attajaṃ attasambhavaṃ     
+ Abhimatthati dummedhaṃ vajiraṃvasmamayaṃ maṇiṃ  
+  
+   Yassa accantadussīlyaṃ māluvā sālamivotataṃ     
+ Karoti so tathattānaṃ yathā naṃ icchatī diso  
+  
+   Sukarāni asādhūni attano ahitāni ca     
+ Yaṃ ve hitañca sādhuṃ ca taṃ ve paramadukkaraṃ  
+  
+   Yo sāsanaṃ arahataṃ ariyānaṃ dhammajīvinaṃ     
+ Paṭikkosati dummedho diṭṭhiṃ nissāya pāpikaṃ 
+ Phalāni kaṭṭhakasseva attaghaññāya phallati  
+  
+   Attanāva kataṃ pāpaṃ attanā saṃkilissati     
+ Attanā akataṃ pāpaṃ attanāva visujjhati 
+ Suddhi asuddhi paccattaṃ nāññamañño visodhaye  
+  
+                   
+    Attadatthaṃ paratthena bahunāpi na hāpaye     
+ Attadatthambhiññāya sadatthapasuto siyā  
+  
+ Attavaggo dvādasamo  
+  
+    Lokavaggo  
+  
+   Hīnaṃ dhammaṃ na seveyya pamādena na saṃvase     
+ Micchādiṭṭhiṃ na seveyya na siyā lokavaddhano  
+  
+   Uttiṭṭhe nappamajjeyya dhammaṃ sucaritaṃ care     
+ Dhammacāri sukhaṃ seti asmiṃ loke paramhi ca  
+  
+   Ātmanā vihitaṃ du khamātmanā cihitaṃ sukham 
+ Garbhaśayyāmupādāya bhuṃṅketa vai paurvadehikam  
+  Garuḍa purāṇa     Adhyāya     
+   Yasa acata druśilia malu a vavi lata vani  
+ Kuya su tadhatmana yadha na viṣamu ijati  Prā Dha  C     
+   Hīnaṃ dharmaṃ na seveta pramādena na saṃvaset 
+ Mithyādṛṣṭiṃ na seveta na bhavellākavardhana   
+  Udānavarga        
+ Hina dhama na sevea pramadena na savasi 
+ Michā diṭhī na royea na sia lokavaḍhano  Prā Dha  A       
+   Uttiṣaṭhenna pramadyena dharmaṃ sucaritaṃ caret 
+ Dharmacārī sukhaṃ śete hyasmin loke paratra ca  
+  Udānavarga         
+ Utiṭṭhe na pramajea dhamu sucarita vari 
+ Dhamavari suhu śeti asami loki parasa yi  Prā Dha  A       
+  
+                  
+   Dhammaṃ care sucaritaṃ na naṃ duccaritaṃ care     
+ Dhammacārī sukhaṃ seti asmiṃ loke paramhi ca  
+  
+   Yathā bubbulakaṃ passe yathā passe marīcikaṃ     
+ Evaṃ lokaṃ avekkhantaṃ maccurājā na passati  
+  
+   Etha passathiraṃ lokaṃ cittaṃ rājarathūpamaṃ     
+ Yattha bālā visīdanti natthi saṅgo vijānataṃ  
+  
+                   
+   Yo ca pubbe pamajjitvā pacchā so nappamajjati     
+ So imaṃ lokaṃ pabhāseti abbhā muttova candimā  
+  
+   Yassa pāsaṃ kataṃ kammaṃ kusalena pithīyati     
+ So imaṃ lokaṃ pabhāseti abbhā muttova candimā  
+   Andhabhūto ayaṃ loko tanukettha vipassati     
+ Sakunto jālamuttova appo saggāya gacchati  
+   Haṃsādiccapathe yanti ākāse yanti iddhiyā     
+ Niyyanti dhīrā lokamhā jitvā māraṃ savāhiniṃ  
+  
+    Ekaṃ dhammaṃ atītassa musāvādissa jantūno     
+ Vitiṇṇaparalokassa natthi pāpaṃ akāriyaṃ  
+  
+   Dharmaṃ caret sucaritaṃ nainaṃ duścaritaṃ caret 
+ Dharmacārī sukhaṃ śete asmiṃlloke paratra ca  
+  Mahāvastu       Piṭa  
+ Dhamu cari suvarita       Carita cari 
+ Dhamayari subha śeti asmi loki parasa yi  Prā Dha  C     
+   Yo tu puci pramajati paja su na pramajati 
+ So ita lokū obhāseti abhamuto va sūriu  Prā Dha  A       
+  
+                  
+    Na ve kadariyā devalokaṃ vajanti     bālā have nappasaṃsanti dānaṃ 
+ Dhīro ca dānaṃ anumodamāno 
+ Teneva so hoti sūkhī parattha  
+  
+    Pathavyā ekarajjena saggassa gamanena vā     
+ Sabbalokādhipaccena sotāpattiphalaṃ varaṃ  
+  
+ Lokavaggo terasamo  
+  
+    Buddhavaggo  
+  
+                   
+   Yassa jitaṃ nāvajīyati jitamassa no yāti koci loke     
+ Tambuddhamanantagocaraṃ apadaṃ kena padena nessatha  
+  
+   Yassa jālinī visattikā taṇhā natthi kuhiñci netave     
+ Tambuddhamanantagocaraṃ apadaṃ kena padena nessatha  
+  
+   Ye jhānapasutā dhīrā nekkhammūpasame ratā     
+ Devāpi tesaṃ pihayanti sambuddhānaṃ satīmataṃ  
+  
+   Kiccho manussapaṭilābho kicchaṃ macchāna jīvitaṃ     
+ Kicchaṃ saddhammasavanaṃ kiccho buddhānaṃ uppādo  
+  
+   Yasya jitaṃ nātha jīyati jitamasya na jināti antaka  
+ Tambuddhamanantagovaraṃ apadaṃ kena padena neṣyatha  
+  Mahāvastu      Piṭa  
+   Yasya jālinī visattikā tṛṣṇā nāsya khimpi netirakā 
+ Tambuddhamantavikramaṃ apadaṃ kena padena neṣyatha  
+  Mahāvastu      Piṭa  
+  
+                  
+   Sabbapāpassa akaraṇaṃ kusalassa upasampadā     
+ Sacittapariyodapanaṃ etaṃ buddhāna sāsanaṃ  
+  
+   Khantī paramaṃ tapo titikkhā     
+ Nibbāṇaṃ paramaṃ vadanti buddhā 
+ Na hi pabbajito parūpaghātī 
+ Samaṇo hoti paraṃ viheṭhayanto  
+  
+   Anūpavādo anūpaghāto pātimokkhe ca saṃvaro     
+ Mattaññutā ca bhattasmiṃ pantañca sayanāsanaṃ 
+ Adhicitte ca āyogo etaṃ buddhāna sāsanaṃ  
+  
+                   
+   Na kahāpaṇavassena titti kāmesu vijjati     
+ Appassādā dukhā kāmā iti viññāya paṇḍito  
+  
+   Api dibbesu kāmesu ratiṃ so nādhigacchati     
+ Taṇhakkhayarato hoti sammāsambuddhasāvako  
+  
+    Bahū ve saraṇaṃ yanti pabbatāni vanāni ca     
+ Ārāmarukkhacetyāni manussā bhayatajjitā  
+  
+    Netaṃ kho saraṇaṃ khemaṃ netaṃ saraṇamuttamaṃ     
+ Netaṃ saraṇamāgamma sabbadukkhā pamuccati  
+  
+   Sarvapāpasyākaraṇaṃ kuśalasyopasampadā 
+ Svacittaparyādāpaṇametadbuddhānuśāsanam  Mahāvastu       Piṭa  
+    Bahava śaraṇaṃ yānti parvatāṃśva vanāni ca 
+ Ārāmacaitya vṛkṣāṃśca manuṣyā bhayatarjitā   
+    Na hyetaccharaṇaṃ śreṣṭhaṃ naitaccharaṇamuttamam 
+ Naitaccharaṇamāgamya sarvadu khāt pramuvyate  
+  
+                  
+    Yo ca buddhañca dhammañca saṅghañca saraṇaṃ gato     cattāri ariyasaccāni 
+ sammappaññāya passati  
+  
+    Dukkhaṃ dukkhasamuppādaṃ dukkhassa ca atikkamaṃ     
+ Ariyañcaṭṭhaṅgikaṃ maggaṃ dukkhūpasamagāminaṃ  
+  
+    Etaṃ kho saraṇaṃ khemaṃ etaṃ saraṇamuttamaṃ     
+ Etaṃ saraṇamāgamma sabbadukkhā pamuccati  
+  
+    Dullabho purisājañño na so sabbattha jāyati     
+ Yattha so jāyati dhīro taṃ kūlaṃ sukhamedhati  
+  
+    Sukho buddhānaṃ uppādo sukhā saddhammadesanā     
+ Sukhā saṅghassa sāmaggi samaggānaṃ tapo sukho  
+  
+    Pūjārahe pūjayato buddhe yadi va sāvake     
+ Papañca samatikkante tiṇṇasokapariddave  
+  
+                   
+    Te tādise pūjayato nibbute akutobhaye     
+ Na sakkā puññaṃ saṅkhātuṃ imettamapi kenaci  
+  
+ Cuddasamo buddhavaggo  
+  
+ Paṭhamakabhāṇavāraṃ  
+  
+                   
+    Sukhavaggo  
+  
+   Susukhaṃ vata jīvāma verinesu averino     
+ Verinesu manussesu viharāma averino  
+  
+    Yastu buddhaṃ ca dharmaṃ ca saṅghaṃ ca śaraṇaṃ gata  
+ Āryyasatyāni catvāri paśyati pragñayā sadā  
+  
+    Du khaṃ du khasamutpādaṃ du khasya samatikramam 
+ Āryyaṃ cāṣṭāṃgikaṃ mārgaṃ kṣemaṃ nirvāṇagāminam  
+  Udānavarga           
+    Etaddhi śaraṇaṃ śreṣṭhaṃ etaccharaṇamuttamam 
+ Etaccharaṇamāgamya sarvadu khāt pramucyate  Udānavarga        
+    Durlabha puruṣājānyo nās sarvauatra jāyate 
+ Yatrās jauāyate vīra tat kulaṃ sukhamedhate  
+  Mahāvastu       Piṭa  
+ Dulabho poruṣa jaño na so sarvatra jayati 
+ Yatra so jayati viru ta kulu suhumedhati  Prā Dha  C  V ḍha     
+    Buddhānaṃ sukhamutpāda sukhā dharmasya deśanā 
+ Sukhā saṅghasya sāmagira śramaṇānāṃ tapassukham  
+  Prātimokṣa sūtra    
+   Susukhaṃ vata jīvāmo vairikeṣu tvavairikā  
+ Vairikeṣu manuṣyeṣu viharāmo hyavairikā   Udānavarga       
+ Suhai vata jivamu veraneṣu averana 
+ Veraneṣu manuśeṣu viharamu averana  Prā Dha  C  VO     
+  
+                  
+   Susukhaṃ vata jīvāma āturesu anāturā     
+ Āturesu manussesu viharāma anāturā  
+  
+   Susukhaṃ vata jīvāma ussūkesu anussukā      
+ Ussukesu manussesu viharāma anussukā  
+  
+   Susukhaṃ vata jīvāma yesaṃ no natthi kiñcanaṃ     
+ Pītibhakkhā bhavissāma devā ābhassarā yathā  
+  
+   Jayaṃ veraṃ pasavati dukkhaṃ seti parājito     
+ Upasanto sukhaṃ seti hatmā jayaparājayaṃ  
+  
+   Natthi rāgasamo aggi natthi dosasamo kali     
+ Natthi khandhasamā dukkhā katthi santiparaṃ sukhaṃ  
+  
+   Jighacchāparamā rogā saṅkhāraparamā dukhā     
+ Etaṃ ñatvā yathābhūtaṃ nibbāṇaparamaṃ sukhaṃ  
+  
+   Ārogyaparamā lābhā santuṭṭhiparamaṃ dhanaṃ     
+ Vissāsaparamā ñātī nibbāṇaparamaṃ sukhaṃ  
+  
+                   
+   Pavivekarasaṃ pītvā rasaṃ upasamassa ca     
+ Niddaro hoti nippāpo dhammapītirasaṃ pibaṃ  
+  
+   Susukhaṃ vata jīvāmo hyutsukeṣu tvanutsukā  
+ Utsukeṣū manuṣyeṣu viharāmo hyanutasukā   Udānavarga       
+   Susukhaṃ vata jīvāmo yeṣāṃ no nāstī kiṃcanam pīratibhakṣā bhaviṣyāmo devā 
+ hyābhāsvarā yathā  Udānavarga        
+ Susukhaṃ vata jīvāmi yasya me nāsti kiṃcana 
+ Mithilāyāṃ pradīptāyāṃ na me dahyati kiṃcana  Mahābhārata          
+ Suha i vata jivamu yesa mu nathi kijani 
+ Kijaneṣu manuśeṣu viharamu akijana  Prā Dha  C  VO     
+   Jayo vairaṃ prasavati du khaṃ śete parājita  
+ Upaśānta sukhaṃ śete bhitvā jayaparājayama  Avadānaśataka  
+ Jaya vera prasahati dukhu śayati parayitu 
+ Uvaśatu sohu śayati hitva jaya parajaya a  Prā Dha  C  VO      
+   Aroga parama labha satuṭhī parama dhana 
+ Viśpaśa parama mitra nivana paramo suha  Prā Dha  C      
+  
+                  
+    Sāhu dassanamariyānaṃ sannivāso sadā sukho     
+ Adassanena bālānaṃ niccameva sukhī siyā  
+  
+    Bālasaṅgatacārīhi dīghamaddhāna socati     
+ Dukkho bālehi saṃvāso amitteneva sabbadā 
+ Dhīro ca sukhasaṃvāso ñātīnaṃva samāgamo  
+  
+    Tasmāhi  
+ Dhīrañca paññca bahussutañca     
+ Dhorayhasīlaṃ vatavantamāriyaṃ 
+ Taṃ tādisaṃ sappurisaṃ sumedhaṃ 
+ Bhajetha nakkhattapathaṃva candimā  
+ Paṇṇarasamo sukhavaggo  
+  
+    Piyavaggo  
+  
+   Ayoge yuñjamattānaṃ yogasmiñca ayojayaṃ     
+ Atthaṃ hitvā piyaggāhī pihetattānuyoginaṃ  
+  
+                   
+   Mā piyehi samāgañchī appiyehi kudācanaṃ     
+ Piyānaṃ adassanaṃ dukkhaṃ appiyānañca dassanaṃ  
+  
+   Tasmā piyaṃ na kayirātha piyāpāyo hi pāpako     
+ Ganthā tesaṃ na vijjanti yesaṃ natthi piyāppiyaṃ  
+  
+   Piyato jāyatī soko piyato jāyatī bhayaṃ     
+ Piyato vippamuttassa natthi soko kuto bhayaṃ  
+  
+   Pemato jāyatī soko pemato jāyatī bhayaṃ     
+ Pemato vippamuttassa natthi soko kuto bhayaṃ  
+  
+    Sukhaṃ darśanamāryāṇāṃ saṃvāsopi satāṃ suha  
+ Adarśanena bālānaṃ nityameva sukhaṃ bhavet  Prātimokṣasūtra     
+ Suha darśata ariana savaso ci sada suho 
+ Adasanena balana nicameva suhi sia  Prā Dha  C  VO     
+    Bala sagatacariu dīraghamadhvana śoyiṣu 
+ Dukha belehi savasu amitrehi va savusi  Prā Dha  C  VO     
+ Dhiro ca sukha savasa ñatihi va savusi  Prā Dha  C  VO     
+    Dhira hi prañamu bhayeya panito 
+ Dhoreka śala vatamata ariya 
+ Ta tadiśa sapuruṣa sumedha 
+ Bhaya    Na chatrapatha va candrimu 
+ Radhe arovacamasa parikica uvahana  Prā Dha  C  VO        
+   Pirayebhyo jāyate śoka pirayebhyo jāyate bhayam 
+ Pirayebhyo vipramaktānāṃ nāsti śoka kuto bhayam  
+  Avadānaśataka    
+  
+                  
+   Ratiyā jāyatī soko ratiyā jāyatī bhayaṃ     
+ Ratiyā vippamuttassa natthi soko kuto bhayaṃ  
+  
+   Kāmato jāyatī soko kāmato jāyatī bhayaṃ     
+ Kāmato vippamuttassa natthi soko kuto bhayaṃ  
+  
+   Taṇhāya jāyatī soko taṇhāya jāyatī bhayaṃ     
+ Taṇhāya vippamuttassa natthi soko kuto bhayaṃ  
+   Sīladassanasampannaṃ dhammaṭṭhaṃ saccavedinaṃ     
+ Attano kamma kubbānaṃ taṃ jano kurute piyaṃ  
+  
+    Chandajāto anakkhāte manasā ca phuṭo siyā     
+ Kāmesu ca appaṭibaddhacitto uddhaṃ sototi vuccati  
+  
+    Cirappavāsiṃ purisaṃ dūrato sotthimāgataṃ     
+ Ñātimittā suhajjā ca abhinandanti āgataṃ  
+  
+                   
+    Tatheva katapuññampi asmā lokā paraṃ gataṃ     
+ Puññāni patigaṇhanti piyaṃ ñātīva āgataṃ  
+  
+ Soḷasamo piyavaggo  
+  
+    Kodhavaggo  
+  
+   Kodhaṃ jahe vippajaheyya mānaṃ     
+ Tamahaṃ sārathiṃ brūmi rasmggāho itaro jano  
+  
+   Śīlamatu suyi sacho dhamaṭho sadhujivano 
+ Atmano karako sadhū ta jano kurati pirau  Prā Dha  C     
+ Dharmasthaṃ śīlasampannaṃ 
+ Hīmantaṃ satyavādinam 
+ Ātmana kārakaṃ śāntaṃ 
+ Taṃ jana kurute pirayam  Saṃskṛtadharmapada       
+  
+                  
+   Akkodhena jine kodhaṃ asādhuṃ sādhunā jine     
+ Jine kadariyaṃ dānena saccena alikavādinaṃ  
+  
+   Saccaṃ bhaṇe na kujjheyya dajjāppasmimpi yācito     
+ Etehi tīhi ṭhānehi gacche devāna santike  
+  
+                   
+   Ahiṃsakā ye munayo niccaṃ kāyenasaṃvutā     
+ Te yanti accutaṃ ṭhānaṃ yattha gantvā na socare  
+  
+   Sadā jāgaramānānaṃ ahorattānusikkhinaṃ     
+ Nibbāṇaṃ adhimuttānaṃ atthaṃ gacchanti āsavā  
+  
+   Porāṇametaṃ atula netaṃ ajjatanāmiva     
+ Nindanti tuṇhimāsīnaṃ nindanti bahubhāṇinaṃ 
+ Mitabhāṇimpi nindanti natthi loke anindito  
+  
+   Na cāhu na ca bhavissati na cetarahi vijjati     
+ Ekantaṃ nindito poso ekantaṃ vā pasaṃsito  
+  
+   Yañce viññū pasaṃsanti anuvicca suve suve     
+ Acchiddavuttiṃ medhāviṃ paññāsīlasamāhitaṃ  
+  
+    Nekkhaṃ jambonadasseva ko taṃ ninditumarahati     
+ Devāpi naṃ pasaṃsanti brahmunāpi pasaṃsito  
+  
+    Kāyappakopaṃ rakkheyya kāyena saṃvuto siyā     
+ Kāyaduccaritaṃ hitvā kāyena sucaritaṃ care  
+  
+    Vacīpakopaṃ rakkheyya vācāya saṃvuto siyā     
+ Vacīduccaritaṃ hitvā vācāya sucaritaṃ care  
+  
+    Manopakopaṃ rakkheyya manasā saṃvuto siyā     
+ Manoduccaritaṃ hitvā manasā sucaritaṃ care  
+  
+   Akrodhena jayet krodhaṃ 
+ Asādhūṃ sādhunā jayet  
+ Jayet kadaryaṃ dānena 
+ Satyenā nṛta vādinam  Mahābhārata  
+  
+                  
+    Kāyena saṃvutā dhīrā atho vācāya saṃvutā     
+ Manasā saṃvutā dhīrā te ve suparisaṃvutā  
+  
+ Sattarasamo kodhavaggo  
+  
+                   
+    Malavaggo  
+  
+   Paṇḍupalāsova dānisi yamapurisāpi ca taṃ upaṭṭhitā     
+ Uyyogamukhe ca tiṭṭhasi patheyyampi ca te na vijjati  
+  
+   So karohi dīpamattano khippa vāyama paṇḍito bhava     
+ Niddhantamalo anaṅgaṇo dibbaṃ ariyabhūmimehisi  
+  
+   Upanītavayo ca dānisi sampayātosi yamassa santike     
+ Vāsopi cate tthi antarā pātheyyampi ca te na vijjati  
+  
+   So karohi dīpamattano khippa vāyama paṇḍito bhava     
+ Niddhantamalo anaṅgaṇo na puna jātijaraṃ upehisi  
+  
+   Anupubbena medhāvī thokathokaṃ khaṇe khaṇe     
+ Kammāro rajatasseva niddhame malamattano  
+  
+   Ayasāva malaṃ samuṭṭhitaṃ taduṭṭhāya tameva khādati     
+ Evaṃ atidhonacārinaṃ sakakammāni nayanti duggatiṃ  
+  
+                   
+   Asajjhāyamalā mantā anuṭṭhānamalā gharā     
+ Malaṃ vaṇṇassa kosajjaṃ pamādo rakkhato malaṃ  
+  
+   Malitthiyā duccaritaṃ maccheraṃ dadato malaṃ     
+ Malā ve pāpakā dhammā asmiṃ loke paramhi ca  
+  
+                  
+   Tato malā malataraṃ avijjā paramaṃ malaṃ     
+ Etaṃ malaṃ pahatvāna nimmalā hotha bhikkhavo  
+  
+    Sujīvaṃ ahirikena kākasūrena dhaṃsinā     
+ Pakkhandinā pagabbhena saṃkiliṭṭhena jīvitaṃ  
+  
+    Hirimatā ca dujjīvaṃ niccaṃ sucigavesinā     
+ Alīnenāpagabbhena suddhājīvena passatā  
+  
+    Yo pāṇamatipāteti musāvādaṃ ca bhāsati     
+ Loke adinnaṃ ādiyati paradāraṃ ca gacchati  
+  
+    Surāmerayapānaṃ ca yo naro anuyuñjati     
+ Idheva poso lokasmiṃ mūlaṃ khaṇati attano  
+  
+    Evambho purisa jānāhi pāpadhammā asaññatā     
+ Mā taṃ lobho adhammo ca ciraṃ dukkhāya randhayuṃ  
+  
+    Dadāti ve yathā saddhaṃ yathā pasādanaṃ jano     
+ Tattha ve maṅku yo hoti paresaṃ pānabhojane 
+ Na so divā vā rattiṃ vā samādhiṃ adhigacchati  
+  
+                   
+    Yassa cetaṃ samucchannaṃ mūlaghaccaṃ samūhataṃ     
+ Sa ve divā vā rattiṃ vā samādhiṃ adhigacchati  
+  
+    Natthi rāgasamo aggi natthi dosasamo gaho     
+ Natthi mohasamaṃ jālaṃ natthi taṇhāsamā nadī  
+  
+    Sudassaṃ vajjamaññesaṃ attano pana duddasaṃ     
+ Paresaṃ hi so vajjāni opuṇāti yathā bhūsaṃ 
+ Attano pana chādeti kaliṃva kitavā saṭho  
+  
+    Paravajjānupassissa niccaṃ ujjhānasaññino     
+ Āsavā tassa vaḍḍhanti ārā so āsavakkhayā  
+  
+                  
+    Ākāse padaṃ natthi samaṇo natthi bāhire     
+ Papañcābhiratā pajā nippapañcā tathāgatā  
+  
+    Ākāse padaṃ natthi samaṇo natthi bāhire     
+ Saṅkhārā sassatā natthi natthi buddhānaṃ iñjitaṃ  
+  
+ Malavaggo aṭṭhārasamo  
+  
+                   
+    Dhammaṭṭhavaggo  
+  
+   Na tena hoti dhammaṭṭho yenatthaṃ sahasā naye     
+ Yo ca atthaṃ anatthañca ubho niccheyya paṇḍito  
+  
+   Asāhasena dhammena samena nayatī pare     
+ Dhammassa gutto medhāvī dhammaṭṭhoti pavuccati  
+  
+   Na tena paṇḍito hoti yāvatā bahu bhāsati     
+ Khemī averī abhayo paṇḍitoti pavuccati  
+  
+   Na tāvatā dhammadharā yāvatā bahu bhāsati     
+ Yo ca appampi sutvāna dhammaṃ kāyena passati 
+ Sa ve dhammadharo hoti yo dhammaṃ nappamajjati  
+  
+   Na tena thero hoti yenassa palitaṃ siro     
+ Paripakko vayo tassa moghajiṇṇoti vuccati  
+   Na tāvatā dharmadharo yāvatā bahu bhāṣate 
+ Yastvīhālpamapi śrutvā dharmakāyena vai spṛśet 
+ Sa vai dharmadharo bhavati yo dharme na pramadyate  
+  Udānavarga         
+ Na tavata dhamadharo yavata baho bhaṣati 
+ Yo tu apa bi śūtvana dhamu kaphana phasati 
+ Sa ho dhamadharo hoti yo dhamu na pramajati  
+  Prā Dha  A         
+   Na tena vṛddho bhavati yenāsya palitaṃ śīra  
+ Yo vai yuvāpyadhīyānastaṃdevā sthaviraṃ vidu   Manusmṛti        
+  
+                  
+   Yamhi saccaṃ ca dhammo ca ahiṃsā saṃyamo damo     
+ Sa ve vantamalo dhīro thero iti pavuccati  
+  
+   Na vākkaraṇamattena vaṇṇapokkharatāya vā     
+ Sādhurūpo naro hoti issukī maccharī saṭho  
+  
+   Yassa ce taṃ samucchinnaṃ mūlaghaccaṃ samūhataṃ     
+ Sa vantadoso medhāvī sādhurūpoti vuccati  
+  
+   Na muṇḍakena samaṇo abbato alikaṃ bhaṇaṃ     
+ Icchālobhasamāpanno samaṇo kiṃ bhavissati  
+  
+                   
+    Yo ca sameti pāpāni aṇuṃ thūlāni sabbaso     
+ Samitattā hi pāpānaṃ samaṇoti pavuccati  
+  
+    Na tena bhikkhū hoti yāvatā bhikkhate pare     
+ Vissaṃ dhammaṃ samādāya bhikkhu hoti na tāvatā  
+  
+    Yodha puññca pāpañca bāhetvā brahmacariyavā     
+ Saṅkhāya loke carati sa ce bhikkhūti vuccati  
+  
+    Na monena muni hoti mūḷharūpo aviddasu     
+ Yo ca tulaṃva paggayha varamādāya paṇḍito  
+  
+    Bhikṣurna tāvatā bhavati yācatā bhakṣate parān 
+ Viṣamān dharmān samādāya bhikṣurbhoti na tāvatā  
+  Mahāvastu   Piṭa      
+ Na bhikhu tavata hoti yavata bhichati para 
+ Viśpadharma samadai bhikhu hoti na tavata  Prā Dha  B     
+    Yastukāmāṃśva pāpaṃ ca dhikkṛtvā brahmacaryavān 
+ Ni śreṇibhūto sapragño savai bhikṣurīti ucyate  
+  Mahāvastu   Piṭa      
+ Yā tu baheti pavana vata va bramacayiyava 
+ Saghai carati loku so tu bhikhu tu vucati  Prā Dha  B     
+  
+                  
+    Pāpāni parivajjeti sa manī tena so muni     
+ Yo munāti ubho loke muni tena pavuccati  
+  
+    Na tena ariyo hoti yena pāṇāni hiṃsati     
+ Ahiṃsā sabbapāṇānaṃ ariyoti pavuccati  
+  
+    Na sīlabbatamattena bāhusaccena vā pana     
+ Atha vā samādhilābhena vivicca sayanena vā  
+  
+    Phusāmi nekkhammasukhaṃ aputhujjanasevitaṃ     
+ Bhikkhu vissāsamāpādi appatto āsavakkhayaṃ  
+  
+ Dhammaṭṭhavaggo ekūnavīsatimo  
+                   
+  
+    Maggavaggo  
+  
+   Maggānaṭṭhaṅgiko seṭṭho saccānaṃ caturo padā     
+ Virāgo seṭṭho dhammānaṃ divipadānaṃ ca cakkhumā  
+  
+   Esova maggo natthañño dassanassa visuddhiyā     
+ Etaṃ hi tumhe paṭipajjatha mārassetaṃ pamohanaṃ  
+  
+   Etaṃ hi tumhe paṭipannā dukkhassantaṃ karissatha     
+ Akkhāto ve mayā maggo aññāya sallasatthanaṃ  
+  
+    Na śīlavratamātreṇa bāhuśrutyena vā puna  
+ Atha vā samādhilābhena prāntaśayyāsanena ca 
+ Na śilavatamatrena bahosutena va pano 
+ Adha samadhilabhena vivitaśayanena va  Prā Dha  B     
+    Spṛhayaṃ naiṣkāmyasukhaṃ apṛthagjanasevitam 
+ Bhikṣu viśvāsammāpado aprāpte aśravakṣaye  Udānavarga  
+ Phuṣamu nekhamasukhu aprudhajanasevi 
+ Hikhu viśpaśama        Apate aśava chaye  Prā Dha  B     
+   Magana aṭhagio śeṭho savana cauri pada 
+ Viraku śeṭho dhamana praṇagutana cakhuma  Prā Dha  A       
+  
+                  
+   Tumhehi kiccaṃ ātappaṃ akkhātāro tathāgatā     
+ Paṭipannā pamokkhanti jhāyino mārabandhanā  
+  
+   Sabbe baṅkhārā aniccāti yadā paññāya passati     
+ Atha nibbindati dukkhe esa maggo visuddhiyā  
+  
+   Sabbe baṅkhārā dukkhāti yadā paññāya passati     
+ Atha nibbindati dukkhe esa maggo visuddhiyā  
+  
+   Sabbe dhammā anattāti yadā paññāya passati     
+ Atha nibbindati dukkhe esa maggo visuddhiyā  
+  
+   Uṭṭhānakālamhi anuṭṭhahāno     
+ Yuvā balī ālasiyaṃ upeto 
+ Saṃsannasaṅkappamano kusīto 
+ Paññāya maggaṃ alaso na vindati  
+  
+                   
+   Vācānurakkhī manasā susaṃvuto     
+ Kāyena ca akusalaṃ na kayirā 
+ Ete tayo kammapathe visodhaye 
+ Ārādhaye maggaṃ isippaveditaṃ  
+  
+    Yogā ve jāti bhūri ayogā bhūrisaṅkhayo     
+ Etaṃ dvedhā pathaṃ ñatvā bhavāya vibhavāya ca 
+ Tathattānaṃ niveseyya yathā bhūri pavaḍḍhati  
+  
+   Savi saghara anica ti yada prañaya paśati 
+ Tada nivinati dukha eso magu visodhi a  
+   Savi sasara dukha ti yada prañae gradhati 
+ Tada nivinati dukha eṣo mago visodhi a  Prā Dha  A         
+   Sarva dhama anatma ti yada paśati cachuma 
+ Tada nivinati dukha eṣo mago visodhi a  Prā Dha  A       
+   Utthāna kāleṣū nibhinavīryyoyuvā balī       Ko nirāśa  
+ Sadeva saṃkalpahata kusīdo gñānasya mārgaṃ satataṃ na vetti  
+  Udānavarga apramāda       
+ Uṭhane alasa anuṭhahatu yoi bali alasae uvito 
+ Saṃsana sagapa mano samatima prañai maga alasu na vinati  
+  Prā Dha  A       
+  
+                  
+    Vanaṃ chindatha mā rukkhaṃ vanato jāyatī bhayaṃ     
+ Chetvā vanañca vanathañca nibbanā hotha bhikkhavo  
+  
+    Yāvaṃ vanatho na chijjati anumattopi narassa nārisu     
+ Paṭibaddhamanova tāva so vaccho khīrapakova mātari  
+  
+    Ucchinda sinehamattano kumudaṃ sāradikaṃva pāṇinā     
+ Santimaggameva brūhaya nibbāṇaṃ sugatena desitaṃ  
+  
+    Idha vassaṃ vasissāmi idha hemanta gimbhisu     
+ Iti bālo vicinteti antarāyaṃ na bujjhati  
+  
+    Taṃ puttapasusammattaṃ byāsattamanasaṃ naraṃ     
+ Suttaṃ gāmaṃ mahoghova maccu ādāya gacchati  
+  
+                   
+    Na santi puttā tāṇāya na pitā napi bandhavā     
+ Antakenādhipannassa natthi ñātisu tāṇatā  
+  
+    Etamatthavasaṃ ñatvā paṇḍito sīlasaṃvuto     
+ Nibbāṇagamanaṃ maggaṃ khippameva visodhaye  
+  
+ Maggavaggo vīsatimo  
+  
+    Pakiṇṇakavaggo  
+  
+   Mattāsukhapariccāgā passe ce vipulaṃ sukhaṃ     
+ Caje mattāsukhaṃ dhīro sampassaṃ vipulaṃ sukhaṃ  
+  
+   Paradukkhūpadānena attano sukhamicchati     
+ Verasaṃsaggasaṃsaṭṭho verā so na parimuccati  
+    Iha varṣaṃ kariṣyāmi hemantaṃ gīraṣmameva ca 
+ Bālo vicintayatīti hyantarāya na paśyati  Anityavarga       
+    Taṃ putrapaśusampannaṃ vyāsaktamanasaṃ naram 
+ Supataṃ vyāghro mṛgamiva mṛtyurādāya gacchati  
+  Mahābhārata         
+ Taṃ putrapaśusammattaṃ vyāsaktamānasaṃ naram 
+ Supataṃgrāmaṃ mahogha iva mṛtyurādāya gacchati  
+  Udānavarga         
+   Mātrāsukha parityāgādya paśyevipulaṃ sukham 
+ Tyajenmātrāsukhaṃ dhīra saṃpaśyan vipulaṃ sukham  
+  Udānavarga sukhavarga       
+   Para duhuvadanena yo atmano suhamichati 
+ Vera saṣaga sasaṭho so dubha na parimucati  Prā Dha  C  VO     
+  
+                  
+   Yaṃ hi kiccaṃ tadapaviddhaṃ akiccaṃ pana kayirati     
+ Unnalānaṃ pamattānaṃ tesaṃ vaḍḍhanti āsavā  
+  
+   Yesañca susamāraddhā niccaṃ kāyagatā sati     
+ Akiccaṃ te na sevanti kicce sātaccakārino 
+ Satānaṃ sampajānānaṃ atthaṃ gacchanti āsavā  
+  
+                   
+   Mātaraṃ pitaraṃ hantvā rājāno dve ca khattiye     
+ Raṭṭhaṃ sānuvaraṃ hantvā anīgho yāti brāhmaṇo  
+  
+   Mātaraṃ pitaraṃ hantvā rājāno dve ca sottiye     
+ Veyyagghapañcamaṃ hantvā anīgho yāti brāhmaṇo  
+   Suppabuddhaṃ pabujjhanti sadā gotamasāvakā     
+ Yesaṃ divā ca ratto ca niccaṃ buddhagatā sati  
+  
+   Suppabuddhaṃ pabujjhanti sadā gotamasāvakā     
+ Yesaṃ divā ca ratto ca niccaṃ dhammagatā sati  
+  
+   Suppabuddhaṃ pabujjhanti sadā gotamasāvakā     
+ Yesaṃ divā ca ratto ca niccaṃ saṅghagatā sati  
+  
+    Suppabuddhaṃ pabujjhanti sadā gotamasāvakā      
+ Yesaṃ divā ca ratto ca niccaṃ kāyagatā sati  
+  
+    Suppabuddhaṃ pabujjhanti sadā gotamasāvakā     
+ Yesaṃ divā ca ratto ca ahiṃsāya rato mano  
+  
+   Yeṣāntu susamārabdhā nityaṃ kāyagatā smṛti  
+ Akṛtyaṃ te na kurvanti kṛtye sātatyakāriṇa  
+ Smṛtānāṃ samprajānānāmastaṃ gacchanti āśravā  udānavarga          
+   Supraudhu praujati imi gotamaśavaka 
+ Yeṣa divaya rati va nica budhakata smati  Prā Dha  A       
+   Supraudhu     Nica dhamakata smati  Prā Dha  A       
+   Supraudhū praujhati sada gotamaśavaka 
+ Yeṣa diva ya rati ca nica saghakata smati  Prā Dha  A       
+    Supraudhū     Nica kayakata smati  Prā Dha  A       
+    Supraudhū     Ahiṃsai rato mano  Prā Dha  A       
+                    
+    Suppabuddhaṃ pabujjhanti sadā gotamasāvakā     yesaṃ divā ca ratto ca bhāvanāya rato 
+ mano  
+  
+    Duppabbajjaṃ durabhiramaṃ durāvāsā gharā dukhā     
+ Dukkhosamānasaṃvāso dukkhānupatitaddhagu 
+ Tasmā na caddhagu siyā dukkhānupatito siyā  
+  
+    Saddho sīlena sampanno yasobhogasamappito     
+ Yaṃ yaṃ padesaṃ bhajati tattha tattheva pūjito  
+  
+    Dūre santo pakāsanti himavantova pabbato     
+ Asantettha na dissanti rattiṃ khittā yathā sarā  
+  
+                   
+    Ekāsanaṃ ekaseyyaṃ eko caramatandito     
+ Eko damayamattānaṃ vanante ramito siyā  
+  
+ Ekavīsatimo pakiṇṇakavaggo  
+  
+    Niraya vaggo  
+  
+   Abhūtavādī nirayaṃ upeti yo cāpi katvā na karomīti cāha     
+ Ubhopi te pecca samā bhavanti nihīnakammā manujā parattha  
+  
+    Supraudhū       Bhavanai rato mano  Prā Dha  A       
+    Sadhū śilena sabano yaśa bhoga samapitū 
+ Yena yeneva vayati tena teneva puyita  Prā Dha  C     
+  
+                    
+   Kāsāvakaṇṭhā bahavo pāpadhammā asaññatā     
+ Pāpā pāpehi kammehi nirayaṃ te upapajjare  
+  
+   Seyye ayoguḷo bhutto tatto aggisikhūpamo     
+ Yañce bhūñjeyya dussīlo raṭṭhapiṇḍaṃ asaññato  
+  
+   Cattāri ṭhānāni naro pamatto     
+ Āpajjati paradārūpasevī 
+ Apuññalābhaṃ na nikāmaseyyaṃ 
+ Nindaṃ tatiyaṃ nirayaṃ catutthaṃ  
+  
+                   
+   Apuññalābho ca gatī ca pāpikā     
+ Bhītassa bhītāya ratī ca thokikā 
+ Rājā ca daṇḍaṃ garukaṃ paṇeti 
+ Tasmā naro paradāraṃ na seve  
+  
+   Kuso yathā duggahito hatthamevānukantati     
+ Sāmaññaṃ dupparāmaṭṭhaṃ nirayāyupakaḍḍhati  
+  
+   Yaṃ kiñci sithilaṃ kammaṃ saṃkiliṭṭhaṃ ca yaṃ vataṃ     
+ Saṅkassaraṃ brahmacariyaṃ na taṃ hoti mahapphalaṃ  
+  
+   Kayirā ce kayirāthenaṃ daḷhamenaṃ parakkame     
+ Saṭhilo hi paribbājo bhiyyo ākirate rajaṃ  
+  
+   Akataṃ dukkataṃ seyyo pacchā tapati dukkataṃ     
+ Kataṃ ca sukataṃ seyyo yaṃ katvā nānutappati  
+  
+   Akita kukita ṣehu pacha tavati drukita 
+ Kita nu sukita ṣehu yakitva nanutapati  Prā Dha  C     
+ Akṛtaṃ kukṛtācchreya  paścāttapati duṣkatṛm 
+ Śocate duṣkṛtaṃ kṛtvā śocate durgatiṃ gata  
+ Kṛtaṃ tu sukṛtaṃ śreyo yatkṛtvā nānutapyate 
+ Nandate sukṛtaṃ kṛtvā nandate sugatiṃ gata   
+  Udānavarga     vv     
+  
+                    
+    Nagaraṃ yathā paccantaṃ guttaṃ santarabāhiraṃ     
+ Evaṃ gopetha attānaṃ khaṇo vo mā upaccagā 
+ Khaṇātītā hi socanti nirayamhi samappitā  
+  
+    Alajjitāye lajjanti lajjitāye na lajjare     
+ Micchādiṭṭhisamādānā sattā gacchanti duggatiṃ  
+  
+    Abhaye bhayadassino bhaye cābhayadassino     
+ Micchādiṭṭhisamādānā sattā gacchanti duggatiṃ  
+  
+                   
+    Avajje vajjamatino vajje cāvajjadassino     
+ Micchādiṭṭhisamādānā sattā gacchanti duggatiṃ  
+  
+    Vajjaṃ ca vajjato ñatvā avajjaṃ ca avajjato     
+ Sammādiṭṭhisamādānā sattā gacchanti suggatiṃ  
+  
+ Nirayavaggo dvāvīsatimo  
+    Nāgavaggo  
+  
+   Ahaṃ nāgova saṅgāme cāpāto patitaṃ saraṃ     
+ Ativākyaṃ titikkhissaṃ dussīlo hi bahujjano  
+  
+   Dantaṃ nayanti samitiṃ dantaṃ rājābhirūhati     
+ Danto seṭṭho manussesu yotivākyaṃ titikkhati  
+  
+   Varamassatarā dantā ājānīyā ca sindhavā     
+ Kuñjarā ca mahānāgā attadanto tato varaṃ  
+  
+   Na hi etehi yānehi gaccheyya agataṃ disaṃ     
+ Yathāttanā sudantena danto dantena gacchati  
+  
+   Ahaṃ nāga iva saṃgrāme cāpata patitaṃ śaram 
+ Ativākyaṃ titikṣāmi du śīlo hi mahājana   Udānavarga  
+ Aho nako va sagami cavadhi vatita śara 
+ Ativaka ti          Druśilo hi baho jano  
+  Prā Dha  C     
+                    
+   Dhanapālako nāma kuñjaro kaṭukappabhedano dunnivārayo     
+ Baddho kabalaṃ na bhuñjati sumarati nāgavanassa kuñjaro  
+  
+                   
+   Middhī yadā hoti mahagghaso ca niddāyitā samparivattasāyī     
+ Mahāvarāhova nivāpapuṭṭho punappunaṃ gabbhamupeti mando  
+  
+   Idaṃ pure cittamacāri cārikaṃ     
+ Yenicchakaṃ yatthakāmaṃ yathāsukhaṃ 
+ Tadajjahaṃ niggahessāmi yoniso 
+ Hatthippabhinnaṃ viya aṅkusaggaho  
+  
+   Appamādaratā hotha sacittamanurakkhatha     
+ Duggā uddharathattānaṃ paṅke sannova kuñjaro  
+  
+   Sace labhetha nipakaṃ sahāyaṃ     
+ Saddhiṃ caraṃ sādhu vihāri dhīraṃ 
+ Abhibhuyya sabbāni parissayāni 
+ Careyya tenattamano satīmā  
+  
+    No ce labhetha nipakaṃ sahāyaṃ     
+ Saddhiṃ caraṃ sādhu vihāri dhīraṃ 
+ Rājāva raṭṭhaṃ vijitaṃ pahāya 
+ Eko care mātaṅgaraññeva nāgo  
+  
+    Ekassa caritaṃ seyyo     
+ Natthi bāle sahāyatā 
+ Eko care na ca pāpāni kayirā 
+ Appossukko mātaṅgaraññeva nāgo  
+  
+    Atthamhi jātamhi sukhā sahāyā     
+ Tuṭṭhī sukhā yā itarītarena 
+ Puññaṃ sukhaṃ jīvitasaṅkhayamhi 
+ Sabbassa dukkhassa sukhaṃ pahāṇaṃ  
+  
+   Apramādaratā bhavata suśīlā bhavata bhikṣaca  
+ Susamābhitasaṃkalapā svacittamanurakṣata  Udānavarga Apramāda       
+ Apramadarata bhodha sadhami supravedite 
+ Drugha udhvaradha atmana paga sana va kuñaru  Prā Dha   
+   Sa cellabheta nipakaṃ sahāyakaṃ 
+ Sāṃrdha caraṃ sādhūvihāridhīram 
+ Abhibhūya sarvāṇi parisuvāṇi 
+ Careta tenāttamanā pratismṛta   
+  Mūlasarvāstivāda vinaya Ko Va   
+    Sa cellabheta nipakaṃ sahāyakaṃ 
+ Sāṃrdhacaraṃ sādhūvihāridhīram 
+ Rājeva rāṣṭraṃ vipulaṃ prahāya 
+ Ekaścarenna ca pāpāni kuryyāt  Mūlasarvāstivāda vinaya Ko Va   
+    Ekasya caritaṃ śroyā na tu bāle sahāyatā 
+ Alpotsukaścaredeko mātaṃgaraṇyanāgavat  
+  Mūlasarvāstivāda vinaya Ko Va   
+  
+                   
+                    
+    Sukhā matteyyatā loke atho petteyyatā sukhā     
+ Sukhā sāmaññatā loke atho brahmaññatā sukhā  
+  
+    Sukhaṃ yāva jarā sīlaṃ sukhā saddhā patiṭṭhitā     
+ Sukho paññāya paṭilābho pāpānaṃ akaraṇaṃ sukhaṃ  
+  
+ Nāgavaggo tevīsatimo  
+  
+    Taṇhāvaggo  
+  
+   Manujassa pamattacārino taṇhā vaḍḍhati māluvā viya     
+ So palavati hurāhuraṃ phalamicchaṃva vanasmiṃ vānaro  
+  
+   Yā esā sahatī jammī taṇhā loke visattikā     
+ Sokā tassa pavaḍḍhanti abhivaṭṭhaṃva bīraṇaṃ  
+  
+   Yo ce taṃ sahatī jammiṃ taṇhaṃ loke duraccayaṃ     
+ Sokā tamhā papatanti udabindūva pokkharā  
+  
+   Taṃ vo vadāmi bhaddaṃ vo yāvantettha samāgatā     
+ Taṇhāya mūlaṃ khaṇatha usīrattho bīraṇaṃ 
+ Mā vo nalaṃva sotova māro bhañji punappunaṃ  
+  
+                   
+   Yathāpi mūle anupaddave daḷhe     
+ Chinnopi rukkho punareva rūhati 
+ Evampi taṇhānusaye anūhate 
+ Nibbatti dukkhamidaṃ punappunaṃ  
+  
+   Yassa chattiṃsati sotā manāpassavanā bhūsā     
+ Vāhā vahanti duddiṭṭhiṃ saṅkappā rāganissitā  
+  
+   Savanti sabbadhi sotā latā ubbhijja tiṭṭhati     
+ Tañca disvā lataṃ jātaṃ mūlaṃ paññāya chindatha  
+  
+   Ta yu vadami bhadrañu yavatetha samakata 
+ Apramada rata bhodha sadhami supravediti  Prā Dha  A       
+  
+                    
+   Saritāni sinehitāni ca somanassāni bhavanti jantuno     
+ Te sātasitā sukhesino te ve jāti jarūpagā narā  
+  
+   Tasiṇāya purakkhatā pajā parisappanti sasova bādhito     
+ Saṃyojanasaṅgasattā dukkhamupenti punappunaṃ cirāya  
+  
+    Tasiṇāya purakkhatā pajā parisappanti sasova bādhito     
+ Tasmā tasiṇaṃ vinodaya bhikkhu ākaṅkhī virāgamattano  
+  
+    Yo nibbanatho  vanādhimutto vanamutto vanameva dhāvati     
+ Taṃ puggalametha passatha mutto bandhanameva dhāvati  
+  
+                   
+    Na taṃ daḷhaṃ bandhanamāhu dhīrā     
+ Yadāyasaṃ dārujaṃ babbajañca 
+ Sārattarattā maṇikuṇḍalesu 
+ Puttesu dāresu ca yā apekhā  
+  
+    Etaṃ daḷhaṃ bandhanamāhu dhīrā     
+ Ohārinaṃ sithilaṃ duppamuñcaṃ 
+ Etampi chetvāna paribbajanti 
+ Anapekkhino kāmasukhaṃ pahāya  
+  
+    Ye rāgarattānupatanti sotaṃ     
+ Sayaṃ kataṃ makkaṭakova jālaṃ 
+ Etampi chetvāna vajanti dhīrā 
+ Anapekkhino sabbadukkhaṃ pahāya  
+  
+    Muñca pure muñca pacchato majjhe muñca bhavassa pāragū     
+ Sabbattha vimuttamānaso na puna jātijaraṃ upehisi  
+  
+    Vitakkapamathitassa jantuno tibbarāgassa subhānupassino     
+ Bhiyyo taṇhā pavaḍḍhati esa kho daḷhaṃ karoti bandhanaṃ  
+  
+    Na taddṛḍhaṃ bandhanamāhurāryā yadāyasaṃ dāravaṃ balbajaṃ ca 
+ Saṃraktacittā maṇikūṇḍaleṣu putreṣu dāreṣū ya ya avekṣā   
+    Etaddṛḍhaṃ bandhanamāhurāryā samaṃ tata susthiraṃ duṣpramuṃcam 
+ Etadapi chitvā parivrajanti anapekṣiṇa kāmasukhaṃ prahāya  
+  Udānavarga kāma  vv      
+    Na ta driḍha bandhana dhira ya asa daruva babana va 
+ Sarata cita mani kunaleṣū putreṣu dareṣū ya ya aveha  
+    Eta driḍha bandhana maha dhira oharina śiśila drupamujū 
+ Eta bi chitvana parivrayati anavehino kama suhu prahai  
+  Prā Dha  G  VO        
+    Ye rakarata anuvatati sotu 
+ Saigata            
+ Eta bi chetvana parivrayati 
+ Anavehino kama suha prahai  Prā Dha  C  VO     
+   Praggalameva sī Mu  
+    Muṃca purato muṃca paścato madhye muṃca bhavasya pāraga  
+ Sarvatra vimuktamānaso na punarjātijarāmupeṣyasi  Udānavarga        
+ Muju puratu muju pajatu majhatu muju bhavasa parako 
+ Sarvatra vimutamanaso na puna jatijara vuvehisi  Prā Dha  C  VO     
+  
+                    
+    Vitakkupasame ca yo rato asubhaṃ bhāvayati sadā sato     
+ Esa kho vyantikāhiti esa checchati mārabandhanaṃ  
+  
+                   
+    Niṭṭhaṃ gato asantāsī vītataṇho anaṅgaṇo     
+ Acchindi bhavasallāni antimoyaṃ samussayo  
+  
+    Vītataṇho anādāno niruttipadakovido     
+ Akkharānaṃ sannipātaṃ jaññā pubbaparāni ca 
+ Sa ve antimasārīro mahāpañño mahāpurisoti vuccati  
+    Sabbābhibhū sabbavidūhamasmi     
+ Sabbesu dhammesu anūpalitto 
+ Sabbañjaho taṇhakkhaye vimutto 
+ Sayaṃ abhiññāya kamuddiseyyaṃ  
+  
+    Sabbadānaṃ dhammadānaṃ jināti     
+ Sabbaṃ rasaṃ dhammaraso jināti 
+ Sabbaṃ ratiṃ dhammaratī jināti 
+ Taṇhakkhayo sabbadukkhaṃ jināti  
+  
+    Hananti bhogā dummedhaṃ no ve pāragavesino     
+ Bhogataṇhāya dummedho hanti aññeva attanā  
+  
+    Tiṇadosāni khettāni rāgadosā ayaṃ pajā     
+ Tasmā hi vītarāgesu dinnaṃ hoti mahapphalaṃ  
+  
+    Tiṇadosāni khettāni dosadosā ayaṃ pajā     
+ Tasmā hi vītadosesu dinnaṃ hoti mahapphalaṃ  
+  
+    Sarvābhibhū sarvavido hamasimi sarvehi dharmehi anopalipta  
+ Sarvagñohaṃ tṛṣṇākṣaye vimukto svayaṃ abhigñāya kamuddiśeyama  
+  Mahāvastu      
+  
+                    
+    Tiṇadosāni khettāni mohadosā ayaṃ pajā     
+ Tasmā hi vītamohesu dinnaṃ hoti mahapphalaṃ  
+  
+                   
+    Tiṇadosāni khettāni icchādosā ayaṃ pajā     
+ Tasmā hi vigaticchesu dinnaṃ hoti mahapphalaṃ  
+  
+ Taṇhāvaggo catuvīsatimo  
+  
+    Bhikkhuvaggo  
+  
+   Cakkhunā saṃvaro sādhu sādhu sotena saṃvaro     
+ Ghāṇena saṃvaro sādhu sādhu jivhāya saṃvaro  
+  
+   Kāyena saṃvaro sādhu sādhu vācāya saṃvaro     
+ Manasā saṃvaro sādhu sādhu sabbattha saṃvaro 
+ Sabbattha saṃvuto bhikkhu sabbadukkhā pamuccati  
+  
+   Hattha saññato pādasaññato     
+ Vācāya saññato saññatuttamo 
+ Ajjhattarato samāhito 
+ Eko santusito tamāhu bhikkhuṃ  
+  
+   Yo mukhasaññato bhikkhu mantabhāṇī anuddhato     
+ Atthaṃ dhammaṃ ca dīpeti madhuraṃ tassa bhāsitaṃ  
+  
+                   
+   Dhammārāmo dhammarato dhammaṃ anuvicintayaṃ     
+ Dhammaṃ anussaraṃ bhikkhu saddhammā na parihāyati  
+   Salābhaṃ nātimaññeyya nāññesaṃ pihayaṃ care     
+ Aññesaṃ pihayaṃ bhikkhu samādhiṃ nādhigacchati  
+  
+   Appalābhopi ce bhikkhu salābhaṃ nātimaññati     
+ Taṃ ve devā pasaṃsanti suddhājīviṃ atanditaṃ  
+   Cakṣuṣā saṃvaro sādhu sādhu śrotreṇa saṃvara  
+ Kāyena saṃvaro sādhu manasā sādhu saṃvara  
+ Sarvatra saṃvṛto bhikṣu sarvadu khāt pramucyate  Mahāvastu   Pi      
+   Kaena sañamu sadhu sadhu vayai sañamu 
+ Manena sañamu sadhu sadhu savatra sañamu 
+ Savatra sañato bhikhu sava dugatio jahi  Prā Dha  B    
+   Hatasañatu padasañatu vayasañatu savutidrio 
+ Ajhatmarato samahito eko satusito tamahu bhikhu  
+  Prā Dha  B     
+   Yo muhena sañato bhikhu matabhani anudhato 
+ Arthadharmu ji deseti mayuru tasa bhasita  Prā Dha  B     
+   Dharmārāmo dharmarato dharmamanuvicintayan 
+ Dharmaṃ samanusmaran hikṣu saddharmānna parihāyati  
+  Mahāvastu   Pi      
+   Salabhu natimañe a nañeṣa samihao sia 
+ Añeṣa saddhamiha bhikhu samadhi nadhikajati  Prā Dha  B     
+  
+                    
+   Sabbaso nāmarūpasmiṃ yassa natthi mamāyitaṃ     
+ Asatā ca na socati sa ve bhikkhūti vuccati  
+  
+   Mettāvihārī yo bhikkhū pasanno buddhasāsane     
+ Adhigacche padaṃ santaṃ saṅkhārūpasamaṃ sukhaṃ  
+  
+    Siñca bhikkhu imaṃ nāvaṃ sittā te lahumessati     
+ Chetvā rāgaṃ dosaṃ ca tato nibbāṇamehisi  
+  
+    Pañca chinde pañca jahe pañca cuttari bhāvaye     
+ Pañcasaṅgātigo bhikkhu oghatiṇṇoti vuccati  
+  
+    Jhāya bhikkhu mā ca pāmado     
+ Mā te kāmaguṇe bhamassu cittaṃ 
+ Mā lohaguḷaṃ gilī pamatto 
+ Mā kandi dukkhamidanti ḍayhamāno  
+  
+    Natthi jhānaṃ apaññassa paññā natthi ajhāyato     
+ Yamhi jhānaṃ ca paññā ca sa ve nibbāṇasantike  
+  
+                   
+    Suññāgāraṃ paviṭṭhassa santacittassa bhikkhuno     
+ Amānusī rati hoti sammā dhammaṃ vipassato  
+  
+    Yato yato sammasati khandhānaṃ udayabbayaṃ     
+ Labhati pītipāmojjaṃ amataṃ taṃ vijānataṃ  
+  
+    Tatrāyamādi bhavati idha paññassa bhikkhuno     
+ Indriyagutti santuṭṭhī pātimokkhe ca saṃvaro  
+  
+   Savasu namaruvasa yasa nathi mamaita 
+ Asata i na śoyati so hu bhikhu tu vucati  Prā Dha  B     
+   Maitīravihārī yo bhikṣu prasanno budaddhaśāsane 
+ Adhigacchati padaṃ śāntaṃ aśecanaṃ ca mocanam  
+  Mahāvastu        
+ Metra vihara ye bhikkhu prasanu budha śasa       
+ Paḍivijhu pada śata sagharavośamu suha  Prā Dha  B     
+    Siṃca bhikṣo imāṃ nāvaṃ siktā te lahumeṣyati 
+ Jitvā rāgaṃ ca dveṣaṃ ca tato nirvāṇameṣyasi  Mahāvastu        
+ Sija bhikhu ima nama sita ti lahu mesiti 
+ Chetva raka ji dośa tato nivana eśiti  Prā Dha  B     
+    Paja jina paja jahi paja utvari bhavai 
+ Paja sagadhio bhikhu ohatinoti vucati  Prā Dha  B     
+    Jai bhikhu ma yi pramadi ma te kamaguṇa bhameṃsu cittaṃ 
+ Ma lohaguḍa gili pramata kana dukhamida ti dajhamano  
+  Prā Dha  B     
+    Nathi jhana aprañasa praña nathi ajhayato 
+ Yasa jhana ca praña ya so ho nirvanasa sati a  Prā Dha  B     
+    Suñakare praviṭhasa śatacitasa bhikhuno 
+ Amanuṣa rati hoti same dharma vivaśatu  Prā Dha  B     
+    Yato yato samaṣati khandhana udayavaya 
+ Lahati pirati pramoju amutu ta vijanatu  Prā Dha  B     
+    Tatrai adi bhavati tadha prañasa bhikhuno 
+ Idriyagoti satuṭhī pratimukhei    Prā Dha  B     
+  
+                    
+    Mitte bhajassu kalyāṇe suddhājīve atandite     
+ Paṭisanthāravuttyassa ācārakusalo siyā 
+ Tato pāmojjabahulo dukkhassantaṃ karissasi  
+  
+    Vassikā viya pupphāni maddavāni pamuñcati     
+ Evaṃ rāgaṃ ca dosaṃ ca vippamuñcetha bhikkhavo  
+  
+    Santakāyo santavāco santavā susamāhito     
+ Vantalokāmiso bhikkhu upasantoti vuccati  
+  
+    Attanā vodayattānaṃ paṭimāsettamattanā     
+ So attagutto satimā sukhaṃ bhikkhu vihāhisi  
+  
+    Attā hi attano nātho attā hi attano gati     
+ Tasmā saññamayattānaṃ assaṃ bhadraṃva vāṇijo  
+  
+    Pāmojjabahulo bhikkhu pasanno buddhasāsane     
+ Adhigacche padaṃ santaṃ saṅkhārūpasamaṃ sukhaṃ  
+  
+                   
+    Yo have daharo bhikkhu yuñjati buddhasāsane     
+ So imaṃ lokaṃ pabhāseti abbhā muttova candimā  
+  
+ Bhikkhuvaggo pañcavīsatimo  
+  
+    Brāhmaṇavaggo  
+  
+   Chinda sotaṃ parakkamma kāme panuda brāhmaṇa     
+ Saṅkhārānaṃ khayaṃ ñatvā akataññūsi brāhmaṇa  
+  
+   Yadā dvayesu dhammesū pāragū hoti brāhmaṇo     
+ Athassa sabbe saṃyogā atthaṃ gacchanti jānato  
+  
+    Mitra bhaye a paḍiruva sudhayīva a    
+ Paḍisaravuti asa aprak    
+ Datu ayarakuśalo suhu bhikhu vihaṣisi  Prā Dha  B     
+    Pramojabahulu yo bhikhu abhivuyu paripiraya 
+ Adhikachi pada śata aseyana moyaka  Prā Dha  B     
+  Aseyana asecanakaṃ  
+  Moyaka mocakaṃ  
+   Jindhi srota parakrāmya kāmān praṇuda brāhmaṇa 
+ Nāprahāya muni kāmān ekatvamadhigacchati  Udānavarga       
+  
+                    
+   Yassa pāraṃ apāraṃ vā pārāpāraṃ na vijjati     
+ Vītaddaraṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+   Jhāyiṃ virajamāsīnaṃ katakiccaṃ anāsavaṃ     
+ Uttamatthaṃ anuppattaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+   Divā tapati ādicco rattiṃ ābhāti candimā     
+ Sannaddho khattiyo tapati jhāyī tapati brāhmaṇo 
+ Atha sabbamahorattiṃ buddho tapati tejasā  
+  
+                   
+   Bāhitapāpoti brāhmaṇo samacariyā samaṇoti vuccati     
+ Pabbājayattano malaṃ tasmā pabbajitoti vuccati  
+  
+   Na brāhmaṇassa pahareyya nāssa muñcetha brāhmaṇo     
+ Dhī brāhmaṇassa hantāraṃ tato dhī yassa muñcati  
+  
+   Na brāhmaṇassetadakiñci seyyo     
+ Yadā nisedho manaso piyehi 
+ Yato yato hiṃsamano nivattati 
+ Tato tato sammati meva dukkhaṃ  
+  
+   Yassa kāyena vācāya manasā natthi dukkataṃ     
+ Saṃvutaṃ tīhi ṭhānehi tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yamhā dhammaṃ vijāneyya sammāsambuddhadesitaṃ     
+ Sakkaccaṃ taṃ namasseyya aggihuttaṃva brāhmaṇo  
+  
+   Jhayi parakata budhu kitakica anasavu 
+ Budhu daśabalu vetu tamahu bromi bramana  Prā Dha  B    
+   Diva tavati adivu rati abhai cadrimu 
+ Sanadhu chatirao tavati jhai tavati bramano 
+ Adha sarva ahoratra budhu tavati teyasa  Prā Dha   
+  
+                    
+    Na jaṭāhi na gottena jaccā hoti brāhmaṇo     
+ Yamhi saccañca dhammo ca so sucī sova brāhmaṇo  
+  
+    Kiṃ te jaṭāhi dummedha kiṃ te ajinasāṭiyā     
+ Abbhantaraṃ te gahaṇaṃ bāhiraṃ parimajjasi  
+  
+    Paṃsukūladharaṃ jantūṃ kisaṃ dhamanisanthataṃ     
+ Ekaṃ vanasmiṃ jhāyantaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+                   
+    Na cāhaṃ brāhmaṇaṃ brūmi yonijaṃ mattisambhavaṃ     
+ Bhovādī nāma so hoti sace hoti sakiñcano 
+ Akiñcanaṃ anādānaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Sabbasaṃyojanaṃ chetvā yo ve na paritassati     
+ Saṅgātigaṃ vidaññuttaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Chetvā naddhiṃ varattañca sandāmaṃ sahanukkamaṃ     
+ Ukkhittapalighaṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Akkosaṃ vadhabandhaṃ ca aduṭṭho yo titikkhati      
+ Khantibalaṃ balānīkaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Akkodhanaṃ vatavantaṃ sīlavantaṃ anussutaṃ      
+ Dantaṃ antimasārīraṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Vāri pokkharapatteva āraggeriva sāsapo     
+ Yo na lippati kāmesu tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yo dukkhassa pajānāti idheva khayamattano     
+ Pannabhāraṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+                    
+    Gambhīrapaññaṃ medhāviṃ maggāmaggassa kovidaṃ     
+ Uttamatthaṃ anuppattaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+                   
+    Asaṃsaṭṭhaṃ gahaṭṭhehi anāgārehi cūbhayaṃ     
+ Anokāsariṃ appicchaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Nidhāya daṇḍaṃ bhūtesu tasesu thāvaresu ca     
+ Yo na hanti na ghāteti tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Aviruddhaṃ viruddhesu attadaṇḍesu nibbutaṃ     
+ Sādānesu anādānaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yassa rāgo ca doso ca māno makkho ca pātito     
+ Sāsapo riva āraggā tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Akakkasaṃ viññapaniṃ giraṃ saccaṃ udīraye     
+ Yāya nābhisaje kañci tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yodha dīghaṃ va rassaṃ vā aṇuṃ thūlaṃ subhāsubhaṃ     
+ Loke adinnaṃ nādiyati tamahaṃ brūmi brāhmaṇaṃ  
+    Āsā yassa na vijjanti asmiṃ loke paramhi ca     
+ Nirāsayaṃ visaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yassālayā na vijjanti aññāya akathaṃkathī     
+ Amatogadhaṃ anuppattaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yodha puññca pāpañca ubho saṅgaṃ upaccagā     
+ Asokaṃ virajaṃ suddhaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Candaṃva vimalaṃ suddhaṃ vippasannamanāvilaṃ     
+ Nandībhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+                   
+                    
+    Yo imaṃ paḷipathaṃ duggaṃ saṃsāraṃ mohamaccagā     
+ Tiṇṇo pāragato jhāyī anejo akathaṃkatī 
+ Anupādāya nibbuto tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yodha kāme pahātvāna anāgāro paribbaje     
+ Kāmabhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yodha taṇhaṃ pahātvāna anāgāro paribbaje     
+ Taṇhābhavaparikkhīṇaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Hitvā mānusakaṃ yogaṃ dibbaṃ yogaṃ upaccagā     
+ Sabbayogavisaṃyuttaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Hitvā ratiṃ ca aratiṃ ca sītibhūtaṃ nirūpadhiṃ     
+ Sabbalokābhibhuṃ vīraṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Cutiṃ yovedi sattānaṃ upapattiṃ ca sabbaso     
+ Asattaṃ sugataṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yassa gatiṃ na jānanti devā gandhabbamānusā     
+ Khīṇāsavaṃ arahantaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+    Yassa pure ca pacchā ca majjhe ca natthi kiñcanaṃ     
+ Akiñcanaṃ anādānaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+                   
+    Usabhaṃ pavaraṃ vīraṃ mahesiṃ vijitāvinaṃ     
+ Anejaṃ nhātakaṃ buddhaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+                    
+    Pubbenivāsaṃ yovedī saggāpāyaṃ ca passati     
+ Atho jātikkhayaṃ patto abhiññāvosito muni 
+ Sabbavositavosānaṃ tamahaṃ brūmi brāhmaṇaṃ  
+  
+ Brāhmaṇavaggo chabbīsatimo  
+  
+ Vagguddānaṃ  
+  
+   Yamakappamādo cittaṃ pupphaṃ bālena paṇḍito 
+ Arahanto sahassena pāpadaṇḍena te dasa  
+  
+   Jarā attā ca loko ca buddho sukhapiyena ca 
+ Kodho malaṃ ca dhammaṭṭho maggavaggena vīsati  
+  
+   Pakiṇṇaṃ nirayo nāgo taṇhā bhikkhu ca brāhmaṇo 
+ Ete chabbīsati vaggā desitādiccabandhunā  
+  
+ Gāthuddānaṃ  
+  
+   Yamake vīsati gāthā appamādamhi dvādasa 
+ Ekādasa cittavagge pupphavaggamhi soḷasa  
+  
+   Bāle ca soḷasa gāthā paṇḍitamhi catuddasa 
+ Arahante dasa gāthā sahasse honti soḷasa  
+  
+   Terasa pāpavaggamhi daṇḍamhi dasa satta ca 
+ Ekādasa jarāvagge attavagge bhave dasa  
+  
+   Dvādasa lokavaggamhi buddhe caṭṭhārasa bhave 
+ Sukhe ca piyavagge ca gāthāyo honti dvādasa  
+  
+   Cuddasa kodhavaggamhi malavaggekavīsati 
+ Sattarasa ca dhammaṭṭhe maggavagge tatheva ca  
+  
+   Pakiṇṇe soḷasa gāthā niraye nāge catuddasa 
+ Chabbīsati taṇhāvaggamhi tevīsa bhikkhuvaggikā  
+  
+   Cattāḷīsekagāthāyo brāhmaṇe vaggamuttame 
+ Gāthā satāni cattāri tevīsa ca punāpare 
+ Dhammapade nipātamhi desitādiccabandhunāti  
+  
+ Dhammapada pāḷi niṭṭhitā  
+  
+  
+  
+ 
