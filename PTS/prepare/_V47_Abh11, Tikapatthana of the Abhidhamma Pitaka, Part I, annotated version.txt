@@ -1,76 +1,76 @@
 ﻿ 
   
- Tikapatthana of the Abhidhamma Pitaka  Part I  
- Paccayavibhangavara 
+ tikapatthana of the abhidhamma pitaka  part i  
+ paccayavibhangavara 
   
- Based on the edition Rhys Davids 
- London   Pali Text Society       Reprinted       
-  
-  
- Input by the Dhammakaya Foundation  Thailand            
-  GRETIL Version vom             
+ based on the edition rhys davids 
+ london   pali text society       reprinted       
   
   
- NOTICE 
- This file is  C  Copyright the Pali Text Society and the Dhammakaya Foundation        
- This work is licensed under a Creative Commons Attribution ShareAlike     International License  
+ input by the dhammakaya foundation  thailand            
+  gretil version vom             
   
- These files are provided by courtesy of the Pali Text Society for 
+  
+ notice 
+ this file is  c  copyright the pali text society and the dhammakaya foundation        
+ this work is licensed under a creative commons attribution sharealike     international license  
+  
+ these files are provided by courtesy of the pali text society for 
  scholarly purposes only  
- In principle they represent a digital edition  without revision or 
- correction  of the printed editions of the complete set of Pali 
- canonical texts published by the PTS  While they have been subject to a 
+ in principle they represent a digital edition  without revision or 
+ correction  of the printed editions of the complete set of pali 
+ canonical texts published by the pts  while they have been subject to a 
  process of checking  it should not be assumed that there is no 
  divergence from the printed editions and it is strongly recommended that 
  they are checked against the printed editions before quoting  
   
   
- ADDITIONAL NOTES 
- Italicized catchwords of the printed edition were already reduced 
- to plain Roman type in the original Dhammakaya file  
+ additional notes 
+ italicized catchwords of the printed edition were already reduced 
+ to plain roman type in the original dhammakaya file  
   
   
- ANNOTATED VERSION IN PTS LAYOUT 
-  
-  
-  
+ annotated version in pts layout 
   
   
   
- THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY  
- COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE  
   
- Text converted to Unicode  UTF     
-  This file is to be used with a UTF   font and your browsers VIEW configuration 
- set to UTF     
+  
+  
+ this gretil text file is for reference purposes only  
+ copyright and terms of usage as for source file  
+  
+ text converted to unicode  utf     
+  this file is to be used with a utf   font and your browsers view configuration 
+ set to utf     
   
  description  multibyte sequence  
  long a ā 
- long A Ā 
+ long a ā 
  long i ī 
- long I Ī 
+ long i ī 
  long u ū 
- long U Ū 
+ long u ū 
  vocalic r ṛ 
- vocalic R Ṛ 
+ vocalic r ṛ 
  long vocalic r ṝ 
  vocalic l ḷ 
- vocalic L Ḷ 
+ vocalic l ḷ 
  long vocalic l ḹ 
  velar n ṅ 
- velar N Ṅ 
+ velar n ṅ 
  palatal n ñ 
- palatal N Ñ 
+ palatal n ñ 
  retroflex t ṭ 
- retroflex T Ṭ 
+ retroflex t ṭ 
  retroflex d ḍ 
- retroflex D Ḍ 
+ retroflex d ḍ 
  retroflex n ṇ 
- retroflex N Ṇ 
+ retroflex n ṇ 
  palatal s ś 
- palatal S Ś 
+ palatal s ś 
  retroflex s ṣ 
- retroflex S Ṣ 
+ retroflex s ṣ 
  anusvara ṃ 
  visarga ḥ 
  long e ē 
@@ -81,15 +81,15 @@
  k underbar ḵ 
  t underbar ṯ 
   
- Unless indicated otherwise  accents have been dropped in order 
+ unless indicated otherwise  accents have been dropped in order 
  to facilitate word search  
   
- For a comprehensive list of GRETIL encodings and formats see  
+ for a comprehensive list of gretil encodings and formats see  
  http gretil sub uni goettingen degretilgretdiac pdf 
  and 
  http gretil sub uni goettingen degretilgretdias pdf 
   
- For further information see  
+ for further information see  
  http gretil sub uni goettingen degretil htm 
   
   
@@ -98,204 +98,204 @@
   
   
   
- Tikapaṭṭhāna  Part I 
+ tikapaṭṭhāna  part i 
   
   page      
    
-                           TIKAPAṬṬHĀNA  
-            NAMO TASSA BHAGAVATO ARAHATO SAMMĀSAMBUDDHASSA  
-                                I  
-                       PACCAYAVIBHAṄGAVĀRA 
-                           Paccayuddesa   
-         Hetupaccayo                          Kammapaccayo  
-         Ārammaṇapaccayo                     Vipākapaccayo  
-         Adhipatipaccayo                     Āhārapaccayo  
-         Anantarapaccayo                     Indriyapaccayo  
-         Samanantarapaccayo                Jhānapaccayo  
-         Sahajātapaccayo                     Maggapaccayo  
-         Aññamaññapaccayo                     Sampayuttapaccayo  
-         Nissayapaccayo                     Vippayuttapaccayo  
-         Upanissayapaccayo                    Atthipaccayo  
-          Purejātapaccayo                     Natthipaccayo  
-          Pacchājātapaccayo                Vigatapaccayo  
-          Āsevanapaccayo                     Avigatapaccayo  
-                            Paccayaniddesa   
+                           tikapaṭṭhāna  
+            namo tassa bhagavato arahato sammāsambuddhassa  
+                                i  
+                       paccayavibhaṅgavāra 
+                           paccayuddesa   
+         hetupaccayo                          kammapaccayo  
+         ārammaṇapaccayo                     vipākapaccayo  
+         adhipatipaccayo                     āhārapaccayo  
+         anantarapaccayo                     indriyapaccayo  
+         samanantarapaccayo                jhānapaccayo  
+         sahajātapaccayo                     maggapaccayo  
+         aññamaññapaccayo                     sampayuttapaccayo  
+         nissayapaccayo                     vippayuttapaccayo  
+         upanissayapaccayo                    atthipaccayo  
+          purejātapaccayo                     natthipaccayo  
+          pacchājātapaccayo                vigatapaccayo  
+          āsevanapaccayo                     avigatapaccayo  
+                            paccayaniddesa   
                                    
-      Hetupaccayo ti hetū hetusampayuttakānaṃ dhammānaṃ 
+      hetupaccayo ti hetū hetusampayuttakānaṃ dhammānaṃ 
  taṃ samuṭṭhānānañ ca rūpānaṃ hetupaccayena paccayo   
                                    
-      Ārammaṇapaccayo ti rūpāyatanaṃ cakkhuviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ ārammaṇapaccayena paccayo  Saddāyatanaṃ sotaviññāṇadhātuyā 
-                                                                            K  adds ti at the end of each paragraph  
+      ārammaṇapaccayo ti rūpāyatanaṃ cakkhuviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ ārammaṇapaccayena paccayo  saddāyatanaṃ sotaviññāṇadhātuyā 
+                                                                            k  adds ti at the end of each paragraph  
   
   
   page      
-                            Tikapaṭṭhāna 
+                            tikapaṭṭhāna 
        gandhāyatanaṃ ghānaviññāṇadhātuyā       rasāyatanaṃ jivhāviññāṇādhātuyā       phoṭṭhabbāyatanaṃ kāyaviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ 
  ārammaṇapaccayena paccayo  
-      Rūpāyatanaṃ  cakkhudhātuyā        saddāyatanaṃ       
+      rūpāyatanaṃ  cakkhudhātuyā        saddāyatanaṃ       
  gandhāyatanaṃ       rasāyatanaṃ       phoṭṭhabbāyatannaṃ 
        sabbe dhammā manodhātuyā taṃ sampayuttakānañ ca 
  dhammānaṃ ārammaṇapaccayena paccayo  
-      Yaṃ yaṃ dhammaṃ ārabbha ye ye dhammā uppajjanti 
+      yaṃ yaṃ dhammaṃ ārabbha ye ye dhammā uppajjanti 
  citta cetasikā dhammā  te te dhammā tesaṃ tesaṃ dhammānaṃ ārammaṇapaccayena paccayo  
                                    
-      Adhipatipaccayo ti chandādipati chandasampayuttakānaṃ dhammāmaṃ taṃ samuṭṭhānañ ca rūpānaṃ adhipaccayena paccayo  Viriyādhipati viriyasampayuttakānaṃ 
+      adhipatipaccayo ti chandādipati chandasampayuttakānaṃ dhammāmaṃ taṃ samuṭṭhānañ ca rūpānaṃ adhipaccayena paccayo  viriyādhipati viriyasampayuttakānaṃ 
        cittādhipati cittasampayuttakānaṃ       vīmaṃsādhipati vīmaṃsasampayuttakānaṃ dhammānaṃ taṃ samuṭṭhānaṃ ca rūpamaṃ adhipaccayena paccayo  
-      Yaṃ yaṃ dhammaṃ garuṃ katvā ye ye dhammā uppajjanti cittacetasikā dhammā  te te dhammā tesaṃ tesaṃ 
+      yaṃ yaṃ dhammaṃ garuṃ katvā ye ye dhammā uppajjanti cittacetasikā dhammā  te te dhammā tesaṃ tesaṃ 
  dhammānaṃ adhipatipaccayena paccayo  
                                    
-      Anantarapaccayo ti cakkhuviññāṇadhātu taṃ sampayuttakā ca dhammā manodhātuyā taṃ sampayuttakānañ ca 
- dhammānaṃ anantarapaccayena paccayo  Manodhātu 
+      anantarapaccayo ti cakkhuviññāṇadhātu taṃ sampayuttakā ca dhammā manodhātuyā taṃ sampayuttakānañ ca 
+ dhammānaṃ anantarapaccayena paccayo  manodhātu 
  taṃ sampayuttakā ca dhammā manoviññāṇadhātuyā taṃsampayuttakānañ ca dhammānaṃ anantarapaccayena 
- paccayo  Sotaviññāṇadhātu       ghānaviññāṇadhātu       
+ paccayo  sotaviññāṇadhātu       ghānaviññāṇadhātu       
  jivhāviññāṇadhātu       kāyaviññāṇadhātu taṃ sampayuttakā ca dhammā manodhātuyā taṃ sampayuttakānañ 
- ca dhammānaṃ anantarapaccayena paccayo  Manodhātu 
+ ca dhammānaṃ anantarapaccayena paccayo  manodhātu 
  taṃ sampayuttakā ca dhammā manoviññāṇadhātuyā taṃsampayuttakānañ ca dhammānaṃ anantarapaccayena 
  paccayo  
   
   page      
-                      Paccayavibhaṅgavāra                       
-      Purimā  purimā kusalā dhammā pacchimānaṃ pacchimānaṃ kusalānaṃ dhammānaṃ anantarapaccayena paccayo 
+                      paccayavibhaṅgavāra                       
+      purimā  purimā kusalā dhammā pacchimānaṃ pacchimānaṃ kusalānaṃ dhammānaṃ anantarapaccayena paccayo 
        avyākatānaṃ dhammānaṃ anantarapaccayena paccayo  
- Purimā purimā akusalā dhammā pacchimānaṃ pacchimānaṃ akusalānaṃ       avyākatānaṃ dhammānaṃ anantarapaccayena paccayo  Purimā purimā avyākatā dhammā 
+ purimā purimā akusalā dhammā pacchimānaṃ pacchimānaṃ akusalānaṃ       avyākatānaṃ dhammānaṃ anantarapaccayena paccayo  purimā purimā avyākatā dhammā 
  pacchimānaṃ pacchimānaṃ avyākatānaṃ       kusalānaṃ 
        akusalānaṃ dhammānaṃ anantarapaccayena paccayo  
-      Yesaṃ yesaṃ dhammānaṃ anantarā ye ye dhammā 
+      yesaṃ yesaṃ dhammānaṃ anantarā ye ye dhammā 
  uppajjanti  te te dhammā tesaṃ tesaṃ dhammānaṃ anantarapaccayena paccayo  
                                    
-      The cases where samanantarapaccayo obtains are the 
+      the cases where samanantarapaccayo obtains are the 
  same as in    
-      Yesaṃ yesaṃ dhammānaṃ samanantarā ye ye        as 
+      yesaṃ yesaṃ dhammānaṃ samanantarā ye ye        as 
  in    dhammānaṃ samanantarapaccayena paccayo  
                                    
-      Sahajātapaccayo ti cattāro khandhā arūpino aññamaññaṃ 
- sahajātapaccayena paccayo  Cattāro mahābhūtā aññamaññaṃ       Okkantikkhaṇe nāma rūpaṃ aññamaññaṃ 
- sahajātapaccayena paccayo  Citta cetasikā dhammā cittasamuṭṭhānaṃ rūpānaṃ       Mahābhūtā upādā rūpānaṃ 
- sahajātapaccayena paccayo  Rūpino dhammā arūpīnaṃ 
+      sahajātapaccayo ti cattāro khandhā arūpino aññamaññaṃ 
+ sahajātapaccayena paccayo  cattāro mahābhūtā aññamaññaṃ       okkantikkhaṇe nāma rūpaṃ aññamaññaṃ 
+ sahajātapaccayena paccayo  citta cetasikā dhammā cittasamuṭṭhānaṃ rūpānaṃ       mahābhūtā upādā rūpānaṃ 
+ sahajātapaccayena paccayo  rūpino dhammā arūpīnaṃ 
  dhammānaṃ kañci kālaṃ  sahajāta         kañci kālaṃ nasahajāta paccayena paccayo  
                                    
-      Aññamaññapaccayo ti cattāro khandhā arūpino       
- Cattāro mahābhūtā       Okkantikkhaṇe nāma rūpaṃ 
+      aññamaññapaccayo ti cattāro khandhā arūpino       
+ cattāro mahābhūtā       okkantikkhaṇe nāma rūpaṃ 
  aññamaññapaccayena paccayo  
                                    
-      Nissayapaccayo ti cattāro khandhā arūpino        cattāro 
+      nissayapaccayo ti cattāro khandhā arūpino        cattāro 
  mahābhūtā       okkantikkhaṇe nāmarūpaṃ aññamaññaṃ 
-                                                                            B  pūrimā always  
-   Br  kiñci kāle  
-   K  arūpīno  
+                                                                            b  pūrimā always  
+   br  kiñci kāle  
+   k  arūpīno  
   
   
   page      
-                            Tikapaṭṭhāna 
- nissayapaccayena paccayo  Citta cetasikā dhammā cittasamuṭṭhānānaṃ rūpānaṃ       Mahābhūtā upādā rūpānaṃ 
- nissayapaccayena paccayo  Cakkhāyatanaṃ cakkhuviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ       
- Sotāyatanaṃ       Ghānāyatanaṃ       Jivhāyatanaṃ       
- Kāyāyatanaṃ kāyaviññāṇadhātuyā taṃ sampayuttakānañ 
- ca dhammānaṃ nissayapaccayena paccayo  Yaṃ rūpaṃ 
+                            tikapaṭṭhāna 
+ nissayapaccayena paccayo  citta cetasikā dhammā cittasamuṭṭhānānaṃ rūpānaṃ       mahābhūtā upādā rūpānaṃ 
+ nissayapaccayena paccayo  cakkhāyatanaṃ cakkhuviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ       
+ sotāyatanaṃ       ghānāyatanaṃ       jivhāyatanaṃ       
+ kāyāyatanaṃ kāyaviññāṇadhātuyā taṃ sampayuttakānañ 
+ ca dhammānaṃ nissayapaccayena paccayo  yaṃ rūpaṃ 
  nissāya  manodhātu ca manoviññāṇadhātu ca vattanti  
  taṃ rūpaṃ manodhātuyā ca manoviññāṇadhātuyā ca 
  taṃ sampayuttakānañ ca dhammānaṃ nissayapaccayena 
  paccayo  
                                    
-      Upanissayapaccayo ti purimā purimā kusalā dhammā 
- pacchimānaṃ pacchimānaṃ kusalānaṃ dhammānaṃ upanissayapaccayena paccayo  Purimā purimā kusalā dhammā 
+      upanissayapaccayo ti purimā purimā kusalā dhammā 
+ pacchimānaṃ pacchimānaṃ kusalānaṃ dhammānaṃ upanissayapaccayena paccayo  purimā purimā kusalā dhammā 
  pacchimānaṃ pacchimānaṃ kesañci upanissayapaccayena 
- paccayo        pacchimānaṃ avyākatānaṃ upanissayapaccayena paccayo  Purimā purimā akusalā dhammā pacchimānaṃ pacchimānaṃ     akusalānaṃ           akusalānaṃ 
+ paccayo        pacchimānaṃ avyākatānaṃ upanissayapaccayena paccayo  purimā purimā akusalā dhammā pacchimānaṃ pacchimānaṃ     akusalānaṃ           akusalānaṃ 
  dhammānaṃ kesañci upanissayapaccayena paccayo  
- Purimā purimā avyākatā dhammā avyākatānaṃ       
- kusalānaṃ       akusalānaṃ dhammānaṃ upanissayapaccayena paccayo  Puggalo pi upanissayapaccayena paccayo  
+ purimā purimā avyākatā dhammā avyākatānaṃ       
+ kusalānaṃ       akusalānaṃ dhammānaṃ upanissayapaccayena paccayo  puggalo pi upanissayapaccayena paccayo  
  senāsanaṃ pi upanissayapaccayena paccayo  
                                     
-      Purejātapaccayo  ti cakkhāyatanaṃ cakkhuviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ purejātapaccayena paccayo  Sotāyatanaṃ sotaviññāṇadhātuyā  
+      purejātapaccayo  ti cakkhāyatanaṃ cakkhuviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ purejātapaccayena paccayo  sotāyatanaṃ sotaviññāṇadhātuyā  
  ghānayātanaṃ       kāyāyatanaṃ kāyaviññāṇadhātuyā       
  rūpāyatanaṃ cakkhuviññāṇadhātuyā       saddāyatanaṃ 
- sotaviññāṇadhātuyā       phoṭṭhabbayātanaṃ kāyaviññāṇadhātuyā       rūpāyatanaṃ  saddāyatanaṃ       phoṭṭhabbāyatanaṃ manodhātuyā taṃ sampayuttakānañ ca dhām                                                                           On this interesting abstention from the use of hadayavatthu  
-       see S Z  Aung in Compendium  p       Cf  Comy  below  p      
-   B  omits this sentence  
-   B  pūre  always  
+ sotaviññāṇadhātuyā       phoṭṭhabbayātanaṃ kāyaviññāṇadhātuyā       rūpāyatanaṃ  saddāyatanaṃ       phoṭṭhabbāyatanaṃ manodhātuyā taṃ sampayuttakānañ ca dhām                                                                           on this interesting abstention from the use of hadayavatthu  
+       see s z  aung in compendium  p       cf  comy  below  p      
+   b  omits this sentence  
+   b  pūre  always  
   
   
   page      
-                      Paccayavibhaṅgavāra                           
- mānaṃ purejātapaccayena paccayo  Yaṃ rūpaṃ nissāya  
+                      paccayavibhaṅgavāra                           
+ mānaṃ purejātapaccayena paccayo  yaṃ rūpaṃ nissāya  
  manodhātu ca manoviññāṇadhātu ca vattanti  taṃ rūpaṃ 
   a  manodhātuyā taṃ sampayuttakānañ ca dhammānaṃ 
  purejātapaccayena paccayo   b  manoviññāṇadhātuyā taṃsampayuttakānañ ca dhammānaṃ kañci kālaṃ  purejāta       kañci kālaṃ na purejāta paccayena paccayo  
                                     
-      Pacchājātapaccayo ti pacchājātā citta cetasikā dhammā 
+      pacchājātapaccayo ti pacchājātā citta cetasikā dhammā 
  purejātassa imassa kāyassa pacchājātapaccayena paccayo  
                                     
-      Āsevanapaccayo ti purimā purimā  a  kusalā dhammā 
+      āsevanapaccayo ti purimā purimā  a  kusalā dhammā 
         b  akusalā        c  kiriyāvyākatā dhammā pacchimānaṃ pacchimānaṃ  a  kusalānaṃ        b  akusalānaṃ       
   c  kiriyāvyākatānaṃ dhammānaṃ āsevanapaccayena paccayo  
                                     
-      Kammapaccayo ti kusalākusalaṃ kammaṃ vipākānaṃ 
+      kammapaccayo ti kusalākusalaṃ kammaṃ vipākānaṃ 
  khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo  
- Cetanā sampayuttakānaṃ dhammānaṃ taṃ samuṭṭhānañ 
+ cetanā sampayuttakānaṃ dhammānaṃ taṃ samuṭṭhānañ 
  ca rūpānaṃ kammapaccayena paccayo  
                                     
-      Vipākapaccayo ti vipākā cattāro khandhā arūpino aññamaññaṃ vipākapaccayena paccayo  
+      vipākapaccayo ti vipākā cattāro khandhā arūpino aññamaññaṃ vipākapaccayena paccayo  
                                     
-      Āhārapaccayo ti kabaḷinkāro  āhāro imassa kāyassa 
- āharapaccayena paccayo  Arūpino āhārā sampayuttakānaṃ 
+      āhārapaccayo ti kabaḷinkāro  āhāro imassa kāyassa 
+ āharapaccayena paccayo  arūpino āhārā sampayuttakānaṃ 
  dhammānaṃ taṃ samuṭṭhānānañ ca rūpānaṃ āhārapaccayena paccayo  
                                     
-      Indriyapaccayo ti cakkhundriyaṃ cakkhuviññāṇadhātuyā 
+      indriyapaccayo ti cakkhundriyaṃ cakkhuviññāṇadhātuyā 
        sotindriyaṃ sotaviññāṇadhātuyā       kāyindriyaṃ 
-                                                                            See p     n     and p         
-   B  kiñci kāli  
-   So S   K kavaḷo  B  kabaḷīkāro  
+                                                                            see p     n     and p         
+   b  kiñci kāli  
+   so s   k kavaḷo  b  kabaḷīkāro  
   
   
   page      
-                            Tikapaṭṭhāna 
+                            tikapaṭṭhāna 
  kāyaviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ 
- indriyapaccayena paccayo  Rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo  Arūpino indriyā 
+ indriyapaccayena paccayo  rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo  arūpino indriyā 
  sampayuttakānaṃ dhammānaṃ taṃ samuṭṭhānānañ ca 
  rūpānaṃ indriyapaccayena paccayo  
                                     
-      Jhānapaccayo ti jhānangāni jhānasampayuttakānaṃ 
+      jhānapaccayo ti jhānangāni jhānasampayuttakānaṃ 
  dhammānaṃ taṃ samuṭṭhānañ ca rūpānaṃ jhānapaccayena 
  paccayo  
                                     
-      Maggapaccayo ti maggagnāni maggasampayuttakānaṃ 
+      maggapaccayo ti maggagnāni maggasampayuttakānaṃ 
  dhammānaṃ taṃ samuṭṭhānānañ ca rūpānaṃ maggapaccayena paccayo  
                                     
-      Sampayuttapaccayo ti cattāro khandhā arūpino aññamaññaṃ sampayuttapaccayena paccayo  
+      sampayuttapaccayo ti cattāro khandhā arūpino aññamaññaṃ sampayuttapaccayena paccayo  
                                     
-      Vippayuttapaccāyo ti rūpino dhammā arūpinaṃ dhammānaṃ       Arūpino dhammā rūpinaṃ dhammānaṃ vippayuttapaccayena paccayo  
+      vippayuttapaccāyo ti rūpino dhammā arūpinaṃ dhammānaṃ       arūpino dhammā rūpinaṃ dhammānaṃ vippayuttapaccayena paccayo  
                                     
-      Atthipaccayo ti cattāro khandhā arūpino aññamāññaṃ 
-       Cattāro mahābhūtā aññamaññaṃ       Okkantikkhaṇe 
- nāmarūpaṃ aññamaññaṃ atthipaccayena paccayo  Cittacetasikā dhammā cittasamuṭṭhānaṃ rūpānaṃ       Mahābhūtā upādā rūpānaṃ atthipaccayena paccayo  Cakkhāyatanaṃ cakkhuviññāṇadhātuyā       kāyāyatanaṃ kāyaviññāṇadhātuyā       rūpāyatanaṃ cakkhuviññāṇadhātuyā 
+      atthipaccayo ti cattāro khandhā arūpino aññamāññaṃ 
+       cattāro mahābhūtā aññamaññaṃ       okkantikkhaṇe 
+ nāmarūpaṃ aññamaññaṃ atthipaccayena paccayo  cittacetasikā dhammā cittasamuṭṭhānaṃ rūpānaṃ       mahābhūtā upādā rūpānaṃ atthipaccayena paccayo  cakkhāyatanaṃ cakkhuviññāṇadhātuyā       kāyāyatanaṃ kāyaviññāṇadhātuyā       rūpāyatanaṃ cakkhuviññāṇadhātuyā 
        phoṭṭhabbāyatanaṃ kāyaviññāṇadhātuyā taṃ sampayuttakānañ ca dhammānaṃ atthipaccayena paccayo  
- Yaṃ rūpaṃ nissāya manodhātu ca manoviññāṇadhātu ca 
+ yaṃ rūpaṃ nissāya manodhātu ca manoviññāṇadhātu ca 
  vattanti  taṃ rūpaṃ manodhātuyā ca manoviññāṇadhātuyā 
  ca taṃ sampayuttakānañ ca dhammānaṃ atthipaccayena 
  paccayo  
   
   page      
-                      Paccayavibhaṅgavāra                           
+                      paccayavibhaṅgavāra                           
                                     
-      Natthipaccayo ti samanantaraniruddhā citta cetasikā 
+      natthipaccayo ti samanantaraniruddhā citta cetasikā 
  dhammā paccuppannānaṃ  citta cetasikānaṃ dhammānaṃ 
  natthipaccayena paccayo  
                                     
-      Vigatapaccayo ti samanantaravigatā citta cetasikā 
+      vigatapaccayo ti samanantaravigatā citta cetasikā 
  dhammā paccuppannānaṃ citta cetasikānaṃ dhammānaṃ 
  vigatapaccayena paccayo  
                                     
-      Avigatapaccayo ti cattāro khandhā arūpino aññamaññaṃ 
-       Cattāro mahābhūtā aññamaññaṃ       Okkhantikkhaṇe nāmarūpaṃ aññamaññaṃ avigatapaccayena paccayo  
- Citta cetasikā dhammā cittasamuṭṭhānānaṃ rūpānaṃ       
- Mahābhūtā upādā rūpānaṃ avigatapaccayena paccayo  
- Cakkhāyatanaṃ cakkhuviññāṇadhātuyā       kāyāyatanaṃ 
- kāyaviññāṇadhātuyā       rūpāyatanaṃ cakkhuviññāṇadhātuyā       phoṭṭhabbāyatanaṃ manodhātuyā       Yaṃ 
+      avigatapaccayo ti cattāro khandhā arūpino aññamaññaṃ 
+       cattāro mahābhūtā aññamaññaṃ       okkhantikkhaṇe nāmarūpaṃ aññamaññaṃ avigatapaccayena paccayo  
+ citta cetasikā dhammā cittasamuṭṭhānānaṃ rūpānaṃ       
+ mahābhūtā upādā rūpānaṃ avigatapaccayena paccayo  
+ cakkhāyatanaṃ cakkhuviññāṇadhātuyā       kāyāyatanaṃ 
+ kāyaviññāṇadhātuyā       rūpāyatanaṃ cakkhuviññāṇadhātuyā       phoṭṭhabbāyatanaṃ manodhātuyā       yaṃ 
  rūpan nissāya manodhātu ca manoviññāṇadhātu ca vattanti  taṃ rūpaṃ manodhātuyā ca manoviññāṇadhātuyā ca 
  taṃ sampayuttakānañ ca dhammānaṃ avigatapaccayena 
  paccayo   
-                     PACCAYAVIBHAṄGAVĀRO NIṬṬHITO  
-                                                                            B  paṭuppo  
-   See p    n     
+                     paccayavibhaṅgavāro niṭṭhito  
+                                                                            b  paṭuppo  
+   see p    n     
   
  

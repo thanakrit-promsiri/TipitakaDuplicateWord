@@ -1,84 +1,84 @@
 ﻿ 
   
- Tikapatthana of the Abhidhamma Pitaka  Part III  
- II  Vedanattikam 
- III  Vipakattikam 
- IV  Upadinnattikam 
- V  XXII  The Remaining Tikas 
- Dukapatthana 
- Duka Tikapatthana 
- Tika Dukapatthana 
- Tika Tikapatthana 
- Duka Dukapatthana 
+ tikapatthana of the abhidhamma pitaka  part iii  
+ ii  vedanattikam 
+ iii  vipakattikam 
+ iv  upadinnattikam 
+ v  xxii  the remaining tikas 
+ dukapatthana 
+ duka tikapatthana 
+ tika dukapatthana 
+ tika tikapatthana 
+ duka dukapatthana 
   
- Based on the edition Rhys Davids 
- London   Pali Text Society       Reprinted       
-  
-  
- Input by the Dhammakaya Foundation  Thailand            
-  GRETIL Version vom             
+ based on the edition rhys davids 
+ london   pali text society       reprinted       
   
   
- NOTICE 
- This file is  C  Copyright the Pali Text Society and the Dhammakaya Foundation        
- This work is licensed under a Creative Commons Attribution ShareAlike     International License  
+ input by the dhammakaya foundation  thailand            
+  gretil version vom             
   
- These files are provided by courtesy of the Pali Text Society for 
+  
+ notice 
+ this file is  c  copyright the pali text society and the dhammakaya foundation        
+ this work is licensed under a creative commons attribution sharealike     international license  
+  
+ these files are provided by courtesy of the pali text society for 
  scholarly purposes only  
- In principle they represent a digital edition  without revision or 
- correction  of the printed editions of the complete set of Pali 
- canonical texts published by the PTS  While they have been subject to a 
+ in principle they represent a digital edition  without revision or 
+ correction  of the printed editions of the complete set of pali 
+ canonical texts published by the pts  while they have been subject to a 
  process of checking  it should not be assumed that there is no 
  divergence from the printed editions and it is strongly recommended that 
  they are checked against the printed editions before quoting  
   
   
- ADDITIONAL NOTES 
- Italicized catchwords of the printed edition were already reduced 
- to plain Roman type in the original Dhammakaya file  
+ additional notes 
+ italicized catchwords of the printed edition were already reduced 
+ to plain roman type in the original dhammakaya file  
   
   
- ANNOTATED VERSION IN PTS LAYOUT 
-  
-  
-  
+ annotated version in pts layout 
   
   
   
- THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY  
- COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE  
   
- Text converted to Unicode  UTF     
-  This file is to be used with a UTF   font and your browsers VIEW configuration 
- set to UTF     
+  
+  
+ this gretil text file is for reference purposes only  
+ copyright and terms of usage as for source file  
+  
+ text converted to unicode  utf     
+  this file is to be used with a utf   font and your browsers view configuration 
+ set to utf     
   
  description  multibyte sequence  
  long a ā 
- long A Ā 
+ long a ā 
  long i ī 
- long I Ī 
+ long i ī 
  long u ū 
- long U Ū 
+ long u ū 
  vocalic r ṛ 
- vocalic R Ṛ 
+ vocalic r ṛ 
  long vocalic r ṝ 
  vocalic l ḷ 
- vocalic L Ḷ 
+ vocalic l ḷ 
  long vocalic l ḹ 
  velar n ṅ 
- velar N Ṅ 
+ velar n ṅ 
  palatal n ñ 
- palatal N Ñ 
+ palatal n ñ 
  retroflex t ṭ 
- retroflex T Ṭ 
+ retroflex t ṭ 
  retroflex d ḍ 
- retroflex D Ḍ 
+ retroflex d ḍ 
  retroflex n ṇ 
- retroflex N Ṇ 
+ retroflex n ṇ 
  palatal s ś 
- palatal S Ś 
+ palatal s ś 
  retroflex s ṣ 
- retroflex S Ṣ 
+ retroflex s ṣ 
  anusvara ṃ 
  visarga ḥ 
  long e ē 
@@ -89,15 +89,15 @@
  k underbar ḵ 
  t underbar ṯ 
   
- Unless indicated otherwise  accents have been dropped in order 
+ unless indicated otherwise  accents have been dropped in order 
  to facilitate word search  
   
- For a comprehensive list of GRETIL encodings and formats see  
+ for a comprehensive list of gretil encodings and formats see  
  http gretil sub uni goettingen degretilgretdiac pdf 
  and 
  http gretil sub uni goettingen degretilgretdias pdf 
   
- For further information see  
+ for further information see  
  http gretil sub uni goettingen degretil htm 
   
   
@@ -105,808 +105,808 @@
   
   
   
- Tikapaṭṭhāna  Part III 
+ tikapaṭṭhāna  part iii 
   
   page      
                                     
-                       II  VEDANĀTTIKAṂ 
-                           PAṬICCAVĀRO 
-                           Anulomaṃ   
+                       ii  vedanāttikaṃ 
+                           paṭiccavāro 
+                           anulomaṃ   
                                    
-       i  Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā  
-      Sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca 
- dve khandhā  dve khandhe paṭicca eko khandho  Paṭisandhikkhaṇe sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ 
+       i  sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā  
+      sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca 
+ dve khandhā  dve khandhe paṭicca eko khandho  paṭisandhikkhaṇe sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ 
  paṭicca dve khandhā  dve khandhe paticca eko khandho  
-       ii  Dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca 
+       ii  dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca 
  dukkhāya vedanāya sampayutto dhammo uppajjati hetupaccayā  
-      Dukkhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca 
+      dukkhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca 
  dve khandhā  dve khandhe paṭicca eko khandho  
-       iii  Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ 
+       iii  adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ 
  paṭicca adukkhamasukhāya vedanāya sampayutto dhammo 
  uppajjati hetupaccayā   
-      Adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ 
+      adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ 
  paṭicca dve khandhā  dve khandhe paṭicca eko khandho   
- Paṭisandhikkhaṇe        as under i   
+ paṭisandhikkhaṇe        as under i   
                                       
-       i  Sukhāya       uppajjati ārammaṇapaccayā       adhipatipaccayā   Adhipatiyā paṭisandhi natthi        anantarapaccayā  samanantarapaccayā  sahajātapaccayā  aññamaññapaccayā  nissayapaccayā  upanissayapaccayā  purejātapaccayā  
-      Sukhāya vedanāya sampaūttaṃ ekaṃ       dve       vatthuṃ 
+       i  sukhāya       uppajjati ārammaṇapaccayā       adhipatipaccayā   adhipatiyā paṭisandhi natthi        anantarapaccayā  samanantarapaccayā  sahajātapaccayā  aññamaññapaccayā  nissayapaccayā  upanissayapaccayā  purejātapaccayā  
+      sukhāya vedanāya sampaūttaṃ ekaṃ       dve       vatthuṃ 
  purejātapaccayā        saṅkhittaṃ       
-                                                                            There are only these three general propositions  i iii  
-      employed in this vāra  They will be represented by i  ii  iii 
+                                                                            there are only these three general propositions  i iii  
+      employed in this vāra  they will be represented by i  ii  iii 
       in connexion with the several paccayas  
-   This constant refrain will be represented by ekaṃ  dve  
-   Cf  above  p      
+   this constant refrain will be represented by ekaṃ  dve  
+   cf  above  p      
   
   
   page      
-                         Vedanāttikaṃ 
+                         vedanāttikaṃ 
                                        
-       i  Sukhāya       uppajjati āsevanapaccayā       kammapaccayā  vipākapaccayā  
-      Sukhāya vedanāya sampayuttaṃ ekaṃ  dve  Paṭisandhikkhaṇe sukhāya        as above   
-       ii  Dukkhāya       uppajjati vipākapaccayā  
-      Dukkhasahagataṃ kāyaviññāṇasahagataṃ  ekaṃ  dve  
-       iii  Adukkhamasukhāya       uppajjati vipākapaccayā  
-      Adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ  dve  
- Paṭisandhikkhaṇe       ekaṃ dve  
+       i  sukhāya       uppajjati āsevanapaccayā       kammapaccayā  vipākapaccayā  
+      sukhāya vedanāya sampayuttaṃ ekaṃ  dve  paṭisandhikkhaṇe sukhāya        as above   
+       ii  dukkhāya       uppajjati vipākapaccayā  
+      dukkhasahagataṃ kāyaviññāṇasahagataṃ  ekaṃ  dve  
+       iii  adukkhamasukhāya       uppajjati vipākapaccayā  
+      adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ  dve  
+ paṭisandhikkhaṇe       ekaṃ dve  
                                       
-       i  Sukhāya       uppajjati āharapaccayā       indriyapaccayā  jhānapaccayā  maggapaccayā  sampayuttapaccayā  vippayuttapaccayā  
-      Sukhāya vedanāya sampayuttaṃ ekaṃ  dve  Vatthuṃ 
- vippayuttapaccayā  Paṭisandhikkhaṇe sukhāya vedanāya 
+       i  sukhāya       uppajjati āharapaccayā       indriyapaccayā  jhānapaccayā  maggapaccayā  sampayuttapaccayā  vippayuttapaccayā  
+      sukhāya vedanāya sampayuttaṃ ekaṃ  dve  vatthuṃ 
+ vippayuttapaccayā  paṭisandhikkhaṇe sukhāya vedanāya 
  sampayuttaṃ ekaṃ  dve       vatthuṃ vippayuttapaccayā  
-       ii  Dukkhāya       uppajjati vippayuttapaccayā  
-      Dukkhāya vedanāya sampayuttaṃ ekaṃ  dve       vatthuṃ 
+       ii  dukkhāya       uppajjati vippayuttapaccayā  
+      dukkhāya vedanāya sampayuttaṃ ekaṃ  dve       vatthuṃ 
  vippayuttapaccayā  
-       iii  Adukkhamasukhāya       uppajjati vippayuttapaccayā  
-      Adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ  dve       
- vatthuṃ vippayuttapaccayā  Paṭisandhikkhaṇe       pe       
+       iii  adukkhamasukhāya       uppajjati vippayuttapaccayā  
+      adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ  dve       
+ vatthuṃ vippayuttapaccayā  paṭisandhikkhaṇe       pe       
  vatthuṃ vippayuttapaccayā       saṅkhittaṃ       
                                       
-      Atthipaccayā  natthipaccayā  vigatapaccayā  avigatapaccayā       
-            Anuloma gaṇanā   
-      H       Ā         saṅkhittaṃ       Avg    
- Hetupaccayā 
-      Ā       V       Avg    
- Ārammaṇapaccayā adhipatipaccayā 
-      H       V       Avg         saṅkhittaṃ       
-                                                                            Text passes over No     
-   K  omils sahagataṃ  below also  
+      atthipaccayā  natthipaccayā  vigatapaccayā  avigatapaccayā       
+            anuloma gaṇanā   
+      h       ā         saṅkhittaṃ       avg    
+ hetupaccayā 
+      ā       v       avg    
+ ārammaṇapaccayā adhipatipaccayā 
+      h       v       avg         saṅkhittaṃ       
+                                                                            text passes over no     
+   k  omils sahagataṃ  below also  
   
   
   page      
-                           Paṭiccavāro                         
- Āsevanapaccayā 
-      H       K       Āh       Avg    
- Vipākapaccayā 
-      H       A         saṅkhittaṃ       Pu       Jh       Avg   
-      Ā                                 K       M   
- Jhānapaccayā       maggapaccayā 
-      H       V       Avg    
- Avigatapaccayā 
-      H       Nat       Vg    
-       Yathā Kusalattikassa paccanīyagaṇanā evaṃ vitthāretabbaṃ   
-                            Paccanīya   
+                           paṭiccavāro                         
+ āsevanapaccayā 
+      h       k       āh       avg    
+ vipākapaccayā 
+      h       a         saṅkhittaṃ       pu       jh       avg   
+      ā                                 k       m   
+ jhānapaccayā       maggapaccayā 
+      h       v       avg    
+ avigatapaccayā 
+      h       nat       vg    
+       yathā kusalattikassa paccanīyagaṇanā evaṃ vitthāretabbaṃ   
+                            paccanīya   
                               na hetu   
-       i  Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati na hetupaccayā  
-      Ahetukaṃ sukhāya  vedanāya sampayuttaṃ ekaṃ  dve  
-       ii  Dukkhāya       na hetupaccayā  
-      Dukkhasahagataṃ kāyaviññāṇasahagataṃ ekaṃ  dve       
-                       Paccanīya gaṇanā   
-      Na H             Na Pa             Na Jh   
-      Na A                   pe           Na M   
-      Na Pu             Na V             Na Vpp   
- Na hetupaccayā 
-      Na A             Na Ās             Na Jh   
-      Na Pu             Na K             Na M   
-      Na Pa             Na V             Na Vpp   
- Na hetupaccayā na adhipati   na purejātapaccayā 
-      Na Pa         pe       Na V       Na Vpp    
- Na hetu   na adhipati   na purejāta       na vipāka   na maggapaccayā 
-      Na Vpp   
-            The rest mainly follows the Kusalattika  
-                 The other two Gaṇanās follow  
-                      Paṭiccavāro niṭṭhito  
-                                                                            K  ahetukasukhāya  
+       i  sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati na hetupaccayā  
+      ahetukaṃ sukhāya  vedanāya sampayuttaṃ ekaṃ  dve  
+       ii  dukkhāya       na hetupaccayā  
+      dukkhasahagataṃ kāyaviññāṇasahagataṃ ekaṃ  dve       
+                       paccanīya gaṇanā   
+      na h             na pa             na jh   
+      na a                   pe           na m   
+      na pu             na v             na vpp   
+ na hetupaccayā 
+      na a             na ās             na jh   
+      na pu             na k             na m   
+      na pa             na v             na vpp   
+ na hetupaccayā na adhipati   na purejātapaccayā 
+      na pa         pe       na v       na vpp    
+ na hetu   na adhipati   na purejāta       na vipāka   na maggapaccayā 
+      na vpp   
+            the rest mainly follows the kusalattika  
+                 the other two gaṇanās follow  
+                      paṭiccavāro niṭṭhito  
+                                                                            k  ahetukasukhāya  
   
   
   page      
-                         Vedanāttikaṃ 
-      Sahajātavāro  Paccaya   Nissaya   Saṃsaṭṭha  and Sampayutta vāras are stated as followings  One section only  from the 
+                         vedanāttikaṃ 
+      sahajātavāro  paccaya   nissaya   saṃsaṭṭha  and sampayutta vāras are stated as followings  one section only  from the 
  first and the last  is given  
-                            Pañhavāro   
+                            pañhavāro   
                                    
-       i  Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo  
-      Sukhāya vedanāya sampayuttā hetū  sampayuttakānaṃ 
- khandhānaṃ hetupaccayena paccayo  Paṭisandhikkhaṇe 
+       i  sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo  
+      sukhāya vedanāya sampayuttā hetū  sampayuttakānaṃ 
+ khandhānaṃ hetupaccayena paccayo  paṭisandhikkhaṇe 
  sukhāya vedanāya sampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo  
-       ii  Dukkhāya vedanāya sampayutto dhammo dukkhāya 
+       ii  dukkhāya vedanāya sampayutto dhammo dukkhāya 
  vedanāya sampayuttassa dhammassa hetupaccayena paccayo  
-      Dukkhāya vedanāya sampayuttā hetū sampayuttakānaṃ 
+      dukkhāya vedanāya sampayuttā hetū sampayuttakānaṃ 
  dhammānaṃ hetupaccayena paccayo  
-       iii  Adukkhamasukhāya vedanāya sampayutto dhammo 
+       iii  adukkhamasukhāya vedanāya sampayutto dhammo 
  adukkhamasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo  
-      Adukkhamasukhāya vedanāya sampayuttā hetū sampayuttakā vedanāya sampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo  
+      adukkhamasukhāya vedanāya sampayuttā hetū sampayuttakā vedanāya sampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo  
                                    
-       i  Sukhāya       ārammaṇap  pacc  
-      Sukhāya vedanāya sampayuttena cittena dānaṃ datvā  
- sīlaṃ samādiyitvā  uposathakammaṃ katvā  sukhāya vedanāya sampayuttena cittena paccavekkhati  Sukhāya vedanāya sampayuttā jhāna       maggā       phalā vuṭṭhāhitvā  
+       i  sukhāya       ārammaṇap  pacc  
+      sukhāya vedanāya sampayuttena cittena dānaṃ datvā  
+ sīlaṃ samādiyitvā  uposathakammaṃ katvā  sukhāya vedanāya sampayuttena cittena paccavekkhati  sukhāya vedanāya sampayuttā jhāna       maggā       phalā vuṭṭhāhitvā  
  sukhāya vedanāya sampayuttena cittena paccavekkhati  
- Ariyā sukhāya vedanāya sampayuttena cittena sukhāya 
- vedanāya sampayutte pahīne kilese paccavekkhanti  vikkhambhite kilese paccavekkhanti  Pubbe samudāciṇṇe kilese 
- jānanti  Sukhāya vedanāya sampayutte khandhe sukhāya 
+ ariyā sukhāya vedanāya sampayuttena cittena sukhāya 
+ vedanāya sampayutte pahīne kilese paccavekkhanti  vikkhambhite kilese paccavekkhanti  pubbe samudāciṇṇe kilese 
+ jānanti  sukhāya vedanāya sampayutte khandhe sukhāya 
  vedanāya sampayuttena cittena aniccato dukkhato anattato 
-                                                                            K  sampayutto hetu throughout this hetu section  
+                                                                            k  sampayutto hetu throughout this hetu section  
   
   
   page      
-                           Pañhavāro                              
- vipassati assādeti abhinandati   taṃ ārabbha sukhāya vedanāya sampayutto rāgo       diṭṭhi upajjati  Sukhāya vedanāya sampayutte khandhe ārabbha sukhāya vedanāya 
+                           pañhavāro                              
+ vipassati assādeti abhinandati   taṃ ārabbha sukhāya vedanāya sampayutto rāgo       diṭṭhi upajjati  sukhāya vedanāya sampayutte khandhe ārabbha sukhāya vedanāya 
  sampayuttā khandhā uppajjanti 
-       iv   Sukhāya vedanāya sampayutto dhammo dukkhāya 
+       iv   sukhāya vedanāya sampayutto dhammo dukkhāya 
  vedanāya       ārammaṇap  pacc  
-      Sukhāya vedanāya sampayuttena cittena dānaṃ       
+      sukhāya vedanāya sampayuttena cittena dānaṃ       
   as in i  katvā  vippaṭisārissa domanassaṃ uppajjati sukhāya 
  vedanāya sampayutte jhāne  pahīne   vippaṭisārissa domanassaṃ uppajjati  sukhāya vedanāya sampayutte khandhe 
  ārabbha dukkhāya vedanāya sampayuttā khandhā uppajjanti  
-       v  Sukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya       ārammaṇap  pacc  
-      Sukhāya vedanāya sampayutteṇa cittena dānaṃ      
+       v  sukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya       ārammaṇap  pacc  
+      sukhāya vedanāya sampayutteṇa cittena dānaṃ      
  katvā  adukkhamasukhāya vedanāya sampayuttena cittena 
- paccavekkhati  Sukhāya vedanāya sampayuttā jhānā  
+ paccavekkhati  sukhāya vedanāya sampayuttā jhānā  
  maggā  phalā vuṭṭhahitvā  adukkhamasukhāya vedanāya 
- sampayuttena cittena paccavekkhati  Ariyā adukkhamasukhāya vedanāya sampayuttena cittena sukhāya vedanāya 
+ sampayuttena cittena paccavekkhati  ariyā adukkhamasukhāya vedanāya sampayuttena cittena sukhāya vedanāya 
  sampayutte pahīne kilese paccavekkhanti  vikkhambhite 
  kilese paccavekkhanti  pubbe samudāciṇṇe kilese jānanti  
- Sukhāya vedanāya sampayutte khandhe adukkhamasukhāya 
+ sukhāya vedanāya sampayutte khandhe adukkhamasukhāya 
  vedanāya sampayuttena cittena aniccato dukkhato anattato 
- vipassati assādeti abhinandati   taṃ ārabbha adukkhamasukhāya vedanāya sampayutto rāgo       diṭṭhi       vicikicchā       uddhaccaṃ uppajjati  Cetopariyañāṇena sukhāya vedanāya sampayuttacittasamaṅgissa cittaṃ jānāti   
- Sukhāya vedanāya sampayuttā khandhā cetopariyañāṇassa  
- pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anā                                                                           So B  K  gives these three verbs in the plural    vippasanti  etc   
+ vipassati assādeti abhinandati   taṃ ārabbha adukkhamasukhāya vedanāya sampayutto rāgo       diṭṭhi       vicikicchā       uddhaccaṃ uppajjati  cetopariyañāṇena sukhāya vedanāya sampayuttacittasamaṅgissa cittaṃ jānāti   
+ sukhāya vedanāya sampayuttā khandhā cetopariyañāṇassa  
+ pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anā                                                                           so b  k  gives these three verbs in the plural    vippasanti  etc   
       and connects  in one sentence  all these psychological sequences 
-      with one subject   Ariyā  
-   Other six formula are now brought into play  thus       iv  Sukhāya     dukkhāya  S D            vii  D   A 
-       v  Sukhāya     adukkhamasukhāya S A       viii  A   S 
-       vi  Dukkhāya     sukhāya  D S            ix  A   D 
-   B  parihīne  
-   K  vipassanti assādenti abhinandanti  
-   K  jānanti  
+      with one subject   ariyā  
+   other six formula are now brought into play  thus       iv  sukhāya     dukkhāya  s d            vii  d   a 
+       v  sukhāya     adukkhamasukhāya s a       viii  a   s 
+       vi  dukkhāya     sukhāya  d s            ix  a   d 
+   b  parihīne  
+   k  vipassanti assādenti abhinandanti  
+   k  jānanti  
   
   
   page      
-                         Vedanāttikaṃ 
+                         vedanāttikaṃ 
  gataṃsañāṇassa  āvajjanāya ārammaṇapaccayena paccayo  
- Sukhāya vedanāya sampayutte khandhe ārabbha adukkhamasukhāya vedanāya sampayuttā khandhā uppajjanti  
-       ii  Dukkhāya       dukkhāya       ārammaṇap  pacc  
-      Dosaṃ ārabbha doso uppajjati  moho uppajjati   dukkhasahagataṃ kāyaviññāṇaṃ ārabbha doso uppajjati  moho 
- uppajjati  Dukkhāya vedanāya sampayutte khandhe ārabbha dukkhāya vedanāya sampayuttā khandhā uppajjanti  
-       vi  Dukkhāya vedanāya sampayutto dhammo sukhāya       
+ sukhāya vedanāya sampayutte khandhe ārabbha adukkhamasukhāya vedanāya sampayuttā khandhā uppajjanti  
+       ii  dukkhāya       dukkhāya       ārammaṇap  pacc  
+      dosaṃ ārabbha doso uppajjati  moho uppajjati   dukkhasahagataṃ kāyaviññāṇaṃ ārabbha doso uppajjati  moho 
+ uppajjati  dukkhāya vedanāya sampayutte khandhe ārabbha dukkhāya vedanāya sampayuttā khandhā uppajjanti  
+       vi  dukkhāya vedanāya sampayutto dhammo sukhāya       
  ārammaṇap  pacc  
-      Ariyā sukhāya vedanāya sampayuttena cittena dukkhāya 
+      ariyā sukhāya vedanāya sampayuttena cittena dukkhāya 
  vedanāya sampayutte pahīne kilese paccavekkhanti  vikkhambhite kilese paccavekkhanti  pubbe samudāciṇṇe kilese 
- jānanti  Dukkhāya vedanāya sampayutte khandhe sukhāya 
+ jānanti  dukkhāya vedanāya sampayutte khandhe sukhāya 
  vedanāya sampayuttena cittena aniccato dukkhato anattato 
- vipassanti  Dukkhāya vedanāya sampayutte khandhe ārabbha sukhāya vedanāya sampayuttā khandhā uppajjanti  
-       vii  Dukkhāya vedanāya sampayutto dhammo adukkhamasukhāya       ārammaṇap  pacc  
-      Ariyā adukkhamasukhāya vedanāya sampayuttena cittena 
- dukkhāya vedanāya sampayutte pahīne kilese paccavekkhanti  vikkhambhite kilese paccavekkhanti  pubbe samudāciṇṇe kilese jānanti  Dukkhāya vedanāya sampayutte 
+ vipassanti  dukkhāya vedanāya sampayutte khandhe ārabbha sukhāya vedanāya sampayuttā khandhā uppajjanti  
+       vii  dukkhāya vedanāya sampayutto dhammo adukkhamasukhāya       ārammaṇap  pacc  
+      ariyā adukkhamasukhāya vedanāya sampayuttena cittena 
+ dukkhāya vedanāya sampayutte pahīne kilese paccavekkhanti  vikkhambhite kilese paccavekkhanti  pubbe samudāciṇṇe kilese jānanti  dukkhāya vedanāya sampayutte 
  khandhe adukkhamasukhāya vedanāya sampayuttena cittena 
  aniccato dukkhato anattato vipassanti  cetopariyañāṇena 
- dukkhāya vedanāya sampayuttacittasamaṅgissa cittaṃ jānanti  Dukkhāya vedanāya sampayuttā khandhā cetopariyañāṇassa  pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anāgataṃsañāṇassa  āvajjanāya ārammaṇapaccayena paccayo  Dukkhāya vedanāya sampayutte khandhe 
+ dukkhāya vedanāya sampayuttacittasamaṅgissa cittaṃ jānanti  dukkhāya vedanāya sampayuttā khandhā cetopariyañāṇassa  pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anāgataṃsañāṇassa  āvajjanāya ārammaṇapaccayena paccayo  dukkhāya vedanāya sampayutte khandhe 
  ārabbha adukkhamasukhāya vedanāya sampayuttā khandhā 
  uppajjanti  
-       iii  Adukkhamasukhāya       ārammaṇap  pacc  
-      Adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ       katvā  adukkhamasukhāya vedanāya sampayut                                                                           B  inserts Dukkhāya vedanāya sampayuttaṃ mohaṃ ārabbha 
+       iii  adukkhamasukhāya       ārammaṇap  pacc  
+      adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ       katvā  adukkhamasukhāya vedanāya sampayut                                                                           b  inserts dukkhāya vedanāya sampayuttaṃ mohaṃ ārabbha 
       moho uppajjati  doso uppajjati  
   
   
   page      
-                           Pañhavāro                         
+                           pañhavāro                         
  tena cittena paccavekkhanti  adukkhamasukhāya vedanāya 
  sampayuttā jhānā       maggā      phalā vuṭṭhahitvā  
- adukkhamasukhāya vedanāya sampayuttena cittena paccavekkhanti  Ariyā adukkhamasukhāya vedanāya sampayuttena cittena adukkhamasukhāya vedanāya sampavutte 
+ adukkhamasukhāya vedanāya sampayuttena cittena paccavekkhanti  ariyā adukkhamasukhāya vedanāya sampayuttena cittena adukkhamasukhāya vedanāya sampavutte 
  pahīne kilese  vikkhambhite kilese paccavekkhanti  pubbe 
- samudāciṇṇe kilese jānanti  Adukkhamasukhāya vedanāya 
- sampayutte khandhe adukkhamasukhāya vedanāya sampayuttena cittena aniccato dukkhato anattato vipassati assādeti abhinandanti   taṃ ārabbha adukkhamasukhāya vedanāya sampayutto rāgo  diṭṭhi  vicikicchā  uddhaccaṃ uppajjati  Cetopariyañāṇena adukkhamasukhāya vedanāya sampayuttacittasamaṅgissa cittaṃ jānanti  Ākāsānañcāyatanaṃ 
- viññāṇañcāyatanassa         ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa  ārammaṇapaccayena paccayo  Adukkhamasukhāya vedanāya sampayuttā khandhā iddhividhañāṇassa  cetopariyañāṇassa  pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anāgataṃsañāṇassa  āvajjanāya ārammaṇapaccayena paccayo  Adukkhamasukhāya vedanāya 
+ samudāciṇṇe kilese jānanti  adukkhamasukhāya vedanāya 
+ sampayutte khandhe adukkhamasukhāya vedanāya sampayuttena cittena aniccato dukkhato anattato vipassati assādeti abhinandanti   taṃ ārabbha adukkhamasukhāya vedanāya sampayutto rāgo  diṭṭhi  vicikicchā  uddhaccaṃ uppajjati  cetopariyañāṇena adukkhamasukhāya vedanāya sampayuttacittasamaṅgissa cittaṃ jānanti  ākāsānañcāyatanaṃ 
+ viññāṇañcāyatanassa         ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa  ārammaṇapaccayena paccayo  adukkhamasukhāya vedanāya sampayuttā khandhā iddhividhañāṇassa  cetopariyañāṇassa  pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anāgataṃsañāṇassa  āvajjanāya ārammaṇapaccayena paccayo  adukkhamasukhāya vedanāya 
  sampayutte khandhe ārabbha adukkhamasukhāya vedanāya 
  sampayuttā khandhā uppajjanti  
-       vii  Adukkhamasukhāya vedanāya sampayutto dhammo 
+       vii  adukkhamasukhāya vedanāya sampayutto dhammo 
  sukhāya       ārammaṇap  pacc  
-      Adukkhamasukhāya vedanāya saṃpayuttena cittena dānaṃ       katvā  sukhāya vedanāya sampayuttena cittena 
- paccavekkhanti  Adukkhamasukhāya vedanāya sampayuttā 
- jhānā       maggā       phalā vuṭṭhahitvā  sukhāya vedanāya sampayuttena cittena paccavekkhanti  Ariyā sukhāya 
- vedanāya sampayuttena cittena adukkhamasukhāya vedanāya sampayutte pahīne kilese paccavekkhanti  vikkhambhite kilesepaccavekkhanti  Pubbe samudāciṇṇe kilese jānanti  Adukkhamasukhāya vedanāya sampayutte khandhe  
+      adukkhamasukhāya vedanāya saṃpayuttena cittena dānaṃ       katvā  sukhāya vedanāya sampayuttena cittena 
+ paccavekkhanti  adukkhamasukhāya vedanāya sampayuttā 
+ jhānā       maggā       phalā vuṭṭhahitvā  sukhāya vedanāya sampayuttena cittena paccavekkhanti  ariyā sukhāya 
+ vedanāya sampayuttena cittena adukkhamasukhāya vedanāya sampayutte pahīne kilese paccavekkhanti  vikkhambhite kilesepaccavekkhanti  pubbe samudāciṇṇe kilese jānanti  adukkhamasukhāya vedanāya sampayutte khandhe  
  sukhāya vedanāya sampayuttena cittena aniccato dukkhato 
- anattato vipassati assādeti abhinandati   taṃ ārabbha su                                                                           K  vipassanti assādenti abhinandanti  
-      B  by a slip has vipassanti assādeti  etc  
-   K     pe    
-   K  inserts ārabbha  
-   K  as before  B  again has vipassanti  then singular verbs  
+ anattato vipassati assādeti abhinandati   taṃ ārabbha su                                                                           k  vipassanti assādenti abhinandanti  
+      b  by a slip has vipassanti assādeti  etc  
+   k     pe    
+   k  inserts ārabbha  
+   k  as before  b  again has vipassanti  then singular verbs  
   
   
   page      
-                         Vedanāttikaṃ 
+                         vedanāttikaṃ 
  khāya vedanāya sampayutto rāgo       diṭṭhi uppajjati   
- Adukkhamasukhāya vedanāya sampayutte khandhe ārabbha 
+ adukkhamasukhāya vedanāya sampayutte khandhe ārabbha 
  sukhāya vedanāya sampayuttā khandhā uppajjanti  
-       ix  Adukkhamasukhāya vedanāya sampayutto dhammo 
+       ix  adukkhamasukhāya vedanāya sampayutto dhammo 
  dukkhāya       arammaṇap  pacc  
-      Adukkhamasukhāya vedanāya sampayuttena cittena 
+      adukkhamasukhāya vedanāya sampayuttena cittena 
  dānaṃ       katvā  vippaṭisārissa domanassaṃ uppajjati  
- Adukkhamasukhāya vedanāya sampayutte jhāne pahīne 
- vippaṭisārissa domanassaṃ uppajjati  Adukkhamasukhāya 
+ adukkhamasukhāya vedanāya sampayutte jhāne pahīne 
+ vippaṭisārissa domanassaṃ uppajjati  adukkhamasukhāya 
  vedanāyā sampayutte khandhe ārabbha dukkhāya vedanāya sampayuttā khandhā uppajjanti  
                                    
-      The adhipati paccaya section offers no new matter and 
+      the adhipati paccaya section offers no new matter and 
  is not commented on  
                                    
-       i  Sukhāya       anantarap  paccayena paccayo  
-      Purimā purimā sukhāya vedanāya sampayuttā khandhā 
- pacchimānaṃ pacchimanāṃ sukhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo  Sukhāya 
+       i  sukhāya       anantarap  paccayena paccayo  
+      purimā purimā sukhāya vedanāya sampayuttā khandhā 
+ pacchimānaṃ pacchimanāṃ sukhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo  sukhāya 
  vedanāya sampayuttaṃ anulomaṃ sukhāya vedanāya sampayuttassa gotrabhussa anantarap  pacc  anulomaṃ vodānassa  
  gotrabhū maggassa  vodānaṃ maggassa  maggo phalassa  
  phalaṃ phalassa  anulomaṃ sukhāya vedanāya sampayuttāya 
- phalasamāpattiyā anantarapaccayena paccayo  Sukhāya 
+ phalasamāpattiyā anantarapaccayena paccayo  sukhāya 
  vedanāya sampayuttā khandhā sukhāya vedanāya sampayuttassa vuṭṭhānassa anantarap  pacc   
-       v  Sukhāya vedanāya       adukkhamasukhāya       
-      Sukhāya vedanāya sampayuttaṃ cuticittaṃ adukkhamasukhāya vedanāya sampayuttassa uppatticittassa anantarapaccayena paccayo  Sukhāya vedanāya sampayuttaṃ bhavaṅgaṃ āvajjanāya anantarapaccayena paccayo  Sukhasahagataṃ kāyaviññāṇaṃ vipākamanodhātuyā anantarapaccayena paccayo  Sukhāya vedanāya sampayuttā vipākamanoviññāṇadhātu kiriyāmanoviññāṇadhātuyā anantarapaccayena paccayo  Sukhāya vedanāya sampayuttaṃ bhavaṅgaṃ adukkhamasukhāya vedanāya sampayuttassa bha                                                                           K     pe    
-   K  omits sentence  
+       v  sukhāya vedanāya       adukkhamasukhāya       
+      sukhāya vedanāya sampayuttaṃ cuticittaṃ adukkhamasukhāya vedanāya sampayuttassa uppatticittassa anantarapaccayena paccayo  sukhāya vedanāya sampayuttaṃ bhavaṅgaṃ āvajjanāya anantarapaccayena paccayo  sukhasahagataṃ kāyaviññāṇaṃ vipākamanodhātuyā anantarapaccayena paccayo  sukhāya vedanāya sampayuttā vipākamanoviññāṇadhātu kiriyāmanoviññāṇadhātuyā anantarapaccayena paccayo  sukhāya vedanāya sampayuttaṃ bhavaṅgaṃ adukkhamasukhāya vedanāya sampayuttassa bha                                                                           k     pe    
+   k  omits sentence  
   
   
   page      
-                           Pañhavāro                         
- vaṅgassa anantarapaccayena paccayo  Sukhāya vedanāya 
+                           pañhavāro                         
+ vaṅgassa anantarapaccayena paccayo  sukhāya vedanāya 
  sampayuttaṃ kusalākusalaṃ adukkhamasukhāya vedanāya 
  sampayuttassa vuṭṭhānassa  kiriyaṃ vuṭṭhānassa  phalaṃ 
  vuṭṭhānassa        
-       ii  Dukkhāya       anantarap  pacc  
-      Purimā purimā dukkhāya vedanāya sampayuttā khandhā 
+       ii  dukkhāya       anantarap  pacc  
+      purimā purimā dukkhāya vedanāya sampayuttā khandhā 
  pacchimānaṃ pacchimānaṃ dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo  
-       vii  Dukkhāya       adukkhamasukhāya       
-      Dukkhasahagataṃ kāyaviññāṇaṃ vipākamanodhātuyā 
- anantarapaccayena paccayo  Dukkhāya vedanāya sampayuttā khandhā adukkhamasukhāya vedanāya sampayuttassa 
+       vii  dukkhāya       adukkhamasukhāya       
+      dukkhasahagataṃ kāyaviññāṇaṃ vipākamanodhātuyā 
+ anantarapaccayena paccayo  dukkhāya vedanāya sampayuttā khandhā adukkhamasukhāya vedanāya sampayuttassa 
  vuṭṭhānassa anantarapaccayena paccayo  
-       iii  Adukkhamasukhāya       anantarap  pacc  
-      Purimā purimā adukkhamasukhāya vedanāya sampayuttā 
+       iii  adukkhamasukhāya       anantarap  pacc  
+      purimā purimā adukkhamasukhāya vedanāya sampayuttā 
  khandhā pacchimānaṃ pacchimānaṃ adukkhamasukhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena 
- paccayo  Adukkhamasukhāya vedanāya sampayuttaṃ anulomaṃ adukkamasulhāya vedanāya sampayuttassa gotrabhussa anantarapaccayena paccayo  Anulomaṃ vodānassa  
+ paccayo  adukkhamasukhāya vedanāya sampayuttaṃ anulomaṃ adukkamasulhāya vedanāya sampayuttassa gotrabhussa anantarapaccayena paccayo  anulomaṃ vodānassa  
  gotrabhū maggassa  vodānaṃ maggassa  maggo phalassa  phalaṃ phalassa  anulomaṃ phalasamāpattiyā  nirodhā vuṭṭhahantassa  nevasaññānāsaññāyatanaṃ adukkhamasukhāya 
- vedanāya sampayuttāya phalasamāpattiyā anantarapaccayena paccayo  Adukkhamasukhāya vedanāya sampayuttā 
- khandhā  Adukkhamasukhāya vedanāya sampayuttassa 
+ vedanāya sampayuttāya phalasamāpattiyā anantarapaccayena paccayo  adukkhamasukhāya vedanāya sampayuttā 
+ khandhā  adukkhamasukhāya vedanāya sampayuttassa 
  vuṭṭhānassa ananantarapaccayena paccayo  
-       viii  Adukkhamasukhāya       sukhāya         
-      Adukkhamasukhāya vedanāya sampayuttaṃ cuticittaṃ 
- sukhāya vedanāya sampayuttassa uppatticittassa anantarapaccayena paccayo  Āvajjanā sukhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarap  paccayo  Vipākamanodhātu sukhāya vedanāya sampayuttāya vipākamanoviññāṇadhātuyā anantarap  paccayo  Adukkhamasukhāya vedanāya sampayuttaṃ bhavaṅgaṃ sukhāya vedanāya sampayuttassa bhavaṅgassa anantarap  paccayo  Adukkhamasukhāya vedanāya sampayuttaṃ kusalākusalaṃ sukhāya 
+       viii  adukkhamasukhāya       sukhāya         
+      adukkhamasukhāya vedanāya sampayuttaṃ cuticittaṃ 
+ sukhāya vedanāya sampayuttassa uppatticittassa anantarapaccayena paccayo  āvajjanā sukhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarap  paccayo  vipākamanodhātu sukhāya vedanāya sampayuttāya vipākamanoviññāṇadhātuyā anantarap  paccayo  adukkhamasukhāya vedanāya sampayuttaṃ bhavaṅgaṃ sukhāya vedanāya sampayuttassa bhavaṅgassa anantarap  paccayo  adukkhamasukhāya vedanāya sampayuttaṃ kusalākusalaṃ sukhāya 
  vedanāya sampayuttassa       kiriyaṃ       phalaṃ vuṭṭhā 
   
   
   page      
-                         Vedanāttikaṃ 
+                         vedanāttikaṃ 
  nassa nirodhā vuṭṭhahantassa nevasaññāṇāsaññāyatanaṃ 
  sukhāya vedanāya sampayuttāya phalasamāpattiyā anantarap  paccayo  
-       ix  Adukkhamasukhāya       dukkhāya       
-      Āvajjanā dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo  
-      The remaining paccayas are treated as in the Kusalattika  
-                            Gaṇanā   
-      H       S       U       V         pe       Nat   
-      Ā       Sj       Ās       Sp                  Vg   
-      A       Añ       K       At                  Avg   
-      An       N   
- Hetupaccayā 
-      A             N             M             At   
-      Sj             V             Sp             Avg   
-      Añ             I   
- Hetu sahajāta aññamañña nissaya sampayutta atthi avigatan ti   
-           H Sj Añ N V M Sp At Avg   
-           H Sj Añ N I M Sp At Avg   
-           H Sj Añ N V I M Sp At Avg   
-           H A Sj Añ N I M Sp At Avg   
-           H A Sj Añ N V I M Sp At Avg   
- Ārammaṇapaccayā 
-      A       U       Ā A U ti   
- Adhipatipaccayā 
-      H       Añ       V       M       At   
-      Ā       N       Āh       Sp       Avg   
-      Sj       U       I   
- A Ā U ti       A Sj Añ N      i  Sp At Avg                  iv  V Āh I Sp At Avg   
-       ii  V Sp At Avg              v  I M Sp At Avg ti   
-       iii  Āh I Sp At Avg             vi  V I M Sp At Avg ti    
- Adhipati hetu sahajāta aññamañña nissaya 
-       i  I M Sp At Avg ti         ii  V I M Sp At Avg ti   
-       The rest of the Anuloma calls for no commentarial remark   
-                      Pañhavārassa anulomaṃ  
-                                                                            K  adds three other ghaṭanāni  vii ix  commencing similaly  
+       ix  adukkhamasukhāya       dukkhāya       
+      āvajjanā dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ anantarapaccayena paccayo  
+      the remaining paccayas are treated as in the kusalattika  
+                            gaṇanā   
+      h       s       u       v         pe       nat   
+      ā       sj       ās       sp                  vg   
+      a       añ       k       at                  avg   
+      an       n   
+ hetupaccayā 
+      a             n             m             at   
+      sj             v             sp             avg   
+      añ             i   
+ hetu sahajāta aññamañña nissaya sampayutta atthi avigatan ti   
+           h sj añ n v m sp at avg   
+           h sj añ n i m sp at avg   
+           h sj añ n v i m sp at avg   
+           h a sj añ n i m sp at avg   
+           h a sj añ n v i m sp at avg   
+ ārammaṇapaccayā 
+      a       u       ā a u ti   
+ adhipatipaccayā 
+      h       añ       v       m       at   
+      ā       n       āh       sp       avg   
+      sj       u       i   
+ a ā u ti       a sj añ n      i  sp at avg                  iv  v āh i sp at avg   
+       ii  v sp at avg              v  i m sp at avg ti   
+       iii  āh i sp at avg             vi  v i m sp at avg ti    
+ adhipati hetu sahajāta aññamañña nissaya 
+       i  i m sp at avg ti         ii  v i m sp at avg ti   
+       the rest of the anuloma calls for no commentarial remark   
+                      pañhavārassa anulomaṃ  
+                                                                            k  adds three other ghaṭanāni  vii ix  commencing similaly  
   
   
   page      
-                           Pañhavāro                         
-                            Paccanīya   
-      Sukhāya vedanāya sampayutto dhammo sukhāya       ārammaṇapaccayena       kammapaccayena paccayo       
-                            Gaṇanā   
-      Na H        Na Ā         pe       No Avg    
- Na hetupaccayā 
-      Na Ā         saṅkhittaṃ       No Avg    
- Na hetupaccayā na ārammaṇapaccayā 
-      Na A        Na U         saṅkhittaṃ       No Avg    
- Na hetupaccayā       saṅkhittaṃ       na āsevana   na vipāka   naāhāra        saṅkhittaṃ       
-      No Avg              Na hetumūlakaṃ  
- Yathā Kusalattikassa paccanīya gaṇanā gaṇitā  evaṃ imaṃ pi 
+                           pañhavāro                         
+                            paccanīya   
+      sukhāya vedanāya sampayutto dhammo sukhāya       ārammaṇapaccayena       kammapaccayena paccayo       
+                            gaṇanā   
+      na h        na ā         pe       no avg    
+ na hetupaccayā 
+      na ā         saṅkhittaṃ       no avg    
+ na hetupaccayā na ārammaṇapaccayā 
+      na a        na u         saṅkhittaṃ       no avg    
+ na hetupaccayā       saṅkhittaṃ       na āsevana   na vipāka   naāhāra        saṅkhittaṃ       
+      no avg              na hetumūlakaṃ  
+ yathā kusalattikassa paccanīya gaṇanā gaṇitā  evaṃ imaṃ pi 
       asaṃmuyhantena sabbaṃ mūlakaṃ gaṇetabbaṃ  
-                      Paccanīyaṃ  
-      Yathā Kusalattikassa anulomapaccanīyā paccanīyānuloma gaṇanā 
+                      paccanīyaṃ  
+      yathā kusalattikassa anulomapaccanīyā paccanīyānuloma gaṇanā 
            sajjhāyamaggena gaṇiṭā  evaṃ gaṇetabbaṃ  
-                           Paccanīyānulomaṃ  
-                      VEDANĀTTIKAṂ NIṬṬHITAṆ   
-                                                                            K  adds dutiyaṃ 
- Note  in the remaining pages  only those sentences are printed 
- in full concerning which the Commentary has something to say  
+                           paccanīyānulomaṃ  
+                      vedanāttikaṃ niṭṭhitaṇ   
+                                                                            k  adds dutiyaṃ 
+ note  in the remaining pages  only those sentences are printed 
+ in full concerning which the commentary has something to say  
   
   
   page      
                                     
-                       III  VIPĀKATTIKAṂ 
-                           PAṬICCAVĀRO   
+                       iii  vipākattikaṃ 
+                           paṭiccavāro   
                                    
-       i  Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati 
+       i  vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati 
  hetupaccayā  
-      Vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā  dve khandhe paṭicca dve khandhā  Paṭisandhikkhaṇe vipākaṃ ekaṃ 
+      vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā  dve khandhe paṭicca dve khandhā  paṭisandhikkhaṇe vipākaṃ ekaṃ 
  khandhaṃ paṭicca tayo khandhā  dve       dve khandhā  
-       ii  Vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo  uppajjati hetupaccayā  
-      Vipāke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ  Paṭisandhikkhaṇe vipāke khandhe paṭicca kaṭattārūpaṃ  
-       iii  Vipākaṃ dhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā 
-        iv  Vipākadhammadhammaṃ paṭicca vipākadhammadhammo        v  Vipākadhammadhammaṃ paṭicca nevavipāka na vip   dh  dhammo        vi  Vipākadhammadhammaṃ paticca vipākadhammo ca neva vip  na vip  dh  dhammo 
-        vii  Neva vip  na vip  dh  dhammaṃ paṭicca neva vip na vip  dh  dhammo        vii  Neva vip  na vip  dh  dhammaṃ 
- paṭicca vipāko dhammo        ix  Neva vip  na vip  dh  dhammaṃ paṭicca vipāko dhammo ca neva vip  na vip  dh  dhammo 
- ca        x  Vipākañ ca neva vip  na vip  dh  dhammañ ca 
- paṭicca vipāko dhammo        xi  Vipākañ ca neva vip  navip  dh  dhammañ ca paṭicca neva vip  na vip  dh  dhammo 
-        xii  Vipākañ ca neva vip  na vip  dh  dhammañ ca 
+       ii  vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo  uppajjati hetupaccayā  
+      vipāke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ  paṭisandhikkhaṇe vipāke khandhe paṭicca kaṭattārūpaṃ  
+       iii  vipākaṃ dhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā 
+        iv  vipākadhammadhammaṃ paṭicca vipākadhammadhammo        v  vipākadhammadhammaṃ paṭicca nevavipāka na vip   dh  dhammo        vi  vipākadhammadhammaṃ paticca vipākadhammo ca neva vip  na vip  dh  dhammo 
+        vii  neva vip  na vip  dh  dhammaṃ paṭicca neva vip na vip  dh  dhammo        vii  neva vip  na vip  dh  dhammaṃ 
+ paṭicca vipāko dhammo        ix  neva vip  na vip  dh  dhammaṃ paṭicca vipāko dhammo ca neva vip  na vip  dh  dhammo 
+ ca        x  vipākañ ca neva vip  na vip  dh  dhammañ ca 
+ paṭicca vipāko dhammo        xi  vipākañ ca neva vip  navip  dh  dhammañ ca paṭicca neva vip  na vip  dh  dhammo 
+        xii  vipākañ ca neva vip  na vip  dh  dhammañ ca 
  paṭicca vipāko dhammo ca neva vip  na vip  dh  dhammo ca 
-        xiii  Vipākadhammadhammañ ca neva vip  na vip dh ḍhamanañ ca paṭicca neva vip  na vip  dh  dhammo uppajjati hetupaccayā         
-      The other    pacayas are then dealt with  
-                                                                            Vipākadamma dhammā ti vipākā sabhāvadhammā  Asl      
-   Each of these general propositions is  as usual  
+        xiii  vipākadhammadhammañ ca neva vip  na vip dh ḍhamanañ ca paṭicca neva vip  na vip  dh  dhammo uppajjati hetupaccayā         
+      the other    pacayas are then dealt with  
+                                                                            vipākadamma dhammā ti vipākā sabhāvadhammā  asl      
+   each of these general propositions is  as usual  
       applied to some case of khandhas  mahābhūtas  etc  
   
   
   page      
-                           Paṭiccavāro                             
-                            Anulomaṃ   
-      H              Añ             K                   Vpp    
-      Ā             N              V                  At    
-      A             U             Āh          pe      Nat   
-      An             Pu             M                   Vg   
-      S             Ās             Sp                  Avg    
-      Sj    
- Hetupaccayā 
-      Ā         pe       Avg     
-            Yathā Kusalattikassa gaṇanā evaṃ gaṇetabbaṃ   
- Āsevanapaccayā 
-      H         pe           K                  Avg   
-      Pu                       Āh         pe       
- Vipākapaccayā 
-      H       S       U             M       Nat   
-      Ā       Sj       Pu             Sp       Vg   
-      A       Añ       K             Vpp       Avg   
-      An       N       Āh         pe       At   
-                      Anulomagaṇanā niṭṭhitā  
-                            Paccanīyaṃ   
-      Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati nahetupaccayā       
+                           paṭiccavāro                             
+                            anulomaṃ   
+      h              añ             k                   vpp    
+      ā             n              v                  at    
+      a             u             āh          pe      nat   
+      an             pu             m                   vg   
+      s             ās             sp                  avg    
+      sj    
+ hetupaccayā 
+      ā         pe       avg     
+            yathā kusalattikassa gaṇanā evaṃ gaṇetabbaṃ   
+ āsevanapaccayā 
+      h         pe           k                  avg   
+      pu                       āh         pe       
+ vipākapaccayā 
+      h       s       u             m       nat   
+      ā       sj       pu             sp       vg   
+      a       añ       k             vpp       avg   
+      an       n       āh         pe       at   
+                      anulomagaṇanā niṭṭhitā  
+                            paccanīyaṃ   
+      vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati nahetupaccayā       
        followed by eleven other general propositions    
-      the other paccayas up to No     follow  and then the other 
+      the other paccayas up to no     follow  and then the other 
  two gaṇanās  
-                      Paṭiccavāro niṭṭhito  
-      The next five vāras follow  and then the Pañhavāra  Passing 
- over the first  hetu  section  the second  ārammaṇa  runs       Vipāko dhammo vipākassa dhammassa ārammanapaccayena 
+                      paṭiccavāro niṭṭhito  
+      the next five vāras follow  and then the pañhavāra  passing 
+ over the first  hetu  section  the second  ārammaṇa  runs       vipāko dhammo vipākassa dhammassa ārammanapaccayena 
  paccayo  
-      Vipāke khandhe aniccato dukkhato anattato vipassati 
+      vipāke khandhe aniccato dukkhato anattato vipassati 
  assādeti  abhinandati  taṃ ārabbha rāgo       diṭṭhi       
- vicikicchā       uddhaccaṃ       domanassaṃ uppajjati Kusalākusale niruddhe vipāke tad ārammaṇatā uppajjati       
-                                                                            the Gaṇanā and commentary give ten only  
+ vicikicchā       uddhaccaṃ       domanassaṃ uppajjati kusalākusale niruddhe vipāke tad ārammaṇatā uppajjati       
+                                                                            the gaṇanā and commentary give ten only  
   
   
   page      
-                         Vipākattikaṃ 
-      Three general propositions follow  then this one       Vipākadhammadhammā neva vipāka na vipākadhammadhammassa ārammaṇapaccayena paccayo  
-      Arahā maggā vuṭṭhahitvā maggaṃ paccavekkhati  pubbe 
- suciṇṇāni paccavekkhati  Arahā pahīne kilese paccavekkhati  vikkhambhite kilese paccavekkhati   pubbe samudāciṇṇekilese jānāti  Vipākadhammadhamme khandhe aniccato 
- dukkhato anattato vipassati  cetopariyañāṇena vipākadhammadhamma cittasamaṅgissa cittaṃ jānāti  Ākāsānañcāyatanakusalaṃ viññāṇañcāyatanakiriyassa ārammaṇapaccayena 
- paccayo  Ākiñcaññāyatanakusalaṃ nevasaññāṇāsaññāyatanakiriyassa ārammaṇapaccayena paccayo  Vipākadhammadhammā khandhā cetopariyañāṇassa  pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anāgataṃsañāṇassa  āvajjanāya ārammaṇapaccayena paccayo  
+                         vipākattikaṃ 
+      three general propositions follow  then this one       vipākadhammadhammā neva vipāka na vipākadhammadhammassa ārammaṇapaccayena paccayo  
+      arahā maggā vuṭṭhahitvā maggaṃ paccavekkhati  pubbe 
+ suciṇṇāni paccavekkhati  arahā pahīne kilese paccavekkhati  vikkhambhite kilese paccavekkhati   pubbe samudāciṇṇekilese jānāti  vipākadhammadhamme khandhe aniccato 
+ dukkhato anattato vipassati  cetopariyañāṇena vipākadhammadhamma cittasamaṅgissa cittaṃ jānāti  ākāsānañcāyatanakusalaṃ viññāṇañcāyatanakiriyassa ārammaṇapaccayena 
+ paccayo  ākiñcaññāyatanakusalaṃ nevasaññāṇāsaññāyatanakiriyassa ārammaṇapaccayena paccayo  vipākadhammadhammā khandhā cetopariyañāṇassa  pubbenivāsānussatiñāṇassa  yathākammūpagañāṇassa  anāgataṃsañāṇassa  āvajjanāya ārammaṇapaccayena paccayo  
   
-      The next comment is on the Gaṇanā  anulomaṃ        H       S        U       K        Jh        At    
-      Ā       Sj        Pu       V       M       Nat   
-      A        Añ       Pa       Āh       Sp        Vg   
-      An       N         Ās       I       Vpp       Avg    
- Hetupaccayā 
-      A             N             M             At   
-      Sj             V             Sp             Avg   
-      Añ             I             Vpp   
-      Yathā Kusalattike pañhavārassa anulomagaṇanā gaṇitā vitthāretabbā  
-                           Anulomaṃ  
+      the next comment is on the gaṇanā  anulomaṃ        h       s        u       k        jh        at    
+      ā       sj        pu       v       m       nat   
+      a        añ       pa       āh       sp        vg   
+      an       n         ās       i       vpp       avg    
+ hetupaccayā 
+      a             n             m             at   
+      sj             v             sp             avg   
+      añ             i             vpp   
+      yathā kusalattike pañhavārassa anulomagaṇanā gaṇitā vitthāretabbā  
+                           anulomaṃ  
   
-      The other three gaṇanās follow  
-                      VIPĀKATTIKAṂ NIṬṬHITAṂ   
-                                                                            B  omits this clause  
-   K  gives a different figure  
-   K  inserts tatiyaṃ  
- The Siamese edition of the Tikapaṭṭhāna apparently ends here  
- I have inspected two copies of that edition of the Piṭakas without 
- discovering the conclusion  The Burmese edilion is complete  
+      the other three gaṇanās follow  
+                      vipākattikaṃ niṭṭhitaṃ   
+                                                                            b  omits this clause  
+   k  gives a different figure  
+   k  inserts tatiyaṃ  
+ the siamese edition of the tikapaṭṭhāna apparently ends here  
+ i have inspected two copies of that edition of the piṭakas without 
+ discovering the conclusion  the burmese edilion is complete  
   
   
   page      
      
-                       IV  UPĀDIṆṆATTIKAṂ 
-                           PAṬICCAVĀRO 
-                           Anulomaṃ   
+                       iv  upādiṇṇattikaṃ 
+                           paṭiccavāro 
+                           anulomaṃ   
                                    
-       i  Upādiṇṇupādāniyaṃ dhammaṃ paṭicca upadiṇṇupādāniyo dhammo upajjati hetupaccayā  
-      Upādiṇṇupādāniyaṃ ekaṃ khandhāṃ  cf  p             Paṭisandhikkhaṇe upādiṇṇupādāniyaṃ ekaṃ khandhaṃ  cf  p       
-       dve khandhā kaṭattā ca rūpaṃ  Khandhe paṭicca 
- vatthu  vatthu       khandhā  Upādiṇṇupādāniyaṃ ekaṃ 
+       i  upādiṇṇupādāniyaṃ dhammaṃ paṭicca upadiṇṇupādāniyo dhammo upajjati hetupaccayā  
+      upādiṇṇupādāniyaṃ ekaṃ khandhāṃ  cf  p             paṭisandhikkhaṇe upādiṇṇupādāniyaṃ ekaṃ khandhaṃ  cf  p       
+       dve khandhā kaṭattā ca rūpaṃ  khandhe paṭicca 
+ vatthu  vatthu       khandhā  upādiṇṇupādāniyaṃ ekaṃ 
  mahābhūtaṃ paṭicca tayo       dve       dve       mahābhūte paṭicca kaṭattā rūpaṃ upādārūpaṃ        
-      In this Tika the three correlated terms are upādiṇṇupādāniya  anupādiṇṇupādāniya  and anupādiṇṇa anupādāniya 
+      in this tika the three correlated terms are upādiṇṇupādāniya  anupādiṇṇupādāniya  and anupādiṇṇa anupādāniya 
  dhammas  
-      In the Pañhavāra  at No     of the paccayas  purejāta        Upādiṇṇupādāniyo dhammo upādiṇṇupādāniyassa dhammassa purejātapaccayena paccayo  
-       a  Ārammaṇa    b  vatthu purejātaṃ  
-       a  Sekhā vā puthujjanā vā cakkhuṃ aniccato dukkhato 
+      in the pañhavāra  at no     of the paccayas  purejāta        upādiṇṇupādāniyo dhammo upādiṇṇupādāniyassa dhammassa purejātapaccayena paccayo  
+       a  ārammaṇa    b  vatthu purejātaṃ  
+       a  sekhā vā puthujjanā vā cakkhuṃ aniccato dukkhato 
  anattato vipassanti  assādenti  abhinandanti  taṃ ārabbha 
- rāgo  domanassaṃ uppajjati  Kusalākusale niruddhe vipāke tad ārammaṇatā uppajjati       sotaṃ       upādiṇṇupādāniye rūpe       pe       phoṭṭhabbe  vatthuṃ       tadārammaṇatā uppajjati  Upādiṇṇupādāniyaṃ rūpāyatanaṃ 
+ rāgo  domanassaṃ uppajjati  kusalākusale niruddhe vipāke tad ārammaṇatā uppajjati       sotaṃ       upādiṇṇupādāniye rūpe       pe       phoṭṭhabbe  vatthuṃ       tadārammaṇatā uppajjati  upādiṇṇupādāniyaṃ rūpāyatanaṃ 
  kāyaviññāṇassa purejātapaccayena paccayo  
-       b  Cakkhāyatanaṃ cakkhuviññāṇassa       kāyāyatanaṃ 
+       b  cakkhāyatanaṃ cakkhuviññāṇassa       kāyāyatanaṃ 
  kāyaviññāṇassa  vatthu upādiṇṇupādāniyānaṃ khandhānaṃ 
  purejātapaccayena paccayo        
                            
   
   page      
-                         Upādiṇṇatikaṃ 
+                         upādiṇṇatikaṃ 
                                āhāra   
-      Upādiṇṇupādāniyo dhammo upādiṇṇupādāniyassa dhammassā āhārapaccayena paccayo  
-      Upādiṇṇupādāniyā āhārā sampayuttakānaṃ khandhānaṃ 
- āhārapaccayena paccayo  Paṭisandhikkhaṇe upādiṇṇupādāniyā āhārā sampayuttakānaṃ khandhānaṃ kaṭattā ca 
- rūpānaṃ āhārap        p        Upādiṇṇupādāniyo kabaḷinkāro āhāro upādiṇṇupādāniyassa kāyassa āhārap        p        
-      Upadiṇṇupādāniyo dhammo anupādiṇṇupādāniyassa dhammassa āhārap        p        
-      Upādiṇṇupādāniyā āhārā cittasamuṭṭhānānaṃ rūpānaṃ 
- āhārap        p        Upādiṇṇupādāniyo kabaḷiṅkāro āhāro 
+      upādiṇṇupādāniyo dhammo upādiṇṇupādāniyassa dhammassā āhārapaccayena paccayo  
+      upādiṇṇupādāniyā āhārā sampayuttakānaṃ khandhānaṃ 
+ āhārapaccayena paccayo  paṭisandhikkhaṇe upādiṇṇupādāniyā āhārā sampayuttakānaṃ khandhānaṃ kaṭattā ca 
+ rūpānaṃ āhārap        p        upādiṇṇupādāniyo kabaḷinkāro āhāro upādiṇṇupādāniyassa kāyassa āhārap        p        
+      upadiṇṇupādāniyo dhammo anupādiṇṇupādāniyassa dhammassa āhārap        p        
+      upādiṇṇupādāniyā āhārā cittasamuṭṭhānānaṃ rūpānaṃ 
+ āhārap        p        upādiṇṇupādāniyo kabaḷiṅkāro āhāro 
  anupādiṇṇupādāniyassa kāyassa āhārap        p        
-      Upādiṇṇupādāniyo dhammo upādiṇṇupādāniyassa ca anupādiṇṇupādāniyassa ca dhammassa āhārap        p        
-      Upādiṇṇupādāniyā āhārā sampayuttakānaṃ khandhānaṃ 
+      upādiṇṇupādāniyo dhammo upādiṇṇupādāniyassa ca anupādiṇṇupādāniyassa ca dhammassa āhārap        p        
+      upādiṇṇupādāniyā āhārā sampayuttakānaṃ khandhānaṃ 
  cittasamuṭṭhānānañ ca rūpānaṃ āhārapaccayena paccayo  
-       The remainder of the Tika  analogous to the preceding 
- Tikas  is not commented upon   
-                      UPĀDIṆṆATTIKAṂ NIṬṬHITAṂ  
+       the remainder of the tika  analogous to the preceding 
+ tikas  is not commented upon   
+                      upādiṇṇattikaṃ niṭṭhitaṃ  
   
   
   
   page      
-                       THE REMAINING TIKAS                     
-    SANKILIṬṬHASANKILESIKATTIKA  
-          Saṅkiliṭṭha saṅkilesika      asaṅkiliṭṭha saṅkilesika  
+                       the remaining tikas                     
+    sankiliṭṭhasankilesikattika  
+          saṅkiliṭṭha saṅkilesika      asaṅkiliṭṭha saṅkilesika  
           asaṅkiliṭṭha asaṅkilesika  
-    VITAKKATTIKA   
-          Savitakka savicāra          avitakka vicāramatta  
+    vitakkattika   
+          savitakka savicāra          avitakka vicāramatta  
           avitakka avicāra  
-    PīTITTIKA  
-          Pītisahagata      sukhasahagata      upekhāsahagata  
-       The following passage in   is commented upon     
-      Sukhasahagato dhammo upekhāsahagatassa dhammassa 
+    pītittika  
+          pītisahagata      sukhasahagata      upekhāsahagata  
+       the following passage in   is commented upon     
+      sukhasahagato dhammo upekhāsahagatassa dhammassa 
  anantarapaccayena paccayo  
-      Sukhasahagataṃ cuticittaṃ upekhāsahagatassa uppatticittassa anantarap        p       Sukhasahagataṃ bhavaṅgaṃ 
- āvajjanāya anantarap        p       Sukhasahagatā vipākamanoviññāṇadhātu kiriyāmanoviññāṇadhātuyā anantarap  
-       p       Sukhasahagataṃ bhavaṅgaṃ upekhāsahagatassa 
+      sukhasahagataṃ cuticittaṃ upekhāsahagatassa uppatticittassa anantarap        p       sukhasahagataṃ bhavaṅgaṃ 
+ āvajjanāya anantarap        p       sukhasahagatā vipākamanoviññāṇadhātu kiriyāmanoviññāṇadhātuyā anantarap  
+       p       sukhasahagataṃ bhavaṅgaṃ upekhāsahagatassa 
  bhavaṅgassa anantarap        p       
-    DASSANATTIKA  
-          Dassanena pahātabba      bhāvanāya pahātabba  
+    dassanattika  
+          dassanena pahātabba      bhāvanāya pahātabba  
           neva dassanena na bhāvanāya pahātabba  
-       The following passage in   is commented upon     
-      In the Pañhavāre    ārammaṇa        Dassanena pahātabbo dhammo dassanena pahātabba dhammassa ārammaṇapaccayena paccayo  
-                                                                            One passage in this Tika is commented upon  below p       
-      In the Kusalattika it occurs in the Pañhāvāra    Upanissaya 
-       P       but I cannot find it in the corresponding section of 
-      this Tika  nor in other sections  Yathākammūpagañāṇaṃ without 
-      parikammaṃ occurs in the second  Ārammaṇa  section 
+       the following passage in   is commented upon     
+      in the pañhavāre    ārammaṇa        dassanena pahātabbo dhammo dassanena pahātabba dhammassa ārammaṇapaccayena paccayo  
+                                                                            one passage in this tika is commented upon  below p       
+      in the kusalattika it occurs in the pañhāvāra    upanissaya 
+       p       but i cannot find it in the corresponding section of 
+      this tika  nor in other sections  yathākammūpagañāṇaṃ without 
+      parikammaṃ occurs in the second  ārammaṇa  section 
   
   
   page      
-                         Upādiṇṇatikaṃ 
-      Dassanena pahātabbaṃ rāgaṃ assādeti  abhinandati  taṃ 
+                         upādiṇṇatikaṃ 
+      dassanena pahātabbaṃ rāgaṃ assādeti  abhinandati  taṃ 
  ārabbha dassanena pahātabbo rāgo uppajjati  diṭṭhi uppajjati  vicikicchā uppajjati        
-    DASSANENA PAHĀTABBAHETUKATTIKA  
-          Dassanena pahātabbahetuka      bhāvanāya pahātabbahetuka      neva dassanena na bhāvanāya pahātabbahetuka  
-       The sentence commented upon in the Tatiyapada is as 
+    dassanena pahātabbahetukattika  
+          dassanena pahātabbahetuka      bhāvanāya pahātabbahetuka      neva dassanena na bhāvanāya pahātabbahetuka  
+       the sentence commented upon in the tatiyapada is as 
  follows     
-      In the Pañhavāra §    hetu        Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa ca neva dassanena na bhāvanāya pahātabbahetukassa ca dhammassa hetupaccayena paccayo  
-      Dassanena pahātabbahetukā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañ ca rūpānaṃ hetup        p        
- Bhāvanāya tīṇi       pe       neva dassanena na bhāvanāya 
+      in the pañhavāra §    hetu        dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa ca neva dassanena na bhāvanāya pahātabbahetukassa ca dhammassa hetupaccayena paccayo  
+      dassanena pahātabbahetukā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañ ca rūpānaṃ hetup        p        
+ bhāvanāya tīṇi       pe       neva dassanena na bhāvanāya 
  ekaṃ  
-      Neva dassanena na bhāvānāya pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa hetup        p        
-      Vicikicchāsahagato moho sampayuttakānaṃ khandhānaṃ 
+      neva dassanena na bhāvānāya pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa hetup        p        
+      vicikicchāsahagato moho sampayuttakānaṃ khandhānaṃ 
  hetup        p        
-      Neva dassanena       pe       hetuko dhammo bhāvanāya 
+      neva dassanena       pe       hetuko dhammo bhāvanāya 
  pahātabbahetukassa dhammassa hetup        p        
-      Uddhaccasahagato moho        as above  and so for two 
+      uddhaccasahagato moho        as above  and so for two 
  more general propositions   
-     ĀCAYAGĀMITTIKA  
-          Ācayagāmi      apacayagāmi      nevācayagāmina apacayagāmi  
-     SEKHATTIKA  
-          Sekha      asekha      neva sekha nāsekha  
-     PARITTATTIKA  
-          Paritta      mahaggata      appamāṇa  
-     PARITTĀRAMMAṆATTIKA  
-          Parittārammaṇa      mahaggatārammaṇa      appamāṇārammaṇa  
+     ācayagāmittika  
+          ācayagāmi      apacayagāmi      nevācayagāmina apacayagāmi  
+     sekhattika  
+          sekha      asekha      neva sekha nāsekha  
+     parittattika  
+          paritta      mahaggata      appamāṇa  
+     parittārammaṇattika  
+          parittārammaṇa      mahaggatārammaṇa      appamāṇārammaṇa  
   
   
   
   page      
-                           Remaining Tikas                        
-       Here the passage commented upon appears to be that in the 
- Pañhavāra     
-         ārammaṇa    Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa ārammaṇapaccayena paccayo  
-      Ariyā appamāṇārammaṇacetanā cetopariyañāṇaṃ paccavekkhanti  
-       And in §     kamma      
-      Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa 
+                           remaining tikas                        
+       here the passage commented upon appears to be that in the 
+ pañhavāra     
+         ārammaṇa    appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa ārammaṇapaccayena paccayo  
+      ariyā appamāṇārammaṇacetanā cetopariyañāṇaṃ paccavekkhanti  
+       and in §     kamma      
+      appamāṇārammaṇo dhammo parittārammaṇassa dhammassa 
  kammap        p        
-      Nānākhaṇikā appamānārammaṇā cetanā vipākānaṃ parittārammaṇānaṃ khandhānaṃ kammap        p        
-     HīNATTIKA  
-          Hīna      majjhima      paṇīta  
-     MICCHATTATTIKA  
-          Micchattaniyata      sampattaniyata      aniyata  
-     MAGGĀRAMMAṆATTIKA  
-          Maggārammaṇa      maggahetuka      maggādhipati  
-            na hetupaccayo  Ahetukaṃ maggārammaṇaṃ 
+      nānākhaṇikā appamānārammaṇā cetanā vipākānaṃ parittārammaṇānaṃ khandhānaṃ kammap        p        
+     hīnattika  
+          hīna      majjhima      paṇīta  
+     micchattattika  
+          micchattaniyata      sampattaniyata      aniyata  
+     maggārammaṇattika  
+          maggārammaṇa      maggahetuka      maggādhipati  
+            na hetupaccayo  ahetukaṃ maggārammaṇaṃ 
       ekaṃ khandhaṃ paṭicca tayo khandhā        
-     UPPANNATTIKA  
-          Uppanna      anuppanna      uppādi  
-     ATĪTATTIKA  
-          Atīta      anāgata      paccuppanna  
-     ATīTĀRAMMAṆATTIKA  
-          Atītārammaṇa      anāgatārammaṇa      paccuppannārammaṇa  
-     AJJHATTATTIKA  
-          Ajjhatta      bahiddhā      ajjhatta bahiddhā  
-     AJJHĀTTARAMMAṆATTIKA  
-          Ajjhattārammaṇa      bahiddhārammaṇa      ajjhatta bahiddhārammaṇa  
-                      TIKAPAṬṬHĀNAṂ NIṬṬHITAṂ  
+     uppannattika  
+          uppanna      anuppanna      uppādi  
+     atītattika  
+          atīta      anāgata      paccuppanna  
+     atītārammaṇattika  
+          atītārammaṇa      anāgatārammaṇa      paccuppannārammaṇa  
+     ajjhattattika  
+          ajjhatta      bahiddhā      ajjhatta bahiddhā  
+     ajjhāttarammaṇattika  
+          ajjhattārammaṇa      bahiddhārammaṇa      ajjhatta bahiddhārammaṇa  
+                      tikapaṭṭhānaṃ niṭṭhitaṃ  
   
   
   
   page      
                                     
-                           DUKAPAṬṬHĀNA 
-      The first half of this Paṭṭhāna was published in full in       
- The contents comprise those portions of the Abhidhamma mātikā  Dhs  p    f    entitled Hetugocchaka  Cūḷantaraduka  
- and the Gocchakas   Āsava  Saṃyojana  Gantha  Ogha 
-  Yoga   Ogha cf  Dhs         Nīvaraṇa  and Parāmāsa  
- The distinctive character of Duka procedure may be soon in this 
+                           dukapaṭṭhāna 
+      the first half of this paṭṭhāna was published in full in       
+ the contents comprise those portions of the abhidhamma mātikā  dhs  p    f    entitled hetugocchaka  cūḷantaraduka  
+ and the gocchakas   āsava  saṃyojana  gantha  ogha 
+  yoga   ogha cf  dhs         nīvaraṇa  and parāmāsa  
+ the distinctive character of duka procedure may be soon in this 
  volume  
-      The contents of the remainder of the work are those enumerated in the Abhidhamma mātikā under the heads Mahantaradukaṃ  Upādāna  and Kilesagocchakaṃ and Piṭṭhidukaṃ 
-  Dhs  pp        SĀRAMMAṆADUKA  
-      Sārammanā  anārammaṇā dhammā  
- CITTADUKA  
-      Cittā  no cittā dhammā  
- CETASIKADUKA  
-      Cetāsikā  acetasikā dhammā  
- CITTASAMPAYUTTADUKA  
-      Cittasampayuttā  cittavippayuttā dhammā  
- CITTASAṂSAṬṬHADUKA  
-      Cittasaṃsaṭṭhā  cittavisaṃsaṭṭhā dhammā  
- CITTASAMUṬṬHĀNADUKA  
-      Cittasamuṭṭhāna  no cittasamuṭṭhānā dhammā  
- CITTASAHABHUDUKA  
-      Cittasahabhuno  no cittasahabhuno dhammā  
- CITTĀNUPARIVATTIDUKA  
-      Cittānuparivattino  no cittānuparivattino dhammā  
+      the contents of the remainder of the work are those enumerated in the abhidhamma mātikā under the heads mahantaradukaṃ  upādāna  and kilesagocchakaṃ and piṭṭhidukaṃ 
+  dhs  pp        sārammaṇaduka  
+      sārammanā  anārammaṇā dhammā  
+ cittaduka  
+      cittā  no cittā dhammā  
+ cetasikaduka  
+      cetāsikā  acetasikā dhammā  
+ cittasampayuttaduka  
+      cittasampayuttā  cittavippayuttā dhammā  
+ cittasaṃsaṭṭhaduka  
+      cittasaṃsaṭṭhā  cittavisaṃsaṭṭhā dhammā  
+ cittasamuṭṭhānaduka  
+      cittasamuṭṭhāna  no cittasamuṭṭhānā dhammā  
+ cittasahabhuduka  
+      cittasahabhuno  no cittasahabhuno dhammā  
+ cittānuparivattiduka  
+      cittānuparivattino  no cittānuparivattino dhammā  
   
   
   
   page      
-                           Dukapaṭṭhāna                         
- CITTASAṂSAṬṬHA SAMUṬṬHĀNADUKA  
-      Cittasaṃsaṭṭhasamuṭṭhānā  no cittasaṃsaṭṭhasamuṭṭhānā 
+                           dukapaṭṭhāna                         
+ cittasaṃsaṭṭha samuṭṭhānaduka  
+      cittasaṃsaṭṭhasamuṭṭhānā  no cittasaṃsaṭṭhasamuṭṭhānā 
       dhammā  
- CITTASAṂSAṬṬHA SAMUṬṬHĀNA SAHABHUDUKA  
- CITTASAṂSAṬṬHA SAMUṬṬHĀNĀNUPARIVATTI DUKA  
-       In each the two terms are analogous to the foregoing  and 
+ cittasaṃsaṭṭha samuṭṭhāna sahabhuduka  
+ cittasaṃsaṭṭha samuṭṭhānānuparivatti duka  
+       in each the two terms are analogous to the foregoing  and 
  in the text they are declared to be similar to them and are not 
  elaborated   
- AJJHATTIKADUKA  
-      Ajjhattikā  bāhirā dhammā  
- UPĀDĀDUKA  
-      Upādā  no upādā dhammā  
- UPĀDIṆṆADUKA  
-      Upādinnā  anupādinnā dhammā  
- UPĀDĀNADUKA  
-      Upādānā  anupādānā dhammā  
- UPĀDĀNIYADUKA  
-      Upādāniyā  anupādāniyā dhammā 
-       yathā Lokiyadukaṃ evaṃ kātabbaṃ  cf  Dukapaṭṭhāna  pp           
- UPĀDĀNASAMAPAYUTTADUKAṂ  
-      Upādānasampayuttā  upādānavippayuttā dhammā  
- UPĀDĀNO CEVA UPĀDĀNIYADUKA  
-      Upādānā ceva upādāniyā  upādāniyā ceva no ca upādānā dhammā  
- UPĀDĀNO CEVA UPĀDĀNASAMPAYUTTADUKA  
-      Upādānā ceva upādānasampayuttā ca  upādānasampayuttā ceva no ca upādānā dhammā  
- UPĀDĀNAVIPPAYUTTA UPĀDĀNIYADUKA  
-      The second term is anupādāniyā dhammā 
- KILESADUKA  
-      Kilesā  no kilesā dhammā  
+ ajjhattikaduka  
+      ajjhattikā  bāhirā dhammā  
+ upādāduka  
+      upādā  no upādā dhammā  
+ upādiṇṇaduka  
+      upādinnā  anupādinnā dhammā  
+ upādānaduka  
+      upādānā  anupādānā dhammā  
+ upādāniyaduka  
+      upādāniyā  anupādāniyā dhammā 
+       yathā lokiyadukaṃ evaṃ kātabbaṃ  cf  dukapaṭṭhāna  pp           
+ upādānasamapayuttadukaṃ  
+      upādānasampayuttā  upādānavippayuttā dhammā  
+ upādāno ceva upādāniyaduka  
+      upādānā ceva upādāniyā  upādāniyā ceva no ca upādānā dhammā  
+ upādāno ceva upādānasampayuttaduka  
+      upādānā ceva upādānasampayuttā ca  upādānasampayuttā ceva no ca upādānā dhammā  
+ upādānavippayutta upādāniyaduka  
+      the second term is anupādāniyā dhammā 
+ kilesaduka  
+      kilesā  no kilesā dhammā  
   
   
   
   page      
-                         Dukapaṭṭhāna 
- SANKILESIKADUKA  
-      Saṅkilesikā  asaṅkilesikā dhammā 
-       yathā LOKIYADUKA   
- SANKILIṬṬHADUKA  
-      Saṅkilitthā  asaṅkiliṭṭhā dhammā  
- KILESASAMPAYUTTADUKA  
-      Kilesampayuttā  kilesavippayuttā dhammā  
- KILESA CEVA SANKILESIKADUKA  
-      Kilesa ceva saṅkilesikā  saṅkilesikā ceva no ca kilesā 
+                         dukapaṭṭhāna 
+ sankilesikaduka  
+      saṅkilesikā  asaṅkilesikā dhammā 
+       yathā lokiyaduka   
+ sankiliṭṭhaduka  
+      saṅkilitthā  asaṅkiliṭṭhā dhammā  
+ kilesasampayuttaduka  
+      kilesampayuttā  kilesavippayuttā dhammā  
+ kilesa ceva sankilesikaduka  
+      kilesa ceva saṅkilesikā  saṅkilesikā ceva no ca kilesā 
       dhammā  
- KILESA CEVA SANKILIṬṬHADUKA 
+ kilesa ceva sankiliṭṭhaduka 
        analogous to foregoing   
- KILESA CEVA KILESASAMPAYUTTADUKA  
- KILESAVIPPAYUTTA SANKILESIKADUKA  
- DASSANENA PAHĀTABBADUKA  
-      Dassanena pahātabbā  na dassanena pahātabbā dhammā  
- BHĀVANĀYA PAHĀTABBADUKA 
+ kilesa ceva kilesasampayuttaduka  
+ kilesavippayutta sankilesikaduka  
+ dassanena pahātabbaduka  
+      dassanena pahātabbā  na dassanena pahātabbā dhammā  
+ bhāvanāya pahātabbaduka 
        as foregoing   
- DASSANENA PAHĀTABBAHETUKADUKA  
-      Dassanena pahātabbahetukā  na dassanena       
- BHĀVANĀYA PAHĀTABBAHETUKADUKA 
+ dassanena pahātabbahetukaduka  
+      dassanena pahātabbahetukā  na dassanena       
+ bhāvanāya pahātabbahetukaduka 
        as foregoing   
- SAVITAKKADUKA  
-      Savitakkā  avitakkā dhammā  
- SAVICĀRADUKA 
+ savitakkaduka  
+      savitakkā  avitakkā dhammā  
+ savicāraduka 
        as foregoing   
- SAPPīTIKADUKA 
-      Sappītikā  appītikā dhammā  
- PĪTISAHAGATADUKA 
+ sappītikaduka 
+      sappītikā  appītikā dhammā  
+ pītisahagataduka 
        contradictory term  na pītisahagata   
   
   
   
   page      
-                           Dukapaṭṭhāna                              
- SUKHASAHAGATADUKA 
+                           dukapaṭṭhāna                              
+ sukhasahagataduka 
        contradictory term  na sukhasahagata   
- UPEKHĀSAHAGATADUKA 
+ upekhāsahagataduka 
        contradictory  na upekhāsahagata   
- KĀMĀVACARADUKA  
- RŪPĀVACARADUKA  
- ARŪPĀVACARADUKA  
- PARIYĀPANNADUKA  
- NIYYĀNIKADUKA  
- NIYATADUKA  
- SA UTTARADUKA  
- SARAṆADUKA  
-       The   contradictories are the term stated with a  prefixed   
+ kāmāvacaraduka  
+ rūpāvacaraduka  
+ arūpāvacaraduka  
+ pariyāpannaduka  
+ niyyānikaduka  
+ niyataduka  
+ sa uttaraduka  
+ saraṇaduka  
+       the   contradictories are the term stated with a  prefixed   
   
   
   
   page      
                                     
-           DUKA TIKA PAṬṬHĀNA 
-       The distinctive method of this and the last two Paṭṭhānas 
- is described in outline in the Commentary  and is illustrated 
+           duka tika paṭṭhāna 
+       the distinctive method of this and the last two paṭṭhānas 
+ is described in outline in the commentary  and is illustrated 
  here by the opening section in each   
-                       Hetu kusala dukatikaṃ  
-                              Hetu   
-      Hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo dhammo 
+                       hetu kusala dukatikaṃ  
+                              hetu   
+      hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo dhammo 
  uppajjati hetupaccayā  
-      Hetuṃ kusalaṃ dhammaṃ paṭicca na hetu kusalo dhammo 
+      hetuṃ kusalaṃ dhammaṃ paṭicca na hetu kusalo dhammo 
  uppajjati hetupaccayā  
-      Hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo ca na hetukusalo ca dhammā uppajjanti hetupaccayā  
+      hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo ca na hetukusalo ca dhammā uppajjanti hetupaccayā  
             and so on in a ninefold permutation    
-      Some of the remaining paccayas     Ārammaṇa  etc   follow  
- cf  Commentary  
-      The vāras following the Paṭiccavāra are only indicated as 
+      some of the remaining paccayas     ārammaṇa  etc   follow  
+ cf  commentary  
+      the vāras following the paṭiccavāra are only indicated as 
  gandhiṃ vitthāretabbaṃ  
-      The Pañhavāra follows and the Hetu kusala dukatika is 
- said to be finished  Hetu is then associated similarly with 
+      the pañhavāra follows and the hetu kusala dukatika is 
+ said to be finished  hetu is then associated similarly with 
  sukhāya vedānāya  
-      Hetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca       
- and with all the other Tikas successively down to the anidassanaappaṭighā dhammā of the last Tika in the Mātikā  
-      The rest of the Hetu gocchaka therein is then associated in 
- turn with the Kusalattika  This completes the Hetugocchakakusala duka tika  
-      In this way all the Dukas are associated severally with the 
- Tikas  
-                                                                            Letting HK represent hetukusala and hK na hetukusala  
-      the full scheme is as follows      HK HK          hk Kh          HK and hK HK 
-      HK hK          hK HK          HK and hK hK 
-      HK HK and hK     hK HK and hK     HK and hK HK and hK 
+      hetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca       
+ and with all the other tikas successively down to the anidassanaappaṭighā dhammā of the last tika in the mātikā  
+      the rest of the hetu gocchaka therein is then associated in 
+ turn with the kusalattika  this completes the hetugocchakakusala duka tika  
+      in this way all the dukas are associated severally with the 
+ tikas  
+                                                                            letting hk represent hetukusala and hk na hetukusala  
+      the full scheme is as follows      hk hk          hk kh          hk and hk hk 
+      hk hk          hk hk          hk and hk hk 
+      hk hk and hk     hk hk and hk     hk and hk hk and hk 
   
   
   page      
                                     
-                          TIKA DUKAPAṬṬHĀNA 
-      The Tika    kusala akusala avyākata    is now put before 
+                          tika dukapaṭṭhāna 
+      the tika    kusala akusala avyākata    is now put before 
  the one term hetu  
-      Kusalaṃ hetuṃ dhammaṃ paṭicca       Akusalaṃ hetuṃ       
- Avyākataṃ hetuṃ       hetupaccayā  
-      After but three general propositions the next two paccayas  ārammaṇapaccayā  adhipatipaccayā are substituted in order  
+      kusalaṃ hetuṃ dhammaṃ paṭicca       akusalaṃ hetuṃ       
+ avyākataṃ hetuṃ       hetupaccayā  
+      after but three general propositions the next two paccayas  ārammaṇapaccayā  adhipatipaccayā are substituted in order  
  and vary briefly  
-      Other vāras are only indicated  The Pañhavāra follows  
-      After this the second Tika  Vedanā  is likewise associated 
- with hetu  and the remaining Tikas to anidassana appaṭigha  
-      Hetu is then replaced by the rest of the Hetugocchaka in 
- succession  So for all the Tikas and Dukas  this Paṭṭhāna 
- ending with the combination       Anidassana appaṭighaṃ saraṇaṃ dhammaṃ paṭicca anidassana appaṭigho saraṇo dhammo uppajjati hetupaccayā  
-                 TIKA DUKAPAṬṬHĀNAṂ NIṬṬHITAṂ  
+      other vāras are only indicated  the pañhavāra follows  
+      after this the second tika  vedanā  is likewise associated 
+ with hetu  and the remaining tikas to anidassana appaṭigha  
+      hetu is then replaced by the rest of the hetugocchaka in 
+ succession  so for all the tikas and dukas  this paṭṭhāna 
+ ending with the combination       anidassana appaṭighaṃ saraṇaṃ dhammaṃ paṭicca anidassana appaṭigho saraṇo dhammo uppajjati hetupaccayā  
+                 tika dukapaṭṭhānaṃ niṭṭhitaṃ  
   
   
   
   page      
                                     
-                          TIKA TIKAPAṬṬHĀNA 
-      Kusalaṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca 
+                          tika tikapaṭṭhāna 
+      kusalaṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca 
  kusalo sukhāya vedanāya sampayutto dhammo uppajjati 
- hetupaccayā        Akusalaṃ       Avyākataṃ       
-            Hetuyā tīṇi  Ārammaṇe tīṇi  Avigate tīṇi  
-      Sahajātavāram pi Sampayuttavāram pi Paṭiccavārasadisaṃ  
-      The foregoing is given as it stands  The Pañhavāra follows 
- briefly  as in the Paṭiccavāra  Then            Hetuyā tīṇi  Ārammaṇe nava  
-      Yathā Kusalattike Pañhavāraṃ  evan vitthāretabbaṃ  
-      Then follows briefly a Paṭiccavāra of akusala coupled with 
+ hetupaccayā        akusalaṃ       avyākataṃ       
+            hetuyā tīṇi  ārammaṇe tīṇi  avigate tīṇi  
+      sahajātavāram pi sampayuttavāram pi paṭiccavārasadisaṃ  
+      the foregoing is given as it stands  the pañhavāra follows 
+ briefly  as in the paṭiccavāra  then            hetuyā tīṇi  ārammaṇe nava  
+      yathā kusalattike pañhavāraṃ  evan vitthāretabbaṃ  
+      then follows briefly a paṭiccavāra of akusala coupled with 
  dukkhāya vedanāya  and of avyākata coupled with the same  
- with the other two vāras indicated  and Pañhavāra referred 
+ with the other two vāras indicated  and pañhavāra referred 
  to as above  
-      The kusala trio are then coupled with the other Tikas  Then 
- the Vedanāttika repalces the kusala trio  and so on  
-      All is very summarily stated  
-                 TIKA TIKAPAṬṬHĀNAṂ NIṬṬHITAṂ  
+      the kusala trio are then coupled with the other tikas  then 
+ the vedanāttika repalces the kusala trio  and so on  
+      all is very summarily stated  
+                 tika tikapaṭṭhānaṃ niṭṭhitaṃ  
   
   
   page      
                                     
-                          DUKA DUKAPAṬṬHĀNA 
-      Here each duka is coupled with every other duka in turn  
-      Hetuṃ sahetukaṃ dhammaṃ paṭicca hetu sahetuko dhammo 
+                          duka dukapaṭṭhāna 
+      here each duka is coupled with every other duka in turn  
+      hetuṃ sahetukaṃ dhammaṃ paṭicca hetu sahetuko dhammo 
  uppajjati hetupaccayā  
-      Hetuṃ sahetukaṃ dhammaṃ paṭicca nahetu sahaetuko dhammo        
-      Hetuṃ sahetukaṃ dhammaṃ paṭicca hetu sahetuko ca nahetusahetuko ca dhammo        
-      The last combination is       Saraṇaṃ hetuṃ dhammaṃ paṭicca        
-      Araṇaṃ nahetuṃ dhammaṃ paṭicca araṇo nahetu dhammo 
+      hetuṃ sahetukaṃ dhammaṃ paṭicca nahetu sahaetuko dhammo        
+      hetuṃ sahetukaṃ dhammaṃ paṭicca hetu sahetuko ca nahetusahetuko ca dhammo        
+      the last combination is       saraṇaṃ hetuṃ dhammaṃ paṭicca        
+      araṇaṃ nahetuṃ dhammaṃ paṭicca araṇo nahetu dhammo 
  uppajjati hetupaccayā  
-      Sabbattha vitthāro  
-                 DUKA DUKAPAṬṬHĀNAṂ NIṬṬHITAṂ  
-      The six books of method  cha nayā  so for given are now 
- called collectively the ANULOMA PAṬṬHĀNA  wherein the Tikas 
- and Dukas are contemplated for the most part as positive or 
- affirmative states  There now follow six books of corresponding 
+      sabbattha vitthāro  
+                 duka dukapaṭṭhānaṃ niṭṭhitaṃ  
+      the six books of method  cha nayā  so for given are now 
+ called collectively the anuloma paṭṭhāna  wherein the tikas 
+ and dukas are contemplated for the most part as positive or 
+ affirmative states  there now follow six books of corresponding 
  negative or denying method  wherein the terms assume as their 
  normal shape a negative or privative form  
-                      PACCANĪYA PAṬṬHĀNA  
-                            I  Tikapaṭṭhāna  
-      Nakusalaṃ dhammaṃ paṭicca nakusalo dhammo uppajjati 
+                      paccanīya paṭṭhāna  
+                            i  tikapaṭṭhāna  
+      nakusalaṃ dhammaṃ paṭicca nakusalo dhammo uppajjati 
  hetupaccayā  
-      Akusalaṃ avyākataṃ ekaṃ khandhaṃ paṭicca akusalo avyākato tayo khandhā cittasamuṭṭhānaṃ ca rūpaṃ  etc  
-      This is vary briefly stated and is entitled the 
-                      Paccanīyatikapaṭṭhāna  
+      akusalaṃ avyākataṃ ekaṃ khandhaṃ paṭicca akusalo avyākato tayo khandhā cittasamuṭṭhānaṃ ca rūpaṃ  etc  
+      this is vary briefly stated and is entitled the 
+                      paccanīyatikapaṭṭhāna  
   
   page      
-                    Paccanīya dukapaṭṭhāna 
-      The Paccanīyadukapaṭṭhāna follows       Nahetuṃ dhammaṃ paṭicca nahetu dhammo       and then 
- the other four Paṭṭhānas    Paccanīyadukatika  etc  
-      Then comes the ANULOMA PACCANĪYAPAṬṬHĀNA  beginning       Kusalaṃ dhammaṃ paṭicca na kusalo dhammo uppajjati 
+                    paccanīya dukapaṭṭhāna 
+      the paccanīyadukapaṭṭhāna follows       nahetuṃ dhammaṃ paṭicca nahetu dhammo       and then 
+ the other four paṭṭhānas    paccanīyadukatika  etc  
+      then comes the anuloma paccanīyapaṭṭhāna  beginning       kusalaṃ dhammaṃ paṭicca na kusalo dhammo uppajjati 
  hetupaccayā  
-      Kusale khandhe paṭicca cittasamuṭṭhanaṃ rūpaṃ  
-      Kusalaṃ dhammaṃ paṭicca na akusalo dhammo        
-      Kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañ ca rūpaṃ  
-      Kusalaṃ dhammaṃ paṭicca avyākato        Kusalaṃ dhammaṃ paṭicca na akusalo ca na avyākato ca dhammā uppajjanti 
- hetupaccayā        Kusalaṃ dhammaṃ paṭicca na kusalo ca 
+      kusale khandhe paṭicca cittasamuṭṭhanaṃ rūpaṃ  
+      kusalaṃ dhammaṃ paṭicca na akusalo dhammo        
+      kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañ ca rūpaṃ  
+      kusalaṃ dhammaṃ paṭicca avyākato        kusalaṃ dhammaṃ paṭicca na akusalo ca na avyākato ca dhammā uppajjanti 
+ hetupaccayā        kusalaṃ dhammaṃ paṭicca na kusalo ca 
  na akusalo ca dhammā uppajjanti  
-      Then the first term becomes akusalaṃ  then avyākataṃ  
-      So for the other five methods  
-      Fianlly comes the PACCANĪYĀNULOMAPAṬṬHĀNA  beginning       Na kusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati 
+      then the first term becomes akusalaṃ  then avyākataṃ  
+      so for the other five methods  
+      fianlly comes the paccanīyānulomapaṭṭhāna  beginning       na kusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati 
  hetupaccayā  
-      Akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā  dve khandhe paṭicca dve khandhā  
-      Na kusalaṃ dhammaṃ paṭicca avyākato dhammo        
-      Vipākāvyākataṃ kiriyāvyākataṃ ekaṃ        
-      Na akusalaṃ       kusalo       
-      Na akusalaṃ       avyākato       
-      Na akusalaṃ       kusalo ca avyākato ca       
-      Then three na avyākata propositions  
-      The other five methods follow  ending with the Duka duka  
- and the final words       Dhammapaccanīyānulomapaṭṭhānaṃ niṭṭhitaṃ  
-      Anulomadukatikapaṭṭhānato patthāya yāva pariyosānā 
+      akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā  dve khandhe paṭicca dve khandhā  
+      na kusalaṃ dhammaṃ paṭicca avyākato dhammo        
+      vipākāvyākataṃ kiriyāvyākataṃ ekaṃ        
+      na akusalaṃ       kusalo       
+      na akusalaṃ       avyākato       
+      na akusalaṃ       kusalo ca avyākato ca       
+      then three na avyākata propositions  
+      the other five methods follow  ending with the duka duka  
+ and the final words       dhammapaccanīyānulomapaṭṭhānaṃ niṭṭhitaṃ  
+      anulomadukatikapaṭṭhānato patthāya yāva pariyosānā 
  tiṃsamattehi bhāṇavārehi paṭṭhānaṃ  
  

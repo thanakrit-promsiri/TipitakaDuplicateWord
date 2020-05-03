@@ -8,7 +8,6 @@ import java.io.InputStreamReader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Arrays;
-import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
@@ -16,7 +15,7 @@ import java.util.TreeMap;
 public class TipitakaDuplicateWord {
 
     //public static final String FILEREPO = "tipitaka";
-    public static final String FILEREPO = "Attha";
+    public static final String FILEREPO = "THAISIAM";
     public static final String PREPARE = "/prepare";
     public static final String OUTPUT = "/output";
     public static final String INPUT = "/input";
@@ -24,6 +23,10 @@ public class TipitakaDuplicateWord {
 
     public static final String FILESPACE = IGNORETXT + "/txt2space.txt";
     public static final String FILEREMOVE = IGNORETXT + "/txt2remove.txt";
+    public static final String FILEINSERTSPACE = IGNORETXT + "/txt2insertspace.txt";
+    public static final String FSPACE = "1";
+    public static final String FREMOVE = "2";
+    public static final String FINSERTSPACE = "3";
 
     public Map<String, Integer> reduceTxt;
 
@@ -35,7 +38,7 @@ public class TipitakaDuplicateWord {
 
         Map<String, Integer> reduceTxt = new TreeMap<>();
         TipitakaDuplicateWord tipitaka = new TipitakaDuplicateWord(reduceTxt);
-        
+
         tipitaka.processPrepareFile();
         tipitaka.processMapReducePrepare();
         tipitaka.processMapReduceCSV();
@@ -46,7 +49,7 @@ public class TipitakaDuplicateWord {
         for (String file : directory) {
             String path = FILEREPO + INPUT + "/" + file;
             String txt = this.getFile(path);
-            this.processPrepare(txt, file);
+            this.processPrepare(txt.toLowerCase(), file);
             System.out.println(path);
         }
     }
@@ -81,6 +84,7 @@ public class TipitakaDuplicateWord {
     public void processMapReduce(String txt) {
         String[] wordArr = txt.split(" ");
         for (String word : wordArr) {
+            word = word.toLowerCase();
             if (this.reduceTxt.get(word) == null) {
                 this.reduceTxt.put(word, 1);
             } else {
@@ -95,28 +99,34 @@ public class TipitakaDuplicateWord {
 
         txt = this.textRemove(txt);
         txt = this.textSpace(txt);
-
+        txt = this.textInsertSpace(txt);
         this.writeUsingFiles(txt, FILEREPO + PREPARE + "/_" + file);
         return txt;
     }
 
     public String textRemove(String txt) {
         String path = FILEREPO + FILEREMOVE;
-        boolean isSpace = false;
-        return textReplaceByConfigFile(txt, path, isSpace);
+
+        return textReplaceByConfigFile(txt, path, FREMOVE);
     }
 
     public String textSpace(String txt) {
         String path = FILEREPO + FILESPACE;
-        boolean isSpace = true;
-        txt = textReplaceByConfigFile(txt, path, isSpace);
+        txt = textReplaceByConfigFile(txt, path, FSPACE);
         txt = txt.replaceAll("\n", " \n ");
         return txt;
     }
 
-    public String textReplaceByConfigFile(String txt, String path, boolean isSpace) {
+    public String textInsertSpace(String txt) {
+        String path = FILEREPO + FILEINSERTSPACE;
+        txt = textReplaceByConfigFile(txt, path, FINSERTSPACE);
+        return txt;
+    }
+
+    public String textReplaceByConfigFile(String txt, String path, String flagReplace) {
+
         String replacement = "";
-        if (isSpace) {
+        if (FSPACE.equalsIgnoreCase(flagReplace)) {
             replacement = " ";
         }
 
@@ -124,8 +134,12 @@ public class TipitakaDuplicateWord {
         List<String> txtConfList = textSplitLine(texOrigin);
         for (String txtConf : txtConfList) {
             if (!txtConf.equalsIgnoreCase("")) {
-                // System.out.println(txtConf);
-                txt = txt.replaceAll(txtConf, replacement);
+                if (FINSERTSPACE.equalsIgnoreCase(flagReplace)) {
+                    txt = txt.replaceAll(txtConf, " " + txtConf + " ");
+                    System.err.println(txtConf);
+                } else {
+                    txt = txt.replaceAll(txtConf, replacement);
+                }
             }
         }
         return txt;
@@ -137,7 +151,7 @@ public class TipitakaDuplicateWord {
     }
 
     public String[] checkDirectory(String str) {
-
+        this.setDirectory(str);
         this.setFilePrepare(str, PREPARE);
         this.setFilePrepare(str, OUTPUT);
         this.setFileIgnoreChar(str);
@@ -170,6 +184,7 @@ public class TipitakaDuplicateWord {
             filepre.mkdir();
             writeIgnoeFileSpacetxt(str + FILESPACE);
             writeIgnoeFileRemovetxt(str + FILEREMOVE);
+            writeIgnoeFileRemovetxt(str + FILEINSERTSPACE);
         } else {
 
         }

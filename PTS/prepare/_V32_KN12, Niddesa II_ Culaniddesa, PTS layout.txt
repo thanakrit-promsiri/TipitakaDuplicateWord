@@ -1,90 +1,90 @@
  
   
- Niddesa II  Culaniddesa  
- Based on the ed  by Wilhelm Stede  Cullaniddesa  
- Oxford   Pali Text Society       
-  Reprinted       
+ niddesa ii  culaniddesa  
+ based on the ed  by wilhelm stede  cullaniddesa  
+ oxford   pali text society       
+  reprinted       
   
   
   
- Input by the Dhammakaya Foundation  Thailand            
-  GRETIL Version vom            
+ input by the dhammakaya foundation  thailand            
+  gretil version vom            
   
   
- NOTICE 
- This file is  C  Copyright the Pali Text Society and the Dhammakaya Foundation        
- This work is licensed under a Creative Commons Attribution ShareAlike     International License  
+ notice 
+ this file is  c  copyright the pali text society and the dhammakaya foundation        
+ this work is licensed under a creative commons attribution sharealike     international license  
   
- These files are provided by courtesy of the Pali Text Society for 
+ these files are provided by courtesy of the pali text society for 
  scholarly purposes only  
- In principle they represent a digital edition  without revision or 
- correction  of the printed editions of the complete set of Pali 
- canonical texts published by the PTS  While they have been subject to a 
+ in principle they represent a digital edition  without revision or 
+ correction  of the printed editions of the complete set of pali 
+ canonical texts published by the pts  while they have been subject to a 
  process of checking  it should not be assumed that there is no 
  divergence from the printed editions and it is strongly recommended that 
  they are checked against the printed editions before quoting  
   
   
- NOTE 
-  Part II  Explanatory Matter   pp         in Stedes edition  
+ note 
+  part ii  explanatory matter   pp         in stedes edition  
  is not part of this electronic text  
   
   
   
   
   
- ANNOTATED VERSION IN PTS LAYOUT  with occasional modifications  
+ annotated version in pts layout  with occasional modifications  
   
   
   
   
- STRUCTURE OF REFERENCES  added   
- Sn n nn nn  nnn    Suttanipata Vagga Suttanta Verse  cumulative verse numbering  
+ structure of references  added   
+ sn n nn nn  nnn    suttanipata vagga suttanta verse  cumulative verse numbering  
   
- The Cullaniddesa covers the following parts of the Suttanipāta  
- PART I  pp         
- Sn V             Sn V              
- PART II  pp          
- Sn I            Sn I           
-  
-  
+ the cullaniddesa covers the following parts of the suttanipāta  
+ part i  pp         
+ sn v             sn v              
+ part ii  pp          
+ sn i            sn i           
   
   
   
- THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY  
- COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE  
   
- Text converted to Unicode  UTF     
-  This file is to be used with a UTF   font and your browsers VIEW configuration 
- set to UTF     
+  
+ this gretil text file is for reference purposes only  
+ copyright and terms of usage as for source file  
+  
+ text converted to unicode  utf     
+  this file is to be used with a utf   font and your browsers view configuration 
+ set to utf     
   
  description  multibyte sequence  
  long a ā 
- long A Ā 
+ long a ā 
  long i ī 
- long I Ī 
+ long i ī 
  long u ū 
- long U Ū 
+ long u ū 
  vocalic r ṛ 
- vocalic R Ṛ 
+ vocalic r ṛ 
  long vocalic r ṝ 
  vocalic l ḷ 
- vocalic L Ḷ 
+ vocalic l ḷ 
  long vocalic l ḹ 
  velar n ṅ 
- velar N Ṅ 
+ velar n ṅ 
  palatal n ñ 
- palatal N Ñ 
+ palatal n ñ 
  retroflex t ṭ 
- retroflex T Ṭ 
+ retroflex t ṭ 
  retroflex d ḍ 
- retroflex D Ḍ 
+ retroflex d ḍ 
  retroflex n ṇ 
- retroflex N Ṇ 
+ retroflex n ṇ 
  palatal s ś 
- palatal S Ś 
+ palatal s ś 
  retroflex s ṣ 
- retroflex S Ṣ 
+ retroflex s ṣ 
  anusvara ṃ 
  visarga ḥ 
  long e ē 
@@ -95,15 +95,15 @@
  k underbar ḵ 
  t underbar ṯ 
   
- Unless indicated otherwise  accents have been dropped in order 
+ unless indicated otherwise  accents have been dropped in order 
  to facilitate word search  
   
- For a comprehensive list of GRETIL encodings and formats see  
+ for a comprehensive list of gretil encodings and formats see  
  http gretil sub uni goettingen degretilgretdiac pdf 
  and 
  http gretil sub uni goettingen degretilgretdias pdf 
   
- For further information see  
+ for further information see  
  http gretil sub uni goettingen degretil htm 
   
   
@@ -116,319 +116,319 @@
   page      
    
   
-                              Culla Niddesa  
+                              culla niddesa  
   
-                                   PART I 
+                                   part i 
   
-                               PĀRĀYANAVAGGA  
+                               pārāyanavagga  
   
-                                 Vatthugāthā  
+                                 vatthugāthā  
   
-   Sn V            Kosalānaṃ purā rammā agamā Dakkhiṇāpathaṃ 
+   sn v            kosalānaṃ purā rammā agamā dakkhiṇāpathaṃ 
                 ākiñcaññaṃ patthayāno brāhmaṇo mantapāragū  
   
-   Sn V            So Assakassa visaye Muḷakassa  samāsane 
-                vasī Godhāvarīkūle uñchena ca phalena ca  
+   sn v            so assakassa visaye muḷakassa  samāsane 
+                vasī godhāvarīkūle uñchena ca phalena ca  
   
-   Sn V            Tass  eva  upanissāya gāmo ca vipulo ahu   
+   sn v            tass  eva  upanissāya gāmo ca vipulo ahu   
                 tato jātena āyena mahāyaññam akappayi  
   
-   Sn V            Mahāyaññaṃ yajitvāna puna pāvisi assamaṃ  
-                Tasmiṃ patipaviṭṭhamhi añño āgañchi  brāhmaṇo 
+   sn v            mahāyaññaṃ yajitvāna puna pāvisi assamaṃ  
+                tasmiṃ patipaviṭṭhamhi añño āgañchi  brāhmaṇo 
   
-   Sn V            Ugghaṭṭapādo tasito paṅkadanto rajassiro  
+   sn v            ugghaṭṭapādo tasito paṅkadanto rajassiro  
                 so ca naṃ upasaṅkamma satāni pañca yācati  
   
-   Sn V            Tam enaṃ Bāvarī disvā āsanena nimantayi  
+   sn v            tam enaṃ bāvarī disvā āsanena nimantayi  
                 sukhañ ca kusalaṃ pucchi  idaṃ vacanam abravi   
   
-   Sn V             Yaṃ kho mamaṃ  deyyadhammaṃ sabbaṃ vissajjitam mayā  
+   sn v             yaṃ kho mamaṃ  deyyadhammaṃ sabbaṃ vissajjitam mayā  
                 anujānāhi me brahme  n  atthi pañca satāni me   
   
-   Sn V             Sace me yācamānassa bhavaṃ n  ānupadassati  
+   sn v             sace me yācamānassa bhavaṃ n  ānupadassati  
                 sattame divase tuyhaṃ muddhā phalatu sattadhā   
   
-                                                                            Aḷakassa Sn  
-   Taṃ yeva Br  
-   ahū Sn  throughout  
-   āgacchi Br  Bai   
-   abruvi Sc  abrūvi Cb   
-   mama Sc  
- N B     Br writes brahmaṇo throughout  
+                                                                            aḷakassa sn  
+   taṃ yeva br  
+   ahū sn  throughout  
+   āgacchi br  bai   
+   abruvi sc  abrūvi cb   
+   mama sc  
+ n b     br writes brahmaṇo throughout  
   
   page      
-   Pārāyanavagga  
+   pārāyanavagga  
   
-   Sn V            Abhisaṅkharitvā kuhako bheravaṃ so akittayi  
-                tassa taṃ vacanaṃ sutvā Bāvarī dukkhito ahu  
+   sn v            abhisaṅkharitvā kuhako bheravaṃ so akittayi  
+                tassa taṃ vacanaṃ sutvā bāvarī dukkhito ahu  
   
-   Sn V             Ussussati anāhāro sokasalla samappito  
+   sn v             ussussati anāhāro sokasalla samappito  
                 atho pi evaṃ cittassa  jhāne na ramatī mano  
   
-   Sn V             Utrastaṃ  dukkhitaṃ disvā devatā atthakāminī  
-                Bāvariṃ  upasaṅkamma idaṃ vacanam abravi   
+   sn v             utrastaṃ  dukkhitaṃ disvā devatā atthakāminī  
+                bāvariṃ  upasaṅkamma idaṃ vacanam abravi   
   
-   Sn V              Na so muddhaṃ pajānāti  kuhako so dhan  atthiko  
+   sn v              na so muddhaṃ pajānāti  kuhako so dhan  atthiko  
                 muddhani muddhapāte vā ñāṇaṃ tassa na vijjati   
   
-   Sn V              Bhotī  carahi jānāti  tam me akkhāhi pucchitā 
+   sn v              bhotī  carahi jānāti  tam me akkhāhi pucchitā 
                 muddhaṃ muddhādhipātañ  ca  taṃ suṇoma vaco tava   
   
-   Sn V              Aham p  etaṃ  na jānāmi  ñāṇam m  ettha na vijjati  
-                muddhaṃ muddhādhipāto ca Jinānaṃ h  eta dassanaṃ   
+   sn v              aham p  etaṃ  na jānāmi  ñāṇam m  ettha na vijjati  
+                muddhaṃ muddhādhipāto ca jinānaṃ h  eta dassanaṃ   
   
-   Sn V              Atha ko  carahi jānāti asmiṃ puthavimaṇḍale   
+   sn v              atha ko  carahi jānāti asmiṃ puthavimaṇḍale   
                 muddhaṃ muddhādhipātañ  ca  tam   me akkhāhi devate   
   
-   Sn V              Purā Kapilavatthumhā nikkhanto lokanāyako 
-                apacco Okkākarājassa Sakyaputto pabhaṅkaro  
+   sn v              purā kapilavatthumhā nikkhanto lokanāyako 
+                apacco okkākarājassa sakyaputto pabhaṅkaro  
   
-   Sn V             So hi brāhmaṇa sambuddho sabbadhammānapāragū 
+   sn v             so hi brāhmaṇa sambuddho sabbadhammānapāragū 
                 sabb  ābhiññā balappatto sabba dhammesu cakkhumā 
                 sabba dhamma kkhayaṃ   patto vimutto upadhikkhaye    
   
-   Sn V             Buddho so Bhagavā loke dhammaṃ deseti   cakkhumā 
+   sn v             buddho so bhagavā loke dhammaṃ deseti   cakkhumā 
                 taṃ tvaṃ gantvāna   pucchassu  so te taṃ byākarissati   
   
-                                                                            vivitthassa Br  
-   uttrāsaṃ Sc utrasantaṃ T  
-   Bavāriṃ Sc  
-   abruvi Sc  
-   bhoti Br Sc T  Baim   
-   muddhāvi  Br Sc  
-   aham etaṃ Br  Bai   
-   p Sc  
-   kho Sc  
-    paṭhavi  Br T  puthu  Sc  
-    taṃ Br Sc  
-    kammakkhayaṃ Br Sc  khayappatto Sc   
-    upadhi saṃkhaye Sn  
-    desesi Br Sc  Bai   
-    gacchautvāna Sc  
+                                                                            vivitthassa br  
+   uttrāsaṃ sc utrasantaṃ t  
+   bavāriṃ sc  
+   abruvi sc  
+   bhoti br sc t  baim   
+   muddhāvi  br sc  
+   aham etaṃ br  bai   
+   p sc  
+   kho sc  
+    paṭhavi  br t  puthu  sc  
+    taṃ br sc  
+    kammakkhayaṃ br sc  khayappatto sc   
+    upadhi saṃkhaye sn  
+    desesi br sc  bai   
+    gacchautvāna sc  
   
   page      
- Vatthugāthā    
+ vatthugāthā    
   
-   Sn V              Sambuddho  ti vaco sutvā udaggo Bāvarī ahu  
+   sn v              sambuddho  ti vaco sutvā udaggo bāvarī ahu  
                 sok  assa tanuko āsi  pītiñ  ca vipulaṃ labhi  
   
-   Sn V             So Bāvarī attamano udaggo 
-                taṃ devataṃ pucchati Vedajāto  
+   sn v             so bāvarī attamano udaggo 
+                taṃ devataṃ pucchati vedajāto  
                  katamamhi gāme nigamamhi vā puna 
                 katamamhi vā janapade lokanātho  
-                yattha gantvā  namassemu  Sambuddhaṃ dipa duttamaṃ    
+                yattha gantvā  namassemu  sambuddhaṃ dipa duttamaṃ    
   
-   Sn V              Sāvatthiyaṃ Kosalamandire  Jino 
+   sn v              sāvatthiyaṃ kosalamandire  jino 
                 pahūta pañño vara bhūrimedhaso  
-                so Sakyaputto vidhuro anāsavo 
+                so sakyaputto vidhuro anāsavo 
                 muddhādhipātassa  vidū narāsabho   
   
-   Sn V             Tato āmantayi  sisse brāhmaṇe mantapārage  
+   sn v             tato āmantayi  sisse brāhmaṇe mantapārage  
                  etha māṇavā  akkhissaṃ   suṇotha vacanaṃ mama  
   
-   Sn V             Yass  eso  dullabho loke pātubhāvo abhiṇhaso  
-                sv ajja lokamhi uppanno Sambuddho iti vissuto  
-                khippaṃ gantvāna Sāvatthim passavho dipa d uttamaṃ     
+   sn v             yass  eso  dullabho loke pātubhāvo abhiṇhaso  
+                sv ajja lokamhi uppanno sambuddho iti vissuto  
+                khippaṃ gantvāna sāvatthim passavho dipa d uttamaṃ     
   
-   Sn V              Kathañ   carahi jānemu disvā  Buddho  ti brāhmaṇa  
+   sn v              kathañ   carahi jānemu disvā  buddho  ti brāhmaṇa  
                 ajānatan   no pabrūhi  yathā jānemu taṃ mayaṃ   
   
-   Sn V               Āgatāni hi mantesu mahāpurisa lakkhaṇā 
+   sn v               āgatāni hi mantesu mahāpurisa lakkhaṇā 
                 dvattiṃsā   ca byakkhātā   samattā anupubbaso  
   
-   Sn V              Yass  ete honti gattesu mahāpurisa lakkhaṇā  
+   sn v              yass  ete honti gattesu mahāpurisa lakkhaṇā  
                 dve yeva   tassa gatiyo  tatiyā hi   na vijjati  
   
-                                                                            pītiṃ Sc  
-   gantvāna Br  
-   napassemu Br napasse Sc 
-   dvipa uttamaṃ Br  
-   Kosalaṃmandiro Sc  
-   muddhāvi  Sc  
-    yī Sn  
-   dukkhissaṃ  for dakkh   Sc  
-   yassa so Br Sc  Baim   
-    dvipa  Br  
-    kathaṃ Br T  Bai   
-    ajānataṃ Br Sc T  Bai   
-    dvattiṃsāni Br Sc 
-    vyākhyātā Sn  
-    dve va Sn  
-    gati Br  
+                                                                            pītiṃ sc  
+   gantvāna br  
+   napassemu br napasse sc 
+   dvipa uttamaṃ br  
+   kosalaṃmandiro sc  
+   muddhāvi  sc  
+    yī sn  
+   dukkhissaṃ  for dakkh   sc  
+   yassa so br sc  baim   
+    dvipa  br  
+    kathaṃ br t  bai   
+    ajānataṃ br sc t  bai   
+    dvattiṃsāni br sc 
+    vyākhyātā sn  
+    dve va sn  
+    gati br  
   
   page      
-   Pārāyanavagga  
+   pārāyanavagga  
   
-   Sn V              Sace agāraṃ āvasati   vijeyya paṭhaviṃ imaṃ 
+   sn v              sace agāraṃ āvasati   vijeyya paṭhaviṃ imaṃ 
                 adaṇḍena asatthena dhammena m  anusāsati  
   
-   Sn V              Sace ca so pabbajati agārā anagāriyaṃ  
+   sn v              sace ca so pabbajati agārā anagāriyaṃ  
                 vivaṭa cchado  sambuddho arahā bhavati anuttaro  
   
-   Sn V              Jātiṃ  gottañ ca lakkhaṇaṃ mante sisse pun  āpare 
+   sn v              jātiṃ  gottañ ca lakkhaṇaṃ mante sisse pun  āpare 
                 muddhaṃ muddhādhipātañ  ca manasā yeva pucchatha  
   
-   Sn V              Anāvaraṇadassāvī  yadi buddho bhavissati  
+   sn v              anāvaraṇadassāvī  yadi buddho bhavissati  
                 manasā pucchite pañhe vācāya vissajessati    
   
-   Sn V              Bāvarissa  vaco sutvā sissā solasa brāhmaṇā 
-                Ajito Tissa Metteyyo Puṇṇako  atha Mettagū  
+   sn v              bāvarissa  vaco sutvā sissā solasa brāhmaṇā 
+                ajito tissa metteyyo puṇṇako  atha mettagū  
   
-   Sn V              Dhotako Upasīvo ca Nando ca atha Hemako   
-                Todeyya Kappā   d  ubhayo Jatukaṇṇī   ca paṇḍito 
+   sn v              dhotako upasīvo ca nando ca atha hemako   
+                todeyya kappā   d  ubhayo jatukaṇṇī   ca paṇḍito 
   
-   Sn V              Bhadrāvudho Udayo ca Posālo cā pi brāhmaṇo 
-                Mogharājā ca medhāvī Piṅgiyo ca mahā isi  
+   sn v              bhadrāvudho udayo ca posālo cā pi brāhmaṇo 
+                mogharājā ca medhāvī piṅgiyo ca mahā isi  
   
-   Sn V              Pacceka gaṇino sabbe sabba lokassa vissutā 
+   sn v              pacceka gaṇino sabbe sabba lokassa vissutā 
                 jhāyī   jhānaratā dhīrā pubba vāsana vāsitā 
   
-   Sn V              Bāvariṃ   abhivādetvā katvā ca naṃ padakkhiṇaṃ 
+   sn v              bāvariṃ   abhivādetvā katvā ca naṃ padakkhiṇaṃ 
                 jaṭājinadharā sabbe pakkāmuṃ uttarāmukhā  
   
-   Sn V              Muḷakassa   Patiṭṭhānaṃ purimaṃ   Māhissatiṃ   
+   sn v              muḷakassa   patiṭṭhānaṃ purimaṃ   māhissatiṃ   
  tadā 
-                Ujjeniñ c  āpi Gonaddhaṃ Vedisaṃ Vanasavhayaṃ    
+                ujjeniñ c  āpi gonaddhaṃ vedisaṃ vanasavhayaṃ    
   
-   Sn V              Kosambiṃ cā pi Sāketaṃ Sāvatthiñ ca pur  uttamaṃ 
-                Setabyaṃ Kapilavatthuṃ Kusinārañ ca mandiraṃ  
+   sn v              kosambiṃ cā pi sāketaṃ sāvatthiñ ca pur  uttamaṃ 
+                setabyaṃ kapilavatthuṃ kusinārañ ca mandiraṃ  
   
-                                                                            ajjhā  Sn  
-   m om  Br  
-   vivattacchaddo Sn  
-   jāti Br Sc  Baim   
-   muddhāvi  Br Sc  
-    vi Sc T  
-   visajissati Br  Bm  vissajjissati Sc  Bai   
-   Bāvārisa Sc  
-   Tunnako Sc  
-    Somako Sc  
-    Kappo Sc  Ckb   
-     i Br Sc T  Bai   
-    jhāyi Br Sc T  Bai   
-    Bāvāri Sc  
-    Aḷa  Sn  
-    puri Māhissati Sc  Ba  pura Mahissati Br   Bm   
-    Bana  Sc  
+                                                                            ajjhā  sn  
+   m om  br  
+   vivattacchaddo sn  
+   jāti br sc  baim   
+   muddhāvi  br sc  
+    vi sc t  
+   visajissati br  bm  vissajjissati sc  bai   
+   bāvārisa sc  
+   tunnako sc  
+    somako sc  
+    kappo sc  ckb   
+     i br sc t  bai   
+    jhāyi br sc t  bai   
+    bāvāri sc  
+    aḷa  sn  
+    puri māhissati sc  ba  pura mahissati br   bm   
+    bana  sc  
   
   page      
- Vatthugāthā    
+ vatthugāthā    
   
-   Sn V              Pāvañ ca Bhoganagaraṃ Vesāliṃ Māgadhaṃ puraṃ 
-                Pāsāṇakañ  cetiyañ ca ramaṇīyaṃ manoramaṃ  
+   sn v              pāvañ ca bhoganagaraṃ vesāliṃ māgadhaṃ puraṃ 
+                pāsāṇakañ  cetiyañ ca ramaṇīyaṃ manoramaṃ  
   
-   Sn V              Tasito v  udakaṃ sītaṃ mahālābhaṃ  va vāṇijo 
+   sn v              tasito v  udakaṃ sītaṃ mahālābhaṃ  va vāṇijo 
                 chāyaṃ ghamm  ābhitatto va turitā pabbatam āruhuṃ   
   
-   Sn V              Bhagavā ca tamhi  samaye bhikkhu saṅgha purakkhato 
+   sn v              bhagavā ca tamhi  samaye bhikkhu saṅgha purakkhato 
                 bhikkhūnaṃ dhammaṃ deseti  sīho va nadati  vane  
   
-   Sn V              Ajito addasa  Sambuddhaṃ vītaraṃsi  va bhāṇumaṃ 
+   sn v              ajito addasa  sambuddhaṃ vītaraṃsi  va bhāṇumaṃ 
                 candaṃ yathā pannarase pāripūriṃ  upāgataṃ  
   
-   Sn V              Ath  assa gatte disvāna  paripūrañ   ca byañjanaṃ   
+   sn v              ath  assa gatte disvāna  paripūrañ   ca byañjanaṃ   
                 ekamantaṃ ṭhito haṭṭho manopañhe apucchatha  
   
-   Sn V               Ādissa jammanaṃ   brūhi  gottaṃ brūhi salakkhaṇaṃ  
+   sn v               ādissa jammanaṃ   brūhi  gottaṃ brūhi salakkhaṇaṃ  
                 mantesu pāramiṃ  brūhi   kati vāceti brāhmaṇo   
   
-   Sn V               Vīsaṃ vassasataṃ āyu  so ca gottena Bāvari    
+   sn v               vīsaṃ vassasataṃ āyu  so ca gottena bāvari    
                 tīṇ  assa   lakkhaṇā gatte tiṇṇaṃ vedāna   pāragū  
   
-   Sn V              Lakkhaṇe itihāse ca sanighaṇḍu sakeṭubhe  
+   sn v              lakkhaṇe itihāse ca sanighaṇḍu sakeṭubhe  
                 pañca satāni vāceti sadhamme pāramiṃ gato   
   
-   Sn V              Lakkhaṇānaṃ pavicayaṃ Bāvarissa   nar  uttama 
+   sn v              lakkhaṇānaṃ pavicayaṃ bāvarissa   nar  uttama 
                 taṇhacchida   pakāsehi  mā no kaṅkhāyitaṃ ahu   
   
-   Sn V               Mukhaṃ jivhāya chādeti  uṇṇ  assa bhamukantare  
+   sn v               mukhaṃ jivhāya chādeti  uṇṇ  assa bhamukantare  
                 kosohitaṃ vatthaguyhaṃ  evaṃ jānāhi māṇava   
   
-                                                                            Pāsāna cetiyañ Sc  
-   mahāsālaṃ Br  
-   ārahu Sc   Bai   
-   tasmiṃ Br Sc  
-   nadatī Sn  
-   adda Br Bm  addha  ~ adda  Sc  
-   pītaraṃsiṃ Br  pītaraṃsi Sc  
-   sic T   pūraṃ Br  Bai   puripuraṃ Sc  
-   disvā Sc  
-    paripūraṃ viyañj  Br  Bai   
-    jappanaṃ Br  
-     ī Br Sc  Cb   
-    tiṇi ssa Br Sc  Baim  tiṇ  assa T  
-    bedana Br  Ba   
-    Bāvārissa Sc  
-    taṇhāacchidaṃ Sc kaṅkhacchida Br   Bi   
+                                                                            pāsāna cetiyañ sc  
+   mahāsālaṃ br  
+   ārahu sc   bai   
+   tasmiṃ br sc  
+   nadatī sn  
+   adda br bm  addha  ~ adda  sc  
+   pītaraṃsiṃ br  pītaraṃsi sc  
+   sic t   pūraṃ br  bai   puripuraṃ sc  
+   disvā sc  
+    paripūraṃ viyañj  br  bai   
+    jappanaṃ br  
+     ī br sc  cb   
+    tiṇi ssa br sc  baim  tiṇ  assa t  
+    bedana br  ba   
+    bāvārissa sc  
+    taṇhāacchidaṃ sc kaṅkhacchida br   bi   
   
   page      
-   Pārāyanavagga  
+   pārāyanavagga  
   
-   Sn V              Pucchaṃ hi kiñci  asuṇanto sutvā pañhe viyākate 
+   sn v              pucchaṃ hi kiñci  asuṇanto sutvā pañhe viyākate 
                 vicinteti jano sabbo vedajāto katañjali   
   
-   Sn V               Ko nu devo va  Brahmā vā Indo vā pi Sujampati  
-                Manasā pucchi te pañhe  kam etaṃ paṭibhāsati  
+   sn v               ko nu devo va  brahmā vā indo vā pi sujampati  
+                manasā pucchi te pañhe  kam etaṃ paṭibhāsati  
   
-   Sn V               Muddhaṃ muddhādhipātañ  ca Bāvarī paripucchati  
-                taṃ byākarohi Bhagavā  kaṅkhaṃ vinaya no ise   
+   sn v               muddhaṃ muddhādhipātañ  ca bāvarī paripucchati  
+                taṃ byākarohi bhagavā  kaṅkhaṃ vinaya no ise   
   
-   Sn V               Avijjā muddhā ti jānāhi  vijjā muddhādhipātinī  
+   sn v               avijjā muddhā ti jānāhi  vijjā muddhādhipātinī  
                 saddhā sati samādhīhi chanda viriyena saṃyutā   
   
-   Sn V              Tato vedena mahatā santhambhitvāna  māṇavo 
+   sn v              tato vedena mahatā santhambhitvāna  māṇavo 
                 ekaṃsaṃ ajinaṃ katvā pādesu sirasā pati  
   
-   Sn V               Bāvarī  brāhmaṇo bhoto saha sissehi mārisa 
+   sn v               bāvarī  brāhmaṇo bhoto saha sissehi mārisa 
                 udaggacitto sumano pāde vandati cakkhuma    
   
-   Sn V               Sukhito Bāvarī hotu saha sissehi brāhmaṇo  
+   sn v               sukhito bāvarī hotu saha sissehi brāhmaṇo  
                 tvañ cā pi sukhito hohi  ciraṃ jīvāhi māṇava  
   
-   Sn V              Bāvarissa  ca tuyhaṃ vā sabbesaṃ sabba saṃsayaṃ 
+   sn v              bāvarissa  ca tuyhaṃ vā sabbesaṃ sabba saṃsayaṃ 
                 kat  āvakāsā pucchavho  yam kiñci manas  icchatha   
   
-   Sn V              Sambuddhena kat  okāso nisīditvāna pañjalī  
-                Ajito paṭhamaṃ pañhaṃ tattha pucchi Tathāgataṃ  
+   sn v              sambuddhena kat  okāso nisīditvāna pañjalī  
+                ajito paṭhamaṃ pañhaṃ tattha pucchi tathāgataṃ  
   
- VATTHUGĀTHĀ NIṬṬHITĀ  
+ vatthugāthā niṭṭhitā  
   
-                                                                            kañci T taṃ Sc  Bm   
-    ī Br Sc  Ck   
-   vā Br T  Baim   om  Sc  
-   Sujappati Br  
-   muddhāvi  Br  also         Sc        
-    etvāna Br Sc  Baim   
-    i Sn  Bāvāri Sc  
-    mā Sc T  Cb Bai   
-   Bāvārissa Sc  
+                                                                            kañci t taṃ sc  bm   
+    ī br sc  ck   
+   vā br t  baim   om  sc  
+   sujappati br  
+   muddhāvi  br  also         sc        
+    etvāna br sc  baim   
+    i sn  bāvāri sc  
+    mā sc t  cb bai   
+   bāvārissa sc  
                                     
-    Pucchā  
-     Ajitamāṇava pucchā   
+    pucchā  
+     ajitamāṇava pucchā   
   
-   Sn V              Kena ssu nivuto loko     icci āyasmā Ajito                 kena ssu na ppakāsati  
+   sn v              kena ssu nivuto loko     icci āyasmā ajito                 kena ssu na ppakāsati  
                 ki ss  ābhilepanaṃ  brūsi  
                 kiṃ su tassa mahabbhayaṃ    
   
-                                                                            ābhisecanaṃ Scp  
-   mahambhayaṃ Brp  
-                                   See exposition in Introduction  c     §    p  xxii sqq    
+                                                                            ābhisecanaṃ scp  
+   mahambhayaṃ brp  
+                                   see exposition in introduction  c     §    p  xxii sqq    
   
   page      
- Pucchā    
+ pucchā    
   
-   Sn V              Avijjāya nivuto loko     Ajitā ti Bhagavā                 vevicchā  pamādā na ppakāsati  
+   sn v              avijjāya nivuto loko     ajitā ti bhagavā                 vevicchā  pamādā na ppakāsati  
                 japp  ābhilepanaṃ brūmi  
                 dukkham assa mahabbhayaṃ    
   
-                                                                            vi  Brp Scn  
-   maham  Brp  
+                                                                            vi  brp scn  
+   maham  brp  
                                     
       avijjā      
       loka       
        imāya avijjāya    nivuto  āvuto       
-      Ajita      
-      Bhagavā       
+      ajita      
+      bhagavā       
       veviccha       
       pamāda       
   b  iminā ca macchariyena iminā ca pamādena loko  na  pakāsati       
@@ -439,13 +439,13 @@
         assa  lokassa   mahabbhayaṃ  bhayaṃ       
   
   
-   Sn V              Savanti sabbadhi  sota     icc āyasmā Ajito                 sotānaṃ kiṃ  nivāraṇaṃ  
+   sn v              savanti sabbadhi  sota     icc āyasmā ajito                 sotānaṃ kiṃ  nivāraṇaṃ  
                 sotānaṃ saṃvaraṃ brūhi  
                 kena sotā pithiyyare    
   
-                                                                            sabbadhī Sn  
-   kin T  Pj    
-   pidhiyyare Br  Baim   
+                                                                            sabbadhī sn  
+   kin t  pj    
+   pidhiyyare br  baim   
                                     
       sotā       
       savanti       
@@ -456,14 +456,14 @@
   d   kena sotā    pithiyyare  pithīyanti      
   
   
-   Sn V              Yāni sotāni lokasmiṃ     Ajitā ti Bhagavā                 sati tesaṃ nivāraṇaṃ  
+   sn v              yāni sotāni lokasmiṃ     ajitā ti bhagavā                 sati tesaṃ nivāraṇaṃ  
   
   page      
-   Pārāyanavagga  
+   pārāyanavagga  
                 sotānaṃ saṃvaraṃ brūmi  
                 paññāy  ete pithiyyare    
   
-                                                                            pidhiyyare Br  
+                                                                            pidhiyyare br  
                                     
         yāni       e  etāni sotāni mayā kittitāni  ~ brūmi       
  seyyathīdaṃ taṇhā soto          
@@ -473,13 +473,13 @@
   d  paññāya          ete sotā    pithiyyare  pithīyanti       
   
   
-   Sn V              Paññā c  eva satī  cā  pi    icc āyasmā Ajito                 nāma rūpañ ca mārisa  
+   sn v              paññā c  eva satī  cā  pi    icc āyasmā ajito                 nāma rūpañ ca mārisa  
                 etaṃ me  puṭṭho pabrūhi  
                 katth  etaṃ uparujjhati   
   
-                                                                            sati Br T  Baim   
-   ca Sn  
-   etam me T  
+                                                                            sati br t  baim   
+   ca sn  
+   etam me t  
                                     
       paññā       
       sati       
@@ -490,16 +490,16 @@
   d   katth  etaṃ  uparujjhati       
   
   
-   Sn V              Yam etam pañhaṃ apucchi  
-                Ajita  taṃ vadāmi te  
-                Yattha nāmañ ca rūpañ ca 
+   sn v              yam etam pañhaṃ apucchi  
+                ajita  taṃ vadāmi te  
+                yattha nāmañ ca rūpañ ca 
                 asesaṃ uparujjhati  
                 viññāṇassa nirodhena 
                 etth  etaṃ uparujjhati   
   
   
         yam etaṃ       d    paññā ca satī ca nāma rūpañ ca   apucchi       f  
-      Ajita      
+      ajita      
         taṃ       a    as above yam etaṃ   vadāmi       a  
       nāmaṃ   rūpaṃ       
       asesaṃ        
@@ -507,15 +507,15 @@
   e   f  see viññāṇa       b  
   
   page      
- Pucchā    
+ pucchā    
   
-   Sn V              Ye ca saṅkhāta dhammāse  
+   sn v              ye ca saṅkhāta dhammāse  
                 ye ca sekhā  puthu  idha  
                 tesaṃ me nipako iriyaṃ 
                 puṭṭho pabrūhi mārisa   
   
-                                                                            sekkhā Sc T  
-   puthū T  Sn     This stanza is quoted at S II     sq  
+                                                                            sekkhā sc t  
+   puthū t  sn     this stanza is quoted at s ii     sq  
                                     
       saṅkhāta      dhammāse  dhammā       
       sekhā       
@@ -528,16 +528,16 @@
       mārisa       
   
   
-   Sn V              Kāmesu n  ābhigijjheyya  
+   sn v              kāmesu n  ābhigijjheyya  
                 manasā nāvilo siyā  
                 kusalo sabba    dhammānaṃ 
                 sato bhikkhu paribbaje  ti  
   
- AJITAMĀṆAVAPUCCHĀ NIṬṬHITĀ   
+ ajitamāṇavapucchā niṭṭhitā   
   
-     Tissametteyyamāṇavapucchā   
+     tissametteyyamāṇavapucchā   
   
-                                                                            See on conclusion   Introduction  c     
+                                                                            see on conclusion   introduction  c     
                                     
       kāmā       
        kāmesu   na  abhigijjheyya      
@@ -546,43 +546,43 @@
       sato       
       bhikkhu       
       paribbaje       
-   Sn V              Ko dha santusito loke     icc āyasmā Tisso Metteyyo                 kassa na santi iñjitā  
+   sn v              ko dha santusito loke     icc āyasmā tisso metteyyo                 kassa na santi iñjitā  
                 ko ubh  anta m  abhiññāya 
                 majjhe mantā na lippati   
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
                 kaṃ brūsi mahāpuriso ti  
                 ko idha sibbanim  accagā    
   
-                                                                            p Brp  
-   limpati Br Scp T  Baim   
-   sibbinim Br  Bm   
-   ajjhagā Br  Baim   
+                                                                            p brp  
+   limpati br scp t  baim   
+   sibbinim br  bm   
+   ajjhagā br  baim   
                                     
        ko loke    santusito  tuṭṭho            
       icc a       
       āyasmā       
-      Tissa       
-      Metteyya       
+      tissa       
+      metteyya       
   b   kassa no santi  injitā       
   c   ko ubho ante  abhiññāya      
   d   majjhe mantāya  na   lippati  limpati       
       mahāpurisa       abbreviated passage   
-       Kaṃ  brūsi       b  
+       kaṃ  brūsi       b  
   f   ko  sibbaniṃ         taṇhaṃ accagā         
   
   
-   Sn V              Kāmesu brahmacariyavā    Metteyyā ti Bhagavā                 vītataṇho sadā sato 
+   sn v              kāmesu brahmacariyavā    metteyyā ti bhagavā                 vītataṇho sadā sato 
                 saṅkhāya nibbuto bhikkhu  
                 tassa no santi iñjitā  
   
-                                                                          v       and      continuous in T  
+                                                                          v       and      continuous in t  
   
       kāmā       
       brahmacariyavā       
-      Metteyya       
-      Bhagavā       
+      metteyya       
+      bhagavā       
       vītataṇha       
       sadā       
       sata       
@@ -593,16 +593,16 @@
       iñjitā          no santi  n  atthi            
   
   
-   Sn V             So  ubh  anta m  abhiññāya 
+   sn v             so  ubh  anta m  abhiññāya 
                 majjhe mantā na lippati        ab   
                 taṃ brūmi  mahapuriso ti  
                 so idha sibbanim accagā   ti        cd   
   
- TISSAMETTEYYAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ tissametteyyamāṇavapucchā niṭṭhitā  
   
   
   page      
- Pucchā     
+ pucchā     
   
       ubhanta       
       mantā       
@@ -613,18 +613,18 @@
       sibbani       
        so sibbaniṃ taṇhaṃ  accagā           
   
-     Puṇṇakamāṇavapucchā   
+     puṇṇakamāṇavapucchā   
   
-   Sn V              Anejaṃ mūladassāviṃ     icc āyasmā Puṇṇako                 atthi pañhena āgamaṃ  
+   sn v              anejaṃ mūladassāviṃ     icc āyasmā puṇṇako                 atthi pañhena āgamaṃ  
                 kiṃ nissitā  isayo manujā 
                 khattiyā brāhmaṇā devatānaṃ 
                 yaññam akappayiṃsu  puthu dha  loke  
-                pucchāmi taṃ Bhagavā  brūhi me taṃ   
+                pucchāmi taṃ bhagavā  brūhi me taṃ   
   
-                                                                             i Sc  
-   kinissitā Brn   Bai   
-   akappiṃsu Br T  Bai   
-   idha Sc Sn  puthū dha T  
+                                                                             i sc  
+   kinissitā brn   bai   
+   akappiṃsu br t  bai   
+   idha sc sn  puthū dha t  
                                     
       aneja      
       mūladassāvī       
@@ -641,58 +641,58 @@
       puthu      
        idha  loke      c  
       pucchāmi        a   taṃ   
-      Bhagavā     
+      bhagavā     
       brūhi       c  
   
-   Sn V              Ye kec  ime isayo manujā    Puṇṇakā ti Bhagavā                  khattiyā brāhmaṇā devatānaṃ 
+   sn v              ye kec  ime isayo manujā    puṇṇakā ti bhagavā                  khattiyā brāhmaṇā devatānaṃ 
                 yaññam akappayiṃsu puthū idha loke        de   
   
   
   page      
-    Pārāyanavagga  
-                āsiṃsamānā  Puṇṇaka itthabhāvaṃ  
+    pārāyanavagga  
+                āsiṃsamānā  puṇṇaka itthabhāvaṃ  
                 jaraṃ sitā  yaññam akappayiṃsu   
   
-                                                                            āsisa  Brp  Bai   
-   itthattaṃ Scn T  Baim  
-   jarasitā Scn  
+                                                                            āsisa  brp  bai   
+   itthattaṃ scn t  baim  
+   jarasitā scn  
                                     
-      ye keci       ye kec  ime T   
+      ye keci       ye kec  ime t   
       isayo       
       manujā       
       āsiṃsamānā       b  
       itthabhāva       
       jaraṃ sita       sita        
   
-   Sn V               Ye kec  ime isayo manujā     iccāyasmā Puṇṇako         a   
+   sn v               ye kec  ime isayo manujā     iccāyasmā puṇṇako         a   
                  khattiyā brāhmaṇā devatānaṃ 
                 yaññam akappayiṃsu puthu idha loke        de   
-                kacci ssu  te Bhagavā yaññapathe appamattā 
+                kacci ssu  te bhagavā yaññapathe appamattā 
                 atāru  jātiñ ca jarañ ca mārisa  
-                 pucchāmi taṃ Bhagavā  brūhi me taṃ         f   
+                 pucchāmi taṃ bhagavā  brūhi me taṃ         f   
   
-                                                                            kacciṃ su Sn  
-   atāruṃ T  Ba in Pj    atāri Sc  
+                                                                            kacciṃ su sn  
+   atāruṃ t  ba in pj    atāri sc  
                                     
       kacci ssu       
-      te      g    yaññayājakā   Bhagavā       
+      te      g    yaññayājakā   bhagavā       
       yaññapatha       
       appamatta       
   e  jāti jarā maraṇaṃ   atāru  atāriṃsu            g  mārisa       
   
-   Sn V              Āsiṃsanti thomayanti abhijappanti  juhanti                     Puṇṇakā ti Bhagavā                 kām  ābhijappanti paṭicca lābhaṃ  
+   sn v              āsiṃsanti thomayanti abhijappanti  juhanti                     puṇṇakā ti bhagavā                 kām  ābhijappanti paṭicca lābhaṃ  
                 te yājayogā bhavarāga rattā 
                 n  ātariṃsu  jāti jaran ti brūmi   
   
-                                                                               T  
-   jūhanti Scn  
-   natāriṃsu Brp  
+                                                                               t  
+   jūhanti scn  
+   natāriṃsu brp  
                                     
       āsiṃsanti       a  
       thomayanti       
   
   page      
- Pucchā     
+ pucchā     
   
       abhijappanti      
       juhanti       
@@ -702,12 +702,12 @@
        n  ātariṃsu  jāti jaraṃ        f  
       brūmi       a  
   
-   Sn V              Te ce n  ātariṃsu  yājayogā    icc āyasmā Puṇṇako                 yaññehi jātiñ ca jarañ ca mārisa  
+   sn v              te ce n  ātariṃsu  yājayogā    icc āyasmā puṇṇako                 yaññehi jātiñ ca jarañ ca mārisa  
                 atha ko carahi deva manussa loke 
                 atāri  jātiñ ca jarañ ca mārisa        e   
-                 pucchāmi taṃ Bhagavā  brūhi me taṃ         f   
+                 pucchāmi taṃ bhagavā  brūhi me taṃ         f   
   
-                                                                            natāriṃsu Brp  
+                                                                            natāriṃsu brp  
                                     
   a    te        g  yañña yājakā yājayogā 
  bhavarāga nattā jāti jarā maraṇaṃ   na  atariṃsu            f  
@@ -716,28 +716,28 @@
   c   d   atha ko eso  deva manussa loke       
        jāti jarā maraṇaṃ  atāri      e  
   
-   Sn V              Saṅkhāya lokasmiṃ paroparāni     Puṇṇakā ti Bhagava                 yass  iñjitaṃ n  atthi kuhiñci loke  
+   sn v              saṅkhāya lokasmiṃ paroparāni     puṇṇakā ti bhagava                 yass  iñjitaṃ n  atthi kuhiñci loke  
                 santo vidhūmo  anigho nirāso 
                 atāri so jāti jaran ti brūmī  ti   ~    d   
   
- PUṆṆAKAMĀṆAVAPUCCHA NIṬṬHITĀ  
+ puṇṇakamāṇavapuccha niṭṭhitā  
   
-                                                                            sic Br Scp T   Baim   parovarāni Scn Sn  Pj     It can 
+                                                                            sic br scp t   baim   parovarāni scn sn  pj     it can 
  hardly be decided which is the correct form  since neither is 
- free from analogy influence  The compound is para   avara  
+ free from analogy influence  the compound is para   avara  
  but by analogy of confusion between ava  o    apa  this apa is 
  substituted for ava  o  in derivation avara  ora  under the 
  influence of the first para  thus para  apa or ava  o   ra which 
  branches into  par o para or par o vara  instead of yielding 
   par ora  
-   sic Br Sc  Bai   vidhūmo T  Sn  Pj  
+   sic br sc  bai   vidhūmo t  sn  pj  
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
       saṅkhāya     ia  
       paroparāni      b  
-           paroparāni aniccato  saṅkhāya          II  
+           paroparāni aniccato  saṅkhāya          ii  
       yassa       a    arahato ~    
       iñjitaṃ  natthi        
       kuhiñci       
@@ -751,16 +751,16 @@
   c   d     yo santo ca vidhumo ca anigho ca 
  nirāso ca so jāti jarā maraṇaṃ  atāri       e  brūmi       a  
   
-     Mettagūmāṇavapucchā   
+     mettagūmāṇavapucchā   
   
-   Sn V               Pucchāmi taṃ Bhagavā  brūhi me taṃ          f   
-                   icc āyasmā Mettagū                 Maññāmi taṃ vedaguṃ  bhāvitattaṃ  
+   sn v               pucchāmi taṃ bhagavā  brūhi me taṃ          f   
+                   icc āyasmā mettagū                 maññāmi taṃ vedaguṃ  bhāvitattaṃ  
                 kuto nu dukkhā samudāgatā  ime   
                 ye keci lokasmiṃ anekarūpā   
   
-                                                                            vedagū Br  Baim   
-   samupāgatā T  
-   me Brp T  
+                                                                            vedagū br  baim   
+   samupāgatā t  
+   me brp t  
                                     
       pucchāmi       a  
   b     vedagū ti maññāmi bhāvitatto ti taṃ  
@@ -774,22 +774,22 @@
       lokasmiṃ       a  
       anekarūpa      
   
-   Sn V              Dukkhassa ve maṃ pabhavaṃ  apucchasi                     Mettagū ti Bhagavā                 taṃ  te pavakkhāmi yathā pajānaṃ  
+   sn v              dukkhassa ve maṃ pabhavaṃ  apucchasi                     mettagū ti bhagavā                 taṃ  te pavakkhāmi yathā pajānaṃ  
                 upadhi   nidānā pabhavanti dukkhā  
                  ye keci lokasmiṃ anekarūpā        d   
   
-                                                                            sambhavaṃ Scp  
-   tan T  
-   upadhī Sn  
+                                                                            sambhavaṃ scp  
+   tan t  
+   upadhī sn  
   
   
   page      
- Pucchā     
+ pucchā     
   
       dukkha       
       pabhavaṃ           apucchasi       g  
-      Mettagu       
-      Bhagavā       
+      mettagu       
+      bhagavā       
       taṃ       b   dukkhassa   pabhavaṃ  mūlaṃ ~   
                pavakkhāmi       
        yathā  pajānaṃ       
@@ -798,47 +798,47 @@
        upadhi   nidānā       
       pabhavanti       
   
-   Sn V             Yo ve  avidvā upadhiṃ  karoti   V        
+   sn v             yo ve  avidvā upadhiṃ  karoti   v        
                 punappunaṃ dukkham upeti mando  
                 tasmā pajānaṃ  upadhiṃ  na kayirā 
                 dukkhassa jāti ppabhavā  nupassī    
   
-                                                                            ce Brp T  
-    i Sc  
-   hi jānaṃ Sn  but pajānan Sn        pa jānaṃ Pj  
-    i Br T  
+                                                                            ce brp t  
+    i sc  
+   hi jānaṃ sn  but pajānan sn        pa jānaṃ pj  
+    i br t  
                                     
       yo       
       avidvā       
       upadhiṃ karoti   upadhi        karoti       b  
-      dukkha     II   upeti       
+      dukkha     ii   upeti       
       manda       
       tasmā       
         pajānaṃ  pajānanto       
       upadhiṃ     na kayirā   na  kareyya            a  
-      dukkha     II  
+      dukkha     ii  
         pabhavānupassī  dukkhassa mūlā  nupassī       
   
-   Sn V              Yan taṃ apucchimha akittayi  no  
+   sn v              yan taṃ apucchimha akittayi  no  
                 aññaṃ taṃ pucchāma  tad iṅgha brūhi  
                 kathan nu dhīrā  vitaranti oghaṃ 
                 jātijaraṃ soka pariddavañ  ca  
                 tam me muni  sādhu viyākarohi  
                 tathā hi te vidito  esa dhammo   
   
-                                                                            akittiyi Scp T  akittayī Sn  
-    mi Sn    ma Bai   
-   dhirā Brn T  
-   sic   devañ Bai   
-    ī Sn  
-   viddito Br  throughout   
+                                                                            akittiyi scp t  akittayī sn  
+    mi sn    ma bai   
+   dhirā brn t  
+   sic   devañ bai   
+    ī sn  
+   viddito br  throughout   
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
        yan taṃ  apucchimha       f  
       akittayi     
-      om  Sc    āññaṃ taṃ  pucchāma       b 
+      om  sc    āññaṃ taṃ  pucchāma       b 
            brūhi       c  uttariṃ tam pucchāma  kathan nu       
       dhīrā       
       ogha       
@@ -852,12 +852,12 @@
        sādhu  viyākarohi       e  
       vidito  esa dhammo        a  
   
-   Sn V              Kittayissāmi te dhammaṃ    Mettagū ti Bhagavā                 diṭṭhe dhamme anītihaṃ  
+   sn v              kittayissāmi te dhammaṃ    mettagū ti bhagavā                 diṭṭhe dhamme anītihaṃ  
                 yaṃ viditvā sato caraṃ 
                 tare  loke visattikaṃ   
   
-                                                                            anitihaṃ Brn Scp T  
-   tade Scp  
+                                                                            anitihaṃ brn scp t  
+   tade scp  
                                     
       dhamma       
       kittayissāmi       
@@ -870,7 +870,7 @@
       loke       b  
   d  lok  eva taṃ visattikaṃ sato   tare  tareyya            b  
   
-   Sn V              Tañ c  āhaṃ abhinandāmi 
+   sn v              tañ c  āhaṃ abhinandāmi 
                 mahesi dhammam uttamaṃ  
                  yaṃ viditvā sato caraṃ 
                 tare loke visattikaṃ         cd   
@@ -879,21 +879,21 @@
       abhinandāmi      
   
   page      
- Pucchā     
+ pucchā     
   
       mahesi       
       dhammaṃ uttamaṃ       
       uttamaṃ       
   
-   Sn V              Yaṃ kiñci sampajānāsi     Mettagū ti Bhagavā                 uddhaṃ adho tiriyaṃ cā pi  majjhe  
+   sn v              yaṃ kiñci sampajānāsi     mettagū ti bhagavā                 uddhaṃ adho tiriyaṃ cā pi  majjhe  
                 etesu nandiñ ca nivesanañ ca 
                 panujja viññāṇaṃ bhave na tiṭṭhe  
   
-                                                                            sañjānāsi Sc  Bai   and ad       
-   vā pi Brp Scn  Bai  and ad       
+                                                                            sañjānāsi sc  bai   and ad       
+   vā pi brp scn  bai  and ad       
                                     
        yaṃ kiñci  sampajānāsi       
-      Bhagavā       
+      bhagavā       
   c  ad uddhaṃ       
       etesu       e    ācikkhitesu ~   
       nandi       
@@ -904,33 +904,33 @@
  abhisaṅkhāra sahagataṃ viññāṇañ ca kammabhavañ ca paṭisandhikañ ca punabbhavam 
  pajahanṭo ~  kamma bhave na tiṭṭheyya paṭisandhika punabbhave na tiṭṭheyya ~        a  
   
-   Sn V             Evaṃvihārī  sato appamatto 
+   sn v             evaṃvihārī  sato appamatto 
                 bhikkhu caraṃ hitvā mamāyitāni 
                  jātijaraṃ sokapariddavañ ca       d   
                 idh  eva vidvā pajaheyya dukkhaṃ   
   
-                                                                             i Brn T  
+                                                                             i brn t  
                                     
       evaṃ vihārī see expl  ad bhave na tiṭṭhe        up to pajahanto ~  
       sata       
       appamatta      
-      bhikkhu     II  
+      bhikkhu     ii  
       caraṃ       b  
         mamāyitāni  mamattāni       
       hitvā       a  
       idha       
       vidvā       
-      dukkha     II  
+      dukkha     ii  
       pajaheyya       
   
   page      
-    Pārāyanavagga  
-   Sn V              Etā  bhinandāmi vaco mahesino 
-                sukittitaṃ Gotam  anūpadhikaṃ   
-                addhā hi Bhagavā pahāsi dukkhaṃ  
+    pārāyanavagga  
+   sn v              etā  bhinandāmi vaco mahesino 
+                sukittitaṃ gotam  anūpadhikaṃ   
+                addhā hi bhagavā pahāsi dukkhaṃ  
                  tathā hi te vidito esa dhammo        f   
   
-                                                                            sic Br Sc T  Bai   Br ad         īkaṃ Sn   Pj   upa  Sc  
+                                                                            sic br sc t  bai   br ad         īkaṃ sn   pj   upa  sc  
                                     
   a  ad vaco       
         abhinandāmi  nandāmi           
@@ -938,44 +938,44 @@
        su  kittita       b  
       anūpadhika      
       addhā      
-      Bhagavā       
-      dukkha     II  
+      bhagavā       
+      dukkha     ii  
        pahāsi   dukkham    jāti dukkhaṃ             pahāsi       
   
-   Sn V              Te cā pi  nūna pajaheyyu  dukkhaṃ 
+   sn v              te cā pi  nūna pajaheyyu  dukkhaṃ 
                 ye tvaṃ muni aṭṭhitaṃ  ovadeyya  
                 taṃ taṃ namassāmi samecca nāga   
-                app eva maṃ Bhagavā aṭṭhitaṃ ovadeyya   
+                app eva maṃ bhagavā aṭṭhitaṃ ovadeyya   
   
-                                                                            h  api Sc  
-    a Scp   um Br  
-   aṭṭhikaṃ Br  Bm   
-   nāgaṃ Sc T  
+                                                                            h  api sc  
+    a scp   um br  
+   aṭṭhikaṃ br  bm   
+   nāgaṃ sc t  
                                     
       te cā    pi       i    khattiyā ~    
       dukkha          pajaheyyam       
       ye       f    khattiyā~    
-      tvaṃ       b    Bhagavantaṃ bhaṇati   
+      tvaṃ       b    bhagavantaṃ bhaṇati   
       muni       
       aṭṭhitaṃ       ovadeyya       
-      Note    st taṃ ~  tasmā Pj    
+      note    st taṃ ~  tasmā pj    
         nd  taṃ       a    tvaṃ   
       namassāmi       
       samecca       
       nāga       
       aṭṭhitaṃ       ovadeyya       
   
-   Sn V               Yaṃ brāhmaṇaṃ vedaguṃ  abhijaññā  
+   sn v               yaṃ brāhmaṇaṃ vedaguṃ  abhijaññā  
                 akiñcanaṃ kāma bhave asattaṃ  
                 addhā hi so ogham imaṃ atāri   
                 tiṇṇo ca pāraṃ akhilo akaṅkho  
   
-                                                                             ū Br  Bai   
-   ābhi  Sn  
-   atari Scp  Bai   
+                                                                             ū br  bai   
+   ābhi  sn  
+   atari scp  bai   
                                     
   page      
- Pucchā     
+ pucchā     
   
       brāhmaṇa       a  
       vedagu       
@@ -992,65 +992,65 @@
       akhila     
       akaṅkha     
   
-   Sn V              Vidvā ca so  vedagu  naro idha  
+   sn v              vidvā ca so  vedagu  naro idha  
                 bhav ā bhave  saṅgam imaṃ visajja 
                 so vītataṇho  anigho nirāso    ~    c  
                  atāri so jātijaran ti brūmī  ti        d   
- METTAGŪMĀṆAVAPUCCHĀ NIṬṬHITĀ  
-     Dhotakamāṇavapucchā   
+ mettagūmāṇavapucchā niṭṭhitā  
+     dhotakamāṇavapucchā   
   
-                                                                            yo Brp  Bm   
-    ū Brp  Baim   
-   bhagav  ābhave Scp  
+                                                                            yo brp  bm   
+    ū brp  baim   
+   bhagav  ābhave scp  
                                     
       vidvā       
       vedagu       
       naro       
       idha       
       bhav ā bhave       
-      saṅga     A  
+      saṅga     a  
       visajja       
   c   d  vītataṇha       
   
-   Sn V               Pucchāmi taṃ Bhagavā  brūhi me taṃ           f   
-                   icc āyasmā Dhotako                 vācā bhikaṅkhāmi mahesi tuyhaṃ  
+   sn v               pucchāmi taṃ bhagavā  brūhi me taṃ           f   
+                   icc āyasmā dhotako                 vācā bhikaṅkhāmi mahesi tuyhaṃ  
                 tava sutvāna nigghosaṃ 
                 sikkhe nibbānam attano   
   
       icc a       a  
       āyasmā       
-      Dhotaka       
+      dhotaka       
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
   b  ad vācā       
         abhikaṅkhāmi  kaṅkhāmi      
   c   tava  nigghosaṃ       
       sutvāna       b  
-      sikkhati   see sekhā     A  
+      sikkhati   see sekhā     a  
       nibbāna       
-        sikkhe  adhisīlam pi sikkheyya          Ba  
+        sikkhe  adhisīlam pi sikkheyya          ba  
            up to samādeyya samādāya vatteyya  
   
-   Sn V              Tena h  ātappaṃ karohi     Dhotakā ti Bhagavā                 idh  eva nipako sato 
+   sn v              tena h  ātappaṃ karohi     dhotakā ti bhagavā                 idh  eva nipako sato 
                  ito sutvāna nigghosaṃ 
                 sikkhe nibbānam attano         cd   
   
       ātappaṃ        karohi       c  
-      Dhotaka       
-      Bhagavā       
+      dhotaka       
+      bhagavā       
       idha       
       nipaka       
       sata       
   
-   Sn V              Passām  ahaṃ deva manussaloke  
+   sn v              passām  ahaṃ deva manussaloke  
                 akiñcanaṃ brāhmaṇaṃ iriyamānaṃ  
                 taṃ  taṃ namassāmi samanta cakkhu  
-                pamuñca maṃ Sakka kathaṅkathāhi   
+                pamuñca maṃ sakka kathaṅkathāhi   
   
                                                                             devaṃ manussa   cp  expl  
-   tan Scp T  Bai Pj    
+   tan scp t  bai pj    
                                     
       deva       
   a  manussaloke devaṃ passāmi atidevaṃ passāmi dev  ātidevaṃ  
@@ -1058,24 +1058,24 @@
       akiñcana     b  
       brāhmana       a  
       iriyamāna       
-        nd  taṃ       a    Bhagavantaṃ bhaṇati  note  
+        nd  taṃ       a    bhagavantaṃ bhaṇati  note  
       namassāmi       
       samanta cakkhu       
-      Sakka       
+      sakka       
       kathaṅkathā       
         pamuñca   maṃ  muñca            
-      Note  st taṃ in Pj  expl  with evarūpaṃ taṃ nam   
+      note  st taṃ in pj  expl  with evarūpaṃ taṃ nam   
   
   page      
- Pucchā     
-   Sn V              N  āhaṃ samīhāmi  pamocanāya 
-                kathaṅkathiṃ Dhotaka kañci  loke  
+ pucchā     
+   sn v              n  āhaṃ samīhāmi  pamocanāya 
+                kathaṅkathiṃ dhotaka kañci  loke  
                 dhammañ ca seṭṭhaṃ ājānamāno  
                 evaṃ tuvaṃ ogham imaṃ taresi   
   
-                                                                            sic Scn  samissāmi T  sahissāmi Br  Bim   gamissāmi Scp Sn  Pj  
-   kiñci Brn  Bim   
-   abhijān  Brn  
+                                                                            sic scn  samissāmi t  sahissāmi br  bim   gamissāmi scp sn  pj  
+   kiñci brn  bim   
+   abhijān  brn  
                                     
        nāhaṃ  samīhāmi  pamocanāya        
       kathaṅkathī       
@@ -1086,12 +1086,12 @@
        evaṃ tuvaṃ   kām  oghaṃ            
       taresi       c  
   
-   Sn V              Aṇusāsa brahme karuṇāyamāno 
+   sn v              aṇusāsa brahme karuṇāyamāno 
                 viveka dhammaṃ  yam ahaṃ vijaññaṃ  
                 yathā  haṃ ākāso va  abyāpajjamāno 
                 idh  eva santo asito careyyaṃ   
   
-                                                                            ca Scp T  
+                                                                            ca scp t  
                                     
       anusāsa  brahme       
       karuṇāyamāna       
@@ -1102,49 +1102,49 @@
       asita       
       careyyaṃ       e  
   
-   Sn V               Kittayissāmi te  santim      Dhotakā ti Bhagavā         a   
+   sn v               kittayissāmi te  santim      dhotakā ti bhagavā         a   
                  diṭṭhe dhamme anītihaṃ 
                 yaṃ viditvā sato caraṃ 
                 tare loke visattikaṃ         b d   
   
-                                                                             i Scp Brp  Bai   
+                                                                             i scp brp  bai   
                                     
       santi       
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-   Sn V               Tañ c  āhaṃ abhinandāmi 
+   sn v               tañ c  āhaṃ abhinandāmi 
                 mahesi santim uttamaṃ 
                 yaṃ viditvā sato caraṃ 
-                tare loke visattikaṃ           but Santim for dhammam   
+                tare loke visattikaṃ           but santim for dhammam   
   
              but santim for dhammam  
       santi uttamā       b  
   
-   Sn V               Yaṃ kiñci sampajānāsi    Dhotakā ti Bhagavā                 uddham adho tiriyaṃ cā pi majjhe        ab   
+   sn v               yaṃ kiñci sampajānāsi    dhotakā ti bhagavā                 uddham adho tiriyaṃ cā pi majjhe        ab   
                 etaṃ viditvā  saṅgo  ti loke 
                 bhav ā bhavāya mā kāsi taṇhan  ti  
   
- DHOTAKAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ dhotakamāṇavapucchā niṭṭhitā  
   
-  c  saṅgo       B  eso       ti ñatvā  ad viditvā       b   taṅhā       
+  c  saṅgo       b  eso       ti ñatvā  ad viditvā       b   taṅhā       
       bhav ā bhava       
        mā  kāsi       d  
   
   
-     Upasīvamāṇavapucchā   
+     upasīvamāṇavapucchā   
   
-   Sn V              Eko ahaṃ Sakka mahantam oghaṃ    icc āyasmā upasīvo  
+   sn v              eko ahaṃ sakka mahantam oghaṃ    icc āyasmā upasīvo  
                 anissito no visahāmi tārituṃ  
                 ārammaṇaṃ brūhi samanta cakkhu  
                 yaṃ nissito ogham imaṃ tareyyaṃ   
   
-                                                                            Upasivo Brn T throughout  
-    ya Sn  
+                                                                            upasivo brn t throughout  
+    ya sn  
                                     
       eko      b   ogha        tareyyaṃ      b   see eko  
-      Sakka       
+      sakka       
       anissita      a    puggalaṃ vā a  dhammaṃ vā a    
        no  visahāmi       
       tārituṃ       d  
@@ -1155,18 +1155,18 @@
  vā nissito  mahantaṃ kām ogham  tareyyaṃ    
   
   page      
- Pucchā     
+ pucchā     
   
-   Sn V              Ākiñcaññaṃ pekkhamāno satimā     Upasīvā ti Bhagavā                  n  atthī  ti nissāya tarassu oghaṃ  
+   sn v              ākiñcaññaṃ pekkhamāno satimā     upasīvā ti bhagavā                  n  atthī  ti nissāya tarassu oghaṃ  
                 kāme pahāya virato kathāhi 
                 taṇha kkhayaṃ rattamahā bhipassa    
   
-                                                                            sic MSS   Cb Bai   satīmā Sn  
-   sic MSS   Bai   natta  Sn  Pj  
+                                                                            sic mss   cb bai   satīmā sn  
+   sic mss   bai   natta  sn  pj  
                                     
       ākiñcaññaṃ       
       pekkhamāna       
-      satimā     A  
+      satimā     a  
       n  atthī ti       b  
       nissāya       
       ogha        tarassu       a  
@@ -1177,15 +1177,15 @@
       ratta       
       abhipassa      
   
-   Sn V              Sabbesu kāmesu yo  vītarāgo     icc āyasmā Upasīvo                 ākiñcaññaṃ nissito hitva m  aññaṃ 
+   sn v              sabbesu kāmesu yo  vītarāgo     icc āyasmā upasīvo                 ākiñcaññaṃ nissito hitva m  aññaṃ 
                 saññā vimokkhe  parame dhimutto   
                 tiṭṭhe nu so tattha anānuyāyi    
   
-                                                                            ca yo virāgo Br  and        
-   m om  Br Scp  Baim   and        
-   sic MSS  and Pj    khe Sn  
-   Sic Br Scn T  Bi  Bm        vimutto Scp T note  Sn  
-    yāyi T   vāyi Br Sc  Bm   cp  Pj  Ba   ananndhāvāyivi 
+                                                                            ca yo virāgo br  and        
+   m om  br scp  baim   and        
+   sic mss  and pj    khe sn  
+   sic br scn t  bi  bm        vimutto scp t note  sn  
+    yāyi t   vāyi br sc  bm   cp  pj  ba   ananndhāvāyivi 
                                     
       sabbe       b  
       kāmā       
@@ -1197,29 +1197,29 @@
       parame       
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
       adhimutta      a  
       tiṭṭhe nu       b  
       tattha         ākincaññ  āyatane   
       anānuyāyi      
   
-   Sn V               Sabbesu kāmesu yo vītarāgo    Upasīvā ti Bhagavā                 ākiñcaññaṃ nissito hitva m aññaṃ 
+   sn v               sabbesu kāmesu yo vītarāgo    upasīvā ti bhagavā                 ākiñcaññaṃ nissito hitva m aññaṃ 
                 saññāvimokkhe parame dhimutto       a c   
                 tiṭṭheyya so  tattha anānuyāyi         d   
   
       tiṭṭheyya       a    saṭṭhi kappa sahassāni   
   
-   Sn V              Tiṭṭhe  ce  so  tattha anānuyāyi       d   
+   sn v              tiṭṭhe  ce  so  tattha anānuyāyi       d   
                 pūgam  pi vassānaṃ  samanta cakkhu  
                 tatth  eva so sīti siyā vimutto  
                 cavetha  viññāṇaṃ tathāvidhassa   
   
-                                                                            tiṭṭheyya so Br  
-   pugaṃ Br Sc  Baim   
-   sic Sn  Pj   T with note   vassāni ti pi pāṭho  vassāni Br Sc  Bai   
-   sic Pj  Baim  caveyya  for cavetha  Br  pavedha  for cavetha  
- Sc  bhavetha Sn  T with note   cavethā ti pi pāṭho  
+                                                                            tiṭṭheyya so br  
+   pugaṃ br sc  baim   
+   sic sn  pj   t with note   vassāni ti pi pāṭho  vassāni br sc  bai   
+   sic pj  baim  caveyya  for cavetha  br  pavedha  for cavetha  
+ sc  bhavetha sn  t with note   cavethā ti pi pāṭho  
  should we read cave tha   
                                     
   a  sace so   tiṭṭhe  tiṭṭheyya saṭṭhi kappa sahassāni 
@@ -1231,16 +1231,16 @@
       viññāṇa       c    ad sīti  
       tathāvidhassa        ākiñcaññ  āyatanaṃ uppannassa   
   
-   Sn V              Accī  yathā vāta vegena khitto     Upasīvā ti Bhagavā                 atthaṃ paleti na upeti saṅkhaṃ  
+   sn v              accī  yathā vāta vegena khitto     upasīvā ti bhagavā                 atthaṃ paleti na upeti saṅkhaṃ  
                 evaṃ munī  nāma kāyā vimutto 
                 atthaṃ paleti na upeti saṅkhaṃ   
   
-                                                                            acci Brn Scp T  Bm   acchi Brp Scn  Bai   
-   khittaṃ T  khittā Brp  Baim   
-    i Brp Scp T  
+                                                                            acci brn scp t  bm   acchi brp scn  bai   
+   khittaṃ t  khittā brp  baim   
+    i brp scp t  
                                     
   page      
- Pucchā     
+ pucchā     
   
       acci      
       vāta       
@@ -1254,7 +1254,7 @@
  nibbānadhātuyā parinibbuto saṅkham         
  na upeti  
   
-   Sn V              Atthaṅgato so uda vā so n  atthi 
+   sn v              atthaṅgato so uda vā so n  atthi 
                 udāhu ve sassatiyā arogo  
                  tam me muni sādhu viyākarohi  
                 tathā hi te vidito esa dhammo         ef   
@@ -1262,13 +1262,13 @@
   a  atthaṅgata      
   b  udāhu   sassatiyā  nicco            tatth  eva tiṭṭheyya  
   
-   Sn V              Atthaṅgatassa na pamāṇam atthi     Upasīvā ti Bhagavā                 yena naṃ vajju   taṃ tassa n  atthi  
+   sn v              atthaṅgatassa na pamāṇam atthi     upasīvā ti bhagavā                 yena naṃ vajju   taṃ tassa n  atthi  
                 sabbesu dhammesu samūhatesu  
                 samūhatā vādapathā pi sabbe  ti  
   
- UPASĪVAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
-                                                                            vajjuṃ Brp Scp  Bai   
-    s  amohatesu Scp  Bai   
+ upasīvamāṇavapucchā niṭṭhitā  
+                                                                            vajjuṃ brp scp  bai   
+    s  amohatesu scp  bai   
                                     
       atthaṅgata      
       pamāṇaṃ  n  atthi        
@@ -1285,22 +1285,22 @@
       vādapathā       
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-     Nandamāṇavapucchā   
+     nandamāṇavapucchā   
   
-   Sn V               Santi  loke  munayo     icc āyasmā Nando                 janā vadanti  ta y idaṃ  kathaṃ su  
+   sn v               santi  loke  munayo     icc āyasmā nando                 janā vadanti  ta y idaṃ  kathaṃ su  
                 ñāṇ  ūpapannaṃ  no  muniṃ  vadanti 
                 udāhu ve jīviten  ūpapannaṃ   
   
-                                                                            sant  idha loke Brn  
-   kay  Brp Scp  Ba     
-    upapannaṃ Sc  
-   sic Sc Sn   muni no Br T  Baim   cp        akittayi no   
+                                                                            sant  idha loke brn  
+   kay  brp scp  ba     
+    upapannaṃ sc  
+   sic sc sn   muni no br t  baim   cp        akittayi no   
                                     
       santi       
-      loke       b  om  Br Sc   
-      munayo       follows in Br Sc   devaloke munayo 
+      loke       b  om  br sc   
+      munayo       follows in br sc   devaloke munayo 
  ti sañjānanti na va te munayo ti   
       janā       
       vadanti       b  
@@ -1310,45 +1310,45 @@
   d    udāhu   jīviten ūpapannaṃ        b  aneka vividhaatiparamadukkarakārika lukha jīvit  ānuyogena 
  upetam ~  muniṃ vadanti ~  
   
-   Sn V              Na diṭṭhiyā na sutiyā  na ñāṇena  
-                munī  dha  Nanda kusalā vadanti  
+   sn v              na diṭṭhiyā na sutiyā  na ñāṇena  
+                munī  dha  nanda kusalā vadanti  
                 visenikatvā anighā nirāsā 
                 caranti ye  te munayo it brūmi   
   
-                                                                            ssutiyā Br  
-   sīlabbatenā pi vadanti suddhiṃ add  Brp  Bai   
-   muni dha Br T  Bai   muni va Scp  
+                                                                            ssutiyā br  
+   sīlabbatenā pi vadanti suddhiṃ add  brp  bai   
+   muni dha br t  bai   muni va scp  
                                     
       diṭṭhiyā       
       sutiyā       
       ñāṇena       a  
-  b    ye te kusalā       III        te kusalā diṭṭhi suddhiyā 
+  b    ye te kusalā       iii        te kusalā diṭṭhi suddhiyā 
  vā atṭṭha samāpatti ñānena vā micchā ñāṇena 
- vā  diṭṭhena va sutena vā   om  T  upetaṃ ~  
+ vā  diṭṭhena va sutena vā   om  t  upetaṃ ~  
  muniṃ na vadanti         b   
      d  visenikatvā       
   
   page      
- Pucchā     
+ pucchā     
   
  anigha      
  nirāsa       a  
-  Rep  c   d   
+  rep  c   d   
         ye         a  te arahanto khīṇāsavā visenikatvā 
  anighā ca nirāsā ca caranti            a te loke 
  munayo ti brūmi            
   
-   Sn V              Ye kec  ime samaṇa brāhmaṇāse    icc āyasmā Nando                 diṭṭha sutenā pi  vadanti suddhiṃ  
+   sn v              ye kec  ime samaṇa brāhmaṇāse    icc āyasmā nando                 diṭṭha sutenā pi  vadanti suddhiṃ  
                 sīlabbatenā pi vadanti suddhiṃ  
                 anekarūpena vadanti suddhiṃ 
-                kacci ssu  te Bhagavā tattha yatā  carantā 
+                kacci ssu  te bhagavā tattha yatā  carantā 
                  atāru jātiñ ca jarañ ca mārisa        e   
-                 pucchāmi taṃ  Bhagavā  brūhi me taṃ         f   
+                 pucchāmi taṃ  bhagavā  brūhi me taṃ         f   
   
-                                                                            sic Br Sc  T with note diṭṭhena sutenā pi   ~  Bi   diṭṭhe    Sn  
-   sic Br Scn T  kiñci su Scp  Ba   kacciṃ su Sn  
-   sic MSS   also ad       yathā Sn  and Pj   but note 
- Pj    yatā     
+                                                                            sic br sc  t with note diṭṭhena sutenā pi   ~  bi   diṭṭhe    sn  
+   sic br scn t  kiñci su scp  ba   kacciṃ su sn  
+   sic mss   also ad       yathā sn  and pj   but note 
+ pj    yatā     
                                     
       ye keci       
       samaṇa       
@@ -1365,15 +1365,15 @@
            vadanti       b  
            kacci ssu       
            te       h    diṭṭhigatikā   
-           Bhagavā       
+           bhagavā       
            tattha       
-           yatā       cp  Pj    guttā   
+           yatā       cp  pj    guttā   
            carantā       d  
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-   Sn V               Ye kec  ime samaṇa brāhmaṇāse    Nandā ti Bhagavā                 diṭṭha sutenā pi vadanti suddhiṃ  
+   sn v               ye kec  ime samaṇa brāhmaṇāse    nandā ti bhagavā                 diṭṭha sutenā pi vadanti suddhiṃ  
                 sīlabbatenā pi vadanti suddhiṃ  
                 anekarūpena vadanti suddhiṃ        a d   
                 kiñc  āpi  te ṭattha yatā caranti        e   
@@ -1381,39 +1381,39 @@
   
       kiñc  āpi       b   padasandhi  etc    
   
-   Sn V               Ye kec  ime samaṇa brāhmaṇāse    icc āyasmā Nando                 diṭṭha sutenā pi vadanti suddhiṃ  
+   sn v               ye kec  ime samaṇa brāhmaṇāse    icc āyasmā nando                 diṭṭha sutenā pi vadanti suddhiṃ  
                 sīlabbatenā pi vadanti suddhiṃ  
                 anekarūpena vadanti suddhiṃ        a d   
                 te ce  muni brūsi anoghatiṇṇe  
                  atha ko carahi deva manussaloke 
                 atāri jātiñ ca jarañ ca mārisa        cd   
-                 pucchāmi taṃ  Bhagavā  brūhi me taṃ         f   
+                 pucchāmi taṃ  bhagavā  brūhi me taṃ         f   
   
-                                                                            sic MSS   Bam  Bi ca   sace Sn   but cp        a   
+                                                                            sic mss   bam  bi ca   sace sn   but cp        a   
                                     
       te ce       h    diṭṭhigatike   
       muni       
       anoghatiṇṇa      
       brūsi       b  
   
-   Sn V              N  āhaṃ  sabbe samaṇa brāhmaṇāse    Nandā ti Bhagavā                 jātijarāya nivutā  ti brūmi  
+   sn v              n  āhaṃ  sabbe samaṇa brāhmaṇāse    nandā ti bhagavā                 jātijarāya nivutā  ti brūmi  
                 ye s  īdha  diṭṭhaṃ va  sutaṃ mutaṃ vā 
                 sīlabbataṃ vā pi pahāya sabbaṃ 
                 anekarūpam pi pahāya sabbaṃ 
                 taṇhaṃ pariññāya anāsavāse   
                 te ve  narā oghatiṇṇā  ti brūmi   
   
-                                                                            idha Br T  
-   ca Br Scn  
-   anāsavāye MSS   Ck Cb     
+                                                                            idha br t  
+   ca br scn  
+   anāsavāye mss   ck cb     
                                     
-  a   b    n  āhaṃ Nanda sabbe samaṇa brāhmaṇā 
+  a   b    n  āhaṃ nanda sabbe samaṇa brāhmaṇā 
  jātijarāya āvutā nivutā               ti vadāmi  
- Atthi te samaṇa brāhmaṇā yesaṃ  paṭisandhiyā  
+ atthi te samaṇa brāhmaṇā yesaṃ  paṭisandhiyā  
  jāti jarā maraṇañ ca pahīnā ~  ti brūmi            a 
   
   page      
- Pucchā     
+ pucchā     
   
   c   d    ye sabbā diṭṭha suddhiyo  cp       pahāya ~  
      suta   diṭṭha suta  muta  sīlavata  sīlabbata  suddhiyo pahāya ~  
@@ -1425,36 +1425,36 @@
           te kām  oghaṃ ~  tiṇṇā sabbaṃ 
  saṃsāra pathaṃ tiṇṇā ~  ti brūmi            a  
   
-                                                                            Inserted  aham pi         
+                                                                            inserted  aham pi         
                                     
-   Sn V               Etā bhinandāmi vaco mahesino 
-                sukittitaṃ Gotam  anūpadhīkaṃ        ab   
+   sn v               etā bhinandāmi vaco mahesino 
+                sukittitaṃ gotam  anūpadhīkaṃ        ab   
                  ye s  īdha diṭṭhaṃ va sutaṃ mutaṃ vā 
                 sīlabbataṃ vā pi pahāya sabbaṃ 
                 anekarūpam pi pahāya sabbaṃ 
                 taṇhaṃ pariññāya anāsavāse        c f   
                 aham pi te   oghatiṇṇā  ti brūmī  ti        g   
   
- NANDAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ nandamāṇavapucchā niṭṭhitā  
   
-     Hemakamāṇavapucchā   
+     hemakamāṇavapucchā   
   
-   Sn V              Ye me pubbe viyākaṃsu    icc āyasmā Hemako                  huraṃ Gotama sāsanā  
+   sn v              ye me pubbe viyākaṃsu    icc āyasmā hemako                  huraṃ gotama sāsanā  
                  icc āsi   iti bhavissati  
                 sabban taṃ itihītihaṃ   
                 sabban taṃ takka vaḍḍhanaṃ  
                  nāhaṃ tattha abhiramiṃ   
   
-                                                                            Somako Scp  
-   icchāmi Scp  
-   itihitihaṃ Br T  
-   line f taken with      in Sn  om  Sn  ad        
-    mi Br Sc  
+                                                                            somako scp  
+   icchāmi scp  
+   itihitihaṃ br t  
+   line f taken with      in sn  om  sn  ad        
+    mi br sc  
                                     
-        ye       g   yo ca Bāvari brāhmaṇo ye c  aññe 
+        ye       g   yo ca bāvari brāhmaṇo ye c  aññe 
  tassa ācariyā  te sakaṃ ditthiṃ ~    viyākaṃsu  byākaṃsu       
- b  v l  byākariṃsu T   
-      huraṃ        Gotama sāsanā       
+ b  v l  byākariṃsu t   
+      huraṃ        gotama sāsanā       
       icc āsi iti bhavissati       
        sabban taṃ  itihītihaṃ       
        sabban taṃ  takka vaḍḍhanaṃ       
@@ -1462,43 +1462,43 @@
   
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-   Sn V             Tvañ ca me dhammam akkhāhi 
+   sn v             tvañ ca me dhammam akkhāhi 
                 taṇhā nigghātanaṃ  muni  
                  yaṃ viditvā sato caraṃ 
                 tare loke visattikaṃ         cd   
   
-                                                                            nighātanaṃ Brp Sc  Bai   
+                                                                            nighātanaṃ brp sc  bai   
                                     
-      tvaṃ       b    Bhagavantaṃ bhaṇati   
+      tvaṃ       b    bhagavantaṃ bhaṇati   
       dhamma       
       akkhāhi     b  
       taṇhā        nigghātana       
       muni       
   
-   Sn V              Idha diṭṭha suta muta viññātesu 
-                 piyarūpesu   Hemaka  
+   sn v              idha diṭṭha suta muta viññātesu 
+                 piyarūpesu   hemaka  
                 chanda rāga vinodanaṃ 
-                Nibbānapadam accutaṃ  
+                nibbānapadam accutaṃ  
   
-                                                                            diṭṭha sutaṃ mutaṃ Scp  Cb   
-   Somaka Scn Momatta Scp  
-   nibbānaṃpadam Brp Scp  
+                                                                            diṭṭha sutaṃ mutaṃ scp  cb   
+   somaka scn momatta scp  
+   nibbānaṃpadam brp scp  
                                     
   a  ad diṭṭha       
-      piyarūpesu Hemaka        
+      piyarūpesu hemaka        
       chanda rāga       
        chanda rāga   vinodana       
       nibbānapada       
       accuta      
   
-   Sn V             Etad aññāya ye satā 
+   sn v             etad aññāya ye satā 
                 diṭṭhadhammā  bhinibbutā  
                 upasantā ca te sadā 
                 tiṇṇā loke visattikan  ti  
   
- HEMAKAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ hemakamāṇavapucchā niṭṭhitā  
   
         etad  etaṃ       a   amataṃ nibbānaṃ         
       aññāya      
@@ -1508,23 +1508,23 @@
       abhinibbuta      
       upasanta       
   page      
- Pucchā     
+ pucchā     
   
       te       e    arahanto khīṇāsavā   
       sadā       
       visattikā       
       loke       b  
   d    yā sā loke visattikā loke taṃ visattikaṃ 
- tiṇṇā            v l  Sc   loke vā yā visattikā loke vā taṃ          
+ tiṇṇā            v l  sc   loke vā yā visattikā loke vā taṃ          
   
-     Todeyyamāṇavapucchā   
+     todeyyamāṇavapucchā   
   
-   Sn V               Yasmiṃ kāmā na vasanti     icc āyasmā Todeyyo                 taṇhā yassa na vijjati  
+   sn v               yasmiṃ kāmā na vasanti     icc āyasmā todeyyo                 taṇhā yassa na vijjati  
                 kathaṅkathā ca yo tiṇṇo  
                 vimokkho  tassa kīdiso    
   
-                                                                            sic MSS   Bai  Pj   kh Sn  
-   kiṃdiso Br kiriso Sc kidiso T  
+                                                                            sic mss   bai  pj   kh sn  
+   kiṃdiso br kiriso sc kidiso t  
                                     
        yasmiṃ kāma   na  vasanti       
        taṇhā yassa   na  vijjati       
@@ -1532,7 +1532,7 @@
        vimokkho tassa  kīdiso       
         vimokkhaṃ pucchati  
   
-   Sn V                Yasmiṃ kāmā na vasanti    Todeyyā ti Bhagavā                 taṇhā yassa na vijjati  
+   sn v                yasmiṃ kāmā na vasanti    todeyyā ti bhagavā                 taṇhā yassa na vijjati  
                 kathaṅkathā ca yo tiṇṇo        ac   
                  vimokkho tassa  n  āparo    ~    d   
   
@@ -1540,48 +1540,48 @@
  vimokkhena vimucceyya  vimutto so  
  kathaṃ tassa vimokkhena karaṇiyan ti  
   
-   Sn V               Nirāsaṃso  so uda āsasāno  
+   sn v               nirāsaṃso  so uda āsasāno  
                 paññāṇavā so uda paññakappī  
-                muniṃ  ahaṃ Sakka yathā vijaññaṃ  
+                muniṃ  ahaṃ sakka yathā vijaññaṃ  
                 tam me viyācikkha samanta cakkhu   
   
-                                                                            sic Br Sc  and ad         nirāsaso T  Ckb Bim  Pj   nirāsayo Sn  
-   muni Sc  
+                                                                            sic br sc  and ad         nirāsaso t  ckb bim  pj   nirāsayo sn  
+   muni sc  
                                 
   a    ad nirāsaṃso       
       paññāṇavā       
       paññakappī       
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-  c  Sakka       
-      Sakka yathā haṃ muniṃ   vijaññaṃ  jāneyya            a  
+  c  sakka       
+      sakka yathā haṃ muniṃ   vijaññaṃ  jāneyya            a  
       taṃ         c  yaṃ pucchāmi  viyācikkha       c  
       samanta cakkhu       
   
-   Sn V                Nirāsaṃso so  na so   āsasāno   
+   sn v                nirāsaṃso so  na so   āsasāno   
                  paññānavā so  na so   paññakappī    ~    ab   
-                evam pi Todeyya muniṃ vijāna 
+                evam pi todeyya muniṃ vijāna 
                  akiñcanaṃ kāmabhave asattan   ti       b   
   
- TODEYYAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ todeyyamāṇavapucchā niṭṭhitā  
   
-      Kappamāṇavapucchā   
+      kappamāṇavapucchā   
   
-                                                                            om  Brp Scp  ca T  
-   ca T  Sn  
+                                                                            om  brp scp  ca t  
+   ca t  sn  
                                     
       muni       
-  c    Todeyya evaṃ muniṃ vijāna            b  
+  c    todeyya evaṃ muniṃ vijāna            b  
   
-   Sn V               Majjhe sarasmiṃ tiṭṭhataṃ    icc āyasmā Kappo                 oghe jāte mahabbhaye 
+   sn v               majjhe sarasmiṃ tiṭṭhataṃ    icc āyasmā kappo                 oghe jāte mahabbhaye 
                 jarāmaccu paretānaṃ 
                 dīpaṃ  pabrūhi mārisa  
                 tvañ ca me dīpam  akkhāhi  
                 yatha y idaṃ n  āparaṃ siyā   
   
-                                                                            disaṃ Scp  Bai   
+                                                                            disaṃ scp  bai   
                                     
   a  ad sara       
       ogha       
@@ -1591,27 +1591,27 @@
       dīpa       
       pabrūhi       b  
       mārisa       
-      tvaṃ       b   Bhagavantaṃ bhaṇati   
+      tvaṃ       b   bhagavantaṃ bhaṇati   
       dīpam       akkhāhi     b  
   f  ad aparaṃ      
       siyā       
   
   page      
- Pucchā     
+ pucchā     
   
-   Sn V                Majjhe sarasmiṃ tiṭṭhataṃ     Kappā ti Bhagavā         a  
+   sn v                majjhe sarasmiṃ tiṭṭhataṃ     kappā ti bhagavā         a  
                  oghe jāte mahabbhaye 
                 jarāmaccu paretānaṃ       bc   
-                 dīpaṃ  pabrūmi Kappa te   ~    d   
+                 dīpaṃ  pabrūmi kappa te   ~    d   
   
       pabrūmi       a  
   
-   Sn V              Akiñcanaṃ anādānaṃ 
+   sn v              akiñcanaṃ anādānaṃ 
                 etaṃ dīpaṃ  anāparaṃ  
-                 Nibbānaṃ  iti naṃ brūmi 
+                 nibbānaṃ  iti naṃ brūmi 
                 jarāmaccu parikkhayaṃ  
   
-                                                                            disaṃ  Scp  
+                                                                            disaṃ  scp  
                                     
       akiñcana     c  
       anādāna      
@@ -1622,70 +1622,70 @@
       brūmi       a  
       jarāmaccu        parikkhaya       
   
-   Sn V               Etad aññāya ye satā 
+   sn v               etad aññāya ye satā 
                 diṭṭhadhammā bhinibbutā        ab   
-                na te Māra vasā nugā  
-                na te Mārassa paddhagū   ti  
+                na te māra vasā nugā  
+                na te mārassa paddhagū   ti  
   
- KAPPAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ kappamāṇavapucchā niṭṭhitā  
   
-                                                                            sic Scp  Sn  Pj    paṭṭhagu Brn Scn T  paṭhagū Brp  Bai   
+                                                                            sic scp  sn  pj    paṭṭhagu brn scn t  paṭhagū brp  bai   
                             
   c  ad māra vasā nuga       
   d  ad paṭṭhagū       
   
   
-      Jatukaṇṇimāṇavapucchā   
+      jatukaṇṇimāṇavapucchā   
   
-   Sn V               Sutvān  ahaṃ vīraṃ  akāmakāmiṃ     icc āyasmā Jatukannī                  oghā tigaṃ puṭṭhuṃ akāmam āgamaṃ  
+   sn v               sutvān  ahaṃ vīraṃ  akāmakāmiṃ     icc āyasmā jatukannī                  oghā tigaṃ puṭṭhuṃ akāmam āgamaṃ  
                 santipadaṃ brūhi sahājanetta   
-                yathā tacchaṃ  Bhagavā  brūhi me taṃ  
+                yathā tacchaṃ  bhagavā  brūhi me taṃ  
   
-                                                                            vīra MSS   Ckb Bai   
-    mi Br Sc  Cb Bai   
-    i MSS   Cb Bai   
-   sahājinatta Br mahānetta Scp  
+                                                                            vīra mss   ckb bai   
+    mi br sc  cb bai   
+    i mss   cb bai   
+   sahājinatta br mahānetta scp  
                                     
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
         sutvāna  sutvā       b  
-        iti pi so Bhagavā arahaṃ       pe       uddho 
- Bhagavā ti  
+        iti pi so bhagavā arahaṃ       pe       uddho 
+ bhagavā ti  
       vīra       
       akāmakāmin     
       icc a       
       āyasmā       
-      Jatukanni       
+      jatukanni       
       oghātiga       
       puṭṭhuṃ       e  
-      akāmaṃ      āgamaṃ     B  
+      akāmaṃ      āgamaṃ     b  
       santi         ekena ākārena santi pi   
       santipada       
       brūhi       c  
       sahājanetta       
       taccha       
-      Bhagavā       
+      bhagavā       
   
-   Sn V              Bhagavā hi kāme abhibhuyya  iriyati 
-                Ādicco va paṭhaviṃ  teji tejasā  
+   sn v              bhagavā hi kāme abhibhuyya  iriyati 
+                ādicco va paṭhaviṃ  teji tejasā  
                 paritta paññassa me bhūri pañña 
                 ācikkha dhammaṃ yaṃ ahaṃ vijaññaṃ 
                 jātijarāya idha vippahānaṃ   
   
-                                                                            abhibhuyha Scp  
-   paṭhavī Sc  Bai   
+                                                                            abhibhuyha scp  
+   paṭhavī sc  bai   
                                     
-      Bhagavā       
+      bhagavā       
       kāmā       
       abhibhuyya       iriyati       
       ādicca       a  
       paṭhavi       
   a   b    yathā suriyo tejī tejasā         tejena samannāgato paṭhaviṃ abhibhuyya ~  santāpayitvā 
  sabbaṃ ākāsagataṃ abhivihacca andhakāram 
- vidhamitvā ālokaṃ dassayitvā  dassetvā T  
- ākāse antalikkhe gaganapathe  gamana  T  
- gacchati  evam eva Bhagavā ñāṇa tejī 
+ vidhamitvā ālokaṃ dassayitvā  dassetvā t  
+ ākāse antalikkhe gaganapathe  gamana  t  
+ gacchati  evam eva bhagavā ñāṇa tejī 
  ñāna tejena samannāgato sabbaṃ abhisaṅkhāra samudayaṃ       pe       kilesa tamaṃ 
  avijj  andhakāraṃ vidhamitvā ñāṇa lokaṃ 
  dassetvā vatthukāme parijānetvā        etc  as above  
@@ -1694,25 +1694,25 @@
       dhamma       
   
   page      
- Pucchā     
+ pucchā     
   
       ācikkha       
        yaṃ ahaṃ  vijaññaṃ       a  
   e  idh  eva jāti jarāya maraṇassa   vippahānaṃ  pahānaṃ ~       
   
-   Sn V               Kāmesu vinaya  gedhaṃ    Jatukaṇṇī ti Bhagavā                 nekkhammaṃ daṭṭhu khemato  
+   sn v               kāmesu vinaya  gedhaṃ    jatukaṇṇī ti bhagavā                 nekkhammaṃ daṭṭhu khemato  
                 uggahītaṃ  nirattaṃ vā 
                 mā te vijjittha  kiñcanaṃ  
   
-                                                                            vineyya Scn  Bi   
-   uggahitaṃ MSS  
-   vijjattha Sc  
+                                                                            vineyya scn  bi   
+   uggahitaṃ mss  
+   vijjattha sc  
                                     
       kāmā       
       gedha       
        kāmesu  vinaya  gedhaṃ        a  
-      Jatukaṇṇi       
-      Bhagavā       
+      jatukaṇṇi       
+      bhagavā       
       nekkhamma       
       khema       
       daṭṭhuṃ       
@@ -1721,26 +1721,26 @@
   d    rāga kiñcanaṃ               ime kiñcanā   te  
  tuyhaṃ  mā  vijjittha            
   
-   Sn V              Yaṃ pubbe taṃ visosehi 
+   sn v              yaṃ pubbe taṃ visosehi 
                 pacchā te mā hu kiñcanaṃ  
                 majjhe ce no gahessasi  
                 upasanto carissasi  
   
   a      pubbe      atīte saṅkhāre ārabbha ye kilesā 
  uppajjeyyaṃ te kilese   visosehi  sosehi            
- evam pi    a    Atha vā ye atītā kammābhisaṅkhārā vipakka vipākā te kammabhisaṅkhāre sosehi        as above  evam pi    a   
+ evam pi    a    atha vā ye atītā kammābhisaṅkhārā vipakka vipākā te kammabhisaṅkhāre sosehi        as above  evam pi    a   
   b  pacchā           ime kiñcanā   te  tuyhaṃ māhu       
       majjhe         na  gahessasi       
       upasanta        carissasi       f  
   
-   Sn V              Sabbaso nāma rūpasmiṃ 
+   sn v              sabbaso nāma rūpasmiṃ 
                 vītagedhassa brāhmaṇa 
                 āsavā ssa na vijjanti  
                 yehi maccu vasaṃ vaje  ti  
   
- JATUKAṆṆIMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ jatukaṇṇimāṇavapucchā niṭṭhitā  
   
-    Pārāyanavagga  
+    pārāyanavagga  
   
       sabbaso       b  
       nāma rūpa       
@@ -1749,19 +1749,19 @@
       āsavā       
       assa        arahato khīṇāsavassa   
          na  vijjanti        ime āsavā tassa natthi ~  
-  d     yehi   āsavehi  Maccu vasaṃ vaje            
+  d     yehi   āsavehi  maccu vasaṃ vaje            
         te āsavā tassa na santi ~  
   
-      Bhadrāvudhamāṇavapucchā   
+      bhadrāvudhamāṇavapucchā   
   
-   Sn V               Okañjahaṃ  taṇhacchidaṃ anejaṃ    icc āyasmā Bhadrāvudho                 nandiñjahaṃ  oghatiṇṇaṃ vimuttaṃ 
+   sn v               okañjahaṃ  taṇhacchidaṃ anejaṃ    icc āyasmā bhadrāvudho                 nandiñjahaṃ  oghatiṇṇaṃ vimuttaṃ 
                 kappañjahaṃ  abhiyāce sumedhaṃ  
-                sutvāna Nāgassa apanamissanti  ito  
+                sutvāna nāgassa apanamissanti  ito  
   
-                                                                            oghaṃ  Brp  Bi  ogha  Scp  
-   nandiṃ Br nandi  Sc  Bai  Pj    
-   kappiṃ  Brp kappa  Sc  Bai   
-   sic Scn T  Pj    apalāmissanti Scp  Bai  apagamissanti Br  
+                                                                            oghaṃ  brp  bi  ogha  scp  
+   nandiṃ br nandi  sc  bai  pj    
+   kappiṃ  brp kappa  sc  bai   
+   sic scn t  pj    apalāmissanti scp  bai  apagamissanti br  
                                     
       okañjahaṃ       
       taṇhacchida       
@@ -1771,82 +1771,82 @@
       kappañjahaṃ       
       abhiyāce      
       sumedha       
-      Nāga       
+      nāga       
   d    sutvāna  sutvā       b  
       apanamissanti      
   
-   Sn V              Nānā janā janapadehi saṅgatā 
+   sn v              nānā janā janapadehi saṅgatā 
                 tava vīra vākyaṃ abhikaṅkhamānā  
                 tesaṃ tuvaṃ  sādhu viyākarohi  
                  tathā hi te vidito esa dhammo         f   
   
-                                                                            tvaṃ T  
+                                                                            tvaṃ t  
                                     
   page      
- Pucchā     
+ pucchā     
   
        nānā  janā       b  
       janapadā          
-        Aṅgā  ca             Magadhā ca             Kāliṅgā  ca 
-        Kāsī  ca             Kosalā ca              Vajjī  ca 
-        Mallā ca             Cetī  ca               Vamsā  ca 
-        Kurū  ca             Pañcālā ca             Macchā    ca 
-        Sūrasenā    ca       Assakā  ca             Avantī  ca 
-        Yonā   ca            Kambojā   ca 
+        aṅgā  ca             magadhā ca             kāliṅgā  ca 
+        kāsī  ca             kosalā ca              vajjī  ca 
+        mallā ca             cetī  ca               vamsā  ca 
+        kurū  ca             pañcālā ca             macchā    ca 
+        sūrasenā    ca       assakā  ca             avantī  ca 
+        yonā   ca            kambojā   ca 
       saṅgata       
       vīra       
        tava  vākyaṃ       
       abhikaṅkhamāna      
       tesaṃ       i    khattiyānaṃ ~   
-      tuvaṃ       c    Bhagavantaṃ bhanati   
+      tuvaṃ       c    bhagavantaṃ bhanati   
        sādhu   viyākarohi       a  
   
-                                     om  T  
-   Kāsiyā T  om  in A  
-   om  Sc  
-   Vajjiyā T  
-   Cetiyamhā T  
-   Vāsā Sc Vaṅgā in A  Sāgaramhā T  
-   Maccā Sc  Majjā Br  
-   Sūrakā Br  
-   Avantiyā T  
-    Yonakā Br  Gandhārā in A  
-    Kappojā Br Kaṇḍojā Sc  
-   This list also at A I        IV      sq  
+                                     om  t  
+   kāsiyā t  om  in a  
+   om  sc  
+   vajjiyā t  
+   cetiyamhā t  
+   vāsā sc vaṅgā in a  sāgaramhā t  
+   maccā sc  majjā br  
+   sūrakā br  
+   avantiyā t  
+    yonakā br  gandhārā in a  
+    kappojā br kaṇḍojā sc  
+   this list also at a i        iv      sq  
   
-   Sn V               Ādāna  taṇhaṃ vinayetha sabbaṃ    Bhadrāvudhā 
- ti Bhagavā                  uddhaṃ adho tiriyañ cā pi majjhe        b   
+   sn v               ādāna  taṇhaṃ vinayetha sabbaṃ    bhadrāvudhā 
+ ti bhagavā                  uddhaṃ adho tiriyañ cā pi majjhe        b   
                 yaṃ yaṃ hi lokasmiṃ upādiyanti   
-                ten  eva Māro anveti jantuṃ  
+                ten  eva māro anveti jantuṃ  
   
-                                                                            āpāna  Scn  
-   upāriyanti Scp  
+                                                                            āpāna  scn  
+   upāriyanti scp  
                                     
   a    ādāna taṇhā                 sabbaṃ ādāna taṇhaṃ 
  vinayetha            b  
-  c  yaṃ yaṃ rūpagataṃ  ~ rūpa G    upā   ādiyanti       
+  c  yaṃ yaṃ rūpagataṃ  ~ rūpa g    upā   ādiyanti       
       lokasmiṃ       a  
-       ten  eva  Māra       
+       ten  eva  māra       
       anveti      
       jantu       
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-   Sn V              Tasmā pajānaṃ na upādiyetha  
+   sn v              tasmā pajānaṃ na upādiyetha  
                 bhikkhu sato kiñcanaṃ sabbaloke 
                  ādānasatte  iti pekkhamāno 
                 pajaṃ imaṃ maccu dheyye  visattan  ti 
   
- BHADRĀVUDHAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ bhadrāvudhamāṇavapucchā niṭṭhitā  
   
-                                                                            upāriyetha Scp  
-    dheyyaṃ Brn Scn  Bm   
+                                                                            upāriyetha scp  
+    dheyyaṃ brn scn  bm   
                                     
       tasmā       
        tasmā  pajānaṃ       
        na  upādiyetha       b  
-      bhikkhu     II  
+      bhikkhu     ii  
       sata       
       kiñcana       
       sabbaloke       d  
@@ -1854,20 +1854,20 @@
       iti       
       pekkhamāna       
       pajā       
-      maccudheyyā     A  
+      maccudheyyā     a  
       visatta       
   
-      Udayamāṇavapucchā   
+      udayamāṇavapucchā   
   
-   Sn V               Jhāyiṃ virajaṃ āsīnaṃ     icc āyasmā Udayo                 katakiccaṃ anāsavaṃ 
+   sn v               jhāyiṃ virajaṃ āsīnaṃ     icc āyasmā udayo                 katakiccaṃ anāsavaṃ 
                 pāraguṃ  sabbadhammānaṃ 
                  atthi pañhena āgamaṃ        b   
                 aññā vimokkhaṃ pabrūhi  
                 avijjāya pabhedanaṃ   
   
-                                                                            āsinaṃ Br T  
-   pāragū Scp  Ba   ad      Br T  Ba   
-   sambrūhi Scp T  and ad       
+                                                                            āsinaṃ br t  
+   pāragū scp  ba   ad      br t  ba   
+   sambrūhi scp t  and ad       
                                     
       jhāyi       
       viraja       
@@ -1875,18 +1875,18 @@
       katakicca  anāsava        
       anāsava      
       pāragu sabbadhammā       
-       aññā vimokkhaṃ  pabrūhi       b T  wrongly  has full 
+       aññā vimokkhaṃ  pabrūhi       b t  wrongly  has full 
  expl  of      here  
        avijjāya  pabhedana      
   
   page      
- Pucchā     
+ pucchā     
   
-   Sn V               Pahānaṃ kāma cchandānaṃ                    Udayā ti Bhagava                 domanassāna c  ūbhayaṃ 
+   sn v               pahānaṃ kāma cchandānaṃ                    udayā ti bhagava                 domanassāna c  ūbhayaṃ 
                 thīnassa ca panūdanaṃ 
                 kukkuccānaṃ nivāraṇaṃ  
   
-                                                                            nī  Scn  This stanza also at A  I       
+                                                                            nī  scn  this stanza also at a  i       
                                     
       kāma chanda       
       pahānaṃ       
@@ -1898,12 +1898,12 @@
       kukkuccaṃ       
        kukkuccānaṃ  nivāraṇaṃ       
   
-   Sn V              Upekkhā  sati saṃsuddhaṃ 
+   sn v              upekkhā  sati saṃsuddhaṃ 
                 dhamma takka purejavaṃ 
                  aññāvimokkhaṃ  pabrūmi  ~    e   
                  avijjāya pabhedanaṃ         f   
   
-                                                                            sic MSS   Bai   upekhā Sn  Pj     This stanza also at A  I       
+                                                                            sic mss   bai   upekhā sn  pj     this stanza also at a  i       
                                     
       upekkhā       
       sati       
@@ -1913,112 +1913,112 @@
       pabrūmi       a  
       avijjā      
   
-   Sn V               Kiṃ su saññojano  loko  
+   sn v               kiṃ su saññojano  loko  
                 kiṃ su tassa vicāraṇaṃ  
                 ki  ss  assa vippahānena 
-                 Nibbānaṃ  iti vuccati   
+                 nibbānaṃ  iti vuccati   
   
-                                                                            sic Brp Scp T  Baim   
+                                                                            sic brp scp t  baim   
                                     
   a   kiṃ lokassa  saṃyojanaṃ     a  
   b   kiṃ lokassa    vicāranaṃ  cāranaṃ            
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
   c   ki  ss  assa  vippahānena       
   d    nibbānaṃ  iti  vuccati       
   
-   Sn V               Nandī saññojano loko  
+   sn v               nandī saññojano loko  
                 vitakk  assa vicāranā  
                 taṇhāya  vippahānena   ~    c   
-                  Nibbānaṃ  iti vuccati         d   
+                  nibbānaṃ  iti vuccati         d   
   
       nandi       
          ayaṃ nandi lokassa  saṃyojanaṃ     a  vitakka       
          ime nava vitakkā lokassa  vicāraṇā       
         imehi nava vitakkehi loko carati    ad vicarati   taṇhā       
   
-   Sn V               Kathaṃ satassa carato 
+   sn v               kathaṃ satassa carato 
                 viññāṇaṃ uparujjhati  
-                Bhagavantaṃ  puṭṭhuṃ āgamhā  
+                bhagavantaṃ  puṭṭhuṃ āgamhā  
                 taṃ suṇoma vaco tava   
   
-                                                                            bhavantaṃ Br  Baim   
-   sic Brn Scn T  āgamma Brp Scp  Sn  
+                                                                            bhavantaṃ br  baim   
+   sic brn scn t  āgamma brp scp  sn  
                                     
-  a   kathaṃ  satassa           B    sampajānassa   
+  a   kathaṃ  satassa           b    sampajānassa   
       carato            c  
        viññāṇaṃ  uparujjhati       
-  c  Buddhaṃ Bhagavantam puṭṭhuṃ            e  
+  c  buddhaṃ bhagavantam puṭṭhuṃ            e  
       āgamhā       
        taṃ  vaco       
       suṇoma       c  
   
-   Sn V               Ajjhattañ ca bahiddhā ca 
+   sn v               ajjhattañ ca bahiddhā ca 
                 vedanaṃ n  ābhinandato 
                 evaṃ  satassa carato   ~    a   
                  viññāṇaṃ uparujjhatī   ti      b   
   
- UDAYAMAṆAVAPUCCHĀ NIṬṬHITĀ  
+ udayamaṇavapucchā niṭṭhitā  
   
   a   b  ad ajjhatta      
   
-      Posālamāṇavapucchā   
+      posālamāṇavapucchā   
   
-   Sn V               Yo atītaṃ ādisati    icc āyasmā Posālo                 anejo chinnasaṃsayo  
+   sn v               yo atītaṃ ādisati    icc āyasmā posālo                 anejo chinnasaṃsayo  
                  pāraguṃ sabbadhammānaṃ 
                 atthi pañhena āgamaṃ        cd   
   
   page      
- Pucchā     
+ pucchā     
   
-      yo       b    so Bhagavā              
+      yo       b    so bhagavā              
       atītaṃ       ādisati       
       aneja      
       chinna        saṃsaya       
   
-   Sn V              Vibhūta rūpa saññissa 
+   sn v              vibhūta rūpa saññissa 
                 sabbakāya ppahāyino 
                  ajjhattañ ca bahiddhā ca       a   
                  n  atthi kiñcī  ti passato 
-                ñāṇaṃ Sakkā nupucchāmi  
+                ñāṇaṃ sakkā nupucchāmi  
                 kathaṃ neyyo tathāvidho   
   
       vibhūta        rūpasaññī       
        sabba  kāya ppahāyī       
   c   d  n  atthi kiñcī ti       a  
-      Sakka       
+      sakka       
   e   tassa  ñāṇam            pucchāmi pañhaṃ 
-      pucchāmi Sambuddhaṃ pucchāmi        
+      pucchāmi sambuddhaṃ pucchāmi        
        kathaṃ  neyya       
       tathāvidha            yo so ākiñcaññāyatanasamāpatti lābhī ti  
   
-   Sn V               Viññāṇaṭṭhitiyo sabbā    Posālā ti Bhagavā                 abhijānaṃ Tathāgato 
+   sn v               viññāṇaṭṭhitiyo sabbā    posālā ti bhagavā                 abhijānaṃ tathāgato 
                 tiṭṭhantaṃ enaṃ jānāti 
                 vimuttaṃ tapparāyanaṃ  
   
   a  ad viññāṇa ṭṭhiti       
       abhijānaṃ      b  
-      Tathāgata       
+      tathāgata       
       tiṭṭhantaṃ  enaṃ jānāti        c  
       vimutta       a  
        tap  parāyana       
   
-   Sn V              Ākiñcaññā sambhavaṃ ñatvā 
+   sn v              ākiñcaññā sambhavaṃ ñatvā 
                  nandi saññojanaṃ  iti 
                 evam etaṃ  abhiññāya 
                 tato tattha vipassati  
                 etaṃ  ñāṇaṃ tathaṃ tassa 
                 brāhmanassa vusīmato  ti  
   
-                                                                            sic Br Scn T  Baim   evaṃ Scp Sn  
-   evaṃ Br Scn  Baim   
+                                                                            sic br scn t  baim   evaṃ scp sn  
+   evaṃ br scn  baim   
                                     
- POSĀLAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
+ posālamāṇavapucchā niṭṭhitā  
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
       ākiñcañña sambhava       
       ñatvā       
@@ -2028,97 +2028,97 @@
        tato  tattha          vipassati  ākiñcaññāyatanaṃ 
         samāpajjitvā tato vuṭṭhahitvā tattha jāte 
  citta cetasike dhamme aniccato vipassati 
- dukkhato vipassati  etc    kusala II ~   nissaraṇato 
+ dukkhato vipassati  etc    kusala ii ~   nissaraṇato 
  vipassati          
        etaṃ ñāṇaṃ  tathaṃ  tassa        
       brāhmaṇa       a  
       vusīmato       
   
-      Mogharājamāṇavapucchā   
+      mogharājamāṇavapucchā   
   
-   Sn V               Dvā  haṃ Sakkaṃ apucchissaṃ                     icc āyasmā Mogharājā                 na me byākāsi Cakkhumā  
-                 yāvatatiyañ  ca Devisi  
+   sn v               dvā  haṃ sakkaṃ apucchissaṃ                     icc āyasmā mogharājā                 na me byākāsi cakkhumā  
+                 yāvatatiyañ  ca devisi  
                 byākarotī  ti me sutaṃ  
   
-                                                                            Sāvatthiyaṃ Scp  
-   Devīsi Brn  Bm  Pj    
+                                                                            sāvatthiyaṃ scp  
+   devīsi brn  bm  pj    
                                     
-  a    so brāhmaṇo dvikkhattuṃ Buddhaṃ Bhagavantaṃ 
- pañhaṃ apucchi  tassa Bhagavā pañhaṃ puṭṭho 
- na byākāsi  tadanantarā   cakkhu samanantarā T  
-      imassa brāhmaṇassa indriya paripāko bhavissati Sakka       
+  a    so brāhmaṇo dvikkhattuṃ buddhaṃ bhagavantaṃ 
+ pañhaṃ apucchi  tassa bhagavā pañhaṃ puṭṭho 
+ na byākāsi  tadanantarā   cakkhu samanantarā t  
+      imassa brāhmaṇassa indriya paripāko bhavissati sakka       
       apucchissaṃ       h  
        na   me  byākāsi       
       cakkhumā       
-  c   d    yāvatatiyaṃ Buddho sahadhammikaṃ  
+  c   d    yāvatatiyaṃ buddho sahadhammikaṃ  
  pañhaṃ puṭṭho byākaroti  no saṃvāretī  
- ti  evaṃ mayā  sutam       a  Devisi       
+ ti  evaṃ mayā  sutam       a  devisi       
   
-                                     sampādetī MSS  
+                                     sampādetī mss  
   
   
-   Sn V               Ayaṃ loko  paro loko 
-                Brahmaloko sadevako  
+   sn v               ayaṃ loko  paro loko 
+                brahmaloko sadevako  
                 diṭṭhin  te n  ābhijānāti  
-                Gottamassa yasassino  
+                gottamassa yasassino  
   
-                                                                            diṭṭha Sc  Bi   
-   sic Br Scp  corr  fr   mi  Scn T  Baim   mi Sn  
+                                                                            diṭṭha sc  bi   
+   sic br scp  corr  fr   mi  scn t  baim   mi sn  
                                     
   page      
- Pucchā     
+ pucchā     
   
       ayaṃ loko       c  
       paro loko       
-      Brahmaloko sadevako       
+      brahmaloko sadevako       
       diṭṭhin  te         n  ābhijānāti      
-       Gotamassa  yasassino       
+       gotamassa  yasassino       
   
-   Sn V              Evaṃ abhikkanta dassāviṃ  
+   sn v              evaṃ abhikkanta dassāviṃ  
                 atthi pañhena āgamaṃ  
                 kathaṃ lokaṃ avekkhantaṃ 
-                Maccurājā na passati   
+                maccurājā na passati   
   
-                                                                             vi Brn Scn  Bai   
+                                                                             vi brn scn  bai   
                                     
       abhikkanta dassāvi      
        kathaṃ lokaṃ  avekkhantaṃ       
        na passati        b  
   
-   Sn V               Suññato lokaṃ avekkhassu  
-                Mogharāja  sadā sato 
+   sn v               suññato lokaṃ avekkhassu  
+                mogharāja  sadā sato 
                 attānudiṭṭhiṃ ūhacca   
                 evaṃ maccu taro siyā  
                 evaṃ  lokaṃ avekkhantaṃ   ~    c   
-                 Maccurājā na passatī   ti      d   
+                 maccurājā na passatī   ti      d   
   
- MOGHARĀJAMĀṆAVAPUCCHĀ NIṬṬHITĀ  
-                                                                            uhañca Scp  Ba  uhacca Br ohacca Scn  
+ mogharājamāṇavapucchā niṭṭhitā  
+                                                                            uhañca scp  ba  uhacca br ohacca scn  
                                     
-      loka             N  
+      loka             n  
       suññato  lokaṃ avekkhati        
        suññato lokaṃ  avekkhassu       
-      Mogharāja       
+      mogharāja       
       sadā       
       sata       
       attānudiṭṭhi      
        attānudiṭṭhiṃ  ūhacca       
        evaṃ  maccu taro  siyā        
-       in f  Maccurājā       
-       after f  Quotation  vuttaṃ h  etaṃ     āraññako migo  see s  jhāna  
+       in f  maccurājā       
+       after f  quotation  vuttaṃ h  etaṃ     āraññako migo  see s  jhāna  
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-      Piṅgiyamāṇavapucchā   
+      piṅgiyamāṇavapucchā   
   
-   Sn V               Jiṇṇo ham asmi abalo vītavaṇṇo  
-                   icc āyasmā Piṅgiyo                 nettā na suddhā  savaṇaṃ na phāsu  
+   sn v               jiṇṇo ham asmi abalo vītavaṇṇo  
+                   icc āyasmā piṅgiyo                 nettā na suddhā  savaṇaṃ na phāsu  
                 mā haṃ nassaṃ  momuho antarāya  
                 ācikkha dhammaṃ  yam ahaṃ vijaññaṃ 
                 jātijarāya idha vippahānaṃ   
   
-                                                                            panassaṃ T  
+                                                                            panassaṃ t  
                                     
       jiṇṇa       
       abala      
@@ -2130,18 +2130,18 @@
       momuho       
       antarāya      
   
-   Sn V               Disvāna rūpesu vihaññamāna    Piṅgiyā ti Bhagava                 ruppanti  rūpesu janā pamattā  
-                tasmā tuvaṃ  Piṅgiya appamatto 
+   sn v               disvāna rūpesu vihaññamāna    piṅgiyā ti bhagava                 ruppanti  rūpesu janā pamattā  
+                tasmā tuvaṃ  piṅgiya appamatto 
                 jahassu rūpaṃ apunabbhavāya   
   
-                                                                            rūpanti Sc  Bam   
-   tuṃ Scn  
+                                                                            rūpanti sc  bam   
+   tuṃ scn  
                                     
       rūpaṃ       
       vihaññamāna       
         disvāna  disvā       b  
-      Piṅgiya       
-      Bhagavā       
+      piṅgiya       
+      bhagavā       
       ruppanti       
       janā       
       pamatta       
@@ -2152,32 +2152,32 @@
       apunabbhava      
   
   page      
- Pucchā     
+ pucchā     
   
-   Sn V               Disā catasso vidisā catasso 
+   sn v               disā catasso vidisā catasso 
                 uddhaṃ adho  dasa disā imāyo   
                 na tuyhaṃ adiṭṭham asutaṃ amutaṃ   atho  aviññātaṃ   
                 kiñci n  atthi loke  
                  ācikkha dhammaṃ yam ahaṃ vijaññaṃ  
                 jātijāraya idha vippahānaṃ         ef   
   
-                                                                            dasa disā imāyo  Sn  disatā  MSS  seems to be a Commentary 
- explanation and not to belong to the Text  
-   sic Br Sc  Bai   mutaṃ vā Sn  
-   atho om  Br  Baim   
-   looks like a Commentary explanation   vā  follows in Scn  
-   sic Scp  kiñcinaṃ Brn Scn T  kicinaṃ Brp  Ba   kiñcanaṃ Sn  
+                                                                            dasa disā imāyo  sn  disatā  mss  seems to be a commentary 
+ explanation and not to belong to the text  
+   sic br sc  bai   mutaṃ vā sn  
+   atho om  br  baim   
+   looks like a commentary explanation   vā  follows in scn  
+   sic scp  kiñcinaṃ brn scn t  kicinaṃ brp  ba   kiñcanaṃ sn  
                                     
   a   b  dasa disā  
        quot  c  na tuyhaṃ adiṭṭham asutaṃ amutaṃ aviññātaṃ  
        quot  d  kiñci n  atthi loke   kiñci       a    attattho ~   n  atthi  
       
   
-   Sn V               Taṇhā dhipanne manuje pekkhamāno                    Piṅgiyā ti Bhagavā                 santāpa jāte jarasā parete  
-                 tasmā tuvaṃ Piṅgiya appamatto       c   
+   sn v               taṇhā dhipanne manuje pekkhamāno                    piṅgiyā ti bhagavā                 santāpa jāte jarasā parete  
+                 tasmā tuvaṃ piṅgiya appamatto       c   
                  jahassu  taṇhaṃ  apunabbhavāyā   ti  ~    d   
   
-  PIṄGIYAMĀṆAVAPUCCHĀ  NIṬṬHITĀ  
+  piṅgiyamāṇavapucchā  niṭṭhitā  
   
       taṇhā       
        tanhā   dhipanna      
@@ -2186,43 +2186,43 @@
       santāpa jāta       
         jarasā   jarāya  pareta       
       tanhā       
-                                   Ps      
-      a  Idam avoca Bhagavā 
-      b  Magadhesu viharanto Pāsāṇake cetiye  
+                                   ps      
+      a  idam avoca bhagavā 
+      b  magadhesu viharanto pāsāṇake cetiye  
       c  paricārika  soḷasannaṃ  brāhmaṇānaṃ 
       d  ajjhiṭṭho puṭṭho puṭṭho pañhe byākāsi  
   
-                                                                            sic Br Sc  Baim    aka Sn  
-    ānaṃ Sn  
+                                                                            sic br sc  baim    aka sn  
+    ānaṃ sn  
                                     
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
-      idam       a    imaṃ Pārāyanaṃ  avoca  
-      Bhagavā       
-  b  Magadha nāmake janapade viharanto          a  
-      Pāsāṇaka cetiyaṃ vuccati Buddhāsanaṃ     bandhāsanaṃ T   
-  c  Piṅgiyo brāhmaṇo Bāvārissa brāhmaṇassa 
-      paṭṭho paṭṭho   seṭṭho seṭṭha varo  varā below  T  
-      paricāriko  sisso  tena    Piṅgiyena te T  
-      soḷasā ti  Evam pi  c   Atha vā te soḷasa     brāhmaṇā Buddhassa Bhagavato paṭṭhā 
-      paṭṭharā    T see above  paricārika   sissā 
-        siyun T  ti  Evam pi      c   
+      idam       a    imaṃ pārāyanaṃ  avoca  
+      bhagavā       
+  b  magadha nāmake janapade viharanto          a  
+      pāsāṇaka cetiyaṃ vuccati buddhāsanaṃ     bandhāsanaṃ t   
+  c  piṅgiyo brāhmaṇo bāvārissa brāhmaṇassa 
+      paṭṭho paṭṭho   seṭṭho seṭṭha varo  varā below  t  
+      paricāriko  sisso  tena    piṅgiyena te t  
+      soḷasā ti  evam pi  c   atha vā te soḷasa     brāhmaṇā buddhassa bhagavato paṭṭhā 
+      paṭṭharā    t see above  paricārika   sissā 
+        siyun t  ti  evam pi      c   
   d    ajjhiṭṭho         ajjhesito puṭṭho          d  
        pañhe  byākāsi          
        concl   ten  etaṃ vuccati   
- Ps       
-      a  Ekamekassa ce pi pañhassa 
+ ps       
+      a  ekamekassa ce pi pañhassa 
       b  attham aññāya dhammam aññāya 
       c  dhamm ānudhammaṃ paṭipajjeyya  
       d  gaccheyy  eva jarāmaraṇassa pāraṃ  
       e   pāraṅgamaniyā ime dhammā  ti 
       f  tasmā imassa dhamma pariyāyassa 
-      g   Pārāyanan  t  eva adhivacanaṃ  
-  a   ekam ekassa ce pi  Ajita  pañhassa   
-       ekam ekassa ce pi  Tissa Metteyya  pañhassa  
-      Puṇṇaka   Mettagu  Dhotaka   Upasiva 
-      Nanda   Hemaka  Todeyya  Kappa     Jatukaṇṇi  Bhadrāvudha   Udaya     Posāla  Mogharāja  Piṅgiya b  sveva pañho dhammo visajjanaṃ attho ti  
+      g   pārāyanan  t  eva adhivacanaṃ  
+  a   ekam ekassa ce pi  ajita  pañhassa   
+       ekam ekassa ce pi  tissa metteyya  pañhassa  
+      puṇṇaka   mettagu  dhotaka   upasiva 
+      nanda   hemaka  todeyya  kappa     jatukaṇṇi  bhadrāvudha   udaya     posāla  mogharāja  piṅgiya b  sveva pañho dhammo visajjanaṃ attho ti  
        atthaṃ  aññāya         
        dhammam  aññāya     
       dhamm  ānudhammaṃ  paṭipajjeyya        
@@ -2230,67 +2230,67 @@
   e   ime dhammā  pāraṅgamanīyā       b  
       tasmā       
       imassa       b    imassa dhamma pariyāyassa   
-      Pārāyanaṃ       
+      pārāyanaṃ       
       adhivacanaṃ      
   
-                                     Suññaka Sc  
-   Dhota T  
-    ka Sc  
-   om  Sc  
+                                     suññaka sc  
+   dhota t  
+    ka sc  
+   om  sc  
   
-   Sn V               Ajito Tissa Metteyyo 
-                Puṇṇako atha Mettagū  
+   sn v               ajito tissa metteyyo 
+                puṇṇako atha mettagū  
   
-                                                                             u Brp Scp  
+                                                                             u brp scp  
                                     
   page      
- Pucchā     
- Dhotako Upasivo ca 
- Nando ca atha Hemako       cd     ab   
+ pucchā     
+ dhotako upasivo ca 
+ nando ca atha hemako       cd     ab   
   
-   Sn V               Todeyya Kappā d  ubhayo 
-                Jatukaṇṇī  ca paṇḍito       cd   
-                 Bhadrāvudho  Udayo ca 
-                Posālo  cā pi brāhmaṇo 
-                Mogharājā ca medhāvī  
-                Piṅgiyo ca mahā isi           
+   sn v               todeyya kappā d  ubhayo 
+                jatukaṇṇī  ca paṇḍito       cd   
+                 bhadrāvudho  udayo ca 
+                posālo  cā pi brāhmaṇo 
+                mogharājā ca medhāvī  
+                piṅgiyo ca mahā isi           
   
-                                                                             i Brp T  Bai   
-   ins  ca Brp Scp  
-   Pohālo Scp  
-    vi Brp ncp T  
+                                                                             i brp t  bai   
+   ins  ca brp scp  
+   pohālo scp  
+    vi brp ncp t  
   
-   Sn V              Ete Buddhaṃ upāgañchuṃ 
+   sn v              ete buddhaṃ upāgañchuṃ 
                 sampanna caraṇaṃ isiṃ   
                 pucchantā nipuṇe pañhe 
-                Buddha seṭṭhaṃ upāgamuṃ  
+                buddha seṭṭhaṃ upāgamuṃ  
   
-                                                                             i Brp Sc  Bai   
+                                                                             i brp sc  bai   
                                     
-        ete      d    soḷasa pārāyaniyā     om  T  brāhmaṇā  
-      Buddha       
-       ete Buddhaṃ    upāgañchum  upāgacchuṃ       
+        ete      d    soḷasa pārāyaniyā     om  t  brāhmaṇā  
+      buddha       
+       ete buddhaṃ    upāgañchum  upāgacchuṃ       
       sampanna        caraṇa       
       isi       
       pucchantā       c  
       nipuṇe  pañhe        
-      Buddha      
+      buddha      
       seṭṭha       a  
         upāgamuṃ  upāgamaṃ       
        concl   ten  etaṃ vuccati  also ad           concl    
   
-   Sn V              Tesaṃ Buddho vyākāsi 
+   sn v              tesaṃ buddho vyākāsi 
                 pañhe puṭṭho yathā tathaṃ  
                 pañhānaṃ veyyākaraṇena 
                 tosesi brāhmaṇe muni  
   
-                                                                            sic MSS    tathāṃ Sn  
+                                                                            sic mss    tathāṃ sn  
                                     
       tesaṃ       k    soḷasannaṃ pārāyaniyānaṃ brāhmaṇānaṃ   
-      Buddha       
+      buddha       
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
       byākāsi       
        pañhe  puṭṭho       d  
@@ -2299,44 +2299,44 @@
       tosesi       b  
       brāhmaṇe     c    soḷasa pārāyaniye br    muni       
   
-   Sn V              Te tositā  cakkhumatā 
-                Buddhen  Ādicca bandhunā 
+   sn v              te tositā  cakkhumatā 
+                buddhen  ādicca bandhunā 
                 brahmacariyam acariṃsu 
                 varapaññassa santike  
   
-                                                                            tussi katā Scp 
+                                                                            tussi katā scp 
                                     
       te       k    solasa         tosita       a  
       cakkhumato       
-      Buddha       
-      Ādicca bandhu       b  
+      buddha       
+      ādicca bandhu       b  
       brahmacariyā       
       acariṃsu       g  
       vara pañña       
       santike       
   
-   Sn V              Ekamekassa pañhassa 
-                yathā Buddhena desitaṃ  
+   sn v              ekamekassa pañhassa 
+                yathā buddhena desitaṃ  
                 tathā yo paṭipajjeyya  
                 gacche pāraṃ apārato  
   
-  a   ekam ekassa  Ajita  pañhassa   etc  ~  Ps     a  
-      Buddha       
-       yathā Buddhena  desitaṃ       
+  a   ekam ekassa  ajita  pañhassa   etc  ~  ps     a  
+      buddha       
+       yathā buddhena  desitaṃ       
       paṭipajjeyya       
       apārato      
   d   pāraṃ  gaccheyya       
   
-   Sn V              Apārā pāraṃ gaccheyya 
+   sn v              apārā pāraṃ gaccheyya 
                 bhāvento maggam uttamaṃ  
                 maggo so pāraṅgamanāya  
-                tasmā  Pārāyanaṃ  iti  
+                tasmā  pārāyanaṃ  iti  
   
       apāraṃ      
       pāraṃ       
   
   page      
- Pucchā     
+ pucchā     
   
   a   pāraṃ  gaccheyya       
       maggaṃ uttamaṃ       
@@ -2349,37 +2349,37 @@
       āyana       
       iti       
   
-   Sn V               Pārāyanaṃ anugāyissaṃ    icc āyasmā Piṅgiyo                 yathā addakkhi  tathā akkhāsi  
+   sn v               pārāyanaṃ anugāyissaṃ    icc āyasmā piṅgiyo                 yathā addakkhi  tathā akkhāsi  
                 vimalo bhūrimedhaso  
-                nikkāmo nibbano Nāgo  
+                nikkāmo nibbano nāgo  
                 kissa hetu musā bhaṇe  
   
-                                                                            yathā dakkhi tathā kāsi Brp  Bm   
-   sic Brp Sc T  Bai   nātho Sn  
+                                                                            yathā dakkhi tathā kāsi brp  bm   
+   sic brp sc t  bai   nātho sn  
                                     
   a    gītam  anugāyissaṃ    niṭṭhitaṃ katthitaṃ lapitaṃ bhāsitaṃ  
       icc a       
       āyasmā       
-      Piṅgiya       
+      piṅgiya       
   b   yathā addakkhi tathā  akkhāsi  ācikkhi        a sabbe saṅkhārā ~  
       vimala       
       bhūri medhaso       
       nikkāma       
       nibbana       
-      Nāga       
+      nāga       
       kissa hetu       c  
        musā  bhaṇe       
       musā       
   
-   Sn V              Pahīna mala mohassa 
+   sn v              pahīna mala mohassa 
                 māna makkha ppahāyino 
                 hand  āhaṃ kittayissāmi 
                 giraṃ vaṇṇ  ūpasaṃhitaṃ   
   
-                                                                            upa  Brp Scn  Cb Baim  epa   for opa   Scp  
+                                                                            upa  brp scn  cb baim  epa   for opa   scp  
                                     
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
        pahīna   mala       
        pahīna   moha       
@@ -2390,32 +2390,32 @@
          kittayissāmi    vaṇṇena upetaṃ ~  giraṃ 
  vācaṃ byāpathaṃ udīraṇaṃ kittayissāmi          
   
-   Sn V               Tamonudo Buddho samantacakkhu 
+   sn v               tamonudo buddho samantacakkhu 
                 lokantagū  sabba bhavā tivatto 
                 anāsavo sabba dukkha ppahīno 
                 sacca vhayo  brahme  upāsito me  
   
-                                                                             gu Scn T  Ck   
-    avayo Brp  Bi   
-   brahm  T brahma Scn  
+                                                                             gu scn t  ck   
+    avayo brp  bi   
+   brahm  t brahma scn  
                                     
       tamonuda       
-      Buddha       
+      buddha       
       samanta cakkhu       
       lok antagū       
-      bhava          Bhagavā kammabhavañ ca paṭisandhikañ ca 
+      bhava          bhagavā kammabhavañ ca paṭisandhikañ ca 
  punabbhavaṃ ativatto         
       anāsava      
       sabba dukkha ppahāna       
       sacca vhaya       
-       upāsita    so mayā Bhagavā   upāsito  āsito       
+       upāsita    so mayā bhagavā   upāsito  āsito       
   
-   Sn V               Dijo yathā kubbanakaṃ pahāya 
+   sn v               dijo yathā kubbanakaṃ pahāya 
                 bahupphalaṃ kānanaṃ āvaseyya  
                 evam p  ahaṃ appadasse pahāya 
                 mahodadhiṃ haṃsa  r iv  ajjhapatto  
   
-                                                                            haṃso Brp Sc  Baim   
+                                                                            haṃso brp sc  baim   
                                     
   a   b  dija       
        dvijo yathā  kubbanakaṃ      
@@ -2426,68 +2426,68 @@
   c   d  evaṃ       
   
   page      
- Pucchā     
+ pucchā     
   
-         appadasse pahāya    Bāvarī brāhmaṇo ye c  aññe 
- tassa ācariyā Buddhaṃ Bhagavantaṃ upādāya 
+         appadasse pahāya    bāvarī brāhmaṇo ye c  aññe 
+ tassa ācariyā buddhaṃ bhagavantaṃ upādāya 
  appadasse        pahāya          
-       follows    Buddhaṃ Bhagavantaṃ appamāṇadassaṃ  agga dassan ti seṭṭha ~   dassaṃ  asamaṃ 
+       follows    buddhaṃ bhagavantaṃ appamāṇadassaṃ  agga dassan ti seṭṭha ~   dassaṃ  asamaṃ 
  asamasamaṃ appaṭisamaṃ appaṭibhāgam appatipuggalaṃ dev  ātidevaṃ narāsabhaṃ purisa sīhaṃ 
  purisa nāgam  ājaññaṃ   nīsabham   dhorayhaṃ  
  dasa bala dhāriṃ  adhigacchiṃ vindiṃ paṭilābhiṃ 
-    v p    Yathā va haṃso mahantaṃ mānusakataṃ  
+    v p    yathā va haṃso mahantaṃ mānusakataṃ  
  vā saraṃ  anotattaṃ vā dahaṃ mahāsamuddaṃ 
  vā akkhobbhaṃ amitodakaṃ jarāsiṃ  adhigaccheyya 
- v  p   evam eva Piṅgiyo brāhmaṇo 
- Buddhaṃ Bhagavantaṃ akkhobbhaṃ amita tejaṃ 
+ v  p   evam eva piṅgiyo brāhmaṇo 
+ buddhaṃ bhagavantaṃ akkhobbhaṃ amita tejaṃ 
  pabhinna ñāṇaṃ  viratacakkhuṃ paññā ppabhedakusalaṃ adhigata paṭisambhidaṃ catu vesārajjappattaṃ saddhā vimuttaṃ seta cchattaṃ advayabhāṇiṃ tādiṃ tathā paṭiññaṃ aparittaṃ 
  mahantaṃ gambhīraṃ appameyyaṃ duppariyogāḷhaṃ 
  bahuratanaṃ sāgara samaṃ chalaṅg  upekkhāya 
  samannāgataṃ atulaṃ vipullaṃ  appameyyaṃ 
- adhigacchi  v  p   taṃ tādisaṃ pavadata  maggavādinaṃ Sumerum  iva nagānaṃ Garuḷam eva 
- dvijānaṃ Sīham iva migānaṃ Udadhim iva aṇṇavānaṃ 
- Jina pavaraṃ adhigacchi  v  p   
+ adhigacchi  v  p   taṃ tādisaṃ pavadata  maggavādinaṃ sumerum  iva nagānaṃ garuḷam eva 
+ dvijānaṃ sīham iva migānaṃ udadhim iva aṇṇavānaṃ 
+ jina pavaraṃ adhigacchi  v  p   
   
-                                     om  T  
-   dasabalaṃ tādiṃ T  
-    kam for kataṃ Sc  
-   dasaṃ  ~  dahaṃ  Sc  
-   pahīna nandānaṃ Sc  
-   om  Sc  
-    iṃ MSS  
-   padata Sc  
-   Meru Sc  
+                                     om  t  
+   dasabalaṃ tādiṃ t  
+    kam for kataṃ sc  
+   dasaṃ  ~  dahaṃ  sc  
+   pahīna nandānaṃ sc  
+   om  sc  
+    iṃ mss  
+   padata sc  
+   meru sc  
   
-   Sn V                V             Ye me pubbe       
+   sn v                v             ye me pubbe       
   
-                                                                          f om  MSS  and Sn     n  āhaṃ tattha abhiramiṃ   
-   Sn V               Eko tamanud  āsīno 
+                                                                          f om  mss  and sn     n  āhaṃ tattha abhiramiṃ   
+   sn v               eko tamanud  āsīno 
                 jātimā  so pabhaṅkaro 
-                Gotamo bhūripaññāṇo  
-                Gotamo bhūrimedhaso  
+                gotamo bhūripaññāṇo  
+                gotamo bhūrimedhaso  
   
-                                                                            jutimā Brp Scn  Bai   
+                                                                            jutimā brp scn  bai   
                                     
       eko       a  
-      tamanuda         in Pj  expl    tamanudo āsīno   
+      tamanuda         in pj  expl    tamanudo āsīno   
   
   page      
-    Pārāyanavagga  
+    pārāyanavagga  
   
       āsīna       
       jātimā       
       pabhaṅkara       
-       Gotamo  bhūri paññāṇo       
-       Gotamo  bhūri medhaso       
+       gotamo  bhūri paññāṇo       
+       gotamo  bhūri medhaso       
   
-   Sn V               Yo me dhammam adesesi 
+   sn v               yo me dhammam adesesi 
                 sandiṭṭhikam akālikaṃ 
                 taṇhakkhayam anītikaṃ   
                 yassa n  atthi upamā kvaci   
   
-                                                                            anitikaṃ Br T  Bai   
+                                                                            anitikaṃ br t  bai   
                                     
-        yo       b    so Bhagavā             
+        yo       b    so bhagavā             
       dhammaṃ        adesesi       b  
       sandiṭṭhikam akālikaṃ       
       taṇhakkhaya       
@@ -2496,173 +2496,173 @@
       upamā        n  atthi       
       kvaci       
   
-   Sn V                Kin nu tamhā vippavasasi 
-                muhuttam  api Piṅgiya 
-                 Gotamā bhūripaññāṇā  
-                Gotamā bhūrimedhasā    ~    cd   
+   sn v                kin nu tamhā vippavasasi 
+                muhuttam  api piṅgiya 
+                 gotamā bhūripaññāṇā  
+                gotamā bhūrimedhasā    ~    cd   
   
-                                                                            mahuttaṃ Scp T  
+                                                                            mahuttaṃ scp t  
                                     
-  a     kin nu  tamhā       f    Buddhamhā   
+  a     kin nu  tamhā       f    buddhamhā   
         vippavasasi       b  
       muhuttam  api        
-       Piṅgiya            Bāvarī taṃ nattarāṃ nāmena ālapati  om  Sc   
-       concl   ten  āha so Bāvarī brāhmaṇo   
+       piṅgiya            bāvarī taṃ nattarāṃ nāmena ālapati  om  sc   
+       concl   ten  āha so bāvarī brāhmaṇo   
   
-   Sn V                V               Yo te         
+   sn v                v               yo te         
   
-  concl   ten  āha so Bāvarī brāhmaṇo   
+  concl   ten  āha so bāvarī brāhmaṇo   
   
-   Sn V               N  āhaṃ  tamhā vippavasāmi 
+   sn v               n  āhaṃ  tamhā vippavasāmi 
                 muhuttam api  brāhmaṇa  ~    ab   
   
       c  and d  ~      cd  
   
   page      
- Pucchā     
+ pucchā     
   
-  a    n  āhaṃ Buddhamhā vippavasāmi          
-      brāhmaṇa       a    gāravena mātulam ālapati   om  Sc   
+  a    n  āhaṃ buddhamhā vippavasāmi          
+      brāhmaṇa       a    gāravena mātulam ālapati   om  sc   
   
-   Sn V                V               Yo me         
+   sn v                v               yo me         
   
-   Sn V               Passāmi naṃ manasā cakkhunā va 
+   sn v               passāmi naṃ manasā cakkhunā va 
                 rattin divaṃ brāhmaṇa appamatto  
                 namassamāno vivasemi rattiṃ  
                 ten  eva maññāmi avippavāsaṃ  
   
   a    yathā cakkhunā         puriso ālokeyya 
  rūpagatāni passeyya ~   evam ev  āhaṃ 
-   naṃ      Buddhaṃ Bhagavantaṃ  manasā  
+   naṃ      buddhaṃ bhagavantaṃ  manasā  
  passāmi          a  
   b    rattiñ ca divañ ca manasā bhāvento 
  appamatto 
       namassamāna       
        rattiṃ         rattindivaṃ vivasemi          
-  d    tāya Buddhānussatiyā bhāvento avippavāso           
+  d    tāya buddhānussatiyā bhāvento avippavāso           
  ti taṃ maññāmi avippaviṭṭho ti taṃ 
  maññāmi            
   
-   Sn V               Saddhā ca pītī  ca mano satī  ca 
-                n  āpenti  me Gotama sāsanamhā  
+   sn v               saddhā ca pītī  ca mano satī  ca 
+                n  āpenti  me gotama sāsanamhā  
                 yaṃ yaṃ disaṃ vajati bhūripañño  
                 sa tena ten  eva nato ham asmi  
   
-                                                                            pīti MSS   Ba   
-   sati Sc T  
-   nāmenti T  
+                                                                            pīti mss   ba   
+   sati sc t  
+   nāmenti t  
                                     
       saddhā       
       pīti       
       mano       
       satī       
-         Gotama  sāsanamhā    ime cattāro dhammā 
- Gotama sāsanā            
+         gotama  sāsanamhā    ime cattāro dhammā 
+ gotama sāsanā            
        n  āpenti      
        yaṃ yaṃ  disaṃ       
       vajati       b  
       bhūri pañño       
-  d   so yena Buddho tena teneva nato          
+  d   so yena buddho tena teneva nato          
         tanninno ~   
   
   page      
-    Pārāyanavagga  
-   Sn V               Jiṇṇassa me dubbala thāmakassa 
+    pārāyanavagga  
+   sn v               jiṇṇassa me dubbala thāmakassa 
                 ten  eva kāyo na paleti tattha  
                 saṅkappayattāya  vajāmi niccaṃ  
                 mano hi me brāhmaṇa tena yutto  
   
-                                                                             ayantāya Br T  Cb Bam   
+                                                                             ayantāya br t  cb bam   
                                     
       jiṇṇa       
       dubbala thāmaka       
-  b    kāyo yena Buddho tena  na  paleti            
+  b    kāyo yena buddho tena  na  paleti            
       saṅkappayattā       
       vajāmi       a  
       mano       
-  d    mano mama yena Buddho tena yutto          
+  d    mano mama yena buddho tena yutto          
   
-   Sn V               Paṅke sayāno pariphandamāno 
+   sn v               paṅke sayāno pariphandamāno 
                 dīpā  dīpaṃ  upallaviṃ  
-                ath  addasāsiṃ Sambuddhaṃ 
+                ath  addasāsiṃ sambuddhaṃ 
                 oghatiṇṇam anāsavaṃ  
   
-                                                                            disā disaṃ  for dipā      Sc  
-   sic MSS   Ba i m   upaplaviṃ Sn  Pj  conj     uppalaviṃ Skgn  
- upallaviṃ Ba   
+                                                                            disā disaṃ  for dipā      sc  
+   sic mss   ba i m   upaplaviṃ sn  pj  conj     uppalaviṃ skgn  
+ upallaviṃ ba   
                                     
       paṅke        sayāna       
       pariphandamāna       
-  b  Satthārato Satthāraṃ Dhamm  akkhānato  
-      Dhamm  akkhānaṃ gaṇato gaṇaṃ diṭṭhiya diṭṭhiṃ 
- paṭipadāya    T paṭipadato  paṭipadaṃ maggato 
+  b  satthārato satthāraṃ dhamm  akkhānato  
+      dhamm  akkhānaṃ gaṇato gaṇaṃ diṭṭhiya diṭṭhiṃ 
+ paṭipadāya    t paṭipadato  paṭipadaṃ maggato 
  maggaṃ upallavim            
-      atha      Pj    Pāsānake cetiye   
+      atha      pj    pāsānake cetiye   
       addasāsiṃ       c  
-        Sambuddha  Buddha       
+        sambuddha  buddha       
       oghatiṇṇa       
       anāsava      
   
-   Sn V                Yathā ahu Vakkali mutta saddho 
-                Bhadrāvudho Āḷavi Gotamo ca  
+   sn v                yathā ahu vakkali mutta saddho 
+                bhadrāvudho āḷavi gotamo ca  
                 evam eva tvam pi pamuñcassu saddhaṃ  
-                gamissasi tvaṃ Piṅgiya maccudheyya pāraṃ   
+                gamissasi tvaṃ piṅgiya maccudheyya pāraṃ   
   
   page      
- Pucchā     
+ pucchā     
   
-  a   b  yathā Vakkali  thero    om  T  mutta saddho           
-      yathā Bhadrāvudho saddhā    sadā MSS   pubbaṅgamo    ad mutta saddho  
-      yathā Āḷavi Gotamo  thero    om  T  muttasaddho ~  
+  a   b  yathā vakkali  thero    om  t  mutta saddho           
+      yathā bhadrāvudho saddhā    sadā mss   pubbaṅgamo    ad mutta saddho  
+      yathā āḷavi gotamo  thero    om  t  muttasaddho ~  
        saddham      pamuñcassu  muñcassu            
-      maccudheyyā     B    pāraṃ         
+      maccudheyyā     b    pāraṃ         
        pāraṃ  gamissasi       
-       concl   ten  āha Bhagavā   
+       concl   ten  āha bhagavā   
   
-   Sn V                Esa bhiyyo pasīdāmi 
+   sn v                esa bhiyyo pasīdāmi 
                 sutvāna munino vaco  
-                 vivaṭacchado  Sambuddho       c   
+                 vivaṭacchado  sambuddho       c   
                 akhilo paṭibhānavā  
   
-                                                                            sic MSS   cp        vivattacchaddo Sn  
+                                                                            sic mss   cp        vivattacchaddo sn  
                                     
        bhiyyo bhiyyo  pasīdāmi       muni       
   b  vaco          sutvāna  sutvā            b  
         chada  chandana        vivaṭa       
-        Sambuddha  Buddha       
+        sambuddha  buddha       
       akhila     
       paṭibhāṇavā       
-       concl   ten  āha Piṅgiya thero  
+       concl   ten  āha piṅgiya thero  
   
-   Sn V               Adhideve abhiññāya 
+   sn v               adhideve abhiññāya 
                 sabbaṃ vedi paroparaṃ   
-                pañhān  antakaro Satthā 
+                pañhān  antakaro satthā 
                 kaṅkhīnaṃ paṭijānataṃ  
   
-                                                                            line   om  Scp  parovaraṃ Sn   cp         
+                                                                            line   om  scp  parovaraṃ sn   cp         
                                     
       adhideva      
       abhiñdāya      
       sabbaṃ       a    vedi  see both s  vedi        
       paroparaṃ       a  
       pañhān  antakara       
-      Satthā       
+      satthā       
       kaṅkhīnaṃ  paṭijānataṃ        
   
   page      
-    Pārāyanavagga  
-   Sn V               Asaṃhīraṃ asaṅkuppaṃ  
+    pārāyanavagga  
+   sn v               asaṃhīraṃ asaṅkuppaṃ  
                  yassa n  atthi upamā kvaci        d   
                 addhā gamissāmi  na m  ettha kaṅkhā 
                 evaṃ maṃ dhārehi adhimuttacittan  ti 
   
- PĀRĀYANAVAGGO NIṬṬHITO   
+ pārāyanavaggo niṭṭhito   
   
- PIṄGIYA SUTTANTAṂ SOḶASĪ   
+ piṅgiya suttantaṃ soḷasī   
   
-                                                                            This the conclusion in Scp  with Megiya   piṅgiya  suttanti for 
- suttantaṃ   concl  Br   Pārāyanavaggo   aṭlano  for pañcamo    
- and Piṅgiya suttantaṃ soḷasi  
+                                                                            this the conclusion in scp  with megiya   piṅgiya  suttanti for 
+ suttantaṃ   concl  br   pārāyanavaggo   aṭlano  for pañcamo    
+ and piṅgiya suttantaṃ soḷasi  
                                     
       asaṃhīraṃ       
       asaṅkuppaṃ       
@@ -2673,17 +2673,17 @@
        evaṃ  dhārehi       
       adhimutta citta      b  
   
-                                   Concl  Brn Scn T   Pārāyanavaggo Niṭṭhito  
+                                   concl  brn scn t   pārāyanavaggo niṭṭhito  
   
   
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
-   Sn I           āya daṇḍaṃ 
+   sn i           āya daṇḍaṃ 
                 aviheṭhayaṃ  aññataram pi tesaṃ 
                 na puttam iccheyya kuto sahāyaṃ  
                 eko care khagga visāṇa kappo  
   
-                                                                            ahethayaṃ T  
+                                                                            ahethayaṃ t  
                                     
       sabbesu       b  
       bhūtesu       
@@ -2693,22 +2693,22 @@
       na         paṭikkhepo   
       putta       
       sahāya       
-  c    puttam pi   na  iccheyya             kuto mittaṃ vā sandiṭṭhaṃ vā sambhattaṃ vā sahāyaṃ vā iccheyya    icchissati T           
+  c    puttam pi   na  iccheyya             kuto mittaṃ vā sandiṭṭhaṃ vā sambhattaṃ vā sahāyaṃ vā iccheyya    icchissati t           
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
       eko       a  
       care       e  
       khaggavisāna kappa       
-   Sn I           Saṃsaggajātassa bhavanti  snehā     
+   sn i           saṃsaggajātassa bhavanti  snehā     
                 sneh anvayaṃ  dukkham idam pahoti  
                 ādīnavaṃ snehajaṃ pekkhamāno 
                 eko care       
   
-                                                                            sic Sc T  Bai   bhavati sneho Sn  
-   Senhā Sc T  this frequent as well as sineha  
-   senhassa Sc  
+                                                                            sic sc t  bai   bhavati sneho sn  
+   senhā sc t  this frequent as well as sineha  
+   senhassa sc  
                                     
       saṃsagga       
       sneha       
@@ -2721,7 +2721,7 @@
   c    taṇhā sinehe ca ditthi sinehe ca ādīnavaṃ snehajaṃ 
  pekkhamāno            
   
-   Sn I           Mitte suhajje anukampamāno 
+   sn i           mitte suhajje anukampamāno 
                 hāpeti atthaṃ paṭibaddha citto  
                 etaṃ bhayaṃ santhave pekkhamāno 
                 eko care       
@@ -2738,36 +2738,36 @@
       pekkhamāna       
   
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
-   Sn I           Vaṃso visālo va yathā visatto 
+   sn i           vaṃso visālo va yathā visatto 
                 puttesu dāresu ca yā apekkhā   
                 vaṃsā kaḷīro va asajjamāno 
                 eko care       
   
-                                                                            sic MSS   Bai    kh  Sn  
+                                                                            sic mss   bai    kh  sn  
                                     
         vaṃso            yathā velugumbasmiṃ 
-        Sc   porāṇakā  vaṃsā sattā visattā āsattā 
-        T   kaṇṭakā jaṭitā saṃsibbitā visattā 
+        sc   porāṇakā  vaṃsā sattā visattā āsattā 
+        t   kaṇṭakā jaṭitā saṃsibbitā visattā 
            cp       laggā laggitā palibuddhā  evam eva 
           visatta  visattikā vuccati taṇhā        ad visattikā ~   
       putta       
       dārā       
       apekkhā      
         vaṃso            yathā velugumbasmiṃ     amhi 
- T  taruṇakā kalīrā asattā alaggā alaggitā apalibuddhā  apaliveṭṭhitā    om  Sc  nikkhantā 
+ t  taruṇakā kalīrā asattā alaggā alaggitā apalibuddhā  apaliveṭṭhitā    om  sc  nikkhantā 
  nissaṭṭhā vippamuttā evam eva dve   asajjamāno  sajjanā           
   
-                                     for tāruṇakā  passage corrupt Sc  
+                                     for tāruṇakā  passage corrupt sc  
   
-   Sn I           Migo araññamhi yathā abandho  
+   sn i           migo araññamhi yathā abandho  
                 yen  icchakaṃ gacchati gocarāya  
                 viññū naro seri taṃ  pekkhamāno 
                 eko care       
   
-                                                                            sic MSS   Bai   abaddho Sn  
-   tappekkh  T  Bi   
+                                                                            sic mss   bai   abaddho sn  
+   tappekkh  t  bi   
                                     
   a   b    miga       yathā ārāññako migo  
         araññe vasamāno vissaṭṭho gacchati ~  
@@ -2777,13 +2777,13 @@
       seri       
       pekkhamāna       
   
-   Sn I           Āmantanā hoti sahāya majjhe 
+   sn i           āmantanā hoti sahāya majjhe 
                 vāse ṭhāne gamane cārikāya  
                 anabhijjhitaṃ seri taṃ pekkhamāno 
                 eko care       
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
   a   b    sahāyā       sahāya majjhe vāse pi ṭhāne pi gamane 
  pi cārikāyā pi att attha   āmantanā  
@@ -2792,7 +2792,7 @@
       seri       
   c  seri taṃ       d    dhammaṃ  pekkhamāno            
   
-   Sn I           Khiḍḍā ratī hoti sahāya    majjhe 
+   sn i           khiḍḍā ratī hoti sahāya    majjhe 
                 puttesu ca vipulaṃ hoti pemaṃ  
                 piya vippayogaṃ vijigucchamāno 
                 eko care       
@@ -2806,12 +2806,12 @@
       piyā       
   c   piya vippayogaṃ  vijigucchamāno            
   
-   Sn I           Cātuddiso appaṭigho ca hoti 
+   sn i           cātuddiso appaṭigho ca hoti 
                 santussamāno itar  ītarena  
                 parissayānaṃ sahitā achambhī  
                 eko care       
   
-                                                                             i MSS   Ckb Bai   This stanza is quoted at DA I       
+                                                                             i mss   ckb bai   this stanza is quoted at da i       
                                     
   a  catuddiso        appaṭigho      ca hoti    ad cātuddiso  
   b    itarītarena        santussamāno         santuṭṭho   
@@ -2819,7 +2819,7 @@
       sahitā       
       achambhī      
   
-   Sn I           Dussaṅgahā pabbajitā pi eke 
+   sn i           dussaṅgahā pabbajitā pi eke 
                 atho gahaṭṭhā gharam āvasantā  
                 app  ossukko paraputtesu hutvā 
                 eko care       
@@ -2827,37 +2827,37 @@
       pabbajitā       
       gahaṭṭhā       
   c  attānam ṭhapetvā sabbe imasmiṃ stthe  vuttā 
-       om  Sc  app  ossuko  hutvā          
+       om  sc  app  ossuko  hutvā          
   
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
-   Sn I            Oropayitvā  gihi byañjanāni 
+   sn i            oropayitvā  gihi byañjanāni 
                 sañchinna  patto yathā koviḷāro 
                 chetvāna vīro gihi bandhanāni 
                 eko care       
   
-                                                                            voropayitvā T  
-   sic T  Bi  and Sn  ad      saṃsīna T as vḷ   Cb   Sn  
- saṃsinna Sc  sambhinna Ba   sañchanna Pj  ad      cp  
- VvA         sañchinna  vḷ  S saṃsinna  
+                                                                            voropayitvā t  
+   sic t  bi  and sn  ad      saṃsīna t as vḷ   cb   sn  
+ saṃsinna sc  sambhinna ba   sañchanna pj  ad      cp  
+ vva         sañchinna  vḷ  s saṃsinna  
                                     
        oropayitvā  gihi byañjanāni       
       oropayitvā  gihi byañjanāni        
   b    yathā koviḷārassa pattāni   sañchinna   
         se   sinnāni saṃsinnāni patitāni 
-        T   sināni chinnāni patitāni 
+        t   sināni chinnāni patitāni 
  evam eva tassa paccekasambuddhassa  
- gihi byāñjanāni Sc ~  above   paripatitāni 
-        T chinnāni patitāni 
+ gihi byāñjanāni sc ~  above   paripatitāni 
+        t chinnāni patitāni 
       vīra       
       gihi bandhanāni       
   c    so paccekasambuddho vīro gihi bandhanāni   chetvāna  chetvā       
            b  
   
- Paṭhamo Vaggo    om  T   
+ paṭhamo vaggo    om  t   
   
-   Sn I            Sace labhetha nipakaṃ sahāyaṃ 
+   sn i            sace labhetha nipakaṃ sahāyaṃ 
                 saddhiṃ caraṃ sādhu vihāri dhīraṃ  
                 abhibhuyya sabbāni parissayāni  
                 careyya ten  attamano satīmā  
@@ -2867,18 +2867,18 @@
       sādhu    vihārī       
       dhīra       
       parissayā       
-  c   sabbe parissāye     sabbāni parissayāni T  abhibhuyya         
+  c   sabbe parissāye     sabbāni parissayāni t  abhibhuyya         
   d    so paccekasambuddho tena nipakena          
         sahāyena saddhiṃ attamano          careyya            c  
-      satimā     B  
+      satimā     b  
   
-   Sn I            No ce  labhetha nipakaṃ sahāyaṃ   ~  a   
+   sn i            no ce  labhetha nipakaṃ sahāyaṃ   ~  a   
                  saddhiṃ caraṃ sādhu vihāri dhīraṃ      b   
                 rājā va raṭṭhaṃ vijitam pahāya 
                 eko care       
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
   a   no nipakaṃ           sahāyaṃ   labhetha  labheyya  
   c   yathā rājā           raṭṭhañ  ca             
@@ -2886,28 +2886,28 @@
         evam eva paccekasambuddho pi sabbaṃ gharāvāsa palibodhaṃ 
  chinditvā  etc    pabbajitvā ~   
   
-   Sn I            Addhā pasaṃsāma sahāya sampadaṃ  
+   sn i            addhā pasaṃsāma sahāya sampadaṃ  
                 seṭṭhā samā sevitabbā sahāya   
                 ete aladdhā anavajjabhojī 
                 eko care       
   
-                                                                            sahāya Sc T  
+                                                                            sahāya sc t  
                                     
       addhā      
       sahāya sampadā       b  
   a    sahāya sampadaṃ  pasaṃsāma            
       seṭṭhā       b  
-  b    seṭṭhā vā sahāyā samā    sadisā Sc  vā 
+  b    seṭṭhā vā sahāyā samā    sadisā sc  vā 
  sahāyā sevitabbā            
   c  anavajja bhojī      
   c   ete  aladdhā      
   
-   Sn I            Disvā suvaṇṇassa pabhassarāni 
+   sn i            disvā suvaṇṇassa pabhassarāni 
                 kammāraputtena suniṭṭhitāni 
                 saṅghaṭṭa yantāni  duve bhujasmiṃ  
                 eko care       
   
-                                                                            sic Sc T   mānāni Sn   cp  valayāni Pj    
+                                                                            sic sc t   mānāni sn   cp  valayāni pj    
                                     
       disvā       b  
       suvaṇṇassa       
@@ -2916,18 +2916,18 @@
   b   kammāra puttena  suniṭṭhitāni       
       bhuja       
         yathā ekasmiṃ hatthe   yantāni       dve  dhuvarāni 
-   dupurāni Sc  ghaṭṭenti  saṅghaṭṭenti 
-          ca   om  T  evam eva sattā taṇhā vasena 
-  ditthi vasena  niraye    om  T  ghaṭṭenti 
+   dupurāni sc  ghaṭṭenti  saṅghaṭṭenti 
+          ca   om  t  evam eva sattā taṇhā vasena 
+  ditthi vasena  niraye    om  t  ghaṭṭenti 
   etc    loke nos           gatiyā gatiṃ upapatiyā 
  paṭisandhiṃ bhavena bhavaṃ saṃsārena saṃsāraṃ 
- vaṭṭena vaṭṭam    vajjena vajjaṃ T  
+ vaṭṭena vaṭṭam    vajjena vajjaṃ t  
  ghaṭṭenti            
   
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
-   Sn I            Evaṃ dutiyena sahā mam  assa 
+   sn i            evaṃ dutiyena sahā mam  assa 
                 vāc  ābhilāpo abhisajjanā vā  
                  etaṃ bhayaṃ  āyatiṃ  pekkhamāno  
                 eko care       
@@ -2938,7 +2938,7 @@
       bhaya       
   c   āyatiṃ  pekkhamāna       
   
-   Sn I            Kāmā hi citrā madhurā manoramā 
+   sn i            kāmā hi citrā madhurā manoramā 
                 virūpa rūpena mathenti cittaṃ  
                 ādīnavaṃ kāmaguṇesu disvā 
                 eko care       
@@ -2953,54 +2953,54 @@
   c  ad kāmaguṇā       
   c    kāmaguṇesu  ādīnavaṃ         disvā            b  
   
-   Sn I            Itī  ca gaṇḍo ca upaddavo ca 
+   sn i            itī  ca gaṇḍo ca upaddavo ca 
                 rogo ca sallañ ca bhayañ ca m  etaṃ  
                 etaṃ bhayaṃ  kāmaguṇesu disvā   ~  c   
                 eko care       
   
-                                                                            iti Sc T  Bai   
+                                                                            iti sc t  bai   
                                     
-  a   b  vuttaṃ h  etaṃ Bhagavatā    
-      Bhayan ti bhikkhave   kāmānaṃ etaṃ adhivacanam  
+  a   b  vuttaṃ h  etaṃ bhagavatā    
+      bhayan ti bhikkhave   kāmānaṃ etaṃ adhivacanam  
   dukkhan       rogo       gaṇḍo       
  sallan        saṅgo        paṅko       gabbho         
-      Kasmā  ca bhikkhave bhayan ti kāmānaṃ 
- etaṃ adhivacanaṃ   Kāmarāga ratt  āyaṃ 
+      kasmā  ca bhikkhave bhayan ti kāmānaṃ 
+ etaṃ adhivacanaṃ   kāmarāga ratt  āyaṃ 
  bhikkhave chandarāga vinibandho  diṭṭhadhammikā pi bhayā 
- na parimuccanti  samparāyikā pi bhayā na parimuccanti  Tasmā 
- bhayan ti kāmānam etaṃ adhivacanaṃ  Kasmā  
+ na parimuccanti  samparāyikā pi bhayā na parimuccanti  tasmā 
+ bhayan ti kāmānam etaṃ adhivacanaṃ  kasmā  
  ca bhikkhave dukkhan ti    rogo ti etc   as above  
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
  kāmānam etaṃ adhivacanaṃ       samparāyikā pi 
- gabbhā na parimuccanti  Tasmā 
+ gabbhā na parimuccanti  tasmā 
  gabbho ti kāmānam etaṃ adhivacanan ti 
- Bhayañ  ca  dukkhañ ca rogo ca 
+ bhayañ  ca  dukkhañ ca rogo ca 
  saṅgo  ca paṅko ca d  ubhayaṃ   
   
-      Ete kāmā pavuccanti  
+      ete kāmā pavuccanti  
         yattha satto puthujjano 
-      Otiṇṇo sātarūpena 
+      otiṇṇo sātarūpena 
         gabbhāya ca nigacchati 
-      Yato ca bhikkhave bhikkhū 
+      yato ca bhikkhave bhikkhū 
         jhānañ ca na t ariñcati  
-      So maṃ palipathaṃ duggaṃ 
+      so maṃ palipathaṃ duggaṃ 
         atikkamma tathāvidhaṃ 
-      Pajaṃ jāti jar  ūpetaṃ 
+      pajaṃ jāti jar  ūpetaṃ 
         phandamānaṃ avekkhatī ti  
   
-                                     laggan T  
-   satto T  
-   yasmā  MSS  
-   v Sc  
-   na riñcati T  ahosi sampajāno na t ariñcati Sc  
-  A IV       cp  A III      Stanzas at variance in Nd  
+                                     laggan t  
+   satto t  
+   yasmā  mss  
+   v sc  
+   na riñcati t  ahosi sampajāno na t ariñcati sc  
+  a iv       cp  a iii      stanzas at variance in nd  
                                     
   c   etaṃ bhayaṃ kāmaguṇesu  dusvā            b  
   
-   Sn I            Sītañ ca uṇhañ ca  khudaṃ pipāsaṃ  
+   sn i            sītañ ca uṇhañ ca  khudaṃ pipāsaṃ  
                 vāt   ātape daṃsa siriṃsape ca 
                 sabbāni p  etāni abhisambhavitvā 
                 eko care       
@@ -3015,20 +3015,20 @@
       siriṃsapā       
       abhisambhavitvā      
   
-   Sn I            Nāgo va yūthāni vivajjayitvā  
+   sn i            nāgo va yūthāni vivajjayitvā  
                 sañjāta kkhandho padumī ulāro 
                 yathā bhirantaṃ vihare araññe  
                 eko care       
   
-                                                                            visajjo Sc  
+                                                                            visajjo sc  
                                     
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
       nāga       
   a  yathā so hatthi nāgo yūthāni   vaivajjayitvā  vivajjetvā            
  eko va arañña vana majjhe 
-    araññe vana majjhassa T  cp  v      ajjhogāhetvā carati ~   
+    araññe vana majjhassa t  cp  v      ajjhogāhetvā carati ~   
  paccekasambuddho pi gaṇaṃ vajjetvā pari  abhivajjetvā eko care 
  khagga visāṇa kappo arañña vana patthāni  etc    arañña   ~    
   b          yathā so hatti nāgo sañjātakkhando satta ratano 
@@ -3045,50 +3045,50 @@
  pi yathā bhirantaṃ araññe viharati paṭhamena 
  pi jhānena etc    see sādhu vihāri  
   
-   Sn I            Aṭṭhāna taṃ saṅgaṇik  āratassa  
+   sn i            aṭṭhāna taṃ saṅgaṇik  āratassa  
                 yam phassaye  sāmayikaṃ vimuttiṃ  
-                Ādicca bandhussa vaco nisamma 
+                ādicca bandhussa vaco nisamma 
                 eko care       
   
-                                                                            phusaye T  
+                                                                            phusaye t  
                                     
-  a   b  vuttaṃ h  etaṃ Bhagavatā    
-      A          So vāt  Ānanda  bhikkhu saṅganik  ārāmo  om  Sc  
- saṅgaṇika rato  om  Sc  saṅganik  ārāmataṃ 
- anuyutto gan ārāmo gaṇa rato gaṇasammudito  om  Sc  
+  a   b  vuttaṃ h  etaṃ bhagavatā    
+      a          so vāt  ānanda  bhikkhu saṅganik  ārāmo  om  sc  
+ saṅgaṇika rato  om  sc  saṅganik  ārāmataṃ 
+ anuyutto gan ārāmo gaṇa rato gaṇasammudito  om  sc  
  gaṇ  ārāmataṃ anuyutto   
           yan taṃ nekkhamma sukkhaṃ pavivekasukhaṃ 
  upasam  sambodhi   tassa sukhassa nikāmalābhī 
  bhavissati akiccha lābhī akasira lābhī   
       n  etaṃ ṭhānaṃ vijjati  
-          yo ca kho so  Ānanda  bhikkhu eko gaṇasmā 
+          yo ca kho so  ānanda  bhikkhu eko gaṇasmā 
  vūpakaṭṭho viharati tass  etaṃ bhikkhuno 
  pāṭikaṅkhaṃ   yan taṃ        ~  above    up to 
  labhī    ṭhānaṃ etaṃ vijjati  
   
-                                     M  III       slightly at variance  
+                                     m  iii       slightly at variance  
                                     
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
-      B          So vat  Ānanda   etc  ~  A    
+      b          so vat  ānanda   etc  ~  a    
           ceto vimuttiṃ upasampajja viharissati asāmāyikaṃ 
-  asamādhikaṃ Sc  akuppan ti n  etaṃ 
+  asamādhikaṃ sc  akuppan ti n  etaṃ 
  ṭṭhānaṃ vijjati  
-          yo ca kho Ānanda bhikkhu  etc  ~  A   up to 
+          yo ca kho ānanda bhikkhu  etc  ~  a   up to 
  pāṭikaṅkhaṃ  sāmāyikaṃ vā ceto vimuttiṃ 
  upasampajja viharissati asāmāyikaṃ vā akuppan ti  
-      Ṭhānaṃ etaṃ vijjatī ti  
-      Ādicca       
-  c     Ādicca bandhussa       b    vaco         
+      ṭhānaṃ etaṃ vijjatī ti  
+      ādicca       
+  c     ādicca bandhussa       b    vaco         
         vacanaṃ         nisamma  sutvā            
   
-   Sn I            Diṭṭhi visūkāni upātivatto 
+   sn i            diṭṭhi visūkāni upātivatto 
                 patto niyāmaṃ paṭiladdha maggo  
                  uppanna ñāṇo mhi anaññaneyyo 
                 eko care       
   
- Dutiyo Vaggo  om  Sc T   
+ dutiyo vaggo  om  sc t   
   
       diṭṭhi visūkāni       
   b   diṭṭhi visūkāni  upātivatto       
@@ -3099,12 +3099,12 @@
       uppanna ññṇo       
       anañña neyyo      
   
-   Sn I            Nillolupo nikkuho nippipāso 
+   sn i            nillolupo nikkuho nippipāso 
                 nimmakkho niddhanta kasāva moho 
                 nirāsayo  sabbaloke bhavitvā 
                 eko care       
   
-                                                                            nirāsaso Sc T  for nirāsaṃso     
+                                                                            nirāsaso sc t  for nirāsaṃso     
                                     
       nillolupo       
       nikkuho       
@@ -3117,13 +3117,13 @@
       nirāsaso       b   st part   
   
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
        sabba   loke       d  
   c   sabba loke  nirāsaso       b   nd part  
        bhavitvā    nittaṇho bhavitvā nippipāso bhavitvā  
   
-   Sn I            Pāpaṃ sahāyaṃ parivajjayetha  
+   sn i            pāpaṃ sahāyaṃ parivajjayetha  
                 anatthadassiṃ  visame niviṭṭhaṃ  
                 sayaṃ na seve pasutaṃ pamattaṃ  
                 eko care       
@@ -3135,9 +3135,9 @@
       pasuta       
       pamatta       
   c    pasutaṃ na   seve  seveyya  pamattaṃ na seveyya 
-   sayaṃ         sāmaṃ  om  T  na seveyya            b  
+   sayaṃ         sāmaṃ  om  t  na seveyya            b  
   
-   Sn I            Bahussutaṃ dhammadharaṃ bhajetha 
+   sn i            bahussutaṃ dhammadharaṃ bhajetha 
                 mittaṃ uḷāraṃ paṭibhānavantaṃ  
                 aññāya atthāni vineyya kaṅkhaṃ 
                 eko care       
@@ -3151,34 +3151,34 @@
   c   att   attha       aññāya      
        kaṅkhaṃ  vineyya       b  
   
-   Sn I            Khiḍḍā ratiṃ  kāmasukhañ ca loke 
+   sn i            khiḍḍā ratiṃ  kāmasukhañ ca loke 
                 analaṅkaritvā anapekkhamāno  
                 vibhūsanaṭṭhānā  virato saccavādī 
                 eko care       
   
-                                                                            sic Sc T  Bai   khiḍḍaṃ ratiṃ Sn  
-   vibhūsa ṭṭhānā Sc T  
+                                                                            sic sc t  bai   khiḍḍaṃ ratiṃ sn  
+   vibhūsa ṭṭhānā sc t  
                                     
       khiḍḍā       
       ratī       
       kāmasukhaṃ       
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
       loke       b  
-  b     khiḍḍañ ca  ratiñ  ca   om  T  kāmasukhañ ca 
+  b     khiḍḍañ ca  ratiñ  ca   om  t  kāmasukhañ ca 
  loke  analaṅkaritvā anapekkho hutvā pajahitvā ~  vibhūsā       
       saccavādī       
       lokassa vibhūsaṭṭhānā   virato  ārato            
   
-   Sn I            Puttañ ca dāraṃ  ca   pitarañ ca mātaraṃ 
+   sn i            puttañ ca dāraṃ  ca   pitarañ ca mātaraṃ 
                 dhanāni dhaññāni ca bandhavāni ca 
                 hitvāna  kāmāni yath odhikāni  
   
-                                                                            puttañ ca dāraṃ Sc  putta dārañ ca T  
-   jahitvāna Sc  
-   yath odhitāni Sc  odhikāni T  
+                                                                            puttañ ca dāraṃ sc  putta dārañ ca t  
+   jahitvāna sc  
+   yath odhitāni sc  odhikāni t  
                                     
       putta       
       dārā       
@@ -3190,17 +3190,17 @@
       kāmā        hitvānā       a  
       yath odikāmi       
   
-   Sn I             Saṅgo eso  parittam ettha sokhyaṃ  
+   sn i             saṅgo eso  parittam ettha sokhyaṃ  
                 app assādo  dukkham ettha bhiyyo  
                 gaṇḍo  eso  iti ñatvā mutimā  
                 eko care       
   
-                                                                            sic Sc T  Ba  Bi     galo v  l  in Sc  Cb   gaḷo Sn  
-   matimā T  mutīmā Sn  
+                                                                            sic sc t  ba  bi     galo v  l  in sc  cb   gaḷo sn  
+   matimā t  mutīmā sn  
                                     
       saṅga       c  
         parittam ettha sokhyam   
-        vuttaṃ h  etam Bhagavatā    pañc  ime hi bhikkhave 
+        vuttaṃ h  etam bhagavatā    pañc  ime hi bhikkhave 
  kāmaguṇā  etc    see kāmaguṇā       
           parittaṃ          omakaṃ etaṃ sukhaṃ  
   b  ad app assāda      
@@ -3208,18 +3208,18 @@
       iti       
       mutimā       
   
-                                     M  I      
+                                     m  i      
   
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
-   Sn I            Sandālayitvāna  saññojanāni  
+   sn i            sandālayitvāna  saññojanāni  
                 jālaṃ va bhetvā salil  ambucārī 
                 aggī va daḍḍhaṃ anivattamāno 
                 eko care       
   
-                                                                            sic Sc T  Bai   pa     itvā Sn  
-   sic Sc T  saṃyoj  Sn  
+                                                                            sic sc t  bai   pa     itvā sn  
+   sic sc t  saṃyoj  sn  
                                     
       saññojanāni       b  
       sandālayitvāna       
@@ -3233,7 +3233,7 @@
  tassa paccekasambuddhassa sotāpatti maggena 
   etc    see yathodikāni   
   
-   Sn I            Okkhitta cakkhū na ca pāda lolo 
+   sn i            okkhitta cakkhū na ca pāda lolo 
                 gutt  indriyo rakkhita mānasāno 
                 anavassuto apariḍayhamāno 
                 eko care       
@@ -3245,28 +3245,28 @@
       anavassuta      
       apariḍayhamāna      
   
-   Sn I            Ohārayitvā gihi byañjanāni 
+   sn i            ohārayitvā gihi byañjanāni 
                 sañchinna patto  yathā pārichatto  
                 kāsāya vattho abhinikkhamitvā 
                 eko care       
   
-                                                                            saṃsinna Sc  sañchanna Ck  saṃchanna Bi  saṃchinna 
- Sn  cp  v      the commentator evidently explains the two 
+                                                                            saṃsinna sc  sañchanna ck  saṃchanna bi  saṃchinna 
+ sn  cp  v      the commentator evidently explains the two 
  passages contradictorily  
-   pāricchattako Sc  
+   pāricchattako sc  
                                     
       gihi byañjanāni       
       ohārayitvā       
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
   b    yathā pāricchatto         kovilāro   sañchinnapatto  
- bahula patta palāso  na Sc  saṇḍacchāyo  evam 
+ bahula patta palāso  na sc  saṇḍacchāyo  evam 
  eva so paccekasambuddho paripuṇṇa patta cīvara dharo ti  
   c  ad kāsāya vattho       
   
-   Sn I            Rasesu gedhaṃ akaraṃ alolo 
+   sn i            rasesu gedhaṃ akaraṃ alolo 
                 anaññaposī sapadānacārī 
                 kule kule appaṭibaddhacitto 
                 eko care       
@@ -3280,9 +3280,9 @@
   c    so paccekasambuddho   kule  kula palibodhena 
  appaṭibaddha citto hoti  etc    see visattikā   
   
- Tatiyo Vaggo  om  T   
+ tatiyo vaggo  om  t   
   
-   Sn I            Pahāya pañc  āvaraṇāni  cetaso 
+   sn i            pahāya pañc  āvaraṇāni  cetaso 
                 upakkilese byapanujja sabbe  
                 anissito chetvā sineha dosaṃ 
                 eko care       
@@ -3296,16 +3296,16 @@
  ca dosañ ca   chetvā  chitvā            a  anissito      b  second part   
   
   
-   Sn I            Vipiṭṭhikatvāna sukhaṃ dukkhañ ca 
+   sn i            vipiṭṭhikatvāna sukhaṃ dukkhañ ca 
                 pubbe va ca  somanassa   domanassaṃ  
                 laddhān  upekkhaṃ samathaṃ  visuddhaṃ  
                 eko care       
   
-                                                                            om  Sc  
-   sic Sc T  Bai  Pj    somana Sn 
+                                                                            om  sc  
+   sic sc t  bai  pj    somana sn 
                                     
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
   a   b    so paccekasambuddho sukhassa ca   vipiṭṭhi katvāna  
         pahānā          etc    th jhāna   
@@ -3315,7 +3315,7 @@
  visuddhā            
   c  catutthe jhāne upekkhañ ca samathañ ca   laddhāna  laddhā            
   
-   Sn I            Āraddha viriyo paramattha pattiyā  
+   sn i            āraddha viriyo paramattha pattiyā  
                 alīna citto akusīta vutti  
                 daḷha nikkamo  thāmabal  ūpapanno 
                 eko care       
@@ -3327,7 +3327,7 @@
       ḍalha nikkama       
       thāmabal  ūpapama       
   
-   Sn I            Paṭisallāṇaṃ jhānam ariñcamāno  
+   sn i            paṭisallāṇaṃ jhānam ariñcamāno  
                 dhammesu niccaṃ anudhammacārī  
                 ādīnavaṃ sammasitvā bhavesu 
                 eko care       
@@ -3339,7 +3339,7 @@
         cārī  carati            a  
   c  see ad saṅkhārā  
   
-   Sn I            Taṇhakkhayaṃ patthayaṃ appamatto  
+   sn i            taṇhakkhayaṃ patthayaṃ appamatto  
                 anelamūgo sutavā satimā  
                 saṅkhāta dhammo niyato padhānavā 
                 eko care       
@@ -3349,15 +3349,15 @@
       appamatta      
       anelamūga      
       sutavā       
-      satimā     B  
+      satimā     b  
       saṅkhāta dhamma       
       niyata       
       padhānavā       
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
-   Sn I            Sīho va saddesu asantasanto 
+   sn i            sīho va saddesu asantasanto 
                 vāto va jālamhi asajjamāno 
                 padumaṃ va toyena alippamāno 
                 eko care       
@@ -3371,7 +3371,7 @@
       toya       
   c  yathā paduma pupphaṃ toyena   alippamāno  na lippati           
   
-   Sn I            Sīho yathā dāṭha balī pasayha 
+   sn i            sīho yathā dāṭha balī pasayha 
                 rājā migānaṃ abhibhuyya cārī 
                 sevetha pantāni senāsanāni  
                 eko care       
@@ -3379,29 +3379,29 @@
   a   b    yathā sīho migarājā dāṭha balī dāṭh   āvudho sabbe 
  tiracchānagate pāṇe   abhibhuyyacārī         
  abhibhuyya ~  carati ~    evam eva paccekasambuddho pi 
- paññā balī paññ  āvudho sabbe pāṇabhūte puggale  om  T  
+ paññā balī paññ  āvudho sabbe pāṇabhūte puggale  om  t  
  paññāya abhibhuyya ~  
   c    yathā sīho migarājā arañña vana majjhe gāhetvā 
-  arañña vana patthāni ajjhogāhetvā T   cp  
- v      carati ~   evam  eva   om  Sc  paccekasambuddho pi arañña ~  
+  arañña vana patthāni ajjhogāhetvā t   cp  
+ v      carati ~   evam  eva   om  sc  paccekasambuddho pi arañña ~  
   
-   Sn I            Mettaṃ upekkhaṃ karuṇaṃ vimuttiṃ 
+   sn i            mettaṃ upekkhaṃ karuṇaṃ vimuttiṃ 
                 āsevamāno muditañ ca kāle 
                 sabbena lokena avirujjhamāno 
                 eko care       
   
-  a   b    see cātuddisa A  
-  c  see cātuddisa B  
+  a   b    see cātuddisa a  
+  c  see cātuddisa b  
       avirujjhamāna       
   
   
-   Sn I            Rāgañ ca dosañ ca pahāya moham 
+   sn i            rāgañ ca dosañ ca pahāya moham 
                  sandālayitvāna saññojanāni     a   
                 asantasaṃ jīvita saṅkhayamhi 
                 eko care       
   
   page      
-    Khaggavisāṇasutta  
+    khaggavisāṇasutta  
   
       rāga       
       dosa       
@@ -3410,11 +3410,11 @@
   c    so paccekasambuddho   jīvita saṅkhayamhi          
  jīvita pariyosāne   asantasaṃ  asantāsi            
   
-   Sn I            Bhajanti sevanti ca kāraṇatthā  
+   sn i            bhajanti sevanti ca kāraṇatthā  
                 nikkāraṇā dullabhā ajja mittā 
                 att aṭṭhapaññā  asuci manussā                  eko care khaggavisāṇakappo ti   see   d   
   
-                                                                            attattha  Sc T  
+                                                                            attattha  sc t  
                                     
   a   kāraṇatthā    att attha kāranā            
       bhajanti       
@@ -3427,45 +3427,45 @@
       care as  pe   ~  v       
       care 
       khaggavisāṇakappo   as  pe   
-      Conclusion CN   
-       Sc   catuttho pado  for vaggo  niṭṭhito ca sabbaso 
- Khaggavisāṇa sutta niddeso  
-       T   Khaggavisāṇa sutta niddeso niṭṭhito  
-       Then in both    enumeration of the    brahmaṇas  as Sn  
-                  v l  Sc   Somako for Hemako  Pohālo for Posālo  
-      om   Piṅgiyo ca mahā i  sī ti   
-       Then follows udānaṃ in    
-  a  Sc   Culla Niddeso niṭṭhito  Siddhir astu ārogyam astu  
- Gaṅgāya vāḷukā khīye 
+      conclusion cn   
+       sc   catuttho pado  for vaggo  niṭṭhito ca sabbaso 
+ khaggavisāṇa sutta niddeso  
+       t   khaggavisāṇa sutta niddeso niṭṭhito  
+       then in both    enumeration of the    brahmaṇas  as sn  
+                  v l  sc   somako for hemako  pohālo for posālo  
+      om   piṅgiyo ca mahā i  sī ti   
+       then follows udānaṃ in    
+  a  sc   culla niddeso niṭṭhito  siddhir astu ārogyam astu  
+ gaṅgāya vāḷukā khīye 
  udakaṃ khīye mahantaṃ ca 
-  Ime Hemantikā khīye  
- rakkhe namo Buddhassā ti    
+  ime hemantikā khīye  
+ rakkhe namo buddhassā ti    
   
-                                    MS  reads    mahanta  vema hiyāmantikā khīya lakkhe nama buddhiyā  
+                                    ms  reads    mahanta  vema hiyāmantikā khīya lakkhe nama buddhiyā  
   
   page      
- Khaggavisāṇasutta     
+ khaggavisāṇasutta     
   
-  b  T   Solasannam pan  etesaṃ 
+  b  t   solasannam pan  etesaṃ 
  brāhmaṇānaṃ va sāsanaṃ 
-           Pārāyanānaṃ niddeso 
+           pārāyanānaṃ niddeso 
  tattakā ca bhavanti hi 
-           Khaggavisāna suttānaṃ 
+           khaggavisāna suttānaṃ 
  niddesā pi tath  eva ca 
-           Niddessā duvidhā ñeyyā 
+           niddessā duvidhā ñeyyā 
  paripuṇṇā sulikkhitā  
-      Suta Niddeso samatto   
+      suta niddeso samatto   
   
-                                    Note on conclusion   
- Under No     of his catalogue of the Mandalay MSS  in 
- the India Office Library  JPTS        p       Fausboll 
- describes the CṆ  MS  Its conclusion combines parts of 
- that of Sc and that of T    viz    Catuttho vaggo  niṭṭhito ca 
- sabbaso Kh    follows the    brāhmaṇas  as Sn              
- with different spellings of   Upasaṃvo  Upasivo   Catukaṇṇi 
-  Jatu    Posūlo  Posālo   Singiyo  Pingiyo   After this the 
- Udāna of T   solasannaṃ  etc  up to sulikkhitā  then   niṭṭhitā 
- Mahāniddesadesanā  Laṅkadīpa           lines in Burmese   
+                                    note on conclusion   
+ under no     of his catalogue of the mandalay mss  in 
+ the india office library  jpts        p       fausboll 
+ describes the cṇ  ms  its conclusion combines parts of 
+ that of sc and that of t    viz    catuttho vaggo  niṭṭhito ca 
+ sabbaso kh    follows the    brāhmaṇas  as sn              
+ with different spellings of   upasaṃvo  upasivo   catukaṇṇi 
+  jatu    posūlo  posālo   singiyo  pingiyo   after this the 
+ udāna of t   solasannaṃ  etc  up to sulikkhitā  then   niṭṭhitā 
+ mahāniddesadesanā  laṅkadīpa           lines in burmese   
   
   
  

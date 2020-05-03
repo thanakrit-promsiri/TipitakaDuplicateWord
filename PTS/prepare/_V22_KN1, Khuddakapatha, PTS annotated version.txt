@@ -1,88 +1,88 @@
 ﻿ 
   
- Khuddakapatha  
- I  Saranattayam 
- II  Dasasikkhapadam 
- III  Dvattimsakaram 
- IV  Kumarapanham 
- V  Mangalasuttam 
- VI  Ratanasuttam 
- VII  Tirokuddasuttam 
- VIII  Nidhikandasuttam 
- IX  Mettasuttam 
+ khuddakapatha  
+ i  saranattayam 
+ ii  dasasikkhapadam 
+ iii  dvattimsakaram 
+ iv  kumarapanham 
+ v  mangalasuttam 
+ vi  ratanasuttam 
+ vii  tirokuddasuttam 
+ viii  nidhikandasuttam 
+ ix  mettasuttam 
   
   
- Based on the edition Helmer Smith from a collation by Mabel Hunt  
- London   Pali Text Society       Reprinted             
+ based on the edition helmer smith from a collation by mabel hunt  
+ london   pali text society       reprinted             
   
   
- Input by the Dhammakaya Foundation  Thailand            
-  GRETIL Version vom             
+ input by the dhammakaya foundation  thailand            
+  gretil version vom             
   
   
- NOTICE 
- This file is  C  Copyright the Pali Text Society and the Dhammakaya Foundation        
- This work is licensed under a Creative Commons Attribution ShareAlike     International License  
+ notice 
+ this file is  c  copyright the pali text society and the dhammakaya foundation        
+ this work is licensed under a creative commons attribution sharealike     international license  
   
- These files are provided by courtesy of the Pali Text Society for 
+ these files are provided by courtesy of the pali text society for 
  scholarly purposes only  
- In principle they represent a digital edition  without revision or 
- correction  of the printed editions of the complete set of Pali 
- canonical texts published by the PTS  While they have been subject to a 
+ in principle they represent a digital edition  without revision or 
+ correction  of the printed editions of the complete set of pali 
+ canonical texts published by the pts  while they have been subject to a 
  process of checking  it should not be assumed that there is no 
  divergence from the printed editions and it is strongly recommended that 
  they are checked against the printed editions before quoting  
   
   
- ADDITIONAL NOTES 
- Italicized catchwords of the printed edition were already reduced 
- to plain Roman type in the original Dhammakaya file  
- Corrections in braces were already inserted in the original Dhammakaya file  
+ additional notes 
+ italicized catchwords of the printed edition were already reduced 
+ to plain roman type in the original dhammakaya file  
+ corrections in braces were already inserted in the original dhammakaya file  
   
   
- ANNOTATED VERSION IN PTS LAYOUT 
-  
-  
-  
+ annotated version in pts layout 
   
   
   
   
   
- THIS GRETIL TEXT FILE IS FOR REFERENCE PURPOSES ONLY   
- COPYRIGHT AND TERMS OF USAGE AS FOR SOURCE FILE   
   
- Text converted to Unicode  UTF     
-  This file is to be used with a UTF   font and your browsers VIEW configuration  
- set to UTF      
+  
+  
+ this gretil text file is for reference purposes only   
+ copyright and terms of usage as for source file   
+  
+ text converted to unicode  utf     
+  this file is to be used with a utf   font and your browsers view configuration  
+ set to utf      
   
  description  multibyte sequence  
  long a ā 
- long A Ā 
+ long a ā 
  long i ī 
- long I Ī 
+ long i ī 
  long u ū 
- long U Ū 
+ long u ū 
  vocalic r ṛ 
- vocalic R Ṛ 
+ vocalic r ṛ 
  long vocalic r ṝ 
  vocalic l ḷ 
- vocalic L Ḷ 
+ vocalic l ḷ 
  long vocalic l ḹ 
  velar n ṅ 
- velar N Ṅ 
+ velar n ṅ 
  palatal n ñ 
- palatal N Ñ 
+ palatal n ñ 
  retroflex t ṭ 
- retroflex T Ṭ 
+ retroflex t ṭ 
  retroflex d ḍ 
- retroflex D Ḍ 
+ retroflex d ḍ 
  retroflex n ṇ 
- retroflex N Ṇ 
+ retroflex n ṇ 
  palatal s ś 
- palatal S Ś 
+ palatal s ś 
  retroflex s ṣ 
- retroflex S Ṣ 
+ retroflex s ṣ 
  anusvara ṃ 
  visarga ḥ 
  long e ē 
@@ -93,15 +93,15 @@
  k underbar ḵ 
  t underbar ṯ 
   
- Unless indicated otherwise  accents have been dropped in order  
+ unless indicated otherwise  accents have been dropped in order  
  to facilitate word search  
   
- For a comprehensive list of GRETIL encodings and formats see  
+ for a comprehensive list of gretil encodings and formats see  
  http gretil sub uni goettingen degretilgretdiac pdf 
  and 
  http gretil sub uni goettingen degretilgretdias pdf 
   
- For further information see  
+ for further information see  
  http gretil sub uni goettingen degretil htm 
   
   
@@ -111,25 +111,25 @@
   
   
   
- Khuddakapāṭha 
+ khuddakapāṭha 
   
   page      
                                     
-            NAMO TASSA BHAGAVATO ARAHATO SAMMĀSAMBUDDHASSA  
-                           Khuddaka Pāṭha  
-                                  I  
-           Buddhaṃ saraṇaṃ gacchāmi 
+            namo tassa bhagavato arahato sammāsambuddhassa  
+                           khuddaka pāṭha  
+                                  i  
+           buddhaṃ saraṇaṃ gacchāmi 
            dhammaṃ saraṇaṃ gacchāmi 
            saṃghaṃ saraṇaṃ gacchāmi  
-           Dutiyam pi buddhaṃ saraṇaṃ gacchāmi 
+           dutiyam pi buddhaṃ saraṇaṃ gacchāmi 
            dutiyam pi dhammaṃ saraṇaṃ gacchāmi 
            dutiyam pi saṃghaṃ saraṇaṃ gacchāmi  
-           Tatiyam pi buddhaṃ saraṇaṃ gacchāmi 
+           tatiyam pi buddhaṃ saraṇaṃ gacchāmi 
            tatiyam pi dhammaṃ saraṇaṃ gacchāmi 
            tatiyam pi saṃghaṃ saraṇaṃ gacchāmi  
-                             SARAṆATTAYAṂ  
-                                  II  
-         Pāṇātipātā veramaṇī sikkhāpadaṃ samādiyāmi  
+                             saraṇattayaṃ  
+                                  ii  
+         pāṇātipātā veramaṇī sikkhāpadaṃ samādiyāmi  
          adinnādānā veramaṇī sikkhāpadaṃ samādiyāmi  
          abrahmacariyā veramaṇī sikkhāpadaṃ samādiyāmi  
          musāvādā veramaṇī sikkhāpadaṃ samādiyāmi  
@@ -142,206 +142,206 @@
                                                                            
   
   page      
-                               Khuddaka Pāṭha 
+                               khuddaka pāṭha 
           jātarūparajatapaṭiggahaṇā veramaṇī sikkhāpadaṃ 
            samādiyāmi  
-                                DASASIKKHĀPADAṂ  
-                                      III  
-      Atthi imasmiṃ kāye kesā lomā nakhā dantā taco  
+                                dasasikkhāpadaṃ  
+                                      iii  
+      atthi imasmiṃ kāye kesā lomā nakhā dantā taco  
  maṃsaṃ nahāru aṭṭhi aṭṭhimiñjā vakkaṃ  hadayaṃ 
  yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ  antaṃ antaguṇaṃ udariyaṃ karīsaṃ  pittaṃ semhaṃ pubbo lohitaṃ 
  sedo medo  assu vasā kheḷo siṃghāṇikā lasikā muttaṃ  
  matthake matthaluṅgaṃ  
-                                DVATTIṂSĀKĀRAṂ  
-                                      IV  
-      Eka nāma kiṃ   Sabbe sattā āhāraṭṭhitikā  
-      Dve nāma kiṃ  Dve  nāmañ ca rūpañ ca  
-      Tīni nāma kiṃ  Tīṇi  tisso vedanā  
-      Cattāri nāma kiṃ  Cattāri ariyasaccāni  
-      Pañca nāma kiṃ  Pañc upādānakkhandhā  
-      Cha nāma kiṃ  Cha ajjhattikāni āyatanāni  
-      Satta nāma kiṃ  Satta bojjhaṅgā  
-      Aṭṭha nāma kiṃ  Ariyo aṭṭhaṅgiko maggo  
-      Nava nāma kiṃ  Nava sattāvāsā  
-      Dasa nāma kiṃ  Dasah aṅgehi samannāgato arahā ti 
+                                dvattiṃsākāraṃ  
+                                      iv  
+      eka nāma kiṃ   sabbe sattā āhāraṭṭhitikā  
+      dve nāma kiṃ  dve  nāmañ ca rūpañ ca  
+      tīni nāma kiṃ  tīṇi  tisso vedanā  
+      cattāri nāma kiṃ  cattāri ariyasaccāni  
+      pañca nāma kiṃ  pañc upādānakkhandhā  
+      cha nāma kiṃ  cha ajjhattikāni āyatanāni  
+      satta nāma kiṃ  satta bojjhaṅgā  
+      aṭṭha nāma kiṃ  ariyo aṭṭhaṅgiko maggo  
+      nava nāma kiṃ  nava sattāvāsā  
+      dasa nāma kiṃ  dasah aṅgehi samannāgato arahā ti 
            vuccati  
-                                  KUMĀRAPAÑHAṂ  
-                                       V  
-      Evam me sutaṃ  
-      Ekaṃ samayaṃ Bhagavā Sāvatthiyaṃ viharati Jetavane 
- Anāthapiṇḍikassa ārāme  Atha kho aññatarā devatā 
- abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ Jetavanaṃ obhāsetvā yena Bhagavā ten upasaṃkami  upasaṃkamitvā Bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi  
- Ekamantaṃ ṭhitā kho sā devatā Bhagavantam gāthāya 
+                                  kumārapañhaṃ  
+                                       v  
+      evam me sutaṃ  
+      ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane 
+ anāthapiṇḍikassa ārāme  atha kho aññatarā devatā 
+ abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā ten upasaṃkami  upasaṃkamitvā bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi  
+ ekamantaṃ ṭhitā kho sā devatā bhagavantam gāthāya 
  ajjhabhāsi  
-                                                                            This means   consult Commentary   See Preface  
+                                                                            this means   consult commentary   see preface  
   
   
   page      
-                               Khuddaka Pāṭha                        
-       Bahū devā manussā ca maṅgalāni acintayuṃ 
+                               khuddaka pāṭha                        
+       bahū devā manussā ca maṅgalāni acintayuṃ 
       ākaṃkhamānā sotthānaṃ  brūhi maṅgalam uttamaṃ               
-       Asevanā ca bālānaṃ paṇḍitānañ ca sevanā 
+       asevanā ca bālānaṃ paṇḍitānañ ca sevanā 
       pūjā ca pūjaneyyānaṃ  etam maṅgalam uttamaṃ                 
-      Patirūpadesavāso ca pubbe ca katapuññatā 
+      patirūpadesavāso ca pubbe ca katapuññatā 
       attasammāpaṇidhi ca  etam maṅgalam uttamaṃ                  
-      Bāhusaccañ ca sippañ ca vinayo ca susikkhito 
+      bāhusaccañ ca sippañ ca vinayo ca susikkhito 
       subhāsitā ca yā vācā  etam maṅgalam uttamaṃ                 
-      Mātāpitūpaṭṭhānaṃ puttadārassa saṅgaho 
+      mātāpitūpaṭṭhānaṃ puttadārassa saṅgaho 
       anākulā ca kammantā  etam maṅgalam uttamaṃ                  
-      Dānañ ca dhammacariyā ca ñātakānañ ca saṅgaho 
+      dānañ ca dhammacariyā ca ñātakānañ ca saṅgaho 
       anavajjāni kammāni  etam maṅgalam uttamaṃ                   
-       Āratī  viratī pāpā majjapānā ca saññamo 
+       āratī  viratī pāpā majjapānā ca saññamo 
       appamādo ca dhammesu  etam maṅgalam uttamaṃ                 
-      Gāravo ca nivāto ca santuṭṭhī ca kataññutā 
+      gāravo ca nivāto ca santuṭṭhī ca kataññutā 
       kālena dhammasavanaṃ  etam maṅgalam uttamaṃ                 
-      Khantī ca sovacassatā samaṇānañ ca dassanaṃ 
+      khantī ca sovacassatā samaṇānañ ca dassanaṃ 
       kālena dhammasākacchā  etam maṅgalam uttamaṃ                
-      Tapo ca brahmacariyañ ca ariyasaccānā  dassanaṃ 
+      tapo ca brahmacariyañ ca ariyasaccānā  dassanaṃ 
       nibbānasacchikiriyā ca  etam maṅgalam uttamaṃ               
-      Phuṭṭhassa lokadhammehi cittaṃ yassa na kampati 
+      phuṭṭhassa lokadhammehi cittaṃ yassa na kampati 
       asokaṃ virajaṃ khemaṃ  etam maṅgalam uttamaṃ                
- Etādisāni katvāna sabbattha m aparājitā 
+ etādisāni katvāna sabbattha m aparājitā 
  sabbattha sotthiṃ  gacchanti  taṃ tesaṃ maṅgalam 
  uttamaṃ                                                         
-                            MAṄGALASUTTAṂ NIṬṬHITAṂ  
-                                       VI  
-      Yānīdha bhūtāni samāgatāni 
+                            maṅgalasuttaṃ niṭṭhitaṃ  
+                                       vi  
+      yānīdha bhūtāni samāgatāni 
       bhummāni vā yāni va antalikkhe  
       sabbe va bhūtā sumanā bhavantu 
       atho pi sakkacca suṇantu bhāsitaṃ                      
-      Tasmā hi bhūtā nisāmetha sabbe 
+      tasmā hi bhūtā nisāmetha sabbe 
       mettaṃ karotha mānusiyā  pajāya  
       divā ca ratto ca haranti ye baliṃ  
       tasmā hi ne rakkhatha appamattā                        
-      Yaṃ kiñci vittam idha vā huraṃ vā 
+      yaṃ kiñci vittam idha vā huraṃ vā 
                                                                            
   
   page      
-                                  Khuddaka Pāṭha 
+                                  khuddaka pāṭha 
       saggesu vā yaṃ ratanaṃ paṇītaṃ 
-      na no samaṃ atthi Tathāgatena        idam pi Buddhe ratanaṃ paṇītaṃ  
+      na no samaṃ atthi tathāgatena        idam pi buddhe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                            
-      Khayaṃ virāgaṃ amataṃ paṇītaṃ 
-      yad ajjhagā Sakyamunī samāhito  
-      na tena dhammena sam atthi kiñci        idam pi Dhamme ratanaṃ paṇītaṃ  
+      khayaṃ virāgaṃ amataṃ paṇītaṃ 
+      yad ajjhagā sakyamunī samāhito  
+      na tena dhammena sam atthi kiñci        idam pi dhamme ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                            
-      Yam buddhaseṭṭho parivaṇṇayī suciṃ 
+      yam buddhaseṭṭho parivaṇṇayī suciṃ 
       samādhim ānantarikañ ñam āhu  
-      samādhinā tena samo na vijjati        idam pi Dhamme ratanam paṇītaṃ  
+      samādhinā tena samo na vijjati        idam pi dhamme ratanam paṇītaṃ  
       etena saccena suvatthi hotu                            
-      Ye puggalā aṭṭha satam  pasatthā  
+      ye puggalā aṭṭha satam  pasatthā  
       cattāri etāni yugāni honti  
-      te dakkhiṇeyyā Sugatassa sāvakā  
-      etesu dinnāni mahapphalāni        idam pi Saṃghe ratanaṃ paṇītaṃ  
+      te dakkhiṇeyyā sugatassa sāvakā  
+      etesu dinnāni mahapphalāni        idam pi saṃghe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                            
-      Ye suppayuttā manasā daḷhena 
-      nikkāmino Gotamasāsanamhi  
+      ye suppayuttā manasā daḷhena 
+      nikkāmino gotamasāsanamhi  
       te pattipattā amataṃ vigayha 
-      laddhā mudhā nibbutiṃ bhuñjamānā        idam pi Saṃghe ratanaṃ paṇītaṃ  
+      laddhā mudhā nibbutiṃ bhuñjamānā        idam pi saṃghe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                            
-      Yath indakhīlo paṭhaviṃ sito siyā 
+      yath indakhīlo paṭhaviṃ sito siyā 
       catubbhi vātehi asampakampiyo  
       tathūpamaṃ sappurisaṃ vadāmi  
-      yo ariyasaccāni avecca passati        idam pi Saṃghe ratanaṃ paṇītaṃ  
+      yo ariyasaccāni avecca passati        idam pi saṃghe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                            
-      Ye ariyasaccāni vibhāvayanti 
+      ye ariyasaccāni vibhāvayanti 
       gambhīrapaññena sudesitāni  
       kiñcāpi te honti bhusappamattā  
-      na te bhavaṃ aṭṭhamaṃ ādiyanti        idam pi Saṃghe ratanaṃ paṇītaṃ  
+      na te bhavaṃ aṭṭhamaṃ ādiyanti        idam pi saṃghe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                            
                                                                            
   
   page      
-                               Khuddaka Pāṭha                        
-      Sahā v assa dassanasampadāya 
+                               khuddaka pāṭha                        
+      sahā v assa dassanasampadāya 
       tayas su dhammā jahitā bhavanti  
       sakkāyadiṭṭhi vicikicchitañ ca 
       sīlabbataṃ vā pi yad atthi kiñci 
       catūh apāyehi ca vippamutto 
-      cha cābhiṭhānāni abhabbo kātuṃ        idam pi Saṃghe ratanaṃ paṇītaṃ  
+      cha cābhiṭhānāni abhabbo kātuṃ        idam pi saṃghe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                             
-      Kiñcāpi so kammaṃ karoti pāpakaṃ 
+      kiñcāpi so kammaṃ karoti pāpakaṃ 
       kāyena vācā uda cetasā vā  
       abhabbo so tassa paṭicchādāya  
-      abhabbatā diṭṭhapadassa vuttā        idam pi Saṃghe ratanaṃ paṇītaṃ  
+      abhabbatā diṭṭhapadassa vuttā        idam pi saṃghe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                             
-      Vanappagumbe yathā phussitagge 
+      vanappagumbe yathā phussitagge 
       gimhāna māse paṭhamasmiṃ gimhe  
       tathūpamaṃ dhammavaraṃ adesayi 
-      nibbānagāmiṃ paramaṃhitāya        idam pi Buddhe ratanam paṇītaṃ  
+      nibbānagāmiṃ paramaṃhitāya        idam pi buddhe ratanam paṇītaṃ  
       etena saccena suvatthi hotu                             
-      Varo varaññū varado varāharo 
-      anuttaro dhammavaraṃ adesayi        idam pi Buddhe ratanaṃ paṇītaṃ  
+      varo varaññū varado varāharo 
+      anuttaro dhammavaraṃ adesayi        idam pi buddhe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                             
-      Khīṇaṃ purāṇaṃ  navaṃ n atthi sambhavaṃ 
+      khīṇaṃ purāṇaṃ  navaṃ n atthi sambhavaṃ 
       virattacittā āyatike bhavasmiṃ 
       te khīṇabījā avirūḷhichandā 
-      nibbanti dhīrā yathāyam padīpo        idam pi Saṃghe ratanaṃ paṇītaṃ  
+      nibbanti dhīrā yathāyam padīpo        idam pi saṃghe ratanaṃ paṇītaṃ  
       etena saccena suvatthi hotu                             
-      Yānīdha bhūtāni samāgatāni 
+      yānīdha bhūtāni samāgatāni 
       bhummāni vā yāni va antalikkhe  
       tathāgataṃ devamanussapūjitaṃ 
-      Buddhaṃ namassāma  suvatthi hotu                        
-      Yānīdha bhūtāni samāgatāni 
+      buddhaṃ namassāma  suvatthi hotu                        
+      yānīdha bhūtāni samāgatāni 
       bhummāni vā yāni va antalikkhe  
       tathāgataṃ devamanussapūjitaṃ 
                                                                            
   
   page      
-                               Khuddaka Pāṭha 
-      Dhammaṃ namassāma  suvatthi hotu                        
-      Yānīdha bhūtāni samāgatāni 
+                               khuddaka pāṭha 
+      dhammaṃ namassāma  suvatthi hotu                        
+      yānīdha bhūtāni samāgatāni 
       bhummāni vā yāni va antalikkhe  
       tathāgataṃ devamanussapūjitaṃ 
-      Saṃghaṃ namassāma  suvatthi hotu                        
-                             RATANASUTTAṂ NIṬṬHITAṂ  
-                                      VII  
-      Tiro kuḍḍesu tiṭṭhanti sandhisiṃghāṭakesu ca 
+      saṃghaṃ namassāma  suvatthi hotu                        
+                             ratanasuttaṃ niṭṭhitaṃ  
+                                      vii  
+      tiro kuḍḍesu tiṭṭhanti sandhisiṃghāṭakesu ca 
       dvārabāhāsu tiṭṭhanti āgantvāna sakaṃ gharaṃ                 
       pahūte  annapānamhi khajjabhojje upaṭṭhite 
       na tesaṃ koci sarati sattānaṃ kammapaccayā                   
-      Evaṃ dadanti ñātīnaṃ ye honti anukampakā 
+      evaṃ dadanti ñātīnaṃ ye honti anukampakā 
       suciṃ paṇītaṃ kālena kappiyaṃ pānabhojanaṃ                   
       idaṃ vo ñātinaṃ hotu  sukhitā hontu ñātayo  
-      Te ca tattha samāgantvā ñātipetā samāgatā                    
+      te ca tattha samāgantvā ñātipetā samāgatā                    
       pahūte annapānamhi sakkaccaṃ anumodare  
       ciraṃ jīvantu no ñātī  yesaṃ hetu labhāmase                 
       amhākañ ca katā pūjā dāyakā ca anipphalā  
-      Na hi tattha kasī atthi  gorakkh ettha na vijjati           
+      na hi tattha kasī atthi  gorakkh ettha na vijjati           
       vaṇijjā tādisī n atthi hiraññena kayakkayaṃ  
       ito dinnena yāpenti petā kālagatā  tahiṃ                     
-      Unname udakaṃ vaṭṭaṃ yathā ninnaṃ pavattati  
+      unname udakaṃ vaṭṭaṃ yathā ninnaṃ pavattati  
       evam eva ito dinnaṃ petānaṃ upakappati                       
-      Yathā vārivahā pūrā paripūrenti sāgaraṃ  
+      yathā vārivahā pūrā paripūrenti sāgaraṃ  
       evam eva ito dinnaṃ petānaṃ upakappati                       
-      Adāsi me  akāsi me  ñātimittā sakhā ca me 
+      adāsi me  akāsi me  ñātimittā sakhā ca me 
       petānaṃ dakkhiṇaṃ  dajjā pubbe katam anussaraṃ               
-      Na hi ruṇṇaṃ vā soko vā yā c aññā paridevanā  
+      na hi ruṇṇaṃ vā soko vā yā c aññā paridevanā  
       na taṃ petānaṃ atthāya  evaṃ tiṭṭhanti ñātayo                
-      Ayañ ca kho dakkhiṇā dinnā saṃghamhi suppatiṭṭhitā 
+      ayañ ca kho dakkhiṇā dinnā saṃghamhi suppatiṭṭhitā 
       dīgharattaṃ hitāy assa ṭhānaso upakappati                   
-      So ñātidhammo ca ayaṃ nidassito  
+      so ñātidhammo ca ayaṃ nidassito  
       petānaṃ pūjā ca katā uḷārā  
       balañ ca bhikkhūnam anuppadinnaṃ  
       tumhehi puññaṃ pasutaṃ anappakaṃ                             
-                           TIROKUḌḌASUTTAṂ NIṬṬHITAṂ  
+                           tirokuḍḍasuttaṃ niṭṭhitaṃ  
                                                                            
   
   page      
-                         Khuddaka Pāṭha                              
-                               VIII  
-      Nidhiṃ nidheti puriso gambhīre odakantike  
+                         khuddaka pāṭha                              
+                               viii  
+      nidhiṃ nidheti puriso gambhīre odakantike  
       atthe kicce samuppanne atthāya me bhavissati                
       rājato vā duruttassa corato pīḷitassa vā  
       iṇassa vā pamokkhāya  dubbhikkhe āpadāsu vā  
       etadatthāya lokasmiṃ nidhi nāma nidhīyate                    
-      Tāva sunihito santo gambhīre odakantike 
+      tāva sunihito santo gambhīre odakantike 
       na sabbo sabbadā eva tassa taṃ upakappati                    
       nidhī vā ṭhānā cavati  saññā vāssa vimuyhati  
       nāgā vā apanāmenti yakkhā vā pi haranti naṃ                  
       appiyā vā pi dāyādā uddharanti apassato  
       yadā puññakkhayo hoti  sabbam etaṃ vinassati                 
-      Yassa dānena sīlena saṃyamena damena ca 
+      yassa dānena sīlena saṃyamena damena ca 
       nidhī sunihito hoti itthiyā purisassa vā                     
       cetiyamhi va saṃghe vā puggale atithīsu vā 
       mātari pitari vā pi atho jeṭṭhamhi bhātari                   
@@ -349,7 +349,7 @@
       pahāya gamanīyesu etaṃ ādāya gacchati                        
       asādhāraṇam aññesaṃ   acorāharaṇo nidhi  
       kayirātha dhīro puññāni  yo nidhi anugāmiko                  
-      Esa devamanussānaṃ sabbakāmadado nidhi  
+      esa devamanussānaṃ sabbakāmadado nidhi  
       yaṃ yad evābhipatthenti  sabbam etena labbhati               
       suvaṇṇatā sussaratā susaṇṭhānasurūpatā 
       ādhipaccaparivāro   sabbam etena labbhati                    
@@ -363,13 +363,13 @@
       paccekabodhi buddhabhūmi  sabbam etena labbhati              
       evaṃ mahatthikā  esā yadidaṃ puññasampadā  
       tasmā dhīrā pasaṃsanti paṇḍitā katapuññataṃ                  
-                           NIDHIKAṆḌASUTTAṂ NIṬṬHITAṂ  
+                           nidhikaṇḍasuttaṃ niṭṭhitaṃ  
                                                                            
   
   page      
-                            Khuddaka Pāṭha 
-                                       IX  
-      Karaṇīyam atthakusalena 
+                            khuddaka pāṭha 
+                                       ix  
+      karaṇīyam atthakusalena 
       yan taṃ santaṃ padaṃ abhisamecca 
       sakko ujū ca sūjū ca 
       suvaco c assa mudu anatimānī                           
@@ -379,7 +379,7 @@
       appagabbho kulesu ananugiddho                           
       na ca khuddaṃ samācare kiñci 
       yena viññū pare upavadeyyuṃ  
-      Sukhino vā khemino hontu 
+      sukhino vā khemino hontu 
       sabbe sattā bhavantu sukhitattā                         
       ye keci pāṇabhūt atthi 
       tasā vā thāvarā vā anavasesā 
@@ -389,30 +389,30 @@
       ye ca dūre vasanti avidūre  
       bhūtā vā sambhavesī vā  
       sabbe sattā bhavantu sukhitattā                         
-      Na paro paraṃ nikubbetha  
+      na paro paraṃ nikubbetha  
       nātimaññetha katthacinaṃ  kañci  
       vyārosanā paṭighasaññā 
       nāññamaññassa dukkham iccheyya                          
-      Mātā yathā niyaṃ puttaṃ 
+      mātā yathā niyaṃ puttaṃ 
       āyusā ekaputtam anurakkhe  
       evam pi sabbabhūtesu 
       mānasam bhāvaye aparimāṇaṃ                              
-      Mettañ ca sabbalokasmiṃ 
+      mettañ ca sabbalokasmiṃ 
       mānasam bhāvaye aparimāṇaṃ 
       uddhaṃ adho ca tiriyañ ca 
       asambādhaṃ averaṃ asapattaṃ                             
-      Tiṭṭhaṃ caraṃ nisinno vā 
+      tiṭṭhaṃ caraṃ nisinno vā 
       sayāno vā yāvat assa vigatamiddho  
       etaṃ satiṃ adhiṭṭheyya  
       brahmam etaṃ vihāraṃ idha m āhu                         
                                                                            
   
   page      
-                           Khuddaka Pāṭha                            
-      Diṭṭhiñ ca anupagamma 
+                           khuddaka pāṭha                            
+      diṭṭhiñ ca anupagamma 
       sīlavā dassanena sampanno 
       kāmesu vineyya gedhaṃ 
       na hi jātu gabbhaseyyaṃ punar eti                       
-                             METTASUTTAṂ NIṬṬHITAṂ  
-                       KHUDDAKAPĀṬHAPPAKARAṆAṂ NIṬṬHITAṂ  
+                             mettasuttaṃ niṭṭhitaṃ  
+                       khuddakapāṭhappakaraṇaṃ niṭṭhitaṃ  
                                                                           
