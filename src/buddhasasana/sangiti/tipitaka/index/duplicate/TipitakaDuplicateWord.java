@@ -15,7 +15,7 @@ import java.util.TreeMap;
 public class TipitakaDuplicateWord {
 
     //public static final String FILEREPO = "tipitaka";
-    public static final String FILEREPO = "THAISIAM";
+    public static final String FILEREPO = "tp_thai_ms";
     public static final String PREPARE = "/prepare";
     public static final String OUTPUT = "/output";
     public static final String INPUT = "/input";
@@ -50,7 +50,7 @@ public class TipitakaDuplicateWord {
             String path = FILEREPO + INPUT + "/" + file;
             String txt = this.getFile(path);
             this.processPrepare(txt.toLowerCase(), file);
-            System.out.println(path);
+            //System.out.println(path);
         }
     }
 
@@ -135,14 +135,30 @@ public class TipitakaDuplicateWord {
         for (String txtConf : txtConfList) {
             if (!txtConf.equalsIgnoreCase("")) {
                 if (FINSERTSPACE.equalsIgnoreCase(flagReplace)) {
-                    txt = txt.replaceAll(txtConf, " " + txtConf + " ");
-                    System.err.println(txtConf);
+                    // txt = txt.replaceAll(txtConf, " " + txtConf + " ");
+                    txt = this.textReplaceSpace(txt, txtConf);
+//                    System.err.println(txtConf);
                 } else {
                     txt = txt.replaceAll(txtConf, replacement);
                 }
             }
         }
         return txt;
+    }
+
+    public String textReplaceSpace(String txt, String txtConf) {
+        String[] strArr = txtConf.split("@");
+        if (strArr.length > 1) {
+            String align = strArr[1];
+            if ("L".equalsIgnoreCase(align)) {
+                return txt.replaceAll(strArr[0], " " + strArr[0]);
+            } else {
+                return txt.replaceAll(strArr[0], strArr[0] + " ");
+            }
+        } else {
+            return txt.replaceAll(txtConf, " " + txtConf + " ");
+
+        }
     }
 
     public List<String> textSplitLine(String str) {
