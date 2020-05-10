@@ -15,7 +15,7 @@ import java.util.TreeMap;
 public class TipitakaDuplicateWord {
 
     //public static final String FILEREPO = "tipitaka";
-    public static final String FILEREPO = "tp_thai_ms";
+    public static final String FILEREPO = "THAIMAHACULA";
     public static final String PREPARE = "/prepare";
     public static final String OUTPUT = "/output";
     public static final String INPUT = "/input";
@@ -64,7 +64,7 @@ public class TipitakaDuplicateWord {
                 csv.append(key).append(",").append(value).append(",").append(key.length()).append("\n");
             }
         }
-        this.writeUsingFiles(csv.toString(), FILEREPO + OUTPUT + "/summary.csv");
+        this.writeUsingFiles(csv.toString().toLowerCase(), FILEREPO + OUTPUT + "/summary.csv");
     }
 
     public void processMapReducePrepare() {
