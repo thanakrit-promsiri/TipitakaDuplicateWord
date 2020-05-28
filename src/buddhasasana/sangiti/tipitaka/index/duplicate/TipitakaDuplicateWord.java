@@ -15,7 +15,7 @@ import java.util.TreeMap;
 public class TipitakaDuplicateWord {
 
     //public static final String FILEREPO = "tipitaka";
-    public static final String FILEREPO = "THAIMAHACULA";
+    public static final String FILEREPO = "CN";
     public static final String PREPARE = "/prepare";
     public static final String OUTPUT = "/output";
     public static final String INPUT = "/input";
